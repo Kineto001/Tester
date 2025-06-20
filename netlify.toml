@@ -1,18 +1,24 @@
-# netlify.toml
+# netlify.toml (Corrected Version)
+
+# [build] section defines how to build your site.
 [build]
-  # This is the folder Netlify will serve as your static site.
-  # We moved index.html and your other assets here.
+  # This tells Netlify your published site is in the "static" folder.
   publish = "static/"
-  
+
+# [functions] section configures your serverless functions.
 [functions]
-  # This tells Netlify where to find your serverless functions.
+  # This tells Netlify where your Python function source files live.
   directory = "netlify/functions/"
+
+# This special table applies settings to ALL functions in the directory.
+# The "*" is a wildcard. This is where runtime settings like 'timeout' go.
+[functions."*"]
   # CRITICAL: Increase timeout for AI calls. The default of 10s is often too short.
   timeout = 25
-
-# This is the magic part. It rewrites requests from the frontend
-# (e.g., /api/generate-test) to execute the correct serverless function.
+  
+# [[redirects]] section handles URL rewriting.
 [[redirects]]
+  # This rule directs all traffic from /api/... to your functions.
   from = "/api/*"
   to = "/.netlify/functions/:splat"
   status = 200
