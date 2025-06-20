@@ -1,11 +1,9 @@
-# netlify.toml (Corrected Version)
+# netlify.toml (FINAL CORRECTED VERSION)
 
-# [build] section defines how to build your site.
 [build]
   # This tells Netlify your published site is in the "static" folder.
   publish = "static/"
 
-# [functions] section configures your serverless functions.
 [functions]
   # This tells Netlify where your Python function source files live.
   directory = "netlify/functions/"
@@ -13,12 +11,14 @@
 # This special table applies settings to ALL functions in the directory.
 # The "*" is a wildcard. This is where runtime settings like 'timeout' go.
 [functions."*"]
-  # CRITICAL: Increase timeout for AI calls. The default of 10s is often too short.
+  # Increase timeout for AI calls. The default of 10s is often too short.
   timeout = 25
+  # CRITICAL: This tells Netlify to package the entire 'source_material' folder
+  # along with every function that gets deployed.
+  included_files = ["source_material/**"]
   
-# [[redirects]] section handles URL rewriting.
+# This rule directs all traffic from /api/... to your functions.
 [[redirects]]
-  # This rule directs all traffic from /api/... to your functions.
   from = "/api/*"
   to = "/.netlify/functions/:splat"
   status = 200
