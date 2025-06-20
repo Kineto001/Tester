@@ -1,5 +1,0 @@
-# requirements.txt
-Flask
-google-generativeai
-python-dotenv
-serverless-wsgi
