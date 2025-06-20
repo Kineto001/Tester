@@ -1,0 +1,18 @@
+# netlify.toml
+[build]
+  # This is the folder Netlify will serve as your static site.
+  # We moved index.html and your other assets here.
+  publish = "static/"
+  
+[functions]
+  # This tells Netlify where to find your serverless functions.
+  directory = "netlify/functions/"
+  # CRITICAL: Increase timeout for AI calls. The default of 10s is often too short.
+  timeout = 25
+
+# This is the magic part. It rewrites requests from the frontend
+# (e.g., /api/generate-test) to execute the correct serverless function.
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
