@@ -2,7 +2,7 @@
 import os
 from flask import jsonify
 from serverless_wsgi import handle
-from .shared_app import app # Import the shared app
+from .shared_app import app
 
 # --- CONFIGURATION ---
 SOURCE_MATERIAL_FOLDER = "source_material" 
@@ -21,7 +21,7 @@ def get_structure():
     base_path = os.path.join(project_root, SOURCE_MATERIAL_FOLDER)
     
     if not os.path.isdir(base_path):
-        return jsonify({"error": f"Base folder '{base_path}' not found."}), 404
+        return jsonify({"error": f"Base folder '{base_path}' not found. Check if 'included_files' is set in netlify.toml."}), 404
         
     for subject_key, subject_folder in SUBJECT_MAPPING.items():
         subject_path = os.path.join(base_path, subject_folder)
