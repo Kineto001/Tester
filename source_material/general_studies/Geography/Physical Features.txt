@@ -1,0 +1,573 @@
+Overall Topic for Question Generation: Earth Physical Features (Geography)
+மொத்த தலைப்பு: புவி புற அம்சங்கள் (புவியியல்)
+
+---
+
+**1. Assertion and Reason Questions (6 questions) / கூற்று மற்றும் காரணம் கேள்விகள் (6 கேள்வίες):**
+
+**General Options for Assertion and Reason Questions:**
+a) Both A and R are true, and R is the correct explanation of A. / அ) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / ஆ) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / இ) A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / ஈ) A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / உ) A மற்றும் R இரண்டும் தவறு.
+
+---
+
+1.  **Assertion (A):** The Himalayas are young fold mountains.
+    **Reason (R):** They were formed by the collision of the Indian plate and the Eurasian plate.
+
+    **கூற்று (A):** இமயமலை ஒரு இளம் மடிப்பு மலை ஆகும்.
+    **காரணம் (R):** இது இந்தியத் தட்டு மற்றும் யுரேசியத் தட்டு ஆகியவற்றின் மோதலால் உருவானது.
+
+    a) Both A and R are true, and R is the correct explanation of A. / அ) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+    b) Both A and R are true, but R is not the correct explanation of A. / ஆ) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+    c) A is true, but R is false. / இ) A சரி, ஆனால் R தவறு.
+    d) A is false, but R is true. / ஈ) A தவறு, ஆனால் R சரி.
+    e) Both A and R are false. / உ) A மற்றும் R இரண்டும் தவறு.
+    **Answer: a**
+    **விடை: அ**
+
+2.  **Assertion (A):** Deltas are fertile lands suitable for agriculture.
+    **Reason (R):** Deltas are formed by the deposition of sediments carried by rivers at their mouth.
+
+    **கூற்று (A):** டெல்டாக்கள் விவசாயத்திற்கு ஏற்ற வளமான நிலங்கள்.
+    **காரணம் (R):** டெல்டாக்கள் ஆறுகளால் முகத்துவாரத்தில் கொண்டு வந்து படியவைக்கப்படும் வண்டல் படிவுகளால் உருவாகின்றன.
+
+    a) Both A and R are true, and R is the correct explanation of A. / அ) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+    b) Both A and R are true, but R is not the correct explanation of A. / ஆ) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+    c) A is true, but R is false. / இ) A சரி, ஆனால் R தவறு.
+    d) A is false, but R is true. / ஈ) A தவறு, ஆனால் R சரி.
+    e) Both A and R are false. / உ) A மற்றும் R இரண்டும் தவறு.
+    **Answer: a**
+    **விடை: அ**
+
+3.  **Assertion (A):** Subtropical deserts are often found on the western margins of continents.
+    **Reason (R):** Prevailing trade winds in these regions blow offshore, carrying moisture away from the land.
+
+    **கூற்று (A):** ಉಪೋಷ್ಣವಲಯದ ಮರುಭೂಮಿಗಳು ಹೆಚ್ಚಾಗಿ ಖಂಡಗಳ ಪಶ್ಚಿಮ ಅಂಚುಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ. (Tamil: அயன மண்டல பாலைவனங்கள் பெரும்பாலும் கண்டங்களின் மேற்கு ஓரங்களில் காணப்படுகின்றன.)
+    **காரணம் (R):** இப்பகுதிகளில் வீசும் வியாபாரக் காற்றுக்கள் கடற்கரையிலிருந்து விலகி வீசுவதால், நிலத்திலிருந்து ஈரப்பதத்தை எடுத்துச் செல்கின்றன.
+
+    a) Both A and R are true, and R is the correct explanation of A. / அ) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+    b) Both A and R are true, but R is not the correct explanation of A. / ஆ) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+    c) A is true, but R is false. / இ) A சரி, ஆனால் R தவறு.
+    d) A is false, but R is true. / ஈ) A தவறு, ஆனால் R சரி.
+    e) Both A and R are false. / உ) A மற்றும் R இரண்டும் தவறு.
+    **Answer: a**
+    **விடை: அ**
+
+4.  **Assertion (A):** The Hawaiian Islands are a chain of volcanic islands.
+    **Reason (R):** They are formed over a mantle plume or hotspot.
+
+    **கூற்று (A):** ஹவாய் தீவுகள் எரிமலைத் தீவுகளின் சங்கிலித் தொடராகும்.
+    **காரணம் (R):** அவை ஒரு கவசப் படலக் கசிவு அல்லது வெப்பப் புள்ளிக்கு மேலே உருவாகின்றன.
+
+    a) Both A and R are true, and R is the correct explanation of A. / அ) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+    b) Both A and R are true, but R is not the correct explanation of A. / ஆ) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+    c) A is true, but R is false. / இ) A சரி, ஆனால் R தவறு.
+    d) A is false, but R is true. / ஈ) A தவறு, ஆனால் R சரி.
+    e) Both A and R are false. / உ) A மற்றும் R இரண்டும் தவறு.
+    **Answer: a**
+    **விடை: அ**
+
+5.  **Assertion (A):** Sea cliffs are formed due to erosional activity of sea waves.
+    **Reason (R):** Sea waves continuously strike the rocks at the base of the coast.
+
+    **கூற்று (A):** கடல் அலைகளின் அரித்தல் செயலால் கடல் ஓங்கல்கள் உருவாகின்றன.
+    **காரணம் (R):** கடல் அலைகள் கடற்கரையின் அடிப்பகுதியில் உள்ள பாறைகளைத் தொடர்ந்து தாக்குகின்றன.
+
+    a) Both A and R are true, and R is the correct explanation of A. / அ) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+    b) Both A and R are true, but R is not the correct explanation of A. / ஆ) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+    c) A is true, but R is false. / இ) A சரி, ஆனால் R தவறு.
+    d) A is false, but R is true. / ஈ) A தவறு, ஆனால் R சரி.
+    e) Both A and R are false. / உ) A மற்றும் R இரண்டும் தவறு.
+    **Answer: a**
+    **விடை: அ**
+
+6.  **Assertion (A):** The Deccan Plateau in India is an example of a lava plateau.
+    **Reason (R):** It was formed by the solidification of lava that erupted from fissures.
+
+    **கூற்று (A):** இந்தியாவில் உள்ள தக்காண பீடபூமி ஒரு எரிமலைக் குழம்பு பீடபூமிக்கு உதாரணமாகும்.
+    **காரணம் (R):** இது பிளவுகளிலிருந்து வெளிவந்த எரிமலைக் குழம்பு திடமானதால் உருவானது.
+
+    a) Both A and R are true, and R is the correct explanation of A. / அ) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+    b) Both A and R are true, but R is not the correct explanation of A. / ஆ) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+    c) A is true, but R is false. / இ) A சரி, ஆனால் R தவறு.
+    d) A is false, but R is true. / ஈ) A தவறு, ஆனால் R சரி.
+    e) Both A and R are false. / உ) A மற்றும் R இரண்டும் தவறு.
+    **Answer: a**
+    **விடை: அ**
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions) / தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியும் கேள்விகள் (6 கேள்விகள்):**
+
+---
+
+7.  Identify the wrongly matched pair: / தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Fold Mountain - Himalayas / மடிப்பு மலை - இமயமலை
+    b) Block Mountain - Vosges / பிண்ட மலை - வோஸ்ஜஸ்
+    c) Volcanic Mountain - Mount Fuji / எரிமலை மலை - புஜி மலை
+    d) Residual Mountain - Andes / எஞ்சிய மலை - ஆண்டிஸ்
+    **Answer: d (Andes are Fold Mountains. Aravallis are Residual Mountains) / விடை: ஈ (ஆண்டிஸ் மடிப்பு மலைகள். ஆரவல்லி எஞ்சிய மலைகள்)**
+
+8.  Identify the wrongly matched pair: / தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Ganga - Gangotri Glacier / கங்கை - கங்கோத்ரி பனியாறு
+    b) Nile - Lake Victoria / நைல் - விக்டோரியா ஏரி
+    c) Amazon - Andes Mountains / அமேசான் - ஆண்டிஸ் மலைகள்
+    d) Volga - Black Sea / வோல்கா - கருங்கடல்
+    **Answer: d (Volga drains into Caspian Sea) / விடை: ஈ (வோல்கா காஸ்பியன் கடலில் கலக்கிறது)**
+
+9.  Identify the wrongly matched pair: / தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Sahara - Africa / சஹாரா - ஆப்பிரிக்கா
+    b) Gobi - Asia / கோபி - ஆசியா
+    c) Atacama - Australia / அடகாமா - ஆஸ்திரேலியா
+    d) Kalahari - Africa / கலஹாரி - ஆப்பிரிக்கா
+    **Answer: c (Atacama - South America) / விடை: இ (அடகாமா - தென் அமெரிக்கா)**
+
+10. Identify the wrongly matched pair: / தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Freshwater Lake - Lake Superior / நன்னீர் ஏரி - சுப்பீரியர் ஏரி
+    b) Saltwater Lake - Caspian Sea / உப்பு நீர் ஏரி - காஸ்பியன் கடல்
+    c) Crater Lake - Lake Toba / எரிமலைவாய் ஏரி - டோபா ஏரி
+    d) Oxbow Lake - Lake Baikal / குதிரை இலாட ஏரி - பைக்கால் ஏரி
+    **Answer: d (Lake Baikal is a rift valley lake) / விடை: ஈ (பைக்கால் ஏரி ஒரு பிளவுப் பள்ளத்தாக்கு ஏரி)**
+
+11. Identify the wrongly matched pair: / தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Gulf Stream - Warm Current / கல்ஃப் நீரோட்டம் - வெப்ப நீரோட்டம்
+    b) Labrador Current - Cold Current / லாப்ரடார் நீரோட்டம் - குளிர் நீரோட்டம்
+    c) Kuroshio Current - Cold Current / குரோஷியோ நீரோட்டம் - குளிர் நீரோட்டம்
+    d) Benguela Current - Cold Current / பெங்குலா நீரோட்டம் - குளிர் நீரோட்டம்
+    **Answer: c (Kuroshio Current is a Warm Current) / விடை: இ (குரோஷியோ நீரோட்டம் ஒரு வெப்ப நீரோட்டம்)**
+
+12. Identify the wrongly matched pair: / தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Moraine - Glacier / மொரைன் - பனியாறு
+    b) Sand Dune - Wind / மணற்குன்று - காற்று
+    c) Delta - River / டெல்டா - ஆறு
+    d) Stalactite - Sea Wave / குகைவளர் தூண் - கடல் அலை
+    **Answer: d (Stalactite - Groundwater action in caves) / விடை: ஈ (குகைவளர் தூண் - குகைகளில் நிலத்தடி நீர் செயல்பாடு)**
+
+---
+
+**3. Match the Following Questions (6 questions) / பொருத்துக கேள்விகள் (6 கேள்விகள்):**
+
+---
+
+13. Match List-I with List-II: / பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    List-I (Peak) / பட்டியல்-I (சிகரம்)
+    1. Mount Everest / எவரெஸ்ட் சிகரம்
+    2. Mount Kilimanjaro / கிளிமஞ்சாரோ மலை
+    3. Mount McKinley (Denali) / மெக்கின்லி மலை (டெனெலி)
+    4. Mount Elbrus / எல்ப்ரஸ் மலை
+
+    List-II (Continent) / பட்டியல்-II (கண்டம்)
+    a. Africa / ஆப்பிரிக்கா
+    b. North America / வட அமெரிக்கா
+    c. Europe / ஐரோப்பா
+    d. Asia / ஆசியா
+
+    Options: / தெரிவுகள்:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-a, 2-d, 3-c, 4-b
+    C) 1-d, 2-b, 3-a, 4-c
+    D) 1-c, 2-a, 3-d, 4-b
+    **Answer: A**
+    **விடை: A**
+
+14. Match List-I with List-II: / பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    List-I (River) / பட்டியல்-I (ஆறு)
+    1. Nile / நைல்
+    2. Amazon / அமேசான்
+    3. Yangtze / யாங்சே
+    4. Ob / ஓப்
+
+    List-II (Drains into) / பட்டியல்-II (கலக்கும் இடம்)
+    a. Arctic Ocean / ஆர்க்டிக் பெருங்கடல்
+    b. Atlantic Ocean / அட்லாண்டிக் பெருங்கடல்
+    c. Mediterranean Sea / மத்தியதரைக் கடல்
+    d. Pacific Ocean / பசிபிக் பெருங்கடல்
+
+    Options: / தெரிவுகள்:
+    A) 1-c, 2-b, 3-d, 4-a
+    B) 1-b, 2-c, 3-a, 4-d
+    C) 1-c, 2-d, 3-b, 4-a
+    D) 1-a, 2-b, 3-d, 4-c
+    **Answer: A** (Yangtze drains into East China Sea, which is part of Pacific Ocean)
+    **விடை: A** (யாங்சே கிழக்கு சீனக் கடலில் கலக்கிறது, இது பசிபிக் பெருங்கடலின் ஒரு பகுதியாகும்)
+
+15. Match List-I with List-II: / பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    List-I (Waterfall) / பட்டியல்-I (நீர்வீழ்ச்சி)
+    1. Angel Falls / ஏஞ்சல் அருவி
+    2. Niagara Falls / நயாகரா அருவி
+    3. Victoria Falls / விக்டோரியா அருவி
+    4. Kaieteur Falls / கெய்ச்சூர் அருவி
+
+    List-II (River) / பட்டியல்-II (ஆறு)
+    a. Zambezi River / ஜாம்பசி ஆறு
+    b. Potaro River / பொடாரோ ஆறு
+    c. Churun River / சுருன் ஆறு
+    d. Niagara River / நயாகரா ஆறு
+
+    Options: / தெரிவுகள்:
+    A) 1-a, 2-b, 3-c, 4-d
+    B) 1-c, 2-d, 3-a, 4-b
+    C) 1-b, 2-a, 3-d, 4-c
+    D) 1-d, 2-c, 3-b, 4-a
+    **Answer: B**
+    **விடை: B**
+
+16. Match List-I with List-II: / பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    List-I (Rock Type) / பட்டியல்-I (பாறை வகை)
+    1. Igneous (Extrusive) / தீப்பாறை (வெளிப்புறம்)
+    2. Sedimentary Rock / படிவுப் பாறை
+    3. Metamorphic Rock / உருமாறிய பாறை
+    4. Igneous (Intrusive) / தீப்பாறை (உட்புறம்)
+
+    List-II (Example) / பட்டியல்-II (உதாரணம்)
+    a. Marble / பளிங்குக்கல்
+    b. Basalt / பசால்ட்
+    c. Sandstone / மணற்கல்
+    d. Granite / கிரானைட்
+
+    Options: / தெரிவுகள்:
+    A) 1-b, 2-c, 3-a, 4-d
+    B) 1-c, 2-b, 3-d, 4-a
+    C) 1-d, 2-a, 3-c, 4-b
+    D) 1-b, 2-a, 3-d, 4-c
+    **Answer: A**
+    **விடை: A**
+
+17. Match List-I with List-II: / பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    List-I (Layer) / பட்டியல்-I (அடுக்கு)
+    1. Troposphere / அடிவளிமண்டலம்
+    2. Stratosphere / படைமண்டலம்
+    3. Mesosphere / இடைமண்டலம்
+    4. Thermosphere (Ionosphere) / வெப்பமண்டலம் (அயனி மண்டலம்)
+
+    List-II (Characteristic) / பட்டியல்-II (பண்பு)
+    a. Ozone layer / ஓசோன் படலம்
+    b. Radio wave reflection / வானொலி அலைகளின் பிரதிபலிப்பு
+    c. Weather phenomena / வானிலை நிகழ்வுகள்
+    d. Meteors burn up / விண்கற்கள் எரிந்து சாம்பலாகும் இடம்
+
+    Options: / தெரிவுகள்:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-c, 2-a, 3-d, 4-b
+    C) 1-a, 2-c, 3-b, 4-d
+    D) 1-c, 2-d, 3-a, 4-b
+    **Answer: B**
+    **விடை: B**
+
+18. Match List-I with List-II: / பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    List-I (Landform) / பட்டியல்-I (நிலவமைப்பு)
+    1. Peninsula / தீபகற்பம்
+    2. Isthmus / நிலச்சந்தி
+    3. Island / தீவு
+    4. Strait / நீர்ச்சந்தி
+
+    List-II (Description) / பட்டியல்-II (விளக்கம்)
+    a. Land surrounded by water on all sides / எல்லாப் பக்கங்களிலும் நீரால் சூழப்பட்ட நிலப்பகுதி
+    b. Land surrounded by water on three sides / மூன்று பக்கங்களிலும் நீரால் சூழப்பட்ட நிலப்பகுதி
+    c. Narrow strip of land connecting two larger landmasses / இரண்டு பெரிய நிலப்பரப்புகளை இணைக்கும் குறுகிய நிலப்பகுதி
+    d. Narrow passage of water connecting two larger water bodies / இரண்டு பெரிய நீர்நிலைகளை இணைக்கும் குறுகிய நீர்வழி
+
+    Options: / தெரிவுகள்:
+    A) 1-b, 2-c, 3-a, 4-d
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-c, 2-a, 3-d, 4-b
+    D) 1-b, 2-d, 3-a, 4-c
+    **Answer: A**
+    **விடை: A**
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions) / சாதாரண பல தேர்வு வினாக்கள் (32 கேள்விகள்):**
+
+---
+
+19. Which is the highest mountain peak in the world?
+    உலகின் மிக உயரமான மலைச்சிகரம் எது?
+    a) Mount K2 / K2 சிகரம்
+    b) Mount Everest / எவரெஸ்ட் சிகரம்
+    c) Kangchenjunga / கஞ்சன்ஜங்கா
+    d) Lhotse / லோட்சே
+    **Answer: b**
+    **விடை: ஆ**
+
+20. The Andes mountain range is located in which continent?
+    ஆண்டிஸ் மலைத்தொடர் எந்தக் கண்டத்தில் அமைந்துள்ளது?
+    a) North America / வட அமெரிக்கா
+    b) Africa / ஆப்பிரிக்கா
+    c) South America / தென் அமெரிக்கா
+    d) Europe / ஐரோப்பா
+    **Answer: c**
+    **விடை: இ**
+
+21. What type of mountains are the Aravalli Range in India?
+    இந்தியாவில் உள்ள ஆரவல்லி மலைத்தொடர் எவ்வகை மலை?
+    a) Fold Mountain / மடிப்பு மலை
+    b) Block Mountain / பிண்ட மலை
+    c) Volcanic Mountain / எரிமலை மலை
+    d) Residual Mountain / எஞ்சிய மலை (தேய்வுற்ற மடிப்பு மலை)
+    **Answer: d**
+    **விடை: ஈ**
+
+22. 'Valley of Flowers' National Park is situated in which mountain range?
+    'பூக்களின் பள்ளத்தாக்கு' தேசிய பூங்கா எந்த மலைத்தொடரில் அமைந்துள்ளது?
+    a) Himalayas / இமயமலை
+    b) Western Ghats / மேற்குத் தொடர்ச்சி மலைகள்
+    c) Eastern Ghats / கிழக்குத் தொடர்ச்சி மலைகள்
+    d) Vindhya Range / விந்திய மலைத்தொடர்
+    **Answer: a** (Specifically, Zanskar range of Himalayas in Uttarakhand)
+    **விடை: அ** (குறிப்பாக, உத்தராகண்டில் உள்ள இமயமலையின் ஜான்ஸ்கர் மலைத்தொடர்)
+
+23. The Tibetan Plateau is an example of which type of plateau?
+    திபெத்திய பீடபூமி எவ்வகையான பீடபூமிக்கு உதாரணமாகும்?
+    a) Piedmont Plateau / அடிவாரப் பீடபூமி
+    b) Continental Plateau / கண்டப் பீடபூமி
+    c) Intermontane Plateau / மலைகளிடைப் பீடபூமி
+    d) Volcanic Plateau / எரிமலைப் பீடபூமி
+    **Answer: c**
+    **விடை: இ**
+
+24. Which is the largest plateau in the world?
+    உலகின் மிகப்பெரிய பீடபூமி எது?
+    a) Deccan Plateau / தக்காண பீடபூமி
+    b) Colorado Plateau / கொலராடோ பீடபூமி
+    c) Tibetan Plateau / திபெத்திய பீடபூமி
+    d) Patagonian Plateau / படகோனியன் பீடபூமி
+    **Answer: c**
+    **விடை: இ**
+
+25. The Chota Nagpur Plateau in India is rich in?
+    இந்தியாவில் உள்ள சோட்டா நாக்பூர் பீடபூமி எதில் வளம் நிறைந்தது?
+    a) Fertile soil / வளமான மண்
+    b) Minerals / கனிமங்கள்
+    c) Forests / காடுகள்
+    d) Water resources / நீர் ஆதாரங்கள்
+    **Answer: b**
+    **விடை: ஆ**
+
+26. Indo-Gangetic plains are formed by the depositional work of which river systems?
+    சிந்து-கங்கைச் சமவெளிகள் எந்த நதி அமைப்புகளின் படிவு வேலையால் உருவாகியுள்ளன?
+    a) Indus, Ganga, Yamuna / சிந்து, கங்கை, யமுனை
+    b) Ganga, Brahmaputra, Godavari / கங்கை, பிரம்மபுத்திரா, கோதாவரி
+    c) Indus, Ganga, Brahmaputra / சிந்து, கங்கை, பிரம்மபுத்திரா
+    d) Narmada, Tapti, Mahanadi / நர்மதா, தப்தி, மகாநதி
+    **Answer: c**
+    **விடை: இ**
+
+27. Which type of plains are known for their fertility and suitability for agriculture?
+    எந்த வகை சமவெளிகள் அவற்றின் வளம் மற்றும் விவசாயத்திற்கு ஏற்ற தன்மைக்கு பெயர் பெற்றவை?
+    a) Loess Plains / காறைச் சமவெளிகள்
+    b) Alluvial Plains / வண்டல் சமவெளிகள்
+    c) Lava Plains / எரிமலைக் குழம்புச் சமவெளிகள்
+    d) Pediplains / அரித்த சமவெளிகள்
+    **Answer: b**
+    **விடை: ஆ**
+
+28. 'Llanos' and 'Campos' are examples of tropical grasslands found in which continent?
+    'லானோஸ்' மற்றும் 'காம்போஸ்' என்பவை எந்தக் கண்டத்தில் காணப்படும் வெப்பமண்டல புல்வெளிகளுக்கு எடுத்துக்காட்டுகள்?
+    a) Africa / ஆப்பிரிக்கா
+    b) South America / தென் அமெரிக்கா
+    c) Australia / ஆஸ்திரேலியா
+    d) Asia / ஆசியா
+    **Answer: b**
+    **விடை: ஆ**
+
+29. Which is the longest river in the world?
+    உலகின் மிக நீளமான நதி எது?
+    a) Amazon / அமேசான்
+    b) Nile / நைல்
+    c) Yangtze / யாங்சே
+    d) Mississippi / மிசிசிப்பி
+    **Answer: b**
+    **விடை: ஆ**
+
+30. The Amazon River flows through which major rainforest?
+    அமேசான் நதி எந்த முக்கிய மழைக்காடு வழியாக பாய்கிறது?
+    a) Congo Rainforest / காங்கோ மழைக்காடு
+    b) Daintree Rainforest / டெய்ன்ட்ரீ மழைக்காடு
+    c) Amazon Rainforest / அமேசான் மழைக்காடு
+    d) Valdivian Temperate Rainforest / வால்டிவியன் மிதவெப்ப மழைக்காடு
+    **Answer: c**
+    **விடை: இ**
+
+31. A meander is a feature formed by which agent of erosion/deposition?
+    ஒரு மெஆன்டர் (ஆற்று வளைவு) எந்த அரிப்பு/படிவு காரணியால் உருவாகும் ஒரு அம்சமாகும்?
+    a) Wind / காற்று
+    b) Glacier / பனியாறு
+    c) River / ஆறு
+    d) Sea waves / கடல் அலைகள்
+    **Answer: c**
+    **விடை: இ**
+
+32. Which is the largest freshwater lake by surface area in the world?
+    உலகின் பரப்பளவில் மிகப்பெரிய நன்னீர் ஏரி எது?
+    a) Lake Baikal / பைக்கால் ஏரி
+    b) Lake Victoria / விக்டோரியா ஏரி
+    c) Lake Superior / சுப்பீரியர் ஏரி
+    d) Lake Michigan / மிச்சிகன் ஏரி
+    **Answer: c**
+    **விடை: இ**
+
+33. Lake Baikal, the deepest lake in the world, is located in which country?
+    உலகின் மிக ஆழமான ஏரியான பைக்கால் ஏரி எந்த நாட்டில் அமைந்துள்ளது?
+    a) Canada / கனடா
+    b) USA / அமெரிக்கா
+    c) Russia / ரஷ்யா
+    d) China / சீனா
+    **Answer: c**
+    **விடை: இ**
+
+34. 'Dead Sea' is known for its high?
+    'சாக்கடல்' எதன் அதிக அளவிற்கு பெயர் பெற்றது?
+    a) Depth / ஆழம்
+    b) Fish population / மீன் வளம்
+    c) Salinity / உப்புத்தன்மை
+    d) Fresh water / நன்னீர்
+    **Answer: c**
+    **விடை: இ**
+
+35. Which is the largest ocean in the world?
+    உலகின் மிகப்பெரிய பெருங்கடல் எது?
+    a) Atlantic Ocean / அட்லாண்டிக் பெருங்கடல்
+    b) Indian Ocean / இந்தியப் பெருங்கடல்
+    c) Arctic Ocean / ஆர்க்டிக் பெருங்கடல்
+    d) Pacific Ocean / பசிபிக் பெருங்கடல்
+    **Answer: d**
+    **விடை: ஈ**
+
+36. The Mariana Trench, the deepest point on Earth, is located in which ocean?
+    பூமியின் மிக ஆழமான இடமான மரியானா அகழி எந்தப் பெருங்கடலில் அமைந்துள்ளது?
+    a) Atlantic Ocean / அட்லாண்டிக் பெருங்கடல்
+    b) Pacific Ocean / பசிபிக் பெருங்கடல்
+    c) Indian Ocean / இந்தியப் பெருங்கடல்
+    d) Arctic Ocean / ஆர்க்டிக் பெருங்கடல்
+    **Answer: b**
+    **விடை: ஆ**
+
+37. The Gulf Stream is a warm ocean current found in which ocean?
+    கல்ஃப் நீரோட்டம் எந்தப் பெருங்கடலில் காணப்படும் ஒரு வெப்ப நீரோட்டமாகும்?
+    a) Pacific Ocean / பசிபிக் பெருங்கடல்
+    b) Indian Ocean / இந்தியப் பெருங்கடல்
+    c) Atlantic Ocean / அட்லாண்டிக் பெருங்கடல்
+    d) Southern Ocean / தென் பெருங்கடல்
+    **Answer: c**
+    **விடை: இ**
+
+38. El Niño, a complex weather pattern, originates in which ocean?
+    எல் நினோ என்ற சிக்கலான வானிலை முறை எந்தப் பெருங்கடலில் உருவாகிறது?
+    a) Atlantic Ocean / அட்லாண்டிக் பெருங்கடல்
+    b) Indian Ocean / இந்தியப் பெருங்கடல்
+    c) Pacific Ocean / பசிபிக் பெருங்கடல்
+    d) Arctic Ocean / ஆர்க்டிக் பெருங்கடல்
+    **Answer: c**
+    **விடை: இ**
+
+39. Which is the largest hot desert in the world?
+    உலகின் மிகப்பெரிய வெப்பப் பாலைவனம் எது?
+    a) Gobi Desert / கோபி பாலைவனம்
+    b) Kalahari Desert / கலஹாரி பாலைவனம்
+    c) Sahara Desert / சஹாரா பாலைவனம்
+    d) Arabian Desert / அரேபிய பாலைவனம்
+    **Answer: c**
+    **விடை: இ**
+
+40. The Gobi Desert is primarily located in which two countries?
+    கோபி பாலைவனம் முதன்மையாக எந்த இரண்டு நாடுகளில் அமைந்துள்ளது?
+    a) India and Pakistan / இந்தியா மற்றும் பாகிஸ்தான்
+    b) China and Mongolia / சீனா மற்றும் மங்கோலியா
+    c) Iran and Iraq / ஈரான் மற்றும் ஈராக்
+    d) Chile and Peru / சிலி மற்றும் பெரு
+    **Answer: b**
+    **விடை: ஆ**
+
+41. What is an 'Oasis'?
+    'ஓಯசிஸ்' (சோலைவனம்) என்றால் என்ன?
+    a) A dry river bed in a desert / பாலைவனத்தில் உள்ள காய்ந்த ஆற்றுப் படுகை
+    b) A large sand dune / ஒரு பெரிய மணற்குன்று
+    c) A fertile spot in a desert with water / பாலைவனத்தில் நீருடன் கூடிய வளமான இடம்
+    d) A rocky outcrop in a desert / பாலைவனத்தில் உள்ள பாறை வெளிப்பாடு
+    **Answer: c**
+    **விடை: இ**
+
+42. Greenland, the world's largest island, is geographically part of which continent but politically associated with a European country?
+    உலகின் மிகப்பெரிய தீவான கிரீன்லாந்து, புவியியல் ரீதியாக எந்தக் கண்டத்தின் ஒரு பகுதியாகும், ஆனால் அரசியல் ரீதியாக ஒரு ஐரோப்பிய நாட்டுடன் தொடர்புடையது?
+    a) Asia, United Kingdom / ஆசியா, ஐக்கிய ராஜ்ஜியம்
+    b) North America, Denmark / வட அமெரிக்கா, டென்மார்க்
+    c) Europe, Canada / ஐரோப்பா, கனடா
+    d) Africa, France / ஆப்பிரிக்கா, பிரான்ஸ்
+    **Answer: b**
+    **விடை: ஆ**
+
+43. The Lakshadweep Islands in India are an example of which type of islands?
+    இந்தியாவில் உள்ள லட்சத்தீவுகள் எவ்வகையான தீவுகளுக்கு உதாரணமாகும்?
+    a) Volcanic Islands / எரிமலைத் தீவுகள்
+    b) Coral Islands / பவளத் தீவுகள்
+    c) Riverine Islands / ஆற்றுத் தீவுகள்
+    d) Continental Islands / கண்டத் தீவுகள்
+    **Answer: b**
+    **விடை: ஆ**
+
+44. Mount Vesuvius is a famous volcano located in which country?
+    வெசுவியஸ் மலை என்ற புகழ்பெற்ற எரிமலை எந்த நாட்டில் அமைந்துள்ளது?
+    a) Japan / ஜப்பான்
+    b) Indonesia / இந்தோனேசியா
+    c) Italy / இத்தாலி
+    d) USA / அமெரிக்கா
+    **Answer: c**
+    **விடை: இ**
+
+45. The 'Ring of Fire' is an area with a high concentration of volcanoes and earthquakes located around which ocean?
+    'நெருப்பு வளையம்' என்பது அதிக எரிமலைகள் மற்றும் பூகம்பங்களைக் கொண்ட ஒரு பகுதி, இது எந்தப் பெருங்கடலைச் சுற்றி அமைந்துள்ளது?
+    a) Atlantic Ocean / அட்லாண்டிக் பெருங்கடல்
+    b) Indian Ocean / இந்தியப் பெருங்கடல்
+    c) Arctic Ocean / ஆர்க்டிக் பெருங்கடல்
+    d) Pacific Ocean / பசிபிக் பெருங்கடல்
+    **Answer: d**
+    **விடை: ஈ**
+
+46. The point on the Earth's surface directly above the origin of an earthquake is called?
+    நிலநடுக்கம் உருவாகும் இடத்திற்கு நேர் மேலே புவியின் மேற்பரப்பில் உள்ள புள்ளி எவ்வாறு அழைக்கப்படுகிறது?
+    a) Focus (Hypocenter) / குவியம் (கீழ் மையம்)
+    b) Epicenter / மேல் மையம்
+    c) Seismic center / நில அதிர்வு மையம்
+    d) Fault line / பிளவுக்கோடு
+    **Answer: b**
+    **விடை: ஆ**
+
+47. Granite is an example of which type of rock?
+    கிரானைட் (கருங்கல்) எவ்வகைப் பாறைக்கு உதாரணமாகும்?
+    a) Sedimentary Rock / படிவுப் பாறை
+    b) Metamorphic Rock / உருமாறிய பாறை
+    c) Igneous Rock (Intrusive) / தீப்பாறை (உட்புறம்)
+    d) Igneous Rock (Extrusive) / தீப்பாறை (வெளிப்புறம்)
+    **Answer: c**
+    **விடை: இ**
+
+48. Sandstone is primarily composed of which mineral?
+    மணற்கல் முதன்மையாக எந்த கனிமத்தால் ஆனது?
+    a) Feldspar / ஃபெல்ட்ஸ்பார்
+    b) Mica / மைக்கா
+    c) Calcite / கால்சைட்
+    d) Quartz / குவார்ட்ஸ் (பளிங்கு)
+    **Answer: d**
+    **விடை: ஈ**
+
+49. 'Mushroom rocks' are landforms typically created by the erosional action of?
+    'காளான் பாறைகள்' பொதுவாக எதன் அரிப்புச் செயலால் உருவாக்கப்படும் நிலவடிவங்கள்?
+    a) River / ஆறு
+    b) Glacier / பனியாறு
+    c) Wind / காற்று
+    d) Sea waves / கடல் அலைகள்
+    **Answer: c**
+    **விடை: இ**
+
+50. U-shaped valleys are characteristic features formed by the action of?
+    U-வடிவ பள்ளத்தாக்குகள் எதன் செயலால் உருவாகும் பண்புக்கூறுகளாகும்?
+    a) Rivers / ஆறுகள்
+    b) Wind / காற்று
+    c) Glaciers / பனியாறுகள்
+    d) Groundwater / நிலத்தடி நீர்
+    **Answer: c**
+    **விடை: இ**

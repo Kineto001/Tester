@@ -1,0 +1,401 @@
+Topic: Measurement of Physical Quantities
+
+1.  The SI unit of length is _____
+    நீளத்தின் SI அலகு _____
+    A. Kilogram / கிலோகிராம்
+    B. Meter / மீட்டர்
+    C. Second / வினாடி
+    D. Kelvin / கெல்வின்
+    Answer: B
+
+2.  Which instrument is used to measure the mass of an object?
+    ஒரு பொருளின் நிறையை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?
+    A. Measuring tape / அளவிடும் நாடா
+    B. Thermometer / வெப்பநிலைமானி
+    C. Beam balance / பொது தராசு
+    D. Stopwatch / நிறுத்துக் கடிகாரம்
+    Answer: C
+
+3.  The SI unit of time is _____
+    காலத்தின் SI அலகு _____
+    A. Hour / மணி
+    B. Minute / நிமிடம்
+    C. Second / வினாடி
+    D. Day / நாள்
+    Answer: C
+
+4.  A clinical thermometer is used to measure _____
+    மருத்துவ வெப்பநிலைமானி _____ அளவிட பயன்படுகிறது.
+    A. Room temperature / அறை வெப்பநிலை
+    B. Body temperature / உடல் வெப்பநிலை
+    C. Temperature of boiling water / கொதிக்கும் நீரின் வெப்பநிலை
+    D. Atmospheric temperature / வளிமண்டல வெப்பநிலை
+    Answer: B
+
+5.  1 kilometre is equal to _____
+    1 கிலோமீட்டர் என்பது _____ க்கு சமம்.
+    A. 100 meters / 100 மீட்டர்கள்
+    B. 1000 meters / 1000 மீட்டர்கள்
+    C. 10 meters / 10 மீட்டர்கள்
+    D. 0.1 meter / 0.1 மீட்டர்
+    Answer: B
+
+6.  Which of the following is a fundamental quantity?
+    பின்வருவனவற்றில் எது ஒரு அடிப்படை அளவு?
+    A. Speed / வேகம்
+    B. Area / பரப்பளவு
+    C. Mass / நிறை
+    D. Volume / பருமன்
+    Answer: C
+
+7.  The instrument used to measure the thickness of a coin accurately is _____
+    ஒரு நாணயத்தின் தடிமனை துல்லியமாக அளவிட பயன்படும் கருவி _____
+    A. Measuring tape / அளவிடும் நாடா
+    B. Meter scale / மீட்டர் அளவுகோல்
+    C. Screw gauge / திருகு அளவி
+    D. Beam balance / பொது தராசு
+    Answer: C
+
+8.  The SI unit of temperature is _____
+    வெப்பநிலையின் SI அலகு _____
+    A. Celsius / செல்சியஸ்
+    B. Fahrenheit / ஃபாரன்ஹீட்
+    C. Kelvin / கெல்வின்
+    D. Joule / ஜூல்
+    Answer: C
+
+9.  A tailor uses a _____ to take measurements for stitching clothes.
+    ஒரு தையல்காரர் துணிகளைத் தைக்க அளவுகளை எடுக்க _____ பயன்படுத்துகிறார்.
+    A. Vernier caliper / வெர்னியர் கலிஃபர்
+    B. Measuring tape / அளவிடும் நாடா
+    C. Screw gauge / திருகு அளவி
+    D. Beam balance / பொது தராசு
+    Answer: B
+
+10. The amount of substance is measured in _____
+    பொருளின் அளவு _____ இல் அளவிடப்படுகிறது.
+    A. Kilogram / கிலோகிராம்
+    B. Mole / மோல்
+    C. Ampere / ஆம்பியர்
+    D. Candela / கேண்டிலா
+    Answer: B
+
+11. Which instrument is used to measure very small time intervals accurately, like in sports events?
+    விளையாட்டு நிகழ்வுகள் போன்ற மிகச் சிறிய நேர இடைவெளிகளைத் துல்லியமாக அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?
+    A. Wall clock / சுவர் கடிகாரம்
+    B. Digital clock / இலக்கமுறை கடிகாரம்
+    C. Stopwatch / நிறுத்துக் கடிகாரம்
+    D. Sand clock / மணல் கடிகாரம்
+    Answer: C
+
+12. The SI unit of electric current is _____
+    மின்னோட்டத்தின் SI அலகு _____
+    A. Volt / வோல்ட்
+    B. Ohm / ஓம்
+    C. Ampere / ஆம்பியர்
+    D. Watt / வாட்
+    Answer: C
+
+13. Vernier caliper is used to measure _____
+    வெர்னியர் கலிஃபர் _____ அளவிட பயன்படுகிறது.
+    A. Mass of a stone / ஒரு கல்லின் நிறை
+    B. Inner diameter of a pipe / ஒரு குழாயின் உள் விட்டம்
+    C. Temperature of a liquid / ஒரு திரவத்தின் வெப்பநிலை
+    D. Time taken for an event / ஒரு நிகழ்விற்கு ஆகும் நேரம்
+    Answer: B
+
+14. 1 centimetre (cm) is equal to _____
+    1 சென்டிமீட்டர் (செ.மீ) என்பது _____ க்கு சமம்.
+    A. 10 millimetres (mm) / 10 மில்லிமீட்டர்கள் (மி.மீ)
+    B. 100 millimetres (mm) / 100 மில்லிமீட்டர்கள் (மி.மீ)
+    C. 0.1 millimetre (mm) / 0.1 மில்லிமீட்டர் (மி.மீ)
+    D. 1000 millimetres (mm) / 1000 மில்லிமீட்டர்கள் (மி.மீ)
+    Answer: A
+
+15. The standard unit for measuring the volume of liquids is _____
+    திரவங்களின் பருமனை அளவிடுவதற்கான நியம அலகு _____
+    A. Kilogram / கிலோகிராம்
+    B. Meter / மீட்டர்
+    C. Litre / லிட்டர்
+    D. Newton / நியூட்டன்
+    Answer: C
+
+16. The symbol 'kg' stands for _____
+    'கிகி' என்ற குறியீடு _____ ஐக் குறிக்கிறது.
+    A. Kilometre / கிலோமீட்டர்
+    B. Kilogram / கிலோகிராம்
+    C. Kelvin / கெல்வின்
+    D. Kilolitre / கிலோலிட்டர்
+    Answer: B
+
+17. Luminous intensity is measured in _____
+    ஒளிச்செறிவு _____ இல் அளவிடப்படுகிறது.
+    A. Mole / மோல்
+    B. Ampere / ஆம்பியர்
+    C. Candela / கேண்டிலா
+    D. Kelvin / கெல்வின்
+    Answer: C
+
+18. A measuring cylinder is used to measure the _____
+    ஒரு அளவிடும் உருளை _____ அளவிட பயன்படுகிறது.
+    A. Length of a cloth / துணியின் நீளம்
+    B. Volume of a liquid / திரவத்தின் பருமன்
+    C. Mass of a solid / திடப்பொருளின் நிறை
+    D. Temperature of the air / காற்றின் வெப்பநிலை
+    Answer: B
+
+19. The distance between two cities is usually measured in _____
+    இரண்டு நகரங்களுக்கு இடையிலான தூரம் பொதுவாக _____ இல் அளவிடப்படுகிறது.
+    A. Millimetres / மில்லிமீட்டர்கள்
+    B. Centimetres / சென்டிமீட்டர்கள்
+    C. Metres / மீட்டர்கள்
+    D. Kilometres / கிலோமீட்டர்கள்
+    Answer: D
+
+20. Which of the following is a derived quantity?
+    பின்வருவனவற்றில் எது ஒரு வழி அளவு?
+    A. Length / நீளம்
+    B. Time / காலம்
+    C. Temperature / வெப்பநிலை
+    D. Area / பரப்பளவு
+    Answer: D
+
+21. The least count of an instrument refers to the _____
+    ஒரு கருவியின் மீச்சிற்றளவு என்பது _____ ஐக் குறிக்கிறது.
+    A. Maximum value it can measure / அது அளவிடக்கூடிய அதிகபட்ச மதிப்பு
+    B. Smallest value it can measure accurately / அது துல்லியமாக அளவிடக்கூடிய மிகச்சிறிய மதிப்பு
+    C. Average value it measures / அது அளவிடும் சராசரி மதிப்பு
+    D. Total range of measurement / அளவீட்டின் மொத்த வீச்சு
+    Answer: B
+
+22. 1000 grams is equal to _____
+    1000 கிராம் என்பது _____ க்கு சமம்.
+    A. 1 milligram / 1 மில்லிகிராம்
+    B. 1 kilogram / 1 கிலோகிராம்
+    C. 10 kilograms / 10 கிலோகிராம்
+    D. 0.1 kilogram / 0.1 கிலோகிராம்
+    Answer: B
+
+23. A spring balance is used to measure _____
+    ஒரு சுருள் தராசு _____ அளவிட பயன்படுகிறது.
+    A. Mass / நிறை
+    B. Weight / எடை
+    C. Volume / பருமன்
+    D. Density / அடர்த்தி
+    Answer: B
+
+24. The prefix 'milli' means _____
+    'மில்லி' என்ற முன்னொட்டு _____ ஐக் குறிக்கிறது.
+    A. 1000 times / 1000 மடங்கு
+    B. 1/1000th part / 1/1000 வது பங்கு
+    C. 100 times / 100 மடங்கு
+    D. 1/100th part / 1/100 வது பங்கு
+    Answer: B
+
+25. The odometer in a vehicle measures _____
+    ஒரு வாகனத்தில் உள்ள ஓடோமீட்டர் _____ ஐ அளவிடுகிறது.
+    A. Speed / வேகம்
+    B. Distance travelled / பயணித்த தூரம்
+    C. Fuel level / எரிபொருள் அளவு
+    D. Engine temperature / இயந்திர வெப்பநிலை
+    Answer: B
+
+26. The SI unit of area is _____
+    பரப்பளவின் SI அலகு _____
+    A. m / மீ
+    B. m² / மீ²
+    C. m³ / மீ³
+    D. kg/m³ / கிகி/மீ³
+    Answer: B
+
+27. The normal human body temperature is approximately _____
+    சாதாரண மனித உடல் வெப்பநிலை தோராயமாக _____ ஆகும்.
+    A. 37°C / 37°C
+    B. 98.6°F / 98.6°F
+    C. Both A and B / A மற்றும் B இரண்டும்
+    D. 100°C / 100°C
+    Answer: C
+
+28. A physical balance is more sensitive than a beam balance and is used to measure _____ accurately.
+    ஒரு இயற்பியல் தராசு பொது தராசை விட அதிக உணர்திறன் கொண்டது மற்றும் _____ ஐ துல்லியமாக அளவிட பயன்படுகிறது.
+    A. Small lengths / சிறிய நீளங்கள்
+    B. Small masses / சிறிய நிறைகள்
+    C. Small time intervals / சிறிய நேர இடைவெளிகள்
+    D. Small temperatures / சிறிய வெப்பநிலைகள்
+    Answer: B
+
+29. The unit for measuring the speed of a vehicle is _____
+    ஒரு வாகனத்தின் வேகத்தை அளவிடுவதற்கான அலகு _____
+    A. m/s / மீ/வி
+    B. km/h / கிமீ/மணி
+    C. Both A and B / A மற்றும் B இரண்டும்
+    D. kg/s / கிகி/வி
+    Answer: C
+
+30. The SI unit of volume is _____
+    பருமனின் SI அலகு _____
+    A. m / மீ
+    B. m² / மீ²
+    C. m³ / மீ³
+    D. Litre / லிட்டர்
+    Answer: C
+
+31. Which of these is NOT a fundamental SI unit?
+    இவற்றில் எது அடிப்படை SI அலகு அல்ல?
+    A. Meter / மீட்டர்
+    B. Kilogram / கிலோகிராம்
+    C. Newton / நியூட்டன்
+    D. Second / வினாடி
+    Answer: C
+
+32. To measure the diameter of a thin wire, the most appropriate instrument is _____
+    ஒரு மெல்லிய கம்பியின் விட்டத்தை அளவிட மிகவும் பொருத்தமான கருவி _____
+    A. Meter scale / மீட்டர் அளவுகோல்
+    B. Measuring tape / அளவிடும் நாடா
+    C. Screw gauge / திருகு அளவி
+    D. Vernier caliper / வெர்னியர் கலிஃபர்
+    Answer: C
+
+33. A light-year is a unit of _____
+    ஒளி ஆண்டு என்பது _____ இன் அலகு.
+    A. Time / காலம்
+    B. Distance / தூரம்
+    C. Speed of light / ஒளியின் வேகம்
+    D. Intensity of light / ஒளியின் செறிவு
+    Answer: B
+
+34. The prefix 'kilo' means _____
+    'கிலோ' என்ற முன்னொட்டு _____ ஐக் குறிக்கிறது.
+    A. 100 / 100
+    B. 1000 / 1000
+    C. 1/100 / 1/100
+    D. 1/1000 / 1/1000
+    Answer: B
+
+35. Density is defined as _____
+    அடர்த்தி என்பது _____ என வரையறுக்கப்படுகிறது.
+    A. Mass × Volume / நிறை × பருமன்
+    B. Mass / Volume / நிறை / பருமன்
+    C. Volume / Mass / பருமன் / நிறை
+    D. Mass + Volume / நிறை + பருமன்
+    Answer: B
+
+36. The SI unit of density is _____
+    அடர்த்தியின் SI அலகு _____
+    A. kg m³ / கிகி மீ³
+    B. kg/m³ / கிகி/மீ³
+    C. g/cm³ / கி/செமீ³
+    D. kg/m² / கிகி/மீ²
+    Answer: B
+
+37. How many fundamental physical quantities are there in the SI system?
+    SI அமைப்பில் எத்தனை அடிப்படை இயற்பியல் அளவுகள் உள்ளன?
+    A. 5
+    B. 6
+    C. 7
+    D. 9
+    Answer: C
+
+38. A laboratory thermometer is generally used to measure temperatures between _____
+    ஒரு ஆய்வக வெப்பநிலைமானி பொதுவாக _____ இடையிலான வெப்பநிலைகளை அளவிட பயன்படுகிறது.
+    A. -10°C to 110°C / -10°C முதல் 110°C வரை
+    B. 35°C to 42°C / 35°C முதல் 42°C வரை
+    C. 0°C to 100°C / 0°C முதல் 100°C வரை
+    D. -50°C to 50°C / -50°C முதல் 50°C வரை
+    Answer: A
+
+39. One quintal is equal to _____
+    ஒரு குவிண்டால் என்பது _____ க்கு சமம்.
+    A. 10 kg / 10 கிகி
+    B. 100 kg / 100 கிகி
+    C. 1000 kg / 1000 கிகி
+    D. 50 kg / 50 கிகி
+    Answer: B
+
+40. One metric tonne is equal to _____
+    ஒரு மெட்ரிக் டன் என்பது _____ க்கு சமம்.
+    A. 100 kg / 100 கிகி
+    B. 1000 kg / 1000 கிகி
+    C. 10 quintals / 10 குவிண்டால்கள்
+    D. Both B and C / B மற்றும் C இரண்டும்
+    Answer: D
+
+41. Which of the following instruments does not measure length?
+    பின்வரும் கருவிகளில் எது நீளத்தை அளவிடாது?
+    A. Ruler / அளவுகோல்
+    B. Ammeter / அம்மீட்டர்
+    C. Vernier Caliper / வெர்னியர் கலிஃபர்
+    D. Screw Gauge / திருகு அளவி
+    Answer: B
+
+42. The symbol 's' represents the SI unit of which physical quantity?
+    's' என்ற குறியீடு எந்த இயற்பியல் அளவின் SI அலகைக் குறிக்கிறது?
+    A. Speed / வேகம்
+    B. Substance amount / பொருளின் அளவு
+    C. Time / காலம்
+    D. Temperature / வெப்பநிலை
+    Answer: C
+
+43. The error caused by viewing an instrument's scale from an incorrect angle is called _____
+    ஒரு கருவியின் அளவீட்டை தவறான கோணத்தில் பார்ப்பதால் ஏற்படும் பிழை _____ எனப்படும்.
+    A. Zero error / சுழிப் பிழை
+    B. Parallax error / இடமாறு தோற்றப் பிழை
+    C. Instrumental error / கருவிப் பிழை
+    D. Random error / ஒழுங்கற்ற பிழை
+    Answer: B
+
+44. What is the freezing point of water in Celsius scale?
+    செல்சியஸ் அளவில் நீரின் உறைநிலை என்ன?
+    A. 100°C / 100°C
+    B. 0°C / 0°C
+    C. 32°C / 32°C
+    D. 273°C / 273°C
+    Answer: B
+
+45. What is the boiling point of water in Kelvin scale?
+    கெல்வின் அளவில் நீரின் கொதிநிலை என்ன?
+    A. 100 K / 100 K
+    B. 273 K / 273 K
+    C. 373 K / 373 K
+    D. 0 K / 0 K
+    Answer: C (Approximately, 273.15 + 100 = 373.15 K)
+
+46. The quantity of milk is usually measured in _____
+    பாலின் அளவு பொதுவாக _____ இல் அளவிடப்படுகிறது.
+    A. Kilograms / கிலோகிராம்
+    B. Litres / லிட்டர்கள்
+    C. Metres / மீட்டர்கள்
+    D. Seconds / வினாடிகள்
+    Answer: B
+
+47. An ammeter is used to measure _____
+    ஒரு அம்மீட்டர் _____ ஐ அளவிட பயன்படுகிறது.
+    A. Potential difference / மின்னழுத்த வேறுபாடு
+    B. Electric current / மின்னோட்டம்
+    C. Resistance / மின்தடை
+    D. Electric charge / மின்னூட்டம்
+    Answer: B
+
+48. A voltmeter is used to measure _____
+    ஒரு வோல்ட்மீட்டர் _____ ஐ அளவிட பயன்படுகிறது.
+    A. Electric current / மின்னோட்டம்
+    B. Potential difference / மின்னழுத்த வேறுபாடு
+    C. Electric power / மின் திறன்
+    D. Resistance / மின்தடை
+    Answer: B
+
+49. The thickness of a plastic sheet can be accurately measured by _____
+    ஒரு பிளாஸ்டிக் தாளின் தடிமனை _____ ஆல் துல்லியமாக அளவிட முடியும்.
+    A. Measuring tape / அளவிடும் நாடா
+    B. Screw gauge / திருகு அளவி
+    C. Beam balance / பொது தராசு
+    D. Stopwatch / நிறுத்துக் கடிகாரம்
+    Answer: B
+
+50. The standard of measurement must be _____
+    அளவீட்டின் தரம் _____ ஆக இருக்க வேண்டும்.
+    A. Variable / மாறக்கூடியது
+    B. Accessible and invariable / அணுகக்கூடியது மற்றும் மாறாதது
+    C. Difficult to reproduce / மீண்டும் உருவாக்குவது கடினம்
+    D. Known only to scientists / விஞ்ஞானிகளுக்கு மட்டுமே தெரிந்தது
+    Answer: B

@@ -1,0 +1,957 @@
+1. In the Indian Constitution, the concept of federalism is drawn from the constitution of which country?
+a) USA
+b) Canada
+c) Australia
+d) UK
+
+இந்திய அரசியலமைப்பில், கூட்டாட்சி என்ற கருத்து எந்த நாட்டின் அரசியலமைப்பிலிருந்து பெறப்பட்டது?
+அ) அமெரிக்கா
+ஆ) கனடா
+இ) ஆஸ்திரேலியா
+ஈ) இங்கிலாந்து
+
+Answer: b
+
+---
+
+2. Which schedule of the Indian Constitution deals with the division of powers between the Union and the States?
+a) Sixth Schedule
+b) Seventh Schedule
+c) Eighth Schedule
+d) Tenth Schedule
+
+இந்திய அரசியலமைப்பின் எந்த அட்டவணை மத்திய மற்றும் மாநிலங்களுக்கு இடையேயான அதிகாரப் பகிர்வைக் கையாள்கிறது?
+அ) ஆறாவது அட்டவணை
+ஆ) ஏழாவது அட்டவணை
+இ) எட்டாவது அட்டவணை
+ஈ) பத்தாவது அட்டவணை
+
+Answer: b
+
+---
+
+3. How many subjects are there in the Union List at present?
+a) 97
+b) 66
+c) 100
+d) 61
+
+தற்போது மத்திய பட்டியலில் (Union List) எத்தனை துறைகள் உள்ளன?
+அ) 97
+ஆ) 66
+இ) 100
+ஈ) 61
+
+Answer: c
+
+---
+
+4. How many subjects are there in the State List at present?
+a) 66
+b) 61
+c) 52
+d) 47
+
+தற்போது மாநிலப் பட்டியலில் (State List) எத்தனை துறைகள் உள்ளன?
+அ) 66
+ஆ) 61
+இ) 52
+ஈ) 47
+
+Answer: b
+
+---
+
+5. Education, which was originally a State subject, was transferred to the Concurrent List by which amendment?
+a) 24th Amendment
+b) 42nd Amendment
+c) 44th Amendment
+d) 61st Amendment
+
+முதலில் மாநிலப் பட்டியலில் இருந்த கல்வி, எந்த அரசியலமைப்புத் திருத்தத்தின் மூலம் பொதுப் பட்டியலுக்கு மாற்றப்பட்டது?
+அ) 24வது திருத்தம்
+ஆ) 42வது திருத்தம்
+இ) 44வது திருத்தம்
+ஈ) 61வது திருத்தம்
+
+Answer: b
+
+---
+
+6. Who has the power to legislate on residuary subjects which are not mentioned in any of the three lists?
+a) State Legislatures
+b) Parliament
+c) President
+d) Both Parliament and State Legislatures
+
+மூன்று பட்டியல்களிலும் குறிப்பிடப்படாத எஞ்சிய அதிகாரங்கள் (Residuary subjects) மீது சட்டம் இயற்றும் அதிகாரம் யாரிடம் உள்ளது?
+அ) மாநில சட்டமன்றங்கள்
+ஆ) நாடாளுமன்றம்
+இ) குடியரசுத் தலைவர்
+ஈ) நாடாளுமன்றம் மற்றும் மாநில சட்டமன்றங்கள் இரண்டும்
+
+Answer: b
+
+---
+
+7. Under which Article can the Parliament make laws on a subject in the State List if the Rajya Sabha passes a resolution to that effect?
+a) Article 248
+b) Article 249
+c) Article 250
+d) Article 252
+
+எந்தப் பிரிவின் கீழ், மாநிலங்களவை ஒரு தீர்மானத்தை நிறைவேற்றினால், மாநிலப் பட்டியலில் உள்ள ஒரு பொருள் மீது நாடாளுமன்றம் சட்டம் இயற்ற முடியும்?
+அ) பிரிவு 248
+ஆ) பிரிவு 249
+இ) பிரிவு 250
+ஈ) பிரிவு 252
+
+Answer: b
+
+---
+
+8. Article 280 of the Indian Constitution provides for the establishment of a:
+a) Planning Commission
+b) Finance Commission
+c) Election Commission
+d) Inter-State Council
+
+இந்திய அரசியலமைப்பின் 280வது பிரிவு எதை நிறுவ வழிவகை செய்கிறது?
+அ) திட்டக் குழு
+ஆ) நிதி ஆணையம்
+இ) தேர்தல் ஆணையம்
+ஈ) மாநிலங்களுக்கு இடையேயான மன்றம்
+
+Answer: b
+
+---
+
+9. The Sarkaria Commission was set up to review the relations between:
+a) The President and the Prime Minister
+b) The Legislature and the Executive
+c) The Centre and the States
+d) The Executive and the Judiciary
+
+சர்க்காரியா ஆணையம் யாருக்கிடையேயான உறவுகளை ஆய்வு செய்ய அமைக்கப்பட்டது?
+அ) குடியரசுத் தலைவர் மற்றும் பிரதமர்
+ஆ) சட்டமன்றம் மற்றும் நிர்வாகத்துறை
+இ) மையம் மற்றும் மாநிலங்கள்
+ஈ) நிர்வாகத்துறை மற்றும் நீதித்துறை
+
+Answer: c
+
+---
+
+10. The Inter-State Council was established in 1990 on the recommendation of which commission?
+a) Punchhi Commission
+b) Rajamannar Committee
+c) Sarkaria Commission
+d) Administrative Reforms Commission
+
+மாநிலங்களுக்கு இடையேயான மன்றம் (Inter-State Council) 1990 இல் எந்த ஆணையத்தின் பரிந்துரையின் பேரில் நிறுவப்பட்டது?
+அ) புஞ்சி ஆணையம்
+ஆ) ராஜமன்னார் குழு
+இ) சர்க்காரியா ஆணையம்
+ஈ) நிர்வாக சீர்திருத்த ஆணையம்
+
+Answer: c
+
+---
+
+11. Who appoints the Chairman and members of the Finance Commission?
+a) Prime Minister
+b) Finance Minister
+c) President
+d) Chief Justice of India
+
+நிதி ஆணையத்தின் தலைவர் மற்றும் உறுப்பினர்களை நியமிப்பவர் யார்?
+அ) பிரதமர்
+ஆ) நிதி அமைச்சர்
+இ) குடியரசுத் தலைவர்
+ஈ) இந்திய தலைமை நீதிபதி
+
+Answer: c
+
+---
+
+12. The power of the Parliament to legislate on a state subject during a National Emergency is provided under which Article?
+a) Article 352
+b) Article 356
+c) Article 250
+d) Article 360
+
+தேசிய அவசரநிலையின் போது மாநிலப் பட்டியலில் உள்ள ஒரு பொருள் மீது நாடாளுமன்றம் சட்டம் இயற்றும் அதிகாரம் எந்தப் பிரிவின் கீழ் வழங்கப்பட்டுள்ளது?
+அ) பிரிவு 352
+ஆ) பிரிவு 356
+இ) பிரிவு 250
+ஈ) பிரிவு 360
+
+Answer: c
+
+---
+
+13. The provisions regarding Administrative Relations between the Centre and States are mentioned in which articles?
+a) Articles 245 to 255
+b) Articles 256 to 263
+c) Articles 268 to 293
+d) Articles 352 to 360
+
+மத்திய மற்றும் மாநிலங்களுக்கு இடையேயான நிர்வாக உறவுகள் தொடர்பான விதிகள் எந்தப் பிரிவுகளில் குறிப்பிடப்பட்டுள்ளன?
+அ) பிரிவுகள் 245 முதல் 255 வரை
+ஆ) பிரிவுகள் 256 முதல் 263 வரை
+இ) பிரிவுகள் 268 முதல் 293 வரை
+ஈ) பிரிவுகள் 352 முதல் 360 வரை
+
+Answer: b
+
+---
+
+14. Who is the chairman of the Inter-State Council?
+a) President
+b) Vice-President
+c) Prime Minister
+d) Home Minister
+
+மாநிலங்களுக்கு இடையேயான மன்றத்தின் (Inter-State Council) தலைவர் யார்?
+அ) குடியரசுத் தலைவர்
+ஆ) துணைக் குடியரசுத் தலைவர்
+இ) பிரதமர்
+ஈ) உள்துறை அமைச்சர்
+
+Answer: c
+
+---
+
+15. The concept of 'Cooperative Federalism' has been promoted in recent times by which institution?
+a) Finance Commission
+b) National Development Council
+c) Inter-State Council
+d) NITI Aayog
+
+'கூட்டுறவு கூட்டாட்சி' என்ற கருத்து சமீப காலமாக எந்த நிறுவனத்தால் ஊக்குவிக்கப்படுகிறது?
+அ) நிதி ஆணையம்
+ஆ) தேசிய வளர்ச்சிக் குழு
+இ) மாநிலங்களுக்கு இடையேயான மன்றம்
+ஈ) நிதி ஆயோக்
+
+Answer: d
+
+---
+
+16. Article 312 of the Constitution is related to:
+a) All-India Services
+b) Public Service Commissions
+c) Administrative Tribunals
+d) Emergency Provisions
+
+அரசியலமைப்பின் 312வது பிரிவு எதனுடன் தொடர்புடையது?
+அ) அகில இந்தியப் பணிகள்
+ஆ) பொதுப் பணித் தேர்வாணையங்கள்
+இ) நிர்வாகத் தீர்ப்பாயங்கள்
+ஈ) அவசரகால விதிகள்
+
+Answer: a
+
+---
+
+17. If there is a conflict between a Central law and a State law on a subject in the Concurrent List, which law prevails?
+a) The State Law
+b) The Central Law
+c) The law passed first
+d) Both are nullified
+
+பொதுப் பட்டியலில் உள்ள ஒரு பொருள் குறித்து மத்திய சட்டத்திற்கும் மாநில சட்டத்திற்கும் இடையில் முரண்பாடு ஏற்பட்டால், எந்தச் சட்டம் மேலோங்கும்?
+அ) மாநிலச் சட்டம்
+ஆ) மத்தியச் சட்டம்
+இ) முதலில் இயற்றப்பட்ட சட்டம்
+ஈ) இரண்டும் ரத்து செய்யப்படும்
+
+Answer: b
+
+---
+
+18. The Rajamannar Committee was constituted by which state government to study Centre-State relations?
+a) Kerala
+b) West Bengal
+c) Tamil Nadu
+d) Andhra Pradesh
+
+ராஜமன்னார் குழு எந்த மாநில அரசால் மத்திய-மாநில உறவுகளைப் பற்றி ஆய்வு செய்ய அமைக்கப்பட்டது?
+அ) கேரளா
+ஆ) மேற்கு வங்கம்
+இ) தமிழ்நாடு
+ஈ) ஆந்திரப் பிரதேசம்
+
+Answer: c
+
+---
+
+19. Zonal Councils are a result of which Act?
+a) Government of India Act, 1935
+b) Indian Independence Act, 1947
+c) States Reorganisation Act, 1956
+d) Constitution of India
+
+மண்டலக் குழுக்கள் (Zonal Councils) எந்தச் சட்டத்தின் விளைவாக உருவாக்கப்பட்டன?
+அ) இந்திய அரசுச் சட்டம், 1935
+ஆ) இந்திய சுதந்திரச் சட்டம், 1947
+இ) மாநில மறுசீரமைப்புச் சட்டம், 1956
+ஈ) இந்திய அரசியலமைப்பு
+
+Answer: c
+
+---
+
+20. Who is the common chairman of all Zonal Councils?
+a) Prime Minister
+b) President
+c) Vice-President
+d) Union Home Minister
+
+அனைத்து மண்டலக் குழுக்களுக்கும் பொதுவான தலைவர் யார்?
+அ) பிரதமர்
+ஆ) குடியரசுத் தலைவர்
+இ) துணைக் குடியரசுத் தலைவர்
+ஈ) மத்திய உள்துறை அமைச்சர்
+
+Answer: d
+
+---
+
+21. The provisions concerning the grants-in-aid from the Centre to the States are mentioned in:
+a) Article 270
+b) Article 275
+c) Article 280
+d) Article 282
+
+மத்திய அரசு மாநிலங்களுக்கு வழங்கும் மானியங்கள் (grants-in-aid) தொடர்பான விதிகள் எந்தப் பிரிவில் குறிப்பிடப்பட்டுள்ளன?
+அ) பிரிவு 270
+ஆ) பிரிவு 275
+இ) பிரிவு 280
+ஈ) பிரிவு 282
+
+Answer: b
+
+---
+
+22. The power of the State to borrow is mentioned under which Article?
+a) Article 292
+b) Article 293
+c) Article 294
+d) Article 295
+
+மாநிலங்கள் கடன் வாங்குவதற்கான அதிகாரம் எந்தப் பிரிவின் கீழ் குறிப்பிடப்பட்டுள்ளது?
+அ) பிரிவு 292
+ஆ) பிரிவு 293
+இ) பிரிவு 294
+ஈ) பிரிவு 295
+
+Answer: b
+
+---
+
+23. Who described the Indian federal system as "quasi-federal"?
+a) Granville Austin
+b) Ivor Jennings
+c) K.C. Wheare
+d) B.R. Ambedkar
+
+இந்திய கூட்டாட்சி முறையை "அரைக் கூட்டாட்சி" (quasi-federal) என்று விவரித்தவர் யார்?
+அ) கிரான்வில் ஆஸ்டின்
+ஆ) ஐவர் ஜென்னிங்ஸ்
+இ) கே.சி. வியர்
+ஈ) பி.ஆர். அம்பேத்கர்
+
+Answer: c
+
+---
+
+24. The imposition of President's Rule in a state is provided under which Article?
+a) Article 352
+b) Article 356
+c) Article 360
+d) Article 365
+
+ஒரு மாநிலத்தில் குடியரசுத் தலைவர் ஆட்சியை அமல்படுத்துவது எந்தப் பிரிவின் கீழ் வழங்கப்பட்டுள்ளது?
+அ) பிரிவு 352
+ஆ) பிரிவு 356
+இ) பிரிவு 360
+ஈ) பிரிவு 365
+
+Answer: b
+
+---
+
+25. Which of the following is a subject of the Concurrent List?
+a) Police
+b) Public health and sanitation
+c) Criminal Law
+d) Agriculture
+
+பின்வருவனவற்றில் எது பொதுப் பட்டியலில் (Concurrent List) உள்ள ஒரு துறை?
+அ) காவல்துறை
+ஆ) பொது சுகாதாரம் மற்றும் துப்புரவு
+இ) குற்றவியல் சட்டம்
+ஈ) விவசாயம்
+
+Answer: c
+
+---
+
+26. Which of the following is a subject of the State List?
+a) Banking
+b) Defence
+c) Police
+d) Railways
+
+பின்வருவனவற்றில் எது மாநிலப் பட்டியலில் (State List) உள்ள ஒரு துறை?
+அ) வங்கிப் பணி
+ஆ) பாதுகாப்பு
+இ) காவல்துறை
+ஈ) இரயில்வே
+
+Answer: c
+
+---
+
+27. The GST (Goods and Services Tax) Council is chaired by:
+a) The Prime Minister
+b) The Union Finance Minister
+c) The RBI Governor
+d) The Cabinet Secretary
+
+GST (சரக்கு மற்றும் சேவை வரி) மன்றத்தின் தலைவர் யார்?
+அ) பிரதமர்
+ஆ) மத்திய நிதி அமைச்சர்
+இ) ரிசர்வ் வங்கி ஆளுநர்
+ஈ) அமைச்சரவை செயலாளர்
+
+Answer: b
+
+---
+
+28. The adjudication of disputes relating to waters of inter-state rivers is provided under which Article?
+a) Article 262
+b) Article 263
+c) Article 257
+d) Article 258
+
+மாநிலங்களுக்கு இடையேயான நதிநீர் தொடர்பான தகராறுகளுக்கு தீர்வு காண்பது எந்தப் பிரிவின் கீழ் வழங்கப்பட்டுள்ளது?
+அ) பிரிவு 262
+ஆ) பிரிவு 263
+இ) பிரிவு 257
+ஈ) பிரிவு 258
+
+Answer: a
+
+---
+
+29. The Anandpur Sahib Resolution, concerning Centre-State relations, was passed by which political party?
+a) Dravida Munnetra Kazhagam
+b) Shiromani Akali Dal
+c) Telugu Desam Party
+d) Communist Party of India (Marxist)
+
+மத்திய-மாநில உறவுகள் தொடர்பான அனந்த்பூர் சாஹிப் தீர்மானம் எந்த அரசியல் கட்சியால் நிறைவேற்றப்பட்டது?
+அ) திராவிட முன்னேற்றக் கழகம்
+ஆ) சிரோமணி அகாலி தளம்
+இ) தெலுங்கு தேசம் கட்சி
+ஈ) இந்திய கம்யூனிஸ்ட் கட்சி (மார்க்சிஸ்ட்)
+
+Answer: b
+
+---
+
+30. The Punchhi Commission was constituted in 2007 to look into:
+a) Electoral reforms
+b) Centre-State relations
+c) Panchayati Raj institutions
+d) Banking reforms
+
+புஞ்சி ஆணையம் 2007 இல் எதைப் பற்றி ஆராய அமைக்கப்பட்டது?
+அ) தேர்தல் சீர்திருத்தங்கள்
+ஆ) மத்திய-மாநில உறவுகள்
+இ) பஞ்சாயத்து ராஜ் நிறுவனங்கள்
+ஈ) வங்கி சீர்திருத்தங்கள்
+
+Answer: b
+
+---
+
+31. During the proclamation of a Financial Emergency, the Union can:
+a) Reduce the salaries of all government servants, including judges of the Supreme Court and High Courts
+b) Take over the administration of any state
+c) Dissolve the Lok Sabha
+d) Suspend all fundamental rights
+
+நிதி அவசரநிலை பிரகடனத்தின் போது, மத்திய அரசு என்ன செய்ய முடியும்?
+அ) உச்சநீதிமன்ற மற்றும் உயர்நீதிமன்ற நீதிபதிகள் உட்பட அனைத்து அரசு ஊழியர்களின் சம்பளத்தைக் குறைக்க முடியும்
+ஆ) எந்தவொரு மாநிலத்தின் நிர்வாகத்தையும் எடுத்துக் கொள்ள முடியும்
+இ) மக்களவையைக் கலைக்க முடியும்
+ஈ) அனைத்து அடிப்படை உரிமைகளையும் நிறுத்தி வைக்க முடியும்
+
+Answer: a
+
+---
+
+32. The executive power of the State is vested in the:
+a) Chief Minister
+b) State Legislature
+c) Governor
+d) High Court
+
+மாநிலத்தின் நிர்வாக அதிகாரம் யாரிடம் உள்ளது?
+அ) முதலமைச்சர்
+ஆ) மாநில சட்டமன்றம்
+இ) ஆளுநர்
+ஈ) உயர்நீதிமன்றம்
+
+Answer: c
+
+---
+
+33. A law made by Parliament on a state subject under Article 249 remains in force for a period of:
+a) Six months
+b) One year
+c) Two years
+d) Indefinitely
+
+பிரிவு 249 இன் கீழ் மாநிலப் பட்டியலில் உள்ள ஒரு பொருள் மீது நாடாளுமன்றத்தால் இயற்றப்பட்ட சட்டம் எவ்வளவு காலத்திற்கு அமலில் இருக்கும்?
+அ) ஆறு மாதங்கள்
+ஆ) ஒரு வருடம்
+இ) இரண்டு வருடங்கள்
+ஈ) காலவரையின்றி
+
+Answer: b
+
+---
+
+34. The Governor of a state acts as an agent of the:
+a) State Government
+b) Prime Minister
+c) President
+d) Chief Justice of the High Court
+
+ஒரு மாநிலத்தின் ஆளுநர் யாருடைய முகவராக செயல்படுகிறார்?
+அ) மாநில அரசு
+ஆ) பிரதமர்
+இ) குடியரசுத் தலைவர்
+ஈ) உயர்நீதிமன்றத்தின் தலைமை நீதிபதி
+
+Answer: c
+
+---
+
+35. The distribution of financial resources between the Centre and the States is done on the basis of the recommendations of the:
+a) Planning Commission
+b) National Development Council
+c) Finance Commission
+d) Inter-State Council
+
+மத்திய மற்றும் மாநிலங்களுக்கு இடையேயான நிதி ஆதாரங்களின் பகிர்வு யாருடைய பரிந்துரைகளின் அடிப்படையில் செய்யப்படுகிறது?
+அ) திட்டக் குழு
+ஆ) தேசிய வளர்ச்சிக் குழு
+இ) நிதி ஆணையம்
+ஈ) மாநிலங்களுக்கு இடையேயான மன்றம்
+
+Answer: c
+
+---
+
+36. Which one of the following is not on the Union List?
+a) Defence
+b) Foreign Affairs
+c) Agriculture
+d) Railways
+
+பின்வருவனவற்றில் எது மத்தியப் பட்டியலில் இல்லை?
+அ) பாதுகாப்பு
+ஆ) வெளிநாட்டு விவகாரங்கள்
+இ) விவசாயம்
+ஈ) இரயில்வே
+
+Answer: c
+
+---
+
+37. The power to create or abolish an All-India Service rests with the:
+a) President
+b) Prime Minister
+c) Parliament
+d) Union Public Service Commission
+
+ஒரு அகில இந்தியப் பணியை உருவாக்க அல்லது ஒழிப்பதற்கான அதிகாரம் யாரிடம் உள்ளது?
+அ) குடியரசுத் தலைவர்
+ஆ) பிரதமர்
+இ) நாடாளுமன்றம்
+ஈ) மத்திய அரசுப் பணியாளர் தேர்வாணையம்
+
+Answer: c
+
+---
+
+38. 'Police' and 'Public Order' are subjects in the:
+a) Union List
+b) State List
+c) Concurrent List
+d) Residuary Powers
+
+'காவல்துறை' மற்றும் 'பொது ஒழுங்கு' ஆகியவை எந்தப் பட்டியலில் உள்ள துறைகள்?
+அ) மத்தியப் பட்டியல்
+ஆ) மாநிலப் பட்டியல்
+இ) பொதுப் பட்டியல்
+ஈ) எஞ்சிய அதிகாரங்கள்
+
+Answer: b
+
+---
+
+39. The Sarkaria Commission submitted its report in which year?
+a) 1983
+b) 1985
+c) 1988
+d) 1990
+
+சர்க்காரியா ஆணையம் தனது அறிக்கையை எந்த ஆண்டு சமர்ப்பித்தது?
+அ) 1983
+ஆ) 1985
+இ) 1988
+ஈ) 1990
+
+Answer: c
+
+---
+
+40. Which Article empowers the Parliament to form a new state and alter the areas, boundaries or names of existing states?
+a) Article 1
+b) Article 2
+c) Article 3
+d) Article 4
+
+புதிய மாநிலத்தை உருவாக்கவும், தற்போதுள்ள மாநிலங்களின் பகுதிகள், எல்லைகள் அல்லது பெயர்களை மாற்றவும் நாடாளுமன்றத்திற்கு அதிகாரம் அளிக்கும் பிரிவு எது?
+அ) பிரிவு 1
+ஆ) பிரிவு 2
+இ) பிரிவு 3
+ஈ) பிரிவு 4
+
+Answer: c
+
+---
+
+41. The idea of a Concurrent List in the Indian Constitution was borrowed from the Constitution of:
+a) Canada
+b) Australia
+c) USA
+d) Japan
+
+இந்திய அரசியலமைப்பில் உள்ள பொதுப் பட்டியல் என்ற கருத்து எந்த நாட்டின் அரசியலமைப்பிலிருந்து கடன் வாங்கப்பட்டது?
+அ) கனடா
+ஆ) ஆஸ்திரேலியா
+இ) அமெரிக்கா
+ஈ) ஜப்பான்
+
+Answer: b
+
+---
+
+42. Who has the final authority to interpret the Constitution regarding the division of powers?
+a) Parliament
+b) President
+c) Supreme Court
+d) Attorney General
+
+அதிகாரப் பகிர்வு தொடர்பாக அரசியலமைப்பிற்கு விளக்கம் அளிக்கும் இறுதி அதிகாரம் யாரிடம் உள்ளது?
+அ) நாடாளுமன்றம்
+ஆ) குடியரசுத் தலைவர்
+இ) உச்ச நீதிமன்றம்
+ஈ) அட்டர்னி ஜெனரல்
+
+Answer: c
+
+---
+
+43. Financial relations between the Union and the States are dealt with in which part of the Constitution?
+a) Part X
+b) Part XI
+c) Part XII
+d) Part XIII
+
+மத்திய மற்றும் மாநிலங்களுக்கு இடையேயான நிதி உறவுகள் அரசியலமைப்பின் எந்தப் பகுதியில் கையாளப்படுகின்றன?
+அ) பகுதி X
+ஆ) பகுதி XI
+இ) பகுதி XII
+ஈ) பகுதி XIII
+
+Answer: c
+
+---
+
+44. A resolution for the creation of a new All-India Service must be passed by:
+a) Lok Sabha
+b) Rajya Sabha
+c) Both houses of Parliament
+d) A presidential order
+
+ஒரு புதிய அகில இந்தியப் பணியை உருவாக்குவதற்கான தீர்மானம் யாரால் நிறைவேற்றப்பட வேண்டும்?
+அ) மக்களவை
+ஆ) மாநிலங்களவை
+இ) நாடாளுமன்றத்தின் இரு அவைகளாலும்
+ஈ) ஒரு குடியரசுத் தலைவர் உத்தரவு
+
+Answer: b
+
+---
+
+45. The term 'federation' is mentioned in which part of the Indian Constitution?
+a) The Preamble
+b) Part III
+c) Article 368
+d) Nowhere in the Constitution
+
+'கூட்டாட்சி' (federation) என்ற சொல் இந்திய அரசியலமைப்பின் எந்தப் பகுதியில் குறிப்பிடப்பட்டுள்ளது?
+அ) முகவுரை
+ஆ) பகுதி III
+இ) பிரிவு 368
+ஈ) அரசியலமைப்பில் எங்கும் இல்லை
+
+Answer: d
+
+---
+
+46. Who can recommend the imposition of President's Rule in a state to the President?
+a) The Chief Minister
+b) The Speaker of the Legislative Assembly
+c) The Chief Justice of the High Court
+d) The Governor
+
+ஒரு மாநிலத்தில் குடியரசுத் தலைவர் ஆட்சியை அமல்படுத்த குடியரசுத் தலைவருக்கு யார் பரிந்துரைக்க முடியும்?
+அ) முதலமைச்சர்
+ஆ) சட்டமன்ற சபாநாயகர்
+இ) உயர்நீதிமன்றத்தின் தலைமை நீதிபதி
+ஈ) ஆளுநர்
+
+Answer: d
+
+---
+
+47. The Parliament can legislate on a subject in the State List to give effect to an international agreement under which article?
+a) Article 250
+b) Article 251
+c) Article 252
+d) Article 253
+
+சர்வதேச ஒப்பந்தத்தை அமல்படுத்த, மாநிலப் பட்டியலில் உள்ள ஒரு பொருள் மீது நாடாளுமன்றம் எந்தப் பிரிவின் கீழ் சட்டம் இயற்றலாம்?
+அ) பிரிவு 250
+ஆ) பிரிவு 251
+இ) பிரிவு 252
+ஈ) பிரிவு 253
+
+Answer: d
+
+---
+
+48. Corporation tax is levied and collected by:
+a) The Union Government
+b) The State Government
+c) Both Union and State Governments
+d) Local Bodies
+
+பெருநிறுவன வரி (Corporation tax) யாரால் விதிக்கப்பட்டு வசூலிக்கப்படுகிறது?
+அ) மத்திய அரசு
+ஆ) மாநில அரசு
+இ) மத்திய மற்றும் மாநில அரசுகள் இரண்டும்
+ஈ) உள்ளாட்சி அமைப்புகள்
+
+Answer: a
+
+---
+
+49. Discretionary grants are given by the Centre to the States under which Article?
+a) Article 275
+b) Article 280
+c) Article 282
+d) Article 293
+
+விருப்புரிமை மானியங்கள் (Discretionary grants) எந்தப் பிரிவின் கீழ் மத்திய அரசால் மாநிலங்களுக்கு வழங்கப்படுகின்றன?
+அ) பிரிவு 275
+ஆ) பிரிவு 280
+இ) பிரிவு 282
+ஈ) பிரிவு 293
+
+Answer: c
+
+---
+
+50. The institution of the Governor in the states is a feature that leans towards a:
+a) Strong federal system
+b) Unitary system
+c) Confederal system
+d) Presidential system
+
+மாநிலங்களில் உள்ள ஆளுநர் பதவி என்பது எந்த அமைப்பை நோக்கிச் சாயும் ஒரு அம்சமாகும்?
+அ) வலுவான கூட்டாட்சி அமைப்பு
+ஆ) ஒற்றையாட்சி அமைப்பு
+இ) கூட்டமைப்பு அமைப்பு
+ஈ) ஜனாதிபதி முறை அமைப்பு
+
+Answer: b
+
+---
+
+51. "Forests" is a subject under which list?
+a) Union List
+b) State List
+c) Concurrent List
+d) Residuary subjects
+
+"காடுகள்" எந்தப் பட்டியலின் கீழ் உள்ள ஒரு துறை?
+அ) மத்தியப் பட்டியல்
+ஆ) மாநிலப் பட்டியல்
+இ) பொதுப் பட்டியல்
+ஈ) எஞ்சிய துறைகள்
+
+Answer: c
+
+---
+
+52. The executive power of the Union extends to giving directions to the States under which Article?
+a) Article 256
+b) Article 260
+c) Article 265
+d) Article 270
+
+மத்திய அரசின் நிர்வாக அதிகாரம் மாநிலங்களுக்கு வழிகாட்டுதல்களை வழங்கும் வரை நீட்டிக்கப்பட்டுள்ளது என்பது எந்தப் பிரிவில் உள்ளது?
+அ) பிரிவு 256
+ஆ) பிரிவு 260
+இ) பிரிவு 265
+ஈ) பிரிவு 270
+
+Answer: a
+
+---
+
+53. Who was the chairman of the Punchhi Commission on Centre-State Relations?
+a) Justice R.S. Sarkaria
+b) Justice M.M. Punchhi
+c) Justice P.V. Rajamannar
+d) M.C. Setalvad
+
+மத்திய-மாநில உறவுகள் குறித்த புஞ்சி ஆணையத்தின் தலைவர் யார்?
+அ) நீதிபதி ஆர்.எஸ். சர்க்காரியா
+ஆ) நீதிபதி எம்.எம். புஞ்சி
+இ) நீதிபதி பி.வி. ராஜமன்னார்
+ஈ) எம்.சி. செதல்வாட்
+
+Answer: b
+
+---
+
+54. The concept of "Union of States" in the Indian Constitution was adopted to emphasize:
+a) The federal nature of the country
+b) The unitary nature of the country
+c) That states have no right to secede from the union
+d) The division of powers
+
+இந்திய அரசியலமைப்பில் "மாநிலங்களின் ஒன்றியம்" என்ற கருத்து எதை வலியுறுத்த ஏற்றுக்கொள்ளப்பட்டது?
+அ) நாட்டின் கூட்டாட்சித் தன்மை
+ஆ) நாட்டின் ஒற்றையாட்சித் தன்மை
+இ) மாநிலங்களுக்கு ஒன்றியத்திலிருந்து பிரிய உரிமை இல்லை என்பதை
+ஈ) அதிகாரப் பகிர்வு
+
+Answer: c
+
+---
+
+55. Which body acts as a balancing wheel of fiscal federalism in India?
+a) The Planning Commission
+b) The Finance Commission
+c) The Zonal Council
+d) The GST Council
+
+இந்தியாவில் நிதிசார் கூட்டாட்சியின் சமநிலைச் சக்கரமாக செயல்படும் அமைப்பு எது?
+அ) திட்டக் குழு
+ஆ) நிதி ஆணையம்
+இ) மண்டலக் குழு
+ஈ) GST மன்றம்
+
+Answer: b
+
+---
+
+56. The provision that no tax shall be levied or collected except by authority of law is mentioned in:
+a) Article 265
+b) Article 266
+c) Article 300A
+d) Article 301
+
+சட்டத்தின் அதிகாரமின்றி எந்த வரியும் விதிக்கப்படவோ அல்லது வசூலிக்கப்படவோ கூடாது என்ற விதி எங்கு குறிப்பிடப்பட்டுள்ளது?
+அ) பிரிவு 265
+ஆ) பிரிவு 266
+இ) பிரிவு 300A
+ஈ) பிரிவு 301
+
+Answer: a
+
+---
+
+57. The Consolidated Fund of a State is provided under which Article?
+a) Article 266(1)
+b) Article 266(2)
+c) Article 267(1)
+d) Article 267(2)
+
+ஒரு மாநிலத்தின் திரள் நிதி (Consolidated Fund) எந்தப் பிரிவின் கீழ் வழங்கப்படுகிறது?
+அ) பிரிவு 266(1)
+ஆ) பிரிவு 266(2)
+இ) பிரிவு 267(1)
+ஈ) பிரிவு 267(2)
+
+Answer: a
+
+---
+
+58. The first Finance Commission was constituted in which year?
+a) 1950
+b) 1951
+c) 1952
+d) 1955
+
+முதல் நிதி ஆணையம் எந்த ஆண்டு அமைக்கப்பட்டது?
+அ) 1950
+ஆ) 1951
+இ) 1952
+ஈ) 1955
+
+Answer: b
+
+---
+
+59. During the operation of a National Emergency, the life of the Lok Sabha can be extended for a period of:
+a) Three months at a time
+b) Six months at a time
+c) One year at a time
+d) Two years at a time
+
+தேசிய அவசரநிலை அமலில் இருக்கும்போது, மக்களவையின் ஆயுட்காலத்தை எவ்வளவு காலத்திற்கு நீட்டிக்க முடியும்?
+அ) ஒரு நேரத்தில் மூன்று மாதங்கள்
+ஆ) ஒரு நேரத்தில் ஆறு மாதங்கள்
+இ) ஒரு நேரத்தில் ஒரு வருடம்
+ஈ) ஒரு நேரத்தில் இரண்டு வருடங்கள்
+
+Answer: c
+
+---
+
+60. Who described the Indian Constitution as "federal in form but unitary in spirit"?
+a) B.R. Ambedkar
+b) K.C. Wheare
+c) Ivor Jennings
+d) Granville Austin
+
+இந்திய அரசியலமைப்பை "வடிவத்தில் கூட்டாட்சி ஆனால் உள்ளடக்கத்தில் ஒற்றையாட்சி" என்று விவரித்தவர் யார்?
+அ) பி.ஆர். அம்பேத்கர்
+ஆ) கே.சி. வியர்
+இ) ஐவர் ஜென்னிங்ஸ்
+ஈ) கிரான்வில் ஆஸ்டின்
+
+Answer: a

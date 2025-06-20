@@ -1,0 +1,527 @@
+Topic: Acids, Bases, Salts (அமிலங்கள், காரங்கள், உப்புகள்)
+
+**Assertion and Reason Questions (கூற்று மற்றும் காரணம் வகை வினாக்கள்)**
+
+**Assertion and Reason Option form:**
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+
+1.
+Assertion (A): Hydrochloric acid (HCl) turns blue litmus paper red.
+Reason (R): HCl dissociates in water to produce H+ ions, which are responsible for its acidic properties.
+கூற்று (A): ஹைட்ரோகுளோரிக் அமிலம் (HCl) நீல லிட்மஸ் தாளை சிவப்பாக மாற்றுகிறது.
+காரணம் (R): HCl தண்ணீரில் பிரிகை அடைந்து H+ அயனிகளை உருவாக்குகிறது, அவை அதன் அமிலப் பண்புகளுக்கு காரணமாகின்றன.
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+Answer: a
+
+2.
+Assertion (A): Sodium hydroxide (NaOH) is an alkali.
+Reason (R): All bases that are soluble in water are called alkalis.
+கூற்று (A): சோடியம் ஹைட்ராக்சைடு (NaOH) ஒரு அல்கலி ஆகும்.
+காரணம் (R): நீரில் கரையக்கூடிய அனைத்து காரங்களும் அல்கலிகள் என்று அழைக்கப்படுகின்றன.
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+Answer: a (R explains why NaOH, being a water-soluble base, is an alkali)
+
+3.
+Assertion (A): The reaction between an acid and a base to form salt and water is called a neutralization reaction.
+Reason (R): During neutralization, the acid nullifies the effect of the base, or vice versa.
+கூற்று (A): ஒரு அமிலம் மற்றும் ஒரு காரத்திற்கு இடையே வினைபுரிந்து உப்பு மற்றும் நீரை உருவாக்கும் வினை நடுநிலையாக்கல் வினை எனப்படும்.
+காரணம் (R): நடுநிலையாக்கலின் போது, அமிலம் காரத்தின் விளைவையும், அல்லது காரம் அமிலத்தின் விளைவையும் இல்லாமல் செய்கிறது.
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+Answer: a
+
+4.
+Assertion (A): An aqueous solution of Copper Sulphate (CuSO₄) is acidic in nature.
+Reason (R): Copper Sulphate is a salt of a weak base (Cu(OH)₂) and a strong acid (H₂SO₄).
+கூற்று (A): காப்பர் சல்பேட் (CuSO₄) நீர்க்கரைசல் அமிலத்தன்மை கொண்டது.
+காரணம் (R): காப்பர் சல்பேட் ஒரு வலிமை குறைந்த காரம் (Cu(OH)₂) மற்றும் ஒரு வலிமையான அமிலம் (H₂SO₄) ஆகியவற்றின் உப்பு ஆகும்.
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+Answer: a
+
+5.
+Assertion (A): Baking soda (NaHCO₃) is used in antacids.
+Reason (R): Baking soda is an acidic salt.
+கூற்று (A): சமையல் சோடா (NaHCO₃) அமிலநீக்கிகளில் பயன்படுத்தப்படுகிறது.
+காரணம் (R): சமையல் சோடா ஒரு அமில உப்பு ஆகும்.
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false. (NaHCO₃ is a mild base, or a salt of strong base and weak acid, making its solution basic)
+    d) A is false, but R is true.
+Answer: c (R is false, NaHCO₃ solution is mildly alkaline) (R தவறு, NaHCO₃ கரைசல் மென் காரத்தன்மை கொண்டது)
+
+6.
+Assertion (A): When dry HCl gas is passed over dry blue litmus paper, its colour does not change.
+Reason (R): Acids show their acidic property only in the presence of water due to the formation of H+ ions.
+கூற்று (A): உலர் HCl வாயுவை உலர் நீல லிட்மஸ் தாளின் மீது செலுத்தும்போது, அதன் நிறம் மாறாது.
+காரணம் (R): அமிலங்கள் H+ அயனிகள் உருவாவதால் நீரின் முன்னிலையில் மட்டுமே தங்கள் அமிலப் பண்பைக் காட்டுகின்றன.
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+Answer: a
+
+**Wrongly Matched Pairs ( தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக)**
+
+7. Identify the wrongly matched pair: (தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:)
+    a) Vinegar - Acetic acid (வினிகர் - அசிட்டிக் அமிலம்)
+    b) Lemon - Citric acid (எலுமிச்சை - சிட்ரிக் அமிலம்)
+    c) Ant sting - Lactic acid (எறும்பு கடி - லாக்டிக் அமிலம்)
+    d) Curd - Lactic acid (தயிர் - லாக்டிக் அமிலம்)
+    Answer: c (Ant sting - Formic acid/Methanoic acid) (எறும்பு கடி - பார்மிக் அமிலம்/மெத்தனாயிக் அமிலம்)
+
+8. Identify the wrongly matched pair regarding indicators: (நிறங்காட்டிகள் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:)
+    a) Red litmus paper - Turns blue in basic solution (சிவப்பு லிட்மஸ் தாள் - காரக் கரைசலில் நீலமாக மாறும்)
+    b) Phenolphthalein - Pink in acidic solution (பினாப்தலீன் - அமிலக் கரைசலில் இளஞ்சிவப்பு)
+    c) Methyl orange - Yellow in basic solution (மெத்தில் ஆரஞ்சு - காரக் கரைசலில் மஞ்சள்)
+    d) Turmeric solution - Turns reddish brown with soap solution (மஞ்சள் கரைசல் - சோப்புக் கரைசலுடன் செந்நிற பழுப்பாக மாறும்)
+    Answer: b (Phenolphthalein - Colourless in acidic solution) (பினாப்தலீன் - அமிலக் கரைசலில் நிறமற்றது)
+
+9. Identify the wrongly matched pair (Chemical - Use): (வேதிப்பொருள் - பயன்பாடு என தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:)
+    a) Calcium Oxychloride (CaOCl₂) - Bleaching agent (கால்சியம் ஆக்ஸிகுளோரைடு (CaOCl₂) - வெளுக்கும் காரணி)
+    b) Sodium Hydrogen Carbonate (NaHCO₃) - Making baking powder (சோடியம் ஹைட்ரஜன் கார்பனேட் (NaHCO₃) - பேக்கிங் பவுடர் தயாரிக்க)
+    c) Calcium Sulphate Hemihydrate (CaSO₄·½H₂O) - Setting fractured bones (கால்சியம் சல்பேட் ஹெமிஹைட்ரேட் (CaSO₄·½H₂O) - உடைந்த எலும்புகளை ஒட்டவைக்க)
+    d) Sodium Carbonate (Na₂CO₃) - Softening hard water (சோடியம் கார்பனேட் (Na₂CO₃) - மென்நீரை கடினநீராக்க)
+    Answer: d (Sodium Carbonate (Na₂CO₃) - Softening hard water, not making soft water hard) (சோடியம் கார்பனேட் (Na₂CO₃) - கடினநீரை மென்நீராக்க, மென்நீரை கடினநீராக்க அல்ல)
+
+10. Identify the wrongly matched pair (pH value - Nature): (pH மதிப்பு - தன்மை என தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:)
+    a) pH = 1 - Strongly acidic (pH = 1 - வலிமையான அமிலம்)
+    b) pH = 7 - Neutral (pH = 7 - நடுநிலை)
+    c) pH = 8 - Weakly acidic (pH = 8 - மென் அமிலம்)
+    d) pH = 13 - Strongly basic (pH = 13 - வலிமையான காரம்)
+    Answer: c (pH = 8 - Weakly basic) (pH = 8 - மென் காரம்)
+
+11. Identify the wrongly matched pair (Acid - Property/Use): (அமிலம் - பண்பு/பயன்பாடு என தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:)
+    a) Sulphuric Acid - King of Chemicals (கந்தக அமிலம் - வேதிப்பொருட்களின் அரசன்)
+    b) Nitric Acid - Used in making explosives (நைட்ரிக் அமிலம் - வெடிமருந்துகள் தயாரிக்கப் பயன்படுகிறது)
+    c) Acetic Acid - Strong acid (அசிட்டிக் அமிலம் - வலிமையான அமிலம்)
+    d) Hydrochloric Acid - Found in gastric juice (ஹைட்ரோகுளோரிக் அமிலம் - இரைப்பை சாற்றில் காணப்படுகிறது)
+    Answer: c (Acetic Acid - Weak acid) (அசிட்டிக் அமிலம் - வலிமை குறைந்த அமிலம்)
+
+12. Identify the wrongly matched pair (Salt - Nature of solution): (உப்பு - கரைசலின் தன்மை என தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:)
+    a) NaCl - Neutral (NaCl - நடுநிலை)
+    b) NH₄Cl - Acidic (NH₄Cl - அமிலம்)
+    c) CH₃COONa - Basic (CH₃COONa - காரம்)
+    d) K₂SO₄ - Acidic (K₂SO₄ - அமிலம்)
+    Answer: d (K₂SO₄ - Neutral, salt of strong acid H₂SO₄ and strong base KOH) (K₂SO₄ - நடுநிலை, வலிமையான அமிலம் H₂SO₄ மற்றும் வலிமையான காரம் KOH ஆகியவற்றின் உப்பு)
+
+**Match the Following (பொருத்துக)**
+
+13.
+Column I (Natural Source) | Column II (Acid Present)
+--------------------------|----------------------
+1. Tomato                 | a. Formic acid
+2. Nettle sting           | b. Oxalic acid
+3. Orange                 | c. Tartaric acid
+4. Grapes                 | d. Citric acid
+
+பகுதி I (இயற்கை மூலம்)    | பகுதி II (உள்ள அமிலம்)
+--------------------------|----------------------
+1. தக்காளி                | a. பார்மிக் அமிலம்
+2. தொட்டாற்சிணுங்கி கொடுக்கு| b. ஆக்ஸாலிக் அமிலம்
+3. ஆரஞ்சு                 | c. டார்டாரிக் அமிலம்
+4. திராட்சை                | d. சிட்ரிக் அமிலம்
+
+Options (விருப்பங்கள்):
+A) 1-b, 2-a, 3-d, 4-c
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-d, 3-a, 4-c
+D) 1-d, 2-c, 3-b, 4-a
+Answer: A
+
+14.
+Column I (Common Name)          | Column II (Chemical Formula)
+--------------------------------|--------------------------
+1. Washing Soda                 | a. CaSO₄·½H₂O
+2. Plaster of Paris             | b. NaHCO₃
+3. Baking Soda                  | c. CaOCl₂
+4. Bleaching Powder             | d. Na₂CO₃·10H₂O
+
+பகுதி I (பொதுப் பெயர்)          | பகுதி II (வேதியியல் சூத்திரம்)
+--------------------------------|--------------------------
+1. சலவை சோடா                  | a. CaSO₄·½H₂O
+2. பாரிஸ் சாந்து                | b. NaHCO₃
+3. சமையல் சோடா                 | c. CaOCl₂
+4. சலவைத் தூள்                  | d. Na₂CO₃·10H₂O
+
+Options (விருப்பங்கள்):
+A) 1-d, 2-a, 3-b, 4-c
+B) 1-a, 2-d, 3-c, 4-b
+C) 1-d, 2-b, 3-a, 4-c
+D) 1-c, 2-a, 3-d, 4-b
+Answer: A
+
+15.
+Column I (Indicator)    | Column II (Colour in Acidic Solution)
+------------------------|-------------------------------------
+1. Blue Litmus          | a. Yellow
+2. Phenolphthalein      | b. Red
+3. Methyl Orange        | c. Colourless
+4. Turmeric             | d. Red
+
+பகுதி I (நிறங்காட்டி)     | பகுதி II (அமிலக் கரைசலில் நிறம்)
+------------------------|-------------------------------------
+1. நீல லிட்மஸ்           | a. மஞ்சள்
+2. பினாப்தலீன்          | b. சிவப்பு
+3. மெத்தில் ஆரஞ்சு      | c. நிறமற்றது
+4. மஞ்சள்               | d. சிவப்பு
+
+Options (விருப்பங்கள்):
+A) 1-d, 2-c, 3-b, 4-a
+B) 1-b, 2-c, 3-d, 4-a (Methyl Orange is red in acid)
+C) 1-d, 2-a, 3-b, 4-c
+D) 1-a, 2-b, 3-c, 4-d
+Answer: B (Correcting Methyl Orange in acid is red, Blue litmus in acid is red)
+Let's re-evaluate.
+1. Blue Litmus -> Red in Acid (d)
+2. Phenolphthalein -> Colourless in Acid (c)
+3. Methyl Orange -> Red in Acid (b)
+4. Turmeric -> Yellow in Acid (a)
+So: 1-d, 2-c, 3-b, 4-a. This is option A.
+Answer: A
+
+16.
+Column I (Substance)         | Column II (Approximate pH)
+-----------------------------|--------------------------
+1. Lemon Juice               | a. 7.0
+2. Milk of Magnesia          | b. 2.2
+3. Distilled Water           | c. 10.5
+4. Sodium Hydroxide solution | d. 14.0
+
+பகுதி I (பொருள்)             | பகுதி II (தோராயமான pH)
+-----------------------------|--------------------------
+1. எலுமிச்சை சாறு            | a. 7.0
+2. மெக்னீசியா பால்மம்        | b. 2.2
+3. வாலை வடிநீர்              | c. 10.5
+4. சோடியம் ஹைட்ராக்சைடு கரைசல்| d. 14.0
+
+Options (விருப்பங்கள்):
+A) 1-b, 2-c, 3-a, 4-d
+B) 1-a, 2-b, 3-d, 4-c
+C) 1-b, 2-a, 3-c, 4-d
+D) 1-c, 2-d, 3-a, 4-b
+Answer: A
+
+17.
+Column I (Type of oxide)    | Column II (Example)
+----------------------------|-------------------
+1. Acidic oxide             | a. Al₂O₃
+2. Basic oxide              | b. CO₂
+3. Amphoteric oxide         | c. NO
+4. Neutral oxide            | d. Na₂O
+
+பகுதி I (ஆக்சைடு வகை)     | பகுதி II (எடுத்துக்காட்டு)
+----------------------------|-------------------
+1. அமில ஆக்சைடு            | a. Al₂O₃
+2. கார ஆக்சைடு             | b. CO₂
+3. ஈரியல்பு ஆக்சைடு        | c. NO
+4. நடுநிலை ஆக்சைடு          | d. Na₂O
+
+Options (விருப்பங்கள்):
+A) 1-b, 2-d, 3-a, 4-c
+B) 1-d, 2-b, 3-c, 4-a
+C) 1-b, 2-a, 3-d, 4-c
+D) 1-c, 2-d, 3-a, 4-b
+Answer: A
+
+18.
+Column I (Acid/Base)         | Column II (Basicity/Acidity)
+-----------------------------|---------------------------
+1. HCl                       | a. Tribasic acid
+2. H₂SO₄                     | b. Diacidic base
+3. H₃PO₄                     | c. Monobasic acid
+4. Ca(OH)₂                   | d. Dibasic acid
+
+பகுதி I (அமிலம்/காரம்)       | பகுதி II (காரத்துவம்/அமிலத்துவம்)
+-----------------------------|---------------------------
+1. HCl                       | a. முக்காரத்துவ அமிலம்
+2. H₂SO₄                     | b. ஈரமிலத்துவ காரம்
+3. H₃PO₄                     | c. ஒருகாரத்துவ அமிலம்
+4. Ca(OH)₂                   | d. இருகாரத்துவ அமிலம்
+
+Options (விருப்பங்கள்):
+A) 1-c, 2-d, 3-a, 4-b
+B) 1-a, 2-c, 3-d, 4-b
+C) 1-c, 2-a, 3-d, 4-b
+D) 1-d, 2-c, 3-b, 4-a
+Answer: A
+
+**Multiple Choice Questions (சரியான விடையைத் தேர்ந்தெடு)**
+
+19. Which of the following is a mineral acid?
+    (பின்வருவனவற்றில் எது கனிம அமிலம்?)
+    a) Lactic acid (லாக்டிக் அமிலம்)
+    b) Acetic acid (அசிட்டிக் அமிலம்)
+    c) Citric acid (சிட்ரிக் அமிலம்)
+    d) Sulphuric acid (கந்தக அமிலம்)
+    Answer: d
+
+20. Acids generally react with metals to liberate which gas?
+    (அமிலங்கள் பொதுவாக உலோகங்களுடன் வினைபுரிந்து எந்த வாயுவை வெளியிடுகின்றன?)
+    a) Oxygen (ஆக்ஸிஜன்)
+    b) Hydrogen (ஹைட்ரஜன்)
+    c) Carbon dioxide (கார்பன் டை ஆக்சைடு)
+    d) Nitrogen (நைட்ரஜன்)
+    Answer: b
+
+21. The pH of a solution is 4. What is the nature of the solution?
+    (ஒரு கரைசலின் pH மதிப்பு 4. கரைசலின் தன்மை என்ன?)
+    a) Basic (காரத்தன்மை)
+    b) Acidic (அமிலத்தன்மை)
+    c) Neutral (நடுநிலை)
+    d) Amphoteric (ஈரியல்பு)
+    Answer: b
+
+22. Which one of the following is used as an antacid?
+    (பின்வருவனவற்றில் எது அமிலநீக்கியாகப் பயன்படுத்தப்படுகிறது?)
+    a) Sodium carbonate (சோடியம் கார்பனேட்)
+    b) Calcium hydroxide (கால்சியம் ஹைட்ராக்சைடு)
+    c) Magnesium hydroxide (மெக்னீசியம் ஹைட்ராக்சைடு)
+    d) Acetic acid (அசிட்டிக் அமிலம்)
+    Answer: c
+
+23. Litmus is obtained from:
+    (லிட்மஸ் எதிலிருந்து பெறப்படுகிறது?)
+    a) Algae (பாசிகள்)
+    b) Fungi (பூஞ்சைகள்)
+    c) Lichens (லைக்கன்கள்)
+    d) Bacteria (பாக்டீரியாக்கள்)
+    Answer: c
+
+24. The chemical formula of common salt is:
+    (சாதாரண உப்பின் வேதியியல் சூத்திரம்:)
+    a) KCl (KCl)
+    b) NaCl (NaCl)
+    c) CaCl₂ (CaCl₂)
+    d) MgCl₂ (MgCl₂)
+    Answer: b
+
+25. Which acid is present in sour milk or curd?
+    (புளித்த பால் அல்லது தயிரில் உள்ள அமிலம் எது?)
+    a) Citric acid (சிட்ரிக் அமிலம்)
+    b) Acetic acid (அசிட்டிக் அமிலம்)
+    c) Lactic acid (லாக்டிக் அமிலம்)
+    d) Tartaric acid (டார்டாரிக் அமிலம்)
+    Answer: c
+
+26. What is the colour of phenolphthalein in a basic solution?
+    (காரக் கரைசலில் பினாப்தலீனின் நிறம் என்ன?)
+    a) Yellow (மஞ்சள்)
+    b) Pink (இளஞ்சிவப்பு)
+    c) Colourless (நிறமற்றது)
+    d) Orange (ஆரஞ்சு)
+    Answer: b
+
+27. The process of reaction between an acid and a base is known as:
+    (ஒரு அமிலம் மற்றும் ஒரு காரத்திற்கு இடையிலான வினை எவ்வாறு அழைக்கப்படுகிறது?)
+    a) Esterification (எஸ்டராக்குதல்)
+    b) Neutralization (நடுநிலையாக்கல்)
+    c) Saponification (சோப்பாக்குதல்)
+    d) Hydrogenation (ஹைட்ரஜனேற்றம்)
+    Answer: b
+
+28. Which of the following is a strong base?
+    (பின்வருவனவற்றில் எது வலிமையான காரம்?)
+    a) Ammonium hydroxide (NH₄OH) (அம்மோனியம் ஹைட்ராக்சைடு)
+    b) Sodium hydroxide (NaOH) (சோடியம் ஹைட்ராக்சைடு)
+    c) Magnesium hydroxide (Mg(OH)₂) (மெக்னீசியம் ஹைட்ராக்சைடு)
+    d) Calcium hydroxide (Ca(OH)₂) (கால்சியம் ஹைட்ராக்சைடு)
+    Answer: b
+
+29. The pH scale ranges from:
+    (pH அளவுகோலின் வரம்பு:)
+    a) 0 to 7
+    b) 7 to 14
+    c) 0 to 14
+    d) 1 to 10
+    Answer: c
+
+30. 'Aqua regia' is a mixture of:
+    ('அக்வா ரீஜியா' என்பது எதன் கலவை?)
+    a) Concentrated HCl and concentrated H₂SO₄ (செறிவுமிகு HCl மற்றும் செறிவுமிகு H₂SO₄)
+    b) Concentrated HNO₃ and concentrated H₂SO₄ (செறிவுமிகு HNO₃ மற்றும் செறிவுமிகு H₂SO₄)
+    c) Concentrated HCl and concentrated HNO₃ in 3:1 ratio (3:1 விகிதத்தில் செறிவுமிகு HCl மற்றும் செறிவுமிகு HNO₃)
+    d) Concentrated HCl and concentrated HNO₃ in 1:3 ratio (1:3 விகிதத்தில் செறிவுமிகு HCl மற்றும் செறிவுமிகு HNO₃)
+    Answer: c
+
+31. Which gas is evolved when acids react with metal carbonates?
+    (அமிலங்கள் உலோக கார்பனேட்டுகளுடன் வினைபுரியும்போது எந்த வாயு உருவாகிறது?)
+    a) Hydrogen (ஹைட்ரஜன்)
+    b) Oxygen (ஆக்ஸிஜன்)
+    c) Carbon dioxide (கார்பன் டை ஆக்சைடு)
+    d) Nitrogen dioxide (நைட்ரஜன் டை ஆக்சைடு)
+    Answer: c
+
+32. The "sting" of bees and ants contains:
+    (தேனீக்கள் மற்றும் எறும்புகளின் "கொடுக்கில்" என்ன உள்ளது?)
+    a) Acetic acid (அசிட்டிக் அமிலம்)
+    b) Citric acid (சிட்ரிக் அமிலம்)
+    c) Formic acid (பார்மிக் அமிலம்)
+    d) Sulphuric acid (கந்தக அமிலம்)
+    Answer: c
+
+33. Water soluble bases are known as:
+    (நீரில் கரையக்கூடிய காரங்கள் இவ்வாறு அழைக்கப்படுகின்றன:)
+    a) Acids (அமிலங்கள்)
+    b) Salts (உப்புகள்)
+    c) Alkalis (அல்கலிகள்)
+    d) Indicators (நிறங்காட்டிகள்)
+    Answer: c
+
+34. Plaster of Paris is chemically:
+    (பாரிஸ் சாந்தின் வேதியியல் பெயர்:)
+    a) Calcium sulphate dihydrate (கால்சியம் சல்பேட் டைஹைட்ரேட்)
+    b) Calcium sulphate hemihydrate (கால்சியம் சல்பேட் ஹெமிஹைட்ரேட்)
+    c) Calcium carbonate (கால்சியம் கார்பனேட்)
+    d) Sodium bicarbonate (சோடியம் பைகார்பனேட்)
+    Answer: b
+
+35. Which of the following salts does not contain water of crystallization?
+    (பின்வரும் உப்புகளில் எதில் படிக நீர் இல்லை?)
+    a) Blue vitriol (CuSO₄·5H₂O) (மயில் துத்தம்)
+    b) Washing soda (Na₂CO₃·10H₂O) (சலவை சோடா)
+    c) Baking soda (NaHCO₃) (சமையல் சோடா)
+    d) Gypsum (CaSO₄·2H₂O) (ஜிப்சம்)
+    Answer: c
+
+36. An aqueous solution turns red litmus blue. Excess addition of which of the following solution would reverse the change?
+    (ஒரு நீர்க்கரைசல் சிவப்பு லிட்மஸை நீலமாக மாற்றுகிறது. பின்வரும் எந்த கரைசலை அதிகமாக சேர்ப்பது இந்த மாற்றத்தை மாற்றியமைக்கும்?)
+    a) Baking powder (சமையல் சோடா)
+    b) Lime (சுண்ணாம்பு)
+    c) Ammonium hydroxide solution (அம்மோனியம் ஹைட்ராக்சைடு கரைசல்)
+    d) Hydrochloric acid (ஹைட்ரோகுளோரிக் அமிலம்)
+    Answer: d
+
+37. The acid used in lead storage batteries is:
+    (ஈய சேமிப்புக் கலன்களில் பயன்படுத்தப்படும் அமிலம்:)
+    a) Nitric acid (நைட்ரிக் அமிலம்)
+    b) Hydrochloric acid (ஹைட்ரோகுளோரிக் அமிலம்)
+    c) Sulphuric acid (கந்தக அமிலம்)
+    d) Acetic acid (அசிட்டிக் அமிலம்)
+    Answer: c
+
+38. What happens when a solution of an acid is mixed with a solution of a base in a test tube?
+    (i) The temperature of the solution increases.
+    (ii) The temperature of the solution decreases.
+    (iii) Salt formation takes place.
+    (iv) The colour of the solution changes.
+    (ஒரு சோதனைக் குழாயில் ஒரு அமிலக் கரைசலையும் ஒரு காரக் கரைசலையும் கலக்கும்போது என்ன நடக்கும்?)
+    (i) கரைசலின் வெப்பநிலை அதிகரிக்கிறது.
+    (ii) கரைசலின் வெப்பநிலை குறைகிறது.
+    (iii) உப்பு உருவாதல் நடைபெறுகிறது.
+    (iv) கரைசலின் நிறம் மாறுகிறது.
+    a) (i) and (iii) only (i) மற்றும் (iii) மட்டும்
+    b) (i) and (ii) only (i) மற்றும் (ii) மட்டும்
+    c) (ii) and (iii) only (ii) மற்றும் (iii) மட்டும்
+    d) (i) and (iv) only (i) மற்றும் (iv) மட்டும்
+    Answer: a (Neutralization is exothermic, and salt is formed. Colour change only if an indicator is present initially)
+    (நடுநிலையாக்கல் ஒரு வெப்ப உமிழ்வினை, மற்றும் உப்பு உருவாகிறது. ஆரம்பத்தில் நிறங்காட்டி இருந்தால் மட்டுமே நிற மாற்றம் ஏற்படும்)
+
+39. Which of the following is NOT a property of acids?
+    (பின்வருவனவற்றில் எது அமிலங்களின் பண்பு அல்ல?)
+    a) They taste sour. (அவை புளிப்புச் சுவை கொண்டவை.)
+    b) They turn blue litmus red. (அவை நீல லிட்மஸை சிவப்பாக மாற்றுகின்றன.)
+    c) They feel soapy to touch. (அவை தொடுவதற்கு வழவழப்பாக இருக்கும்.)
+    d) They react with certain metals to produce hydrogen gas. (அவை சில உலோகங்களுடன் வினைபுரிந்து ஹைட்ரஜன் வாயுவை உருவாக்குகின்றன.)
+    Answer: c (Bases feel soapy) (காரங்கள் வழவழப்பாக இருக்கும்)
+
+40. The chemical formula of gypsum is:
+    (ஜிப்சத்தின் வேதியியல் சூத்திரம்:)
+    a) CaSO₄·½H₂O
+    b) CaSO₄·2H₂O
+    c) CaSO₄
+    d) 2CaSO₄·H₂O
+    Answer: b
+
+41. The acidity of Mg(OH)₂ is:
+    (Mg(OH)₂ -ன் அமிலத்துவம்:)
+    a) 1
+    b) 2
+    c) 3
+    d) 0
+    Answer: b (It can neutralize two H+ ions or has two OH- groups) (இது இரண்டு H+ அயனிகளை நடுநிலையாக்க முடியும் அல்லது இரண்டு OH- தொகுதிகளைக் கொண்டுள்ளது)
+
+42. An acid is a substance which:
+    (அமிலம் என்பது ஒரு பொருள், அது:)
+    a) donates a proton (ஒரு புரோட்டானை வழங்குகிறது)
+    b) accepts a proton (ஒரு புரோட்டானை ஏற்கிறது)
+    c) donates an electron pair (ஒரு எலக்ட்ரான் இணையை வழங்குகிறது)
+    d) accepts an electron pair (ஒரு எலக்ட்ரான் இணையை ஏற்கிறது)
+    Answer: a (According to Bronsted-Lowry theory) (பிரான்ஸ்டெட்-லௌரி கோட்பாட்டின்படி)
+
+43. The pH of human blood is approximately:
+    (மனித இரத்தத்தின் pH தோராயமாக:)
+    a) 6.4
+    b) 7.0
+    c) 7.4
+    d) 8.0
+    Answer: c
+
+44. Which of the following is formed when calcium hydroxide reacts with carbon dioxide?
+    (கால்சியம் ஹைட்ராக்சைடு கார்பன் டை ஆக்சைடுடன் வினைபுரியும்போது பின்வருவனவற்றில் எது உருவாகிறது?)
+    a) Calcium oxide (கால்சியம் ஆக்சைடு)
+    b) Calcium carbonate (கால்சியம் கார்பனேட்)
+    c) Calcium chloride (கால்சியம் குளோரைடு)
+    d) Calcium bicarbonate (கால்சியம் பைகார்பனேட்)
+    Answer: b
+
+45. The common name of Sodium Hydrogen Carbonate is:
+    (சோடியம் ஹைட்ரஜன் கார்பனேட்டின் பொதுவான பெயர்:)
+    a) Washing soda (சலவை சோடா)
+    b) Baking soda (சமையல் சோடா)
+    c) Caustic soda (காஸ்டிக் சோடா)
+    d) Bleaching powder (சலவைத் தூள்)
+    Answer: b
+
+46. When an acid reacts with a metal oxide, the products are:
+    (ஒரு அமிலம் ஒரு உலோக ஆக்சைடுடன் வினைபுரியும்போது, உருவாகும் பொருட்கள்:)
+    a) Salt and hydrogen gas (உப்பு மற்றும் ஹைட்ரஜன் வாயு)
+    b) Salt and water (உப்பு மற்றும் நீர்)
+    c) Metal and water (உலோகம் மற்றும் நீர்)
+    d) Metal hydroxide and hydrogen gas (உலோக ஹைட்ராக்சைடு மற்றும் ஹைட்ரஜன் வாயு)
+    Answer: b
+
+47. The colour of methyl orange indicator in acidic medium is:
+    (அமில ஊடகத்தில் மெத்தில் ஆரஞ்சு நிறங்காட்டியின் நிறம்:)
+    a) Yellow (மஞ்சள்)
+    b) Red (சிவப்பு)
+    c) Orange (ஆரஞ்சு)
+    d) Colourless (நிறமற்றது)
+    Answer: b
+
+48. Which of the following is an organic acid?
+    (பின்வருவனவற்றில் எது கரிம அமிலம்?)
+    a) Hydrochloric acid (HCl) (ஹைட்ரோகுளோரிக் அமிலம்)
+    b) Sulphuric acid (H₂SO₄) (கந்தக அமிலம்)
+    c) Nitric acid (HNO₃) (நைட்ரிக் அமிலம்)
+    d) Acetic acid (CH₃COOH) (அசிட்டிக் அமிலம்)
+    Answer: d
+
+49. A solution with pH = 0 is:
+    (pH = 0 கொண்ட ஒரு கரைசல்:)
+    a) Strongly basic (மிகவும் காரத்தன்மை கொண்டது)
+    b) Strongly acidic (மிகவும் அமிலத்தன்மை கொண்டது)
+    c) Neutral (நடுநிலையானது)
+    d) Weakly acidic (மென் அமிலத்தன்மை கொண்டது)
+    Answer: b
+
+50. Tooth enamel is made up of:
+    (பல் எனாமல் எதனால் ஆனது?)
+    a) Calcium carbonate (கால்சியம் கார்பனேட்)
+    b) Calcium phosphate (கால்சியம் பாஸ்பேட்)
+    c) Calcium sulphate (கால்சியம் சல்பேட்)
+    d) Calcium oxide (கால்சியம் ஆக்சைடு)
+    Answer: b (Specifically, hydroxyapatite, a form of calcium phosphate) (குறிப்பாக, ஹைட்ராக்ஸிஅபடைட், கால்சியம் பாஸ்பேட்டின் ஒரு வடிவம்)

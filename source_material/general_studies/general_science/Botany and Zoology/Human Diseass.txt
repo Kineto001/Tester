@@ -1,0 +1,879 @@
+Overall Topic for Question Generation: Human Diseases
+
+---
+**1. Assertion and Reason Questions (6 questions)**
+---
+
+**1.**
+**Assertion (A):** AIDS is a syndrome caused by the Human Immunodeficiency Virus (HIV).
+**Reason (R):** HIV attacks and weakens the body's immune system, making the individual susceptible to various infections.
+
+**கூற்று (A):** எய்ட்ஸ் என்பது மனித நோயெதிர்ப்பு குறைபாடு வைரஸால் (HIV) ஏற்படும் ஒரு நோய்க்குறித் தொகுப்பு ஆகும்.
+**காரணம் (R):** HIV உடலின் நோயெதிர்ப்பு மண்டலத்தைத் தாக்கி பலவீனப்படுத்துகிறது, இதனால் தனிநபர் பல்வேறு நோய்த்தொற்றுகளுக்கு ஆளாகிறார்.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: a**
+
+---
+
+**2.**
+**Assertion (A):** Malaria is a communicable disease.
+**Reason (R):** Malaria is transmitted by the bite of a female Anopheles mosquito carrying the Plasmodium parasite.
+
+**கூற்று (A):** மலேரியா ஒரு தொற்று நோய்.
+**காரணம் (R):** பிளாஸ்மோடியம் ஒட்டுண்ணியைக் கொண்டுள்ள பெண் அனோபிலிஸ் கொசு கடிப்பதன் மூலம் மலேரியா பரவுகிறது.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: a**
+
+---
+
+**3.**
+**Assertion (A):** Vaccination provides immunity against specific diseases.
+**Reason (R):** Vaccines introduce pre-formed antibodies directly into the body to fight the pathogen.
+
+**கூற்று (A):** தடுப்பூசி குறிப்பிட்ட நோய்களுக்கு எதிராக நோய் எதிர்ப்பு சக்தியை வழங்குகிறது.
+**காரணம் (R):** தடுப்பூசிகள் நோய்க்கிருமியை எதிர்த்துப் போராட முன்பே உருவாக்கப்பட்ட ஆன்டிபாடிகளை நேரடியாக உடலில் செலுத்துகின்றன.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: c**
+
+---
+
+**4.**
+**Assertion (A):** Diabetes mellitus is characterized by high blood sugar levels.
+**Reason (R):** It is caused by the excessive secretion of insulin by the pancreas.
+
+**கூற்று (A):** நீரிழிவு நோய் (டயாபடீஸ் மெல்லிடஸ்) உயர் இரத்த சர்க்கரை அளவுகளால் வகைப்படுத்தப்படுகிறது.
+**காரணம் (R):** இது கணையத்தால் இன்சுலின் அதிகமாக சுரக்கப்படுவதால் ஏற்படுகிறது.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: c**
+
+---
+
+**5.**
+**Assertion (A):** Tuberculosis is a bacterial disease affecting primarily the lungs.
+**Reason (R):** Tuberculosis is spread through contaminated food and water.
+
+**கூற்று (A):** காசநோய் என்பது முதன்மையாக நுரையீரலைப் பாதிக்கும் ஒரு பாக்டீரியா நோய்.
+**காரணம் (R):** காசநோய் அசுத்தமான உணவு மற்றும் நீர் மூலம் பரவுகிறது.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: c**
+
+---
+
+**6.**
+**Assertion (A):** Goitre is caused by the deficiency of Vitamin C.
+**Reason (R):** Iodine is essential for the synthesis of thyroxine hormone.
+
+**கூற்று (A):** முன் கழுத்துக் கழலை (Goitre) வைட்டமின் C குறைபாட்டால் ஏற்படுகிறது.
+**காரணம் (R):** தைராக்ஸின் ஹார்மோன் உற்பத்திக்கு அயோடின் அவசியம்.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: d**
+
+---
+**2. Identify the Wrongly Matched Pair Questions (6 questions)**
+---
+
+**7.** Identify the wrongly matched pair:
+    a) Cholera - Vibrio cholerae
+    b) Typhoid - Salmonella typhi
+    c) Malaria - Virus
+    d) Tuberculosis - Mycobacterium tuberculosis
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) காலரா - விப்ரியோ காலரே
+    b) டைபாய்டு - சால்மோனெல்லா டைஃபி
+    c) மலேரியா - வைரஸ்
+    d) காசநோய் - மைக்கோபாக்டீரியம் ட்யூபர்குலோசிஸ்
+
+**Answer: c (Malaria - Protozoa / மலேரியா - புரோட்டோசோவா)**
+
+---
+
+**8.** Identify the wrongly matched pair:
+    a) Vitamin A - Night blindness
+    b) Vitamin C - Scurvy
+    c) Vitamin D - Beriberi
+    d) Vitamin B1 - Beriberi
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) வைட்டமின் A - மாலைக்கண் நோய்
+    b) வைட்டமின் C - ஸ்கர்வி
+    c) வைட்டமின் D - பெரிபெரி
+    d) வைட்டமின் B1 - பெரிபெரி
+
+**Answer: c (Vitamin D - Rickets / வைட்டமின் D - ரிக்கெட்ஸ்)**
+
+---
+
+**9.** Identify the wrongly matched pair:
+    a) Dengue - Aedes mosquito
+    b) Plague - Rat flea
+    c) Filariasis - Culex mosquito
+    d) Rabies - Anopheles mosquito
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) டெங்கு - ஏடிஸ் கொசு
+    b) பிளேக் - எலி தெள்ளுப்பூச்சி
+    c) யானைக்கால் நோய் - கியூலெக்ஸ் கொசு
+    d) ரேபிஸ் - அனோபிலிஸ் கொசு
+
+**Answer: d (Rabies - Bite of infected animal / ரேபிஸ் - பாதிக்கப்பட்ட விலங்கு கடி)**
+
+---
+
+**10.** Identify the wrongly matched pair:
+    a) Widal Test - Typhoid
+    b) ELISA Test - AIDS
+    c) Tourniquet Test - Dengue
+    d) Pap Smear - Diabetes
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) வைடால் சோதனை - டைபாய்டு
+    b) எலிசா சோதனை - எய்ட்ஸ்
+    c) டூர்னிக்கெட் சோதனை - டெங்கு
+    d) பாப் ஸ்மியர் - நீரிழிவு நோய்
+
+**Answer: d (Pap Smear - Cervical cancer screening / பாப் ஸ்மியர் - கர்ப்பப்பை வாய் புற்றுநோய் கண்டறிதல்)**
+
+---
+
+**11.** Identify the wrongly matched pair:
+    a) Common Cold - Rhinovirus
+    b) Polio - Enterovirus
+    c) Measles - Paramyxovirus
+    d) Smallpox - Retrovirus
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) சாதாரண சளி - ரினோவைரஸ்
+    b) போலியோ - என்டெரோவைரஸ்
+    c) தட்டம்மை - பாராமிக்ஸோவைரஸ்
+    d) பெரியம்மை - ரெட்ரோவைரஸ்
+
+**Answer: d (Smallpox - Variola virus / பெரியம்மை - வேரியோலா வைரஸ்)**
+
+---
+
+**12.** Identify the wrongly matched pair:
+    a) Non-communicable disease - Hypertension
+    b) Genetic disorder - Hemophilia
+    c) Deficiency disease - Cancer
+    d) Bacterial disease - Leprosy
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) தொற்றா நோய் - உயர் இரத்த அழுத்தம்
+    b) மரபணு கோளாறு - ஹீமோபிலியா
+    c) குறைபாட்டு நோய் - புற்றுநோய்
+    d) பாக்டீரியா நோய் - தொழுநோய்
+
+**Answer: c (Cancer - Non-communicable disease / புற்றுநோய் - தொற்றா நோய்)**
+
+---
+**3. Match the Following Questions (6 questions)**
+---
+
+**13.** Match the following:
+List-I (Disease) | List-II (Causative Agent)
+--- | ---
+1. Diphtheria | a. Virus
+2. Influenza | b. Fungus
+3. Ringworm | c. Bacteria
+4. Amoebiasis | d. Protozoa
+
+பொருத்துக:
+பட்டியல்-I (நோய்) | பட்டியல்-II (காரணி)
+--- | ---
+1. டிப்தீரியா | அ. வைரஸ்
+2. இன்ஃப்ளூயன்ஸா | ஆ. பூஞ்சை
+3. படர்தாமரை | இ. பாக்டீரியா
+4. அமீபியாசிஸ் | ஈ. புரோட்டோசோவா
+
+Options/குறியீடுகள்:
+A) 1-c, 2-a, 3-b, 4-d (1-இ, 2-அ, 3-ஆ, 4-ஈ)
+B) 1-a, 2-c, 3-d, 4-b (1-அ, 2-இ, 3-ஈ, 4-ஆ)
+C) 1-c, 2-b, 3-a, 4-d (1-இ, 2-ஆ, 3-அ, 4-ஈ)
+D) 1-d, 2-a, 3-c, 4-b (1-ஈ, 2-அ, 3-இ, 4-ஆ)
+
+**Answer: A**
+
+---
+
+**14.** Match the following:
+List-I (Vitamin Deficiency) | List-II (Disease)
+--- | ---
+1. Vitamin B12 | a. Scurvy
+2. Vitamin C | b. Rickets
+3. Vitamin K | c. Pernicious Anemia
+4. Vitamin D | d. Delayed blood clotting
+
+பொருத்துக:
+பட்டியல்-I (வைட்டமின் குறைபாடு) | பட்டியல்-II (நோய்)
+--- | ---
+1. வைட்டமின் B12 | அ. ஸ்கர்வி
+2. வைட்டமின் C | ஆ. ரிக்கெட்ஸ்
+3. வைட்டமின் K | இ. பெர்னீசியஸ் இரத்தசோகை
+4. வைட்டமின் D | ஈ. இரத்தம் உறைதல் தாமதமாதல்
+
+Options/குறியீடுகள்:
+A) 1-c, 2-a, 3-d, 4-b (1-இ, 2-அ, 3-ஈ, 4-ஆ)
+B) 1-a, 2-c, 3-b, 4-d (1-அ, 2-இ, 3-ஆ, 4-ஈ)
+C) 1-c, 2-d, 3-a, 4-b (1-இ, 2-ஈ, 3-அ, 4-ஆ)
+D) 1-d, 2-a, 3-c, 4-b (1-ஈ, 2-அ, 3-இ, 4-ஆ)
+
+**Answer: A**
+
+---
+
+**15.** Match the following:
+List-I (Disease) | List-II (Affected Organ)
+--- | ---
+1. Pneumonia | a. Liver
+2. Jaundice | b. Joints
+3. Arthritis | c. Lungs
+4. Goitre | d. Thyroid gland
+
+பொருத்துக:
+பட்டியல்-I (நோய்) | பட்டியல்-II (பாதிக்கப்பட்ட உறுப்பு)
+--- | ---
+1. நிமோனியா | அ. கல்லீரல்
+2. மஞ்சள் காமாலை | ஆ. மூட்டுகள்
+3. கீல்வாதம் (ஆர்த்ரைடிஸ்) | இ. நுரையீரல்
+4. முன் கழுத்துக் கழலை | ஈ. தைராய்டு சுரப்பி
+
+Options/குறியீடுகள்:
+A) 1-c, 2-d, 3-a, 4-b (1-இ, 2-ஈ, 3-அ, 4-ஆ)
+B) 1-c, 2-a, 3-b, 4-d (1-இ, 2-அ, 3-ஆ, 4-ஈ)
+C) 1-a, 2-c, 3-b, 4-d (1-அ, 2-இ, 3-ஆ, 4-ஈ)
+D) 1-d, 2-a, 3-c, 4-b (1-ஈ, 2-அ, 3-இ, 4-ஆ)
+
+**Answer: B**
+
+---
+
+**16.** Match the following:
+List-I (Vaccine) | List-II (Disease Prevented)
+--- | ---
+1. BCG | a. Polio
+2. OPV | b. Measles, Mumps, Rubella
+3. MMR | c. Diphtheria, Pertussis, Tetanus
+4. DPT | d. Tuberculosis
+
+பொருத்துக:
+பட்டியல்-I (தடுப்பூசி) | பட்டியல்-II (தடுக்கப்படும் நோய்)
+--- | ---
+1. BCG | அ. போலியோ
+2. OPV | ஆ. தட்டம்மை, புட்டாளம்மை, ரூபெல்லா
+3. MMR | இ. டிப்தீரியா, கக்குவான் இருமல், டெட்டனஸ்
+4. DPT | ஈ. காசநோய்
+
+Options/குறியீடுகள்:
+A) 1-d, 2-a, 3-b, 4-c (1-ஈ, 2-அ, 3-ஆ, 4-இ)
+B) 1-a, 2-d, 3-c, 4-b (1-அ, 2-ஈ, 3-இ, 4-ஆ)
+C) 1-d, 2-b, 3-a, 4-c (1-ஈ, 2-ஆ, 3-அ, 4-இ)
+D) 1-c, 2-a, 3-d, 4-b (1-இ, 2-அ, 3-ஈ, 4-ஆ)
+
+**Answer: A**
+
+---
+
+**17.** Match the following:
+List-I (Vector) | List-II (Disease Transmitted)
+--- | ---
+1. Female Anopheles Mosquito | a. Dengue Fever
+2. Female Aedes Mosquito | b. Plague
+3. Rat Flea (Xenopsylla cheopis) | c. Filariasis
+4. Female Culex Mosquito | d. Malaria
+
+பொருத்துக:
+பட்டியல்-I (கடத்தி) | பட்டியல்-II (பரவும் நோய்)
+--- | ---
+1. பெண் அனோபிலிஸ் கொசு | அ. டெங்கு காய்ச்சல்
+2. பெண் ஏடிஸ் கொசு | ஆ. பிளேக்
+3. எலி தெள்ளுப்பூச்சி (செனோப்சில்லா சியோபிஸ்) | இ. யானைக்கால் நோய்
+4. பெண் கியூலெக்ஸ் கொசு | ஈ. மலேரியா
+
+Options/குறியீடுகள்:
+A) 1-d, 2-c, 3-a, 4-b (1-ஈ, 2-இ, 3-அ, 4-ஆ)
+B) 1-a, 2-d, 3-b, 4-c (1-அ, 2-ஈ, 3-ஆ, 4-இ)
+C) 1-d, 2-a, 3-b, 4-c (1-ஈ, 2-அ, 3-ஆ, 4-இ)
+D) 1-c, 2-a, 3-d, 4-b (1-இ, 2-அ, 3-ஈ, 4-ஆ)
+
+**Answer: C**
+
+---
+
+**18.** Match the following:
+List-I (Type of Disease) | List-II (Example)
+--- | ---
+1. Bacterial Disease | a. AIDS
+2. Viral Disease | b. Scurvy
+3. Deficiency Disease | c. Typhoid
+4. Genetic Disorder | d. Sickle Cell Anemia
+
+பொருத்துக:
+பட்டியல்-I (நோய் வகை) | பட்டியல்-II (உதாரணம்)
+--- | ---
+1. பாக்டீரியா நோய் | அ. எய்ட்ஸ்
+2. வைரஸ் நோய் | ஆ. ஸ்கர்வி
+3. குறைபாட்டு நோய் | இ. டைபாய்டு
+4. மரபணு கோளாறு | ஈ. அரிவாள் செல் இரத்தசோகை
+
+Options/குறியீடுகள்:
+A) 1-c, 2-a, 3-b, 4-d (1-இ, 2-அ, 3-ஆ, 4-ஈ)
+B) 1-a, 2-c, 3-d, 4-b (1-அ, 2-இ, 3-ஈ, 4-ஆ)
+C) 1-c, 2-b, 3-a, 4-d (1-இ, 2-ஆ, 3-அ, 4-ஈ)
+D) 1-d, 2-a, 3-c, 4-b (1-ஈ, 2-அ, 3-இ, 4-ஆ)
+
+**Answer: A**
+
+---
+**4. Standard Multiple Choice Questions (32 questions)**
+---
+
+**19.** Which of the following diseases is caused by a virus?
+    a) Tuberculosis
+    b) Cholera
+    c) Polio
+    d) Malaria
+
+பின்வரும் நோய்களில் எது வைரஸால் ஏற்படுகிறது?
+    a) காசநோய்
+    b) காலரா
+    c) போலியோ
+    d) மலேரியா
+**Answer: c**
+
+---
+
+**20.** 'Lockjaw' is a common name for which disease?
+    a) Tetanus
+    b) Rabies
+    c) Diphtheria
+    d) Pertussis
+
+'வாய்ப்பூட்டு நோய்' என்பது எந்த நோயின் பொதுவான பெயர்?
+    a) டெட்டனஸ்
+    b) ரேபிஸ்
+    c) டிப்தீரியா
+    d) கக்குவான் இருமல்
+**Answer: a**
+
+---
+
+**21.** Deficiency of Iodine leads to:
+    a) Scurvy
+    b) Goitre
+    c) Rickets
+    d) Beriberi
+
+அயோடின் குறைபாடு ____________ நோய்க்கு வழிவகுக்கிறது:
+    a) ஸ்கர்வி
+    b) முன் கழுத்துக் கழலை
+    c) ரிக்கெட்ஸ்
+    d) பெரிபெரி
+**Answer: b**
+
+---
+
+**22.** Which disease is also known as Hansen's disease?
+    a) Leprosy
+    b) Tuberculosis
+    c) Plague
+    d) Anthrax
+
+ஹான்சன் நோய் என்றும் அழைக்கப்படும் நோய் எது?
+    a) தொழுநோய்
+    b) காசநோய்
+    c) பிளேக்
+    d) ஆந்த்ராக்ஸ்
+**Answer: a**
+
+---
+
+**23.** The causative agent of AIDS is:
+    a) Bacteria
+    b) Virus
+    c) Fungus
+    d) Protozoa
+
+எய்ட்ஸ் நோய்க்கான காரணி:
+    a) பாக்டீரியா
+    b) வைரஸ்
+    c) பூஞ்சை
+    d) புரோட்டோசோவா
+**Answer: b**
+
+---
+
+**24.** Which of the following is a water-borne disease?
+    a) Influenza
+    b) Measles
+    c) Cholera
+    d) Tuberculosis
+
+பின்வருவனவற்றில் எது நீரினால் பரவும் நோய்?
+    a) இன்ஃப்ளூயன்ஸா
+    b) தட்டம்மை
+    c) காலரா
+    d) காசநோய்
+**Answer: c**
+
+---
+
+**25.** Rickets is caused by the deficiency of:
+    a) Vitamin A
+    b) Vitamin B
+    c) Vitamin C
+    d) Vitamin D
+
+ரிக்கெட்ஸ் ___________ குறைபாட்டால் ஏற்படுகிறது:
+    a) வைட்டமின் A
+    b) வைட்டமின் B
+    c) வைட்டமின் C
+    d) வைட்டமின் D
+**Answer: d**
+
+---
+
+**26.** Dengue fever is transmitted by:
+    a) Anopheles mosquito
+    b) Culex mosquito
+    c) Aedes mosquito
+    d) Sandfly
+
+டெங்கு காய்ச்சல் ___________ மூலம் பரவுகிறது:
+    a) அனோபிலிஸ் கொசு
+    b) கியூலெக்ஸ் கொசு
+    c) ஏடிஸ் கொசு
+    d) மணல் ஈ
+**Answer: c**
+
+---
+
+**27.** Which of the following is a non-communicable disease?
+    a) Common cold
+    b) Cancer
+    c) Chickenpox
+    d) Typhoid
+
+பின்வருவனவற்றில் எது தொற்றா நோய்?
+    a) சாதாரண சளி
+    b) புற்றுநோய்
+    c) சின்னம்மை
+    d) டைபாய்டு
+**Answer: b**
+
+---
+
+**28.** BCG vaccine is given to prevent:
+    a) Polio
+    b) Measles
+    c) Tuberculosis
+    d) Diphtheria
+
+BCG தடுப்பூசி ___________ நோயைத் தடுக்க கொடுக்கப்படுகிறது:
+    a) போலியோ
+    b) தட்டம்மை
+    c) காசநோய்
+    d) டிப்தீரியா
+**Answer: c**
+
+---
+
+**29.** Malaria is caused by:
+    a) Plasmodium vivax
+    b) Vibrio cholerae
+    c) Salmonella typhi
+    d) Rhinovirus
+
+மலேரியா ___________ ஆல் ஏற்படுகிறது:
+    a) பிளாஸ்மோடியம் விவாக்ஸ்
+    b) விப்ரியோ காலரே
+    c) சால்மோனெல்லா டைஃபி
+    d) ரினோவைரஸ்
+**Answer: a**
+
+---
+
+**30.** Widal test is used for the diagnosis of:
+    a) Malaria
+    b) Typhoid
+    c) AIDS
+    d) Tuberculosis
+
+வைடால் சோதனை ___________ நோயைக் கண்டறியப் பயன்படுகிறது:
+    a) மலேரியா
+    b) டைபாய்டு
+    c) எய்ட்ஸ்
+    d) காசநோய்
+**Answer: b**
+
+---
+
+**31.** Scurvy is caused by the deficiency of:
+    a) Vitamin A
+    b) Vitamin B1
+    c) Vitamin C
+    d) Vitamin D
+
+ஸ்கர்வி ___________ குறைபாட்டால் ஏற்படுகிறது:
+    a) வைட்டமின் A
+    b) வைட்டமின் B1
+    c) வைட்டமின் C
+    d) வைட்டமின் D
+**Answer: c**
+
+---
+
+**32.** The disease Filariasis is transmitted by:
+    a) Housefly
+    b) Aedes mosquito
+    c) Culex mosquito
+    d) Anopheles mosquito
+
+யானைக்கால் நோய் ___________ மூலம் பரவுகிறது:
+    a) வீட்டு ஈ
+    b) ஏடிஸ் கொசு
+    c) கியூலெக்ஸ் கொசு
+    d) அனோபிலிஸ் கொசு
+**Answer: c**
+
+---
+
+**33.** Which one of the following is a genetic disorder?
+    a) Beriberi
+    b) Hemophilia
+    c) Goitre
+    d) Scurvy
+
+பின்வருவனவற்றில் எது மரபணு கோளாறு?
+    a) பெரிபெரி
+    b) ஹீமோபிலியா
+    c) முன் கழுத்துக் கழலை
+    d) ஸ்கர்வி
+**Answer: b**
+
+---
+
+**34.** The pathogen responsible for Pneumonia is:
+    a) Virus
+    b) Bacteria
+    c) Fungus
+    d) Protozoa
+
+நிமோனியாவுக்கு காரணமான நோய்க்கிருமி:
+    a) வைரஸ்
+    b) பாக்டீரியா
+    c) பூஞ்சை
+    d) புரோட்டோசோவா
+**Answer: b**
+
+---
+
+**35.** Beriberi is caused due to the deficiency of:
+    a) Vitamin B1
+    b) Vitamin B2
+    c) Vitamin B6
+    d) Vitamin B12
+
+பெரிபெரி ___________ குறைபாட்டால் ஏற்படுகிறது:
+    a) வைட்டமின் B1
+    b) வைட்டமின் B2
+    c) வைட்டமின் B6
+    d) வைட்டமின் B12
+**Answer: a**
+
+---
+
+**36.** ELISA test is primarily used to detect:
+    a) Tuberculosis antibodies
+    b) HIV antibodies
+    c) Typhoid antigens
+    d) Malaria parasites
+
+எலிசா சோதனை முதன்மையாக ___________ கண்டறியப் பயன்படுகிறது:
+    a) காசநோய் ஆன்டிபாடிகள்
+    b) HIV ஆன்டிபாடிகள்
+    c) டைபாய்டு ஆன்டிஜென்கள்
+    d) மலேரியா ஒட்டுண்ணிகள்
+**Answer: b**
+
+---
+
+**37.** Which of the following diseases affects the liver?
+    a) Rabies
+    b) Polio
+    c) Hepatitis
+    d) Tetanus
+
+பின்வரும் நோய்களில் எது கல்லீரலை பாதிக்கிறது?
+    a) ரேபிஸ்
+    b) போலியோ
+    c) ஹெபடைடிஸ் (கல்லீரல் அழற்சி)
+    d) டெட்டனஸ்
+**Answer: c**
+
+---
+
+**38.** Ringworm is a disease caused by:
+    a) Bacteria
+    b) Virus
+    c) Fungus
+    d) Worm
+
+படர்தாமரை ___________ ஆல் ஏற்படும் நோய்:
+    a) பாக்டீரியா
+    b) வைரஸ்
+    c) பூஞ்சை
+    d) புழு
+**Answer: c**
+
+---
+
+**39.** Night blindness is caused by the deficiency of:
+    a) Vitamin C
+    b) Vitamin D
+    c) Vitamin K
+    d) Vitamin A
+
+மாலைக்கண் நோய் ___________ குறைபாட்டால் ஏற்படுகிறது:
+    a) வைட்டமின் C
+    b) வைட்டமின் D
+    c) வைட்டமின் K
+    d) வைட்டமின் A
+**Answer: d**
+
+---
+
+**40.** The "DOTS" strategy is associated with the treatment of:
+    a) AIDS
+    b) Malaria
+    c) Tuberculosis
+    d) Polio
+
+"டாட்ஸ்" (DOTS) சிகிச்சை முறை ___________ சிகிச்சையுடன் தொடர்புடையது:
+    a) எய்ட்ஸ்
+    b) மலேரியா
+    c) காசநோய்
+    d) போலியோ
+**Answer: c**
+
+---
+
+**41.** Hydrophobia is a symptom of:
+    a) Malaria
+    b) Rabies
+    c) Cholera
+    d) Dengue
+
+ஹைட்ரோபோபியா (நீர் வெறுப்பு) ___________ நோயின் அறிகுறியாகும்:
+    a) மலேரியா
+    b) ரேபிஸ்
+    c) காலரா
+    d) டெங்கு
+**Answer: b**
+
+---
+
+**42.** Which of these is a sexually transmitted disease (STD)?
+    a) Measles
+    b) Syphilis
+    c) Scurvy
+    d) Rickets
+
+இவற்றில் எது பாலியல் ரீதியாக பரவும் நோய் (STD)?
+    a) தட்டம்மை
+    b) சிபிலிஸ் (கிரந்தி நோய்)
+    c) ஸ்கர்வி
+    d) ரிக்கெட்ஸ்
+**Answer: b**
+
+---
+
+**43.** The swelling of parotid glands is a characteristic symptom of:
+    a) Mumps
+    b) Measles
+    c) Chickenpox
+    d) Diphtheria
+
+பரோடிட் சுரப்பிகளின் வீக்கம் ___________ நோயின் ஒரு சிறப்பியல்பு அறிகுறியாகும்:
+    a) புட்டாளம்மை
+    b) தட்டம்மை
+    c) சின்னம்மை
+    d) டிப்தீரியா
+**Answer: a**
+
+---
+
+**44.** Which type of immunity is obtained through vaccination?
+    a) Innate immunity
+    b) Active acquired immunity
+    c) Passive acquired immunity
+    d) Natural immunity
+
+தடுப்பூசி மூலம் பெறப்படும் நோய் எதிர்ப்பு சக்தி வகை எது?
+    a) உள்ளார்ந்த நோய் எதிர்ப்பு சக்தி
+    b) செயலூக்கமான பெறப்பட்ட நோய் எதிர்ப்பு சக்தி
+    c) மந்தமான பெறப்பட்ட நோய் எதிர்ப்பு சக்தி
+    d) இயற்கையான நோய் எதிர்ப்பு சக்தி
+**Answer: b**
+
+---
+
+**45.** Diabetes Mellitus is a disorder of:
+    a) Thyroid gland
+    b) Adrenal gland
+    c) Pancreas
+    d) Pituitary gland
+
+நீரிழிவு நோய் (டயாபடீஸ் மெல்லிடஸ்) ___________ கோளாறு ஆகும்:
+    a) தைராய்டு சுரப்பி
+    b) அட்ரினல் சுரப்பி
+    c) கணையம்
+    d) பிட்யூட்டரி சுரப்பி
+**Answer: c**
+
+---
+
+**46.** Cancer is characterized by:
+    a) Controlled cell division
+    b) Uncontrolled cell division
+    c) Cell degeneration
+    d) Lack of cell division
+
+புற்றுநோய் ___________ ஆல் வகைப்படுத்தப்படுகிறது:
+    a) கட்டுப்படுத்தப்பட்ட செல் பிரிவு
+    b) கட்டுப்பாடற்ற செல் பிரிவு
+    c) செல் சிதைவு
+    d) செல் பிரிவு இல்லாமை
+**Answer: b**
+
+---
+
+**47.** Athlete's foot is caused by:
+    a) Bacteria
+    b) Virus
+    c) Fungus
+    d) Protozoa
+
+சேற்றுப்புண் (Athlete's foot) ___________ ஆல் ஏற்படுகிறது:
+    a) பாக்டீரியா
+    b) வைரஸ்
+    c) பூஞ்சை
+    d) புரோட்டோசோவா
+**Answer: c**
+
+---
+
+**48.** Sickle cell anemia is a:
+    a) Nutritional deficiency disease
+    b) Viral disease
+    c) Genetic disease
+    d) Bacterial disease
+
+அரிவாள் செல் இரத்தசோகை என்பது ஒரு:
+    a) ஊட்டச்சத்து குறைபாடு நோய்
+    b) வைரஸ் நோய்
+    c) மரபணு நோய்
+    d) பாக்டீரியா நோய்
+**Answer: c**
+
+---
+
+**49.** The disease characterized by bleeding gums and loosening of teeth is:
+    a) Pellagra
+    b) Scurvy
+    c) Rickets
+    d) Beriberi
+
+ஈறுகளில் இரத்தப்போக்கு மற்றும் பற்கள் தளர்வடைதல் ஆகியவற்றால் வகைப்படுத்தப்படும் நோய்:
+    a) பெல்லாக்ரா
+    b) ஸ்கர்வி
+    c) ரிக்கெட்ஸ்
+    d) பெரிபெரி
+**Answer: b**
+
+---
+
+**50.** Which of the following is not a symptom of COVID-19?
+    a) Fever
+    b) Dry cough
+    c) Jaundice
+    d) Loss of taste or smell
+
+பின்வருவனவற்றில் கோவிட்-19 இன் அறிகுறி இல்லாதது எது?
+    a) காய்ச்சல்
+    b) வறட்டு இருமல்
+    c) மஞ்சள் காமாலை
+    d) சுவை அல்லது வாசனை இழப்பு
+**Answer: c**

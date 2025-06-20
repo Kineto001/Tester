@@ -1,0 +1,980 @@
+GST MCQs for TNPSC Group 4 - English & Tamil
+
+---
+
+1. What does GST stand for?
+a) Goods and Supply Tax
+b) Goods and Service Tax
+c) General Sales Tax
+d) Government Service Tax
+
+GST என்பதன் விரிவாக்கம் என்ன?
+a) சரக்கு மற்றும் விநியோக வரி
+b) சரக்கு மற்றும் சேவை வரி
+c) பொது விற்பனை வரி
+d) அரசாங்க சேவை வரி
+
+Answer: b
+
+---
+
+2. When was GST implemented in India?
+a) 1st April 2017
+b) 1st July 2017
+c) 1st January 2017
+d) 1st August 2017
+
+இந்தியாவில் GST எப்போது அமல்படுத்தப்பட்டது?
+a) 1 ஏப்ரல் 2017
+b) 1 ஜூலை 2017
+c) 1 ஜனவரி 2017
+d) 1 ஆகஸ்ட் 2017
+
+Answer: b
+
+---
+
+3. Which Constitutional Amendment Act is related to GST?
+a) 100th Amendment Act
+b) 101st Amendment Act
+c) 102nd Amendment Act
+d) 99th Amendment Act
+
+எந்த அரசியலமைப்பு திருத்தச் சட்டம் GST உடன் தொடர்புடையது?
+a) 100வது திருத்தச் சட்டம்
+b) 101வது திருத்தச் சட்டம்
+c) 102வது திருத்தச் சட்டம்
+d) 99வது திருத்தச் சட்டம்
+
+Answer: b
+
+---
+
+4. Who is the chairman of the GST Council in India?
+a) Prime Minister
+b) President
+c) Union Finance Minister
+d) RBI Governor
+
+இந்தியாவின் GST கவுன்சிலின் தலைவர் யார்?
+a) பிரதமர்
+b) குடியரசுத் தலைவர்
+c) மத்திய நிதி அமைச்சர்
+d) ரிசர்வ் வங்கி ஆளுநர்
+
+Answer: c
+
+---
+
+5. GST is a consumption tax based on the principle of ______.
+a) Origin-based taxation
+b) Destination-based taxation
+c) Production-based taxation
+d) Export-based taxation
+
+GST என்பது ______ கொள்கையின் அடிப்படையில் அமைந்த ஒரு நுகர்வு வரி.
+a) தொடங்குமிடம் அடிப்படையிலான வரிவிதிப்பு
+b) சேருமிடம் அடிப்படையிலான வரிவிதிப்பு
+c) உற்பத்தி அடிப்படையிலான வரிவிதிப்பு
+d) ஏற்றுமதி அடிப்படையிலான வரிவிதிப்பு
+
+Answer: b
+
+---
+
+6. GST in India is based on the dual model adopted from which country?
+a) USA
+b) UK
+c) Canada
+d) Japan
+
+இந்தியாவில் உள்ள இரட்டை GST மாதிரி எந்த நாட்டிலிருந்து ஏற்றுக்கொள்ளப்பட்டது?
+a) அமெரிக்கா
+b) இங்கிலாந்து
+c) கனடா
+d) ஜப்பான்
+
+Answer: c
+
+---
+
+7. What is the full form of CGST?
+a) Central Goods and Service Tax
+b) Common Goods and Service Tax
+c) Corporate Goods and Service Tax
+d) Capital Goods and Service Tax
+
+CGST என்பதன் முழு விரிவாக்கம் என்ன?
+a) மத்திய சரக்கு மற்றும் சேவை வரி
+b) பொது சரக்கு மற்றும் சேவை வரி
+c) பெருநிறுவன சரக்கு மற்றும் சேவை வரி
+d) மூலதன சரக்கு மற்றும் சேவை வரி
+
+Answer: a
+
+---
+
+8. When is IGST levied?
+a) On intra-state supply of goods and services
+b) On inter-state supply of goods and services
+c) On all supplies of goods and services
+d) On export of goods and services only
+
+IGST எப்போது விதிக்கப்படுகிறது?
+a) மாநிலத்திற்குள்ளான சரக்கு மற்றும் சேவைகளின் விநியோகத்தின் மீது
+b) மாநிலங்களுக்கு இடையேயான சரக்கு மற்றும் சேவைகளின் விநியோகத்தின் மீது
+c) அனைத்து சரக்கு மற்றும் சேவைகளின் விநியோகத்தின் மீதும்
+d) சரக்கு மற்றும் சேவைகளின் ஏற்றுமதி மீது மட்டும்
+
+Answer: b
+
+---
+
+9. Which of the following taxes was subsumed under GST?
+a) Income Tax
+b) Corporation Tax
+c) Service Tax
+d) Property Tax
+
+பின்வரும் வரிகளில் எது GST-க்குள் அடக்கப்பட்டுள்ளது?
+a) வருமான வரி
+b) நிறுவன வரி
+c) சேவை வரி
+d) சொத்து வரி
+
+Answer: c
+
+---
+
+10. What is the main motto of GST?
+a) One Nation, One Tax, One Market
+b) One Country, One Income, One Tax
+c) Single Tax, Simple System
+d) Tax for a New India
+
+GST-யின் முக்கிய முழக்கம் என்ன?
+a) ஒரே நாடு, ஒரே வரி, ஒரே சந்தை
+b) ஒரே தேசம், ஒரே வருமானம், ஒரே வரி
+c) ஒற்றை வரி, எளிய அமைப்பு
+d) புதிய இந்தியாவிற்கான வரி
+
+Answer: a
+
+---
+
+11. What does the 'I' in IGST stand for?
+a) Internal
+b) Integrated
+c) International
+d) Intra
+
+IGST-இல் உள்ள 'I' என்பதன் பொருள் என்ன?
+a) உள்நாட்டு (Internal)
+b) ஒருங்கிணைந்த (Integrated)
+c) சர்வதேச (International)
+d) உள்ளே (Intra)
+
+Answer: b
+
+---
+
+12. Which of the following items is outside the purview of GST?
+a) Sugar
+b) Cement
+c) Alcohol for human consumption
+d) Mobile phones
+
+பின்வருவனவற்றில் எது GST வரம்பிற்கு வெளியே உள்ளது?
+a) சர்க்கரை
+b) சிமெண்ட்
+c) மனித நுகர்வுக்கான மது
+d) கைபேசிகள்
+
+Answer: c
+
+---
+
+13. The GST Council is established under which article of the Indian Constitution?
+a) Article 279A
+b) Article 280
+c) Article 269A
+d) Article 300A
+
+GST கவுன்சில் இந்திய அரசியலமைப்பின் எந்தப் பிரிவின் கீழ் நிறுவப்பட்டுள்ளது?
+a) பிரிவு 279A
+b) பிரிவு 280
+c) பிரிவு 269A
+d) பிரிவு 300A
+
+Answer: a
+
+---
+
+14. How many digits are there in a GST Identification Number (GSTIN)?
+a) 10
+b) 12
+c) 15
+d) 16
+
+GST அடையாள எண்ணில் (GSTIN) எத்தனை இலக்கங்கள் உள்ளன?
+a) 10
+b) 12
+c) 15
+d) 16
+
+Answer: c
+
+---
+
+15. Who collects the tax in the case of Inter-State transactions?
+a) State Government
+b) Central Government
+c) Both State and Central Government
+d) Union Territory Government
+
+மாநிலங்களுக்கு இடையேயான பரிவர்த்தனைகளில் வரியை வசூலிப்பது யார்?
+a) மாநில அரசு
+b) மத்திய அரசு
+c) மாநில மற்றும் மத்திய அரசு இரண்டும்
+d) யூனியன் பிரதேச அரசு
+
+Answer: b
+
+---
+
+16. Which was the first country to implement GST?
+a) Germany
+b) France
+c) Canada
+d) USA
+
+GST-ஐ முதன்முதலில் அமல்படுத்திய நாடு எது?
+a) ஜெர்மனி
+b) பிரான்ஸ்
+c) கனடா
+d) அமெரிக்கா
+
+Answer: b
+
+---
+
+17. What is the full form of GSTN?
+a) Goods and Service Tax Number
+b) Goods and Service Tax Network
+c) Goods and Service Tax Notification
+d) Government Service Tax Network
+
+GSTN என்பதன் முழு விரிவாக்கம் என்ன?
+a) சரக்கு மற்றும் சேவை வரி எண்
+b) சரக்கு மற்றும் சேவை வரி நெட்வொர்க்
+c) சரக்கு மற்றும் சேவை வரி அறிவிப்பு
+d) அரசாங்க சேவை வரி நெட்வொர்க்
+
+Answer: b
+
+---
+
+18. What is the highest prescribed rate slab for GST in India?
+a) 12%
+b) 18%
+c) 28%
+d) 32%
+
+இந்தியாவில் GST-க்கான மிக உயர்ந்த பரிந்துரைக்கப்பட்ட வரி விகித அடுக்கு என்ன?
+a) 12%
+b) 18%
+c) 28%
+d) 32%
+
+Answer: c
+
+---
+
+19. Which tax is levied on an intra-state supply?
+a) IGST only
+b) CGST only
+c) SGST only
+d) CGST and SGST
+
+மாநிலத்திற்குள் நடைபெறும் விநியோகத்தின் மீது என்ன வரி விதிக்கப்படுகிறது?
+a) IGST மட்டும்
+b) CGST மட்டும்
+c) SGST மட்டும்
+d) CGST மற்றும் SGST
+
+Answer: d
+
+---
+
+20. Who decides the GST rates for goods and services?
+a) The Parliament of India
+b) The State Legislatures
+c) The GST Council
+d) The NITI Aayog
+
+சரக்குகள் மற்றும் சேவைகளுக்கான GST விகிதங்களை யார் தீர்மானிக்கிறார்கள்?
+a) இந்திய நாடாளுமன்றம்
+b) மாநில சட்டமன்றங்கள்
+c) GST கவுன்சில்
+d) நிதி ஆயோக்
+
+Answer: c
+
+---
+
+21. What is the full form of HSN code?
+a) Harmonized System of Nomenclature
+b) Home Shopping Network
+c) Harmonized Service Number
+d) High System of Notation
+
+HSN குறியீட்டின் முழு விரிவாக்கம் என்ன?
+a) ஒத்திசைந்த பெயரிடல் அமைப்பு (Harmonized System of Nomenclature)
+b) ஹோம் ஷாப்பிங் நெட்வொர்க் (Home Shopping Network)
+c) ஒத்திசைந்த சேவை எண் (Harmonized Service Number)
+d) உயர் குறியீட்டு அமைப்பு (High System of Notation)
+
+Answer: a
+
+---
+
+22. Which was the first state in India to ratify the GST Bill?
+a) Tamil Nadu
+b) Maharashtra
+c) Assam
+d) Uttar Pradesh
+
+இந்தியாவில் GST மசோதாவை முதலில் அங்கீகரித்த மாநிலம் எது?
+a) தமிழ்நாடு
+b) மகாராஷ்டிரா
+c) அசாம்
+d) உத்தரப்பிரதேசம்
+
+Answer: c
+
+---
+
+23. GST is what type of tax?
+a) Direct Tax
+b) Indirect Tax
+c) Corporate Tax
+d) Wealth Tax
+
+GST எந்த வகை வரி?
+a) நேரடி வரி
+b) மறைமுக வரி
+c) நிறுவன வரி
+d) செல்வ வரி
+
+Answer: b
+
+---
+
+24. UTGST is applicable in which of the following?
+a) All states
+b) All Union Territories
+c) Union Territories without state legislature
+d) All metropolitan cities
+
+UTGST பின்வருவனவற்றில் எங்கு பொருந்தும்?
+a) அனைத்து மாநிலங்கள்
+b) அனைத்து யூனியன் பிரதேசங்கள்
+c) மாநில சட்டமன்றம் இல்லாத யூனியன் பிரதேசங்கள்
+d) அனைத்து பெருநகரங்கள்
+
+Answer: c
+
+---
+
+25. What is the voting share of the Central Government in the GST Council?
+a) One-half
+b) One-third
+c) Two-thirds
+d) One-fourth
+
+GST கவுன்சிலில் மத்திய அரசின் வாக்குரிமைப் பங்கு என்ன?
+a) பாதி
+b) மூன்றில் ஒரு பங்கு
+c) மூன்றில் இரண்டு பங்கு
+d) நான்கில் ஒரு பங்கு
+
+Answer: b
+
+---
+
+26. What does ITC stand for in the context of GST?
+a) Income Tax Credit
+b) Input Tax Credit
+c) Integrated Tax Credit
+d) Internal Tax Credit
+
+GST சூழலில் ITC என்பதன் விரிவாக்கம் என்ன?
+a) வருமான வரிக் கடன்
+b) உள்ளீட்டு வரிக் கடன்
+c) ஒருங்கிணைந்த வரிக் கடன்
+d) உள் வரிக் கடன்
+
+Answer: b
+
+---
+
+27. The concept of GST originated in which country?
+a) USA
+b) Canada
+c) UK
+d) Germany
+
+GST என்ற கருத்து எந்த நாட்டில் உருவானது?
+a) அமெரிக்கா
+b) கனடா
+c) இங்கிலாந்து
+d) ஜெர்மனி
+
+Answer: b (Note: While the dual model is from Canada, the concept itself originated in France in the 1950s. For competitive exams in India, both are sometimes cited, but the first implementation in France is a key fact.)
+
+Correction for exam purpose: The first country to implement was France. The Indian model is based on Canada. The question asks about origin.
+Let's rephrase this question to avoid ambiguity.
+
+Revised Q27: Which committee recommended the implementation of GST in India?
+a) Raja Chelliah Committee
+b) Vijay Kelkar Committee
+c) C. Rangarajan Committee
+d) Yashwant Sinha Committee
+
+இந்தியாவில் GST-ஐ அமல்படுத்த எந்தக் குழு பரிந்துரைத்தது?
+a) ராஜா செல்லையா குழு
+b) விஜய் கேல்கர் குழு
+c) சி. ரங்கராஜன் குழு
+d) யஷ்வந்த் சின்ஹா குழு
+
+Answer: b
+
+---
+
+28. Which of the following is also known as "tax on tax"?
+a) Cascading effect
+b) Value added effect
+c) Double taxation
+d) Supply effect
+
+பின்வருவனவற்றில் எது "வரி மீது வரி" என்றும் அழைக்கப்படுகிறது?
+a) அடுக்கடுக்கான விளைவு (Cascading effect)
+b) மதிப்பு கூட்டப்பட்ட விளைவு
+c) இரட்டை வரிவிதிப்பு
+d) விநியோக விளைவு
+
+Answer: a
+
+---
+
+29. Exports of goods or services under GST are treated as:
+a) Exempt supplies
+b) Nil-rated supplies
+c) Zero-rated supplies
+d) Taxable supplies
+
+GST-யின் கீழ் சரக்குகள் அல்லது சேவைகளின் ஏற்றுமதி எவ்வாறு கருதப்படுகிறது?
+a) விலக்கு அளிக்கப்பட்ட விநியோகங்கள்
+b) பூஜ்ஜிய விகித விநியோகங்கள் (Nil-rated)
+c) பூஜ்ஜிய மதிப்பிடப்பட்ட விநியோகங்கள் (Zero-rated)
+d) வரிக்குட்பட்ட விநியோகங்கள்
+
+Answer: c
+
+---
+
+30. Who is responsible for collecting and depositing SGST to the government?
+a) The Central Government
+b) The buyer
+c) The seller/supplier
+d) The transporter
+
+SGST-ஐ வசூலித்து அரசுக்குச் செலுத்த வேண்டியவர் யார்?
+a) மத்திய அரசு
+b) வாங்குபவர்
+c) விற்பனையாளர்/விநியோகஸ்தர்
+d) போக்குவரத்து செய்பவர்
+
+Answer: c
+
+---
+
+31. GST is levied on the _______ of goods and services.
+a) Manufacture
+b) Sale
+c) Supply
+d) Purchase
+
+சரக்கு மற்றும் சேவைகளின் _______ மீது GST விதிக்கப்படுகிறது.
+a) உற்பத்தி
+b) விற்பனை
+c) விநியோகம் (Supply)
+d) கொள்முதல்
+
+Answer: c
+
+---
+
+32. What is the threshold limit of annual turnover for GST registration for suppliers of goods in most states?
+a) ₹10 Lakhs
+b) ₹20 Lakhs
+c) ₹40 Lakhs
+d) ₹50 Lakhs
+
+பெரும்பாலான மாநிலங்களில் சரக்கு விநியோகிப்பாளர்களுக்கான GST பதிவிற்கான ஆண்டு விற்றுமுதல் வரம்பு என்ன?
+a) ₹10 லட்சம்
+b) ₹20 லட்சம்
+c) ₹40 லட்சம்
+d) ₹50 லட்சம்
+
+Answer: c
+
+---
+
+33. Which body is empowered to make recommendations to the Union and the States on important issues related to GST?
+a) Finance Commission
+b) NITI Aayog
+c) GST Council
+d) Central Board of Indirect Taxes and Customs (CBIC)
+
+GST தொடர்பான முக்கிய பிரச்சினைகளில் மத்திய மற்றும் மாநில அரசுகளுக்குப் பரிந்துரைகளை வழங்க அதிகாரம் பெற்ற அமைப்பு எது?
+a) நிதி ஆணையம்
+b) நிதி ஆயோக்
+c) GST கவுன்சில்
+d) மத்திய மறைமுக வரிகள் மற்றும் சுங்க வாரியம் (CBIC)
+
+Answer: c
+
+---
+
+34. A decision in the GST Council is taken by a majority of not less than:
+a) Two-thirds of the weighted votes
+b) One-half of the weighted votes
+c) Three-fourths of the weighted votes
+d) Simple majority
+
+GST கவுன்சிலில் ஒரு முடிவு, பின்வரும் பெரும்பான்மைக்கு குறையாமல் எடுக்கப்படுகிறது:
+a) भारित வாக்குகளில் மூன்றில் இரண்டு பங்கு
+b) भारित வாக்குகளில் பாதி
+c) भारित வாக்குகளில் நான்கில் மூன்று பங்கு
+d) எளிய பெரும்பான்மை
+
+Answer: c
+
+---
+
+35. GSTIN is a unique number based on which identity?
+a) Aadhar Card
+b) PAN Card
+c) Voter ID
+d) Passport
+
+GSTIN என்பது எந்த அடையாளத்தின் அடிப்படையில் அமைந்த ஒரு தனித்துவமான எண்?
+a) ஆதார் அட்டை
+b) பான் கார்டு
+c) வாக்காளர் அடையாள அட்டை
+d) பாஸ்போர்ட்
+
+Answer: b
+
+---
+
+36. The Constitutional Amendment Bill for GST was the ____ Amendment Bill.
+a) 120th
+b) 121st
+c) 122nd
+d) 123rd
+
+GST-க்கான அரசியலமைப்பு திருத்த மசோதா ____ திருத்த மசோதா ஆகும்.
+a) 120வது
+b) 121வது
+c) 122வது
+d) 123வது
+
+Answer: c
+
+---
+
+37. Which of the following is NOT a GST slab in India?
+a) 5%
+b) 12%
+c) 15%
+d) 18%
+
+பின்வருவனவற்றில் எது இந்தியாவில் ஒரு GST வரி அடுக்கு அல்ல?
+a) 5%
+b) 12%
+c) 15%
+d) 18%
+
+Answer: c
+
+---
+
+38. The GST Compensation to States Act was enacted to compensate states for revenue loss for how many years?
+a) 3 years
+b) 5 years
+c) 7 years
+d) 10 years
+
+மாநிலங்களுக்கான GST இழப்பீட்டுச் சட்டம், மாநிலங்களுக்கு எத்தனை ஆண்டுகளுக்கு வருவாய் இழப்பை ஈடுசெய்ய இயற்றப்பட்டது?
+a) 3 ஆண்டுகள்
+b) 5 ஆண்டுகள்
+c) 7 ஆண்டுகள்
+d) 10 ஆண்டுகள்
+
+Answer: b
+
+---
+
+39. What is an E-way bill under GST?
+a) An electronic bill for paying GST
+b) An electronic document for movement of goods
+c) An electronic tax receipt
+d) An electronic registration certificate
+
+GST-யின் கீழ் E-way bill என்றால் என்ன?
+a) GST செலுத்துவதற்கான ஒரு மின்னணு ரசீது
+b) சரக்குகளின் இயக்கத்திற்கான ஒரு மின்னணு ஆவணம்
+c) ஒரு மின்னணு வரி ரசீது
+d) ஒரு மின்னணு பதிவுச் சான்றிதழ்
+
+Answer: b
+
+---
+
+40. Who levies GST on imports of goods and services into India?
+a) SGST
+b) CGST
+c) IGST
+d) Cess
+
+இந்தியாவிற்குள் இறக்குமதி செய்யப்படும் சரக்குகள் மற்றும் சேவைகள் மீது GST விதிப்பது எது?
+a) SGST
+b) CGST
+c) IGST
+d) செஸ் வரி
+
+Answer: c
+
+---
+
+41. The 'Composition Scheme' under GST is for whom?
+a) Large taxpayers
+b) Small taxpayers
+c) All taxpayers
+d) Only service providers
+
+GST-யின் கீழ் உள்ள 'காம்போசிஷன் திட்டம்' யாருக்கானது?
+a) பெரிய வரி செலுத்துவோர்
+b) சிறிய வரி செலுத்துவோர்
+c) அனைத்து வரி செலுத்துவோர்
+d) சேவை வழங்குநர்கள் மட்டும்
+
+Answer: b
+
+---
+
+42. What is the tax rate on essential items like unpacked food grains under GST?
+a) 5%
+b) 12%
+c) 0% (Exempt)
+d) 18%
+
+GST-யின் கீழ் பொட்டலமிடப்படாத உணவு தானியங்கள் போன்ற அத்தியாவசியப் பொருட்களுக்கான வரி விகிதம் என்ன?
+a) 5%
+b) 12%
+c) 0% (விலக்கு அளிக்கப்பட்டுள்ளது)
+d) 18%
+
+Answer: c
+
+---
+
+43. Which of the following taxes was NOT subsumed in GST?
+a) Value Added Tax (VAT)
+b) Central Excise Duty
+c) Basic Customs Duty
+d) Entertainment Tax
+
+பின்வரும் வரிகளில் எது GST-இல் சேர்க்கப்படவில்லை?
+a) மதிப்பு கூட்டு வரி (VAT)
+b) மத்திய கலால் வரி
+c) அடிப்படை சுங்க வரி
+d) பொழுதுபோக்கு வரி
+
+Answer: c
+
+---
+
+44. The power to levy GST has been conferred by which article of the constitution?
+a) Article 246A
+b) Article 265
+c) Article 270
+d) Article 279
+
+GST விதிக்கும் அதிகாரம் அரசியலமைப்பின் எந்தப் பிரிவின் மூலம் வழங்கப்பட்டுள்ளது?
+a) பிரிவு 246A
+b) பிரிவு 265
+c) பிரிவு 270
+d) பிரிவு 279
+
+Answer: a
+
+---
+
+45. The mechanism where the recipient of goods/services is liable to pay tax instead of the supplier is called?
+a) Forward Charge
+b) Reverse Charge
+c) Dual Charge
+d) Composite Charge
+
+சப்ளையருக்குப் பதிலாக சரக்குகள்/சேவைகளைப் பெறுபவர் வரி செலுத்த வேண்டிய முறை என்னவென்று அழைக்கப்படுகிறது?
+a) முன்னோக்கு கட்டணம் (Forward Charge)
+b) தலைகீழ் கட்டணம் (Reverse Charge)
+c) இரட்டைக் கட்டணம் (Dual Charge)
+d) கலவைக் கட்டணம் (Composite Charge)
+
+Answer: b
+
+---
+
+46. Who is the head of the Central Board of Indirect Taxes and Customs (CBIC)?
+a) Union Finance Minister
+b) A Chairman appointed by the Government
+c) RBI Governor
+d) Prime Minister's Secretary
+
+மத்திய மறைமுக வரிகள் மற்றும் சுங்க வாரியத்தின் (CBIC) தலைவர் யார்?
+a) மத்திய நிதி அமைச்சர்
+b) அரசாங்கத்தால் நியமிக்கப்பட்ட ஒரு தலைவர்
+c) ரிசர்வ் வங்கி ஆளுநர்
+d) பிரதமரின் செயலாளர்
+
+Answer: b
+
+---
+
+47. In "SGST", what does 'S' stand for?
+a) Service
+b) State
+c) Sales
+d) Special
+
+"SGST" என்பதில் 'S' என்பதன் பொருள் என்ன?
+a) சேவை
+b) மாநிலம்
+c) விற்பனை
+d) சிறப்பு
+
+Answer: b
+
+---
+
+48. The tax levied by the Central Government on the intra-state supply of goods or services is called?
+a) IGST
+b) CGST
+c) SGST
+d) UTGST
+
+மாநிலத்திற்குள் நடைபெறும் சரக்கு அல்லது சேவைகளின் விநியோகத்தின் மீது மத்திய அரசால் விதிக்கப்படும் வரி என்ன?
+a) IGST
+b) CGST
+c) SGST
+d) UTGST
+
+Answer: b
+
+---
+
+49. Which was the last state to pass the GST Bill?
+a) Kerala
+b) West Bengal
+c) Tamil Nadu
+d) Jammu & Kashmir
+
+GST மசோதாவை இறுதியாக நிறைவேற்றிய மாநிலம் எது?
+a) கேரளா
+b) மேற்கு வங்கம்
+c) தமிழ்நாடு
+d) ஜம்மு & காஷ்மீர்
+
+Answer: d
+
+---
+
+50. The IT backbone for GST, GSTN, is a:
+a) Government company
+b) Private company
+c) Non-profit, non-government, private limited company
+d) Public sector undertaking
+
+GST-க்கான தகவல் தொழில்நுட்ப முதுகெலும்பான GSTN என்பது ஒரு:
+a) அரசு நிறுவனம்
+b) தனியார் நிறுவனம்
+c) லாப நோக்கற்ற, அரசு சாரா, தனியார் வரையறுக்கப்பட்ட நிறுவனம்
+d) பொதுத்துறை நிறுவனம்
+
+Answer: c
+
+---
+
+51. The President of India gave his assent to the Constitution (122nd Amendment) Bill, 2014 for GST on:
+a) 8th August 2016
+b) 8th September 2016
+c) 1st July 2017
+d) 1st April 2017
+
+இந்தியக் குடியரசுத் தலைவர், GST-க்கான அரசியலமைப்பு (122வது திருத்தம்) மசோதா, 2014-க்கு எப்போது ஒப்புதல் அளித்தார்?
+a) 8 ஆகஸ்ட் 2016
+b) 8 செப்டம்பர் 2016
+c) 1 ஜூலை 2017
+d) 1 ஏப்ரல் 2017
+
+Answer: b
+
+---
+
+52. What is the GST rate for gold?
+a) 1%
+b) 3%
+c) 5%
+d) 12%
+
+தங்கத்திற்கான GST விகிதம் என்ன?
+a) 1%
+b) 3%
+c) 5%
+d) 12%
+
+Answer: b
+
+---
+
+53. What is a "Nil Rated" supply?
+a) A supply with a tax rate of 0% but for which ITC can be claimed.
+b) A supply that is completely exempt from GST.
+c) A supply with a tax rate of 0% for which ITC cannot be claimed.
+d) A supply that is not covered under GST law.
+
+"பூஜ்ஜிய விகித" (Nil Rated) விநியோகம் என்றால் என்ன?
+a) 0% வரி விகிதம் கொண்ட, ஆனால் ITC கோரக்கூடிய விநியோகம்.
+b) GST-யிலிருந்து முழுமையாக விலக்கு அளிக்கப்பட்ட விநியோகம்.
+c) 0% வரி விகிதம் கொண்ட, ஆனால் ITC கோர முடியாத விநியோகம்.
+d) GST சட்டத்தின் கீழ் வராத விநியோகம்.
+
+Answer: c
+
+---
+
+54. The GST Council Secretariat is located in which city?
+a) Mumbai
+b) New Delhi
+c) Kolkata
+d) Chennai
+
+GST கவுன்சில் செயலகம் எந்த நகரத்தில் அமைந்துள்ளது?
+a) மும்பை
+b) புது தில்லி
+c) கொல்கத்தா
+d) சென்னை
+
+Answer: b
+
+---
+
+55. Under GST, tax is levied on the transaction value, which includes:
+a) Only the base price
+b) Base price minus discount
+c) All taxes, duties, and fees except GST itself
+d) The price after including profit margin
+
+GST-யின் கீழ், பரிவர்த்தனை மதிப்பின் மீது வரி விதிக்கப்படுகிறது, இதில் அடங்குவது:
+a) அடிப்படை விலை மட்டும்
+b) அடிப்படை விலை கழித்தல் தள்ளுபடி
+c) GST தவிர மற்ற அனைத்து வரிகள், தீர்வைகள் மற்றும் கட்டணங்கள்
+d) லாப வரம்பைச் சேர்த்த பின் உள்ள விலை
+
+Answer: c
+
+---
+
+56. The Anti-Profiteering clause under GST ensures that:
+a) Businesses do not overcharge customers
+b) The benefit of tax rate reduction is passed on to the consumers
+c) Government revenue does not fall
+d) All transactions are recorded electronically
+
+GST-யின் கீழ் உள்ள லாப நோக்கத் தடுப்பு விதிமுறை என்ன உறுதி செய்கிறது?
+a) வணிகங்கள் வாடிக்கையாளர்களிடம் அதிக கட்டணம் வசூலிக்காமல் இருப்பதை
+b) வரி விகிதக் குறைப்பின் பலன் நுகர்வோருக்குச் சென்றடைவதை
+c) அரசாங்கத்தின் வருவாய் குறையாமல் இருப்பதை
+d) அனைத்து பரிவர்த்தனைகளும் மின்னணு முறையில் பதிவு செய்யப்படுவதை
+
+Answer: b
+
+---
+
+57. Who is responsible for paying GST under the normal (forward charge) mechanism?
+a) The end consumer
+b) The supplier of goods/services
+c) The recipient of goods/services
+d) The government
+
+சாதாரண (முன்னோக்கு கட்டணம்) முறையின் கீழ் GST செலுத்துவதற்கு யார் பொறுப்பு?
+a) இறுதி நுகர்வோர்
+b) சரக்கு/சேவைகளை வழங்குபவர்
+c) சரக்கு/சேவைகளைப் பெறுபவர்
+d) அரசாங்கம்
+
+Answer: b
+
+---
+
+58. The first two digits of a GSTIN represent:
+a) The PAN number of the person
+b) A unique entity code
+c) The state code
+d) The business type code
+
+GSTIN-இன் முதல் இரண்டு இலக்கங்கள் எதைக் குறிக்கின்றன?
+a) நபரின் பான் எண்
+b) ஒரு தனித்துவமான நிறுவனக் குறியீடு
+c) மாநிலக் குறியீடு
+d) வணிக வகைக் குறியீடு
+
+Answer: c
+
+---
+
+59. What is the state code for Tamil Nadu in the GSTIN?
+a) 29
+b) 32
+c) 33
+d) 37
+
+GSTIN-இல் தமிழ்நாட்டிற்கான மாநிலக் குறியீடு என்ன?
+a) 29
+b) 32
+c) 33
+d) 37
+
+Answer: c
+
+---
+
+60. GST is designed to eliminate which of the following tax effects?
+a) Inflationary effect
+b) Deflationary effect
+c) Cascading effect
+d) Progressive effect
+
+GST பின்வரும் எந்த வரி விளைவை நீக்குவதற்காக வடிவமைக்கப்பட்டுள்ளது?
+a) பணவீக்க விளைவு
+b) பணவாட்ட விளைவு
+c) அடுக்கடுக்கான விளைவு (Cascading effect)
+d) முற்போக்கான விளைவு
+
+Answer: c
+
+---

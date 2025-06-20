@@ -1,0 +1,483 @@
+TNPSC Group 4 - MCQs on Application of Science and Technology in Agriculture (India)
+
+---
+
+1. Who is known as the "Father of the Green Revolution in India"?
+யார் "இந்திய பசுமைப் புரட்சியின் தந்தை" என்று அழைக்கப்படுகிறார்?
+a) Verghese Kurien / வர்கீஸ் குரியன்
+b) M.S. Swaminathan / எம்.எஸ். சுவாமிநாதன்
+c) Norman Borlaug / நார்மன் போர்லாக்
+d) C. Subramaniam / சி. சுப்ரமணியம்
+Answer: b
+
+2. Which crop was the primary focus of the Green Revolution in India during its initial phase?
+இந்தியாவில் பசுமைப் புரட்சியின் ஆரம்பக் கட்டத்தில் எந்தப் பயிர் முதன்மை கவனம் பெற்றது?
+a) Cotton / பருத்தி
+b) Sugarcane / கரும்பு
+c) Wheat / கோதுமை
+d) Jute / சணல்
+Answer: c
+
+3. The term 'HYV' in agriculture stands for:
+விவசாயத்தில் 'HYV' என்ற சொல்லின் விரிவாக்கம்:
+a) High-Value Yielding / உயர் மதிப்பு மகசூல்
+b) Hybrid Variety Yielding / கலப்பின வகை மகசூல்
+c) High-Yielding Variety / அதிக விளைச்சல் தரும் வகை
+d) Heavy-Yielding Variety / கனரக விளைச்சல் தரும் வகை
+Answer: c
+
+4. The Green Revolution was a package program that included high-yielding seeds, chemical fertilizers, and what else?
+பசுமைப் புரட்சி என்பது அதிக விளைச்சல் தரும் விதைகள், இரசாயன உரங்கள் மற்றும் வேறு எவற்றை உள்ளடக்கிய ஒரு தொகுப்புத் திட்டமாகும்?
+a) Organic farming / இயற்கை விவசாயம்
+b) Assured irrigation / உறுதிசெய்யப்பட்ட நீர்ப்பாசனம்
+c) Animal husbandry / கால்நடை வளர்ப்பு
+d) Dryland farming / மானாவாரி விவசாயம்
+Answer: b
+
+5. The 'Miracle Rice' variety introduced in the Philippines and India that significantly boosted rice production was:
+பிலிப்பைன்ஸ் மற்றும் இந்தியாவில் அறிமுகப்படுத்தப்பட்டு அரிசி உற்பத்தியை கணிசமாக உயர்த்திய 'அற்புத அரிசி' ரகம் எது?
+a) Basmati-370 / பாஸ்மதி-370
+b) IR-8 / ஐஆர்-8
+c) Ponni / பொன்னி
+d) Sona Masuri / சோனா மசூரி
+Answer: b
+
+6. What was a major negative impact of the Green Revolution?
+பசுமைப் புரட்சியின் ஒரு பெரிய எதிர்மறை தாக்கம் என்ன?
+a) Decreased food production / உணவு உற்பத்தி குறைந்தது
+b) Increased dependency on monsoons / பருவமழையை சார்ந்திருப்பது அதிகரித்தது
+c) Depletion of groundwater and soil degradation / நிலத்தடி நீர் குறைதல் மற்றும் மண் தரம் குறைதல்
+d) Reduction in farmer's income / விவசாயிகளின் வருமானம் குறைந்தது
+Answer: c
+
+7. 'Bt' in Bt Cotton refers to a toxin gene obtained from which organism?
+பி.டி பருத்தியில் உள்ள 'பி.டி' என்பது எந்த உயிரினத்திலிருந்து பெறப்பட்ட நச்சு மரபணுவைக் குறிக்கிறது?
+a) Fungus / பூஞ்சை
+b) Bacterium / பாக்டீரியா
+c) Virus / வைரஸ்
+d) Plant / தாவரம்
+Answer: b
+
+8. The technique of growing plant cells, tissues, or organs in an artificial nutrient medium is called:
+ஒரு செயற்கை ஊட்டச்சத்து ஊடகத்தில் தாவர செல்கள், திசுக்கள் அல்லது உறுப்புகளை வளர்க்கும் தொழில்நுட்பம் எவ்வாறு அழைக்கப்படுகிறது?
+a) Hydroponics / ஹைட்ரோபோனிக்ஸ் (மண்ணில்லா விவசாயம்)
+b) Tissue Culture / திசு வளர்ப்பு
+c) Genetic Engineering / மரபணு பொறியியல்
+d) Grafting / ஒட்டுதல்
+Answer: b
+
+9. Which of the following is an example of a bio-fertilizer?
+பின்வருவனவற்றில் எது உயிரி உரத்திற்கு ஒரு எடுத்துக்காட்டு?
+a) Urea / யூரியா
+b) Potash / பொட்டாஷ்
+c) Rhizobium / ரைசோபியம்
+d) DDT / டி.டி.டி
+Answer: c
+
+10. Genetically Modified (GM) crops are developed to:
+மரபணு மாற்றப்பட்ட (GM) பயிர்கள் எதற்காக உருவாக்கப்படுகின்றன?
+a) Increase the use of pesticides / பூச்சிக்கொல்லிகளின் பயன்பாட்டை அதிகரிக்க
+b) Be resistant to pests and diseases / பூச்சிகள் மற்றும் நோய்களுக்கு எதிர்ப்புத் தெரிவிக்க
+c) Require more water / அதிக நீர் தேவைப்பட
+d) Grow only in specific climates / குறிப்பிட்ட காலநிலைகளில் மட்டுமே வளர
+Answer: b
+
+11. 'Golden Rice' is a genetically modified crop plant where the incorporated gene is meant for the biosynthesis of:
+'கோல்டன் ரைஸ்' என்பது ஒரு மரபணு மாற்றப்பட்ட பயிர் ஆகும், இதில் இணைக்கப்பட்ட மரபணு எதன் உயிரியல் தொகுப்பிற்காக உருவாக்கப்பட்டது?
+a) Vitamin C / வைட்டமின் சி
+b) Vitamin A / வைட்டமின் ஏ
+c) Vitamin D / வைட்டமின் டி
+d) Vitamin K / வைட்டமின் கே
+Answer: b
+
+12. What is the primary advantage of using bio-pesticides over chemical pesticides?
+இரசாயன பூச்சிக்கொல்லிகளை விட உயிரி பூச்சிக்கொல்லிகளைப் பயன்படுத்துவதன் முதன்மையான நன்மை என்ன?
+a) They act faster / அவை வேகமாக செயல்படுகின்றன
+b) They are cheaper to produce / அவை உற்பத்தி செய்ய மலிவானவை
+c) They are target-specific and eco-friendly / அவை இலக்கு சார்ந்து மற்றும் சுற்றுச்சூழலுக்கு உகந்தவை
+d) They have a longer shelf life / அவை நீண்ட காலம் நீடிக்கும்
+Answer: c
+
+13. Bt brinjal was developed to be resistant against:
+பி.டி கத்தரிக்காய் எதற்கு எதிராக எதிர்ப்புத் திறன் கொண்டதாக உருவாக்கப்பட்டது?
+a) Drought / வறட்சி
+b) Fungal infections / பூஞ்சை தொற்றுகள்
+c) Fruit and shoot borer insect / காய் மற்றும் தண்டு துளைப்பான் பூச்சி
+d) Weeds / களைகள்
+Answer: c
+
+14. Which modern irrigation method delivers water directly to the root zone of plants, minimizing water loss?
+எந்த நவீன நீர்ப்பாசன முறை நீர் இழப்பைக் குறைத்து, தாவரங்களின் வேர் மண்டலத்திற்கு நேரடியாக நீரைக் கொண்டு செல்கிறது?
+a) Flood irrigation / வெள்ளப் பாசனம்
+b) Furrow irrigation / சால் பாசனம்
+c) Drip irrigation / சொட்டு நீர் பாசனம்
+d) Canal irrigation / கால்வாய் பாசனம்
+Answer: c
+
+15. The motto of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) is:
+பிரதான் மந்திரி கிரிஷி சின்சாயி யோஜனாவின் (PMKSY) குறிக்கோள் என்ன?
+a) More Crop Per Drop / ஒவ்வொரு துளியிலும் அதிக பயிர்
+b) Water for Every Farm / ஒவ்வொரு பண்ணைக்கும் நீர்
+c) Save Water, Save Life / நீரைக் காப்போம், உயிரைக் காப்போம்
+d) Har Khet Ko Pani / ஒவ்வொரு வயலுக்கும் நீர்
+Answer: a
+
+16. Sprinkler irrigation is most suitable for:
+தெளிப்பு நீர் பாசனம் எதற்கு மிகவும் பொருத்தமானது?
+a) Paddy fields / நெல் வயல்கள்
+b) Uneven land and sandy soil / சமதளமற்ற நிலம் மற்றும் மணல் மண்
+c) Clay soil / களிமண்
+d) Water-logged areas / நீர் தேங்கிய பகுதிகள்
+Answer: b
+
+17. What is watershed management primarily concerned with?
+நீர்நிலை மேலாண்மை முதன்மையாக எதனுடன் தொடர்புடையது?
+a) Building large dams / பெரிய அணைகள் கட்டுவது
+b) Efficient management of water and land resources / நீர் மற்றும் நில வளங்களின் திறமையான மேலாண்மை
+c) Inter-linking of rivers / நதிகள் இணைப்பு
+d) Constructing canals / கால்வாய்கள் அமைத்தல்
+Answer: b
+
+18. Micro-irrigation technology is highly recommended for which type of region?
+நுண் நீர்ப்பாசன தொழில்நுட்பம் எந்த வகையான பகுதிக்கு மிகவும் பரிந்துரைக்கப்படுகிறது?
+a) Water-surplus regions / நீர் உபரி உள்ள பகுதிகள்
+b) Water-scarce regions / நீர் பற்றாக்குறை உள்ள பகுதிகள்
+c) Coastal regions / கடலோரப் பகுதிகள்
+d) Hilly regions / மலைப் பகுதிகள்
+Answer: b
+
+19. Which scheme integrates various water management initiatives under a single umbrella to provide end-to-end solutions in the water sector?
+நீர் துறையில் முழுமையான தீர்வுகளை வழங்க, பல்வேறு நீர் மேலாண்மை முயற்சிகளை ஒரே குடையின் கீழ் ஒருங்கிணைக்கும் திட்டம் எது?
+a) Jal Jeevan Mission / ஜல் ஜீவன் மிஷன்
+b) Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) / பிரதான் மந்திரி கிரிஷி சின்சாயி யோஜனா (PMKSY)
+c) National Water Mission / தேசிய நீர் இயக்கம்
+d) Atal Bhujal Yojana / அடல் புஜல் யோஜனா
+Answer: b
+
+20. Which machine is used for cutting, threshing, and cleaning a grain crop in a single operation?
+ஒரு தானியப் பயிரை ஒரே செயல்பாட்டில் வெட்டுதல், கதிரடித்தல் மற்றும் சுத்தம் செய்தல் ஆகியவற்றிற்கு எந்த இயந்திரம் பயன்படுத்தப்படுகிறது?
+a) Tractor / டிராக்டர்
+b) Thresher / கதிரடிக்கும் இயந்திரம்
+c) Combine Harvester / ஒருங்கிணைந்த அறுவடை இயந்திரம்
+d) Rotavator / ரோட்டாவேட்டர்
+Answer: c
+
+21. What are Custom Hiring Centers (CHCs) in agriculture?
+விவசாயத்தில் வாடிக்கையாளர் வாடகை மையங்கள் (CHCs) என்றால் என்ன?
+a) Centers for selling fertilizers / உரங்களை விற்கும் மையங்கள்
+b) Centers that provide farm machinery on a rental basis / விவசாய இயந்திரங்களை வாடகைக்கு வழங்கும் மையங்கள்
+c) Centers for soil testing / மண் பரிசோதனை மையங்கள்
+d) Centers for training farmers / விவசாயிகளுக்கு பயிற்சி அளிக்கும் மையங்கள்
+Answer: b
+
+22. The Sub-Mission on Agricultural Mechanization (SMAM) aims to:
+வேளாண் இயந்திரமயமாக்கல் துணைத் திட்டத்தின் (SMAM) நோக்கம் என்ன?
+a) Increase the reach of farm mechanization to small and marginal farmers / சிறு மற்றும் குறு விவசாயிகளுக்கு பண்ணை இயந்திரமயமாக்கலை கொண்டு சேர்ப்பது
+b) Promote only large tractors / பெரிய டிராக்டர்களை மட்டும் ஊக்குவிப்பது
+c) Ban manual labour in farms / பண்ணைகளில் கைமுறை உழைப்பைத் தடை செய்வது
+d) Provide free machinery to all farmers / அனைத்து விவசாயிகளுக்கும் இலவசமாக இயந்திரங்களை வழங்குவது
+Answer: a
+
+23. What is a 'power tiller'?
+'பவர் டில்லர்' என்றால் என்ன?
+a) A large harvesting machine / ஒரு பெரிய அறுவடை இயந்திரம்
+b) A two-wheeled agricultural implement for soil preparation / மண் தயாரிப்பிற்கான இரு சக்கர விவசாயக் கருவி
+c) A machine for spraying pesticides / பூச்சிக்கொல்லி தெளிக்கும் இயந்திரம்
+d) An irrigation pump / ஒரு நீர்ப்பாசன பம்ப்
+Answer: b
+
+24. The primary benefit of farm mechanization is:
+பண்ணை இயந்திரமயமாக்கலின் முதன்மையான நன்மை:
+a) Increased labour requirement / தொழிலாளர் தேவை அதிகரிப்பு
+b) Reduced timeliness of operations / செயல்பாடுகளின் காலக்கெடு குறைதல்
+c) Increased productivity and reduced drudgery / உற்பத்தித்திறன் அதிகரிப்பு மற்றும் கடின உழைப்பு குறைதல்
+d) Increased cost of cultivation / சாகுபடி செலவு அதிகரிப்பு
+Answer: c
+
+25. A 'Rotavator' is a farm implement used for:
+'ரோட்டாவேட்டர்' என்பது எதற்காகப் பயன்படுத்தப்படும் ஒரு பண்ணைக் கருவியாகும்?
+a) Sowing seeds / விதை விதைக்க
+b) Harvesting crops / பயிர்களை அறுவடை செய்ய
+c) Preparing seed beds and soil tilling / விதை படுக்கைகள் தயாரித்தல் மற்றும் மண் உழுதல்
+d) Transporting goods / பொருட்களை கொண்டு செல்ல
+Answer: c
+
+26. What is the purpose of the e-NAM portal launched by the Government of India?
+இந்திய அரசால் தொடங்கப்பட்ட e-NAM வலைத்தளத்தின் நோக்கம் என்ன?
+a) To provide online agricultural education / ஆன்லைன் விவசாயக் கல்வியை வழங்குதல்
+b) To create a unified national market for agricultural commodities / விவசாயப் பொருட்களுக்கு ஒரு ஒருங்கிணைந்த தேசிய சந்தையை உருவாக்குதல்
+c) To provide crop insurance / பயிர் காப்பீடு வழங்குதல்
+d) To distribute subsidies directly to farmers / மானியங்களை விவசாயிகளுக்கு நேரடியாக வழங்குதல்
+Answer: b
+
+27. The toll-free number for the Kisan Call Centre service is:
+கிசான் அழைப்பு மைய சேவையின் கட்டணமில்லா தொலைபேசி எண்:
+a) 1920
+b) 1800-180-1551
+c) 1098
+d) 100
+Answer: b
+
+28. Which technology is used for large-scale crop acreage estimation and damage assessment?
+பெரிய அளவிலான பயிர் பரப்பளவு மதிப்பீடு மற்றும் சேத மதிப்பீட்டிற்கு எந்த தொழில்நுட்பம் பயன்படுத்தப்படுகிறது?
+a) Remote Sensing and GIS / தொலையுணர்தல் மற்றும் புவித்தகவல் அமைப்பு (GIS)
+b) Bluetooth technology / புளூடூத் தொழில்நுட்பம்
+c) Nanotechnology / நானோ தொழில்நுட்பம்
+d) Sonar technology / சோனார் தொழில்நுட்பம்
+Answer: a
+
+29. Drones in agriculture are increasingly being used for:
+விவசாயத்தில் ட்ரோன்கள் எதற்காக அதிகளவில் பயன்படுத்தப்படுகின்றன?
+a) Ploughing fields / வயல்களை உழுவதற்கு
+b) Transporting harvest to market / அறுவடையை சந்தைக்கு கொண்டு செல்ல
+c) Spraying pesticides and monitoring crop health / பூச்சிக்கொல்லிகளைத் தெளித்தல் மற்றும் பயிர் ஆரோக்கியத்தைக் கண்காணித்தல்
+d) Sowing seeds manually / கைமுறையாக விதைகளை விதைத்தல்
+Answer: c
+
+30. The 'Kisan Suvidha' is a:
+'கிசான் சுவிதா' என்பது ஒரு:
+a) Government scheme for loans / கடனுக்கான அரசாங்கத் திட்டம்
+b) Mobile application for farmers / விவசாயிகளுக்கான ஒரு மொபைல் செயலி
+c) Type of fertilizer / ஒரு வகை உரம்
+d) New crop variety / ஒரு புதிய பயிர் ரகம்
+Answer: b
+
+31. What does GIS stand for in the context of agriculture?
+விவசாயத்தின் பின்னணியில் GIS என்பதன் விரிவாக்கம் என்ன?
+a) Global Information System / உலகளாவிய தகவல் அமைப்பு
+b) Geographic Information System / புவியியல் தகவல் அமைப்பு
+c) General Inquiry System / பொது விசாரணை அமைப்பு
+d) GPS Integrated System / ஜிபிஎஸ் ஒருங்கிணைந்த அமைப்பு
+Answer: b
+
+32. The mKisan portal is designed to:
+mKisan வலைத்தளம் எதற்காக வடிவமைக்கப்பட்டுள்ளது?
+a) Sell agricultural machinery online / விவசாய இயந்திரங்களை ஆன்லைனில் விற்க
+b) Provide a platform for farmer-to-farmer interaction / விவசாயிகளுக்கிடையேயான தொடர்புக்கு ஒரு தளத்தை வழங்க
+c) Send advisories and information to farmers via SMS / விவசாயிகளுக்கு SMS மூலம் ஆலோசனைகள் மற்றும் தகவல்களை அனுப்ப
+d) Offer banking services to farmers / விவசாயிகளுக்கு வங்கி சேவைகளை வழங்க
+Answer: c
+
+33. Which technology helps in precision farming by providing location-specific information?
+எந்த தொழில்நுட்பம் இருப்பிடம் சார்ந்த தகவல்களை வழங்குவதன் மூலம் துல்லியமான விவசாயத்திற்கு உதவுகிறது?
+a) Radio Frequency Identification (RFID) / ரேடியோ அதிர்வெண் அடையாளம் (RFID)
+b) Global Positioning System (GPS) / உலகளாவிய நிலைப்படுத்தல் அமைப்பு (GPS)
+c) Barcode System / பார்கோடு அமைப்பு
+d) Wi-Fi / வை-ஃபை
+Answer: b
+
+34. The Soil Health Card Scheme provides farmers with information on:
+மண் சுகாதார அட்டை திட்டம் விவசாயிகளுக்கு எதைப் பற்றிய தகவல்களை வழங்குகிறது?
+a) The market price of their crops / அவர்களின் பயிர்களின் சந்தை விலை
+b) The nutrient status of their soil and fertilizer recommendations / அவர்களின் மண்ணின் ஊட்டச்சத்து நிலை மற்றும் உரப் பரிந்துரைகள்
+c) Weather forecasts for the next season / அடுத்த பருவத்திற்கான வானிலை முன்னறிவிப்புகள்
+d) Available bank loans / கிடைக்கக்கூடிய வங்கிக் கடன்கள்
+Answer: b
+
+35. The three primary nutrients required by plants, often represented as NPK, are:
+தாவரங்களுக்குத் தேவையான மூன்று முதன்மை ஊட்டச்சத்துக்கள், பெரும்பாலும் NPK என்று குறிப்பிடப்படுபவை, எவை?
+a) Nickel, Phosphorus, Potassium / நிக்கல், பாஸ்பரஸ், பொட்டாசியம்
+b) Nitrogen, Phosphorus, Potassium / நைட்ரஜன், பாஸ்பரஸ், பொட்டாசியம்
+c) Nitrogen, Platinum, Krypton / நைட்ரஜன், பிளாட்டினம், கிரிப்டான்
+d) Niobium, Phosphorus, Krypton / நியோபியம், பாஸ்பரஸ், கிரிப்டான்
+Answer: b
+
+36. Vermicomposting is the process of composting using:
+மண்புழு உரம் தயாரித்தல் என்பது எதைப் பயன்படுத்தி உரம் தயாரிக்கும் செயல்முறையாகும்?
+a) Bacteria / பாக்டீரியா
+b) Earthworms / மண்புழுக்கள்
+c) Fungi / பூஞ்சைகள்
+d) Termites / கரையான்கள்
+Answer: b
+
+37. What is the main objective of organic farming?
+இயற்கை விவசாயத்தின் முக்கிய நோக்கம் என்ன?
+a) To maximize the use of chemical fertilizers / இரசாயன உரங்களின் பயன்பாட்டை அதிகரிப்பது
+b) To produce crops without the use of synthetic chemicals / செயற்கை இரசாயனங்களைப் பயன்படுத்தாமல் பயிர்களை உற்பத்தி செய்வது
+c) To grow only genetically modified crops / மரபணு மாற்றப்பட்ட பயிர்களை மட்டும் வளர்ப்பது
+d) To focus on monoculture / ஒற்றைப் பயிர் சாகுபடியில் கவனம் செலுத்துவது
+Answer: b
+
+38. 'Azolla' is used as a bio-fertilizer mainly for which crop?
+'அசோலா' எந்த பயிருக்கு முக்கியமாக உயிரி உரமாக பயன்படுத்தப்படுகிறது?
+a) Wheat / கோதுமை
+b) Sugarcane / கரும்பு
+c) Rice (Paddy) / அரிசி (நெல்)
+d) Cotton / பருத்தி
+Answer: c
+
+39. The yellowing of leaves in plants is often a sign of which nutrient deficiency?
+தாவரங்களில் இலைகள் மஞ்சள் நிறமாக மாறுவது பெரும்பாலும் எந்த ஊட்டச்சத்து குறைபாட்டின் அறிகுறியாகும்?
+a) Phosphorus / பாஸ்பரஸ்
+b) Potassium / பொட்டாசியம்
+c) Calcium / கால்சியம்
+d) Nitrogen / நைட்ரஜன்
+Answer: d
+
+40. What is 'zero tillage' farming?
+'பூஜ்ய உழவு' விவசாயம் என்றால் என்ன?
+a) Farming without any use of fertilizers / உரங்கள் எதுவும் பயன்படுத்தாமல் விவசாயம் செய்தல்
+b) Growing crops without disturbing the soil through tillage / உழவு மூலம் மண்ணைத் தொந்தரவு செய்யாமல் பயிர்களை வளர்ப்பது
+c) Farming only in barren lands / தரிசு நிலங்களில் மட்டும் விவசாயம் செய்தல்
+d) Farming using only manual tools / கை கருவிகளை மட்டும் பயன்படுத்தி விவசாயம் செய்தல்
+Answer: b
+
+41. What is the main purpose of cold storage facilities in the agricultural supply chain?
+விவசாய விநியோகச் சங்கிலியில் குளிர்பதனக் கிடங்குகளின் முக்கிய நோக்கம் என்ன?
+a) To cook food products / உணவுப் பொருட்களை சமைக்க
+b) To increase the shelf life of perishable goods like fruits and vegetables / பழங்கள் மற்றும் காய்கறிகள் போன்ற அழிந்துபோகும் பொருட்களின் ஆயுளை அதிகரிக்க
+c) To dry grains quickly / தானியங்களை விரைவாக உலர்த்த
+d) To process raw agricultural products / மூல விவசாயப் பொருட்களை பதப்படுத்த
+Answer: b
+
+42. Food irradiation is a technology used to:
+உணவு கதிர்வீச்சு என்பது எதற்காகப் பயன்படுத்தப்படும் ஒரு தொழில்நுட்பம்?
+a) Change the color of food / உணவின் நிறத்தை மாற்ற
+b) Preserve food and eliminate pathogens / உணவைப் பாதுகாக்கவும் மற்றும் நோய்க்கிருமிகளை அகற்றவும்
+c) Add nutrients to food / உணவில் ஊட்டச்சத்துக்களைச் சேர்க்க
+d) Make food taste sweeter / உணவை இனிமையாக்க
+Answer: b
+
+43. The process of enhancing the economic value of an agricultural product is known as:
+ஒரு விவசாயப் பொருளின் பொருளாதார மதிப்பை மேம்படுத்தும் செயல்முறை எவ்வாறு அழைக்கப்படுகிறது?
+a) Harvesting / அறுவடை
+b) Grading / தரம் பிரித்தல்
+c) Value Addition / மதிப்பு கூட்டல்
+d) Marketing / சந்தைப்படுத்துதல்
+Answer: c
+
+44. The agency responsible for setting standards for food products in India is:
+இந்தியாவில் உணவுப் பொருட்களுக்கான தர நிர்ணயம் செய்யும் நிறுவனம் எது?
+a) NABARD / நபார்டு
+b) FSSAI (Food Safety and Standards Authority of India) / FSSAI (இந்திய உணவுப் பாதுகாப்பு மற்றும் தர நிர்ணய ஆணையம்)
+c) FCI (Food Corporation of India) / FCI (இந்திய உணவுக் கழகம்)
+d) ICAR / ICAR
+Answer: b
+
+45. What is 'Modified Atmosphere Packaging' (MAP) used for?
+'மாற்றியமைக்கப்பட்ட வளிமண்டல பேக்கேஜிங்' (MAP) எதற்காகப் பயன்படுத்தப்படுகிறது?
+a) To make packaging look attractive / பேக்கேஜிங்கை கவர்ச்சிகரமானதாக மாற்ற
+b) To extend the shelf life of fresh food products / புதிய உணவுப் பொருட்களின் ஆயுளை நீட்டிக்க
+c) To reduce the weight of the package / பேக்கேஜின் எடையைக் குறைக்க
+d) To cook food inside the package / பேக்கேஜிற்குள் உணவை சமைக்க
+Answer: b
+
+46. 'Operation Flood' is a program associated with:
+'வெண்மைப் புரட்சி' (Operation Flood) என்பது எதனுடன் தொடர்புடைய ஒரு திட்டம்?
+a) Flood control / வெள்ளக் கட்டுப்பாடு
+b) Fish production / மீன் உற்பத்தி
+c) Milk production / பால் உற்பத்தி
+d) Oilseed production / எண்ணெய் வித்துக்கள் உற்பத்தி
+Answer: c
+
+47. Who is known as the "Father of the White Revolution" in India?
+இந்தியாவில் "வெண்மைப் புரட்சியின் தந்தை" என்று அழைக்கப்படுபவர் யார்?
+a) M.S. Swaminathan / எம்.எஸ். சுவாமிநாதன்
+b) Verghese Kurien / வர்கீஸ் குரியன்
+c) Hiralal Chaudhuri / ஹிராலால் சௌத்ரி
+d) Sam Pitroda / சாம் பிட்ரோடா
+Answer: b
+
+48. Artificial Insemination (AI) is a technology used in animal breeding primarily to:
+செயற்கை கருவூட்டல் (AI) என்பது விலங்கு இனப்பெருக்கத்தில் முதன்மையாக எதற்காகப் பயன்படுத்தப்படும் ஒரு தொழில்நுட்பம்?
+a) Improve genetic quality of livestock / கால்நடைகளின் மரபணு தரத்தை மேம்படுத்த
+b) Treat diseases in animals / விலங்குகளுக்கு நோய்களுக்கு சிகிச்சையளிக்க
+c) Increase the size of animals / விலங்குகளின் அளவை அதிகரிக்க
+d) Prevent animal migration / விலங்குகளின் இடம்பெயர்வைத் தடுக்க
+Answer: a
+
+49. The National Dairy Development Board (NDDB) was founded in which state?
+தேசிய பால்வள மேம்பாட்டு வாரியம் (NDDB) எந்த மாநிலத்தில் நிறுவப்பட்டது?
+a) Punjab / பஞ்சாப்
+b) Haryana / ஹரியானா
+c) Gujarat / குஜராத்
+d) Maharashtra / மகாராஷ்டிரா
+Answer: c
+
+50. Cross-breeding of cattle is done to:
+கால்நடைகளின் கலப்பினம் எதற்காக செய்யப்படுகிறது?
+a) Produce animals for sports / விளையாட்டிற்காக விலங்குகளை உற்பத்தி செய்ய
+b) Combine desirable traits of two or more breeds / இரண்டு அல்லது அதற்கு மேற்பட்ட இனங்களின் விரும்பத்தக்க பண்புகளை இணைக்க
+c) Maintain the purity of a single breed / ஒரு இனத்தின் தூய்மையைப் பராமரிக்க
+d) Reduce the population of cattle / கால்நடைகளின் எண்ணிக்கையைக் குறைக்க
+Answer: b
+
+51. Murrah, Mehsana, and Surti are important breeds of:
+முர்ரா, மெஹ்சானா மற்றும் சுர்தி ஆகியவை எதன் முக்கியமான இனங்கள்?
+a) Cows / பசுக்கள்
+b) Goats / ஆடுகள்
+c) Buffaloes / எருமைகள்
+d) Sheep / செம்மறி ஆடுகள்
+Answer: c
+
+52. The 'Blue Revolution' in India is related to the development of:
+இந்தியாவில் 'நீலப் புரட்சி' எதன் வளர்ச்சியுடன் தொடர்புடையது?
+a) Fisheries and Aquaculture / மீன்வளம் மற்றும் நீருயிரி வளர்ப்பு
+b) Water conservation / நீர் பாதுகாப்பு
+c) Indigo cultivation / அவுரி சாகுபடி
+d) Drinking water projects / குடிநீர் திட்டங்கள்
+Answer: a
+
+53. The technique used for artificially breeding fish in controlled conditions is called:
+கட்டுப்படுத்தப்பட்ட சூழ்நிலைகளில் மீன்களை செயற்கையாக இனப்பெருக்கம் செய்ய பயன்படுத்தப்படும் நுட்பம் எவ்வாறு அழைக்கப்படுகிறது?
+a) Pisciculture / மீன் வளர்ப்பு
+b) Induced breeding / தூண்டப்பட்ட இனப்பெருக்கம்
+c) Sericulture / பட்டுப்புழு வளர்ப்பு
+d) Apiculture / தேனீ வளர்ப்பு
+Answer: b
+
+54. Who are considered the fathers of the Blue Revolution in India?
+இந்தியாவில் நீலப் புரட்சியின் தந்தையர்கள் என்று கருதப்படுபவர்கள் யார்?
+a) M.S. Swaminathan and Verghese Kurien / எம்.எஸ். சுவாமிநாதன் மற்றும் வர்கீஸ் குரியன்
+b) Hiralal Chaudhuri and Arun Krishnan / ஹிராலால் சௌத்ரி மற்றும் அருண் கிருஷ்ணன்
+c) Norman Borlaug and C. Subramaniam / நார்மன் போர்லாக் மற்றும் சி. சுப்ரமணியம்
+d) Sam Pitroda and V.G. Jhingran / சாம் பிட்ரோடா மற்றும் வி.ஜி. ஜிங்ரன்
+Answer: b
+
+55. 'Biofloc technology' is an innovative and low-cost method used in:
+'பயோஃப்ளாக் தொழில்நுட்பம்' என்பது எதில் பயன்படுத்தப்படும் ஒரு புதுமையான மற்றும் குறைந்த செலவிலான முறையாகும்?
+a) Dairy farming / பால் பண்ணை
+b) High-density fish farming / அதிக அடர்த்தி மீன் வளர்ப்பு
+c) Poultry farming / கோழி வளர்ப்பு
+d) Organic vegetable cultivation / இயற்கை காய்கறி சாகுபடி
+Answer: b
+
+56. Which is the apex body in India for coordinating, guiding, and managing research and education in agriculture?
+இந்தியாவில் விவசாயத்தில் ஆராய்ச்சி மற்றும் கல்வியை ஒருங்கிணைத்தல், வழிகாட்டுதல் மற்றும் நிர்வகிப்பதற்கான உச்ச அமைப்பு எது?
+a) NABARD (National Bank for Agriculture and Rural Development) / நபார்டு (தேசிய விவசாய மற்றும் கிராமப்புற மேம்பாட்டு வங்கி)
+b) FCI (Food Corporation of India) / FCI (இந்திய உணவுக் கழகம்)
+c) ICAR (Indian Council of Agricultural Research) / ICAR (இந்திய வேளாண் ஆராய்ச்சி மன்றம்)
+d) MoA&FW (Ministry of Agriculture & Farmers' Welfare) / MoA&FW (வேளாண்மை மற்றும் விவசாயிகள் நல அமைச்சகம்)
+Answer: c
+
+57. Where is the headquarters of the Indian Council of Agricultural Research (ICAR) located?
+இந்திய வேளாண் ஆராய்ச்சி மன்றத்தின் (ICAR) தலைமையகம் எங்கு அமைந்துள்ளது?
+a) Mumbai / மும்பை
+b) Bengaluru / பெங்களூரு
+c) Hyderabad / ஹைதராபாத்
+d) New Delhi / புது தில்லி
+Answer: d
+
+58. What is the primary role of Krishi Vigyan Kendras (KVKs)?
+கிருஷி விஞ்ஞான் கேந்திராக்களின் (KVKs) முதன்மைப் பங்கு என்ன?
+a) To provide loans to farmers / விவசாயிகளுக்கு கடன் வழங்குதல்
+b) To act as a link between agricultural scientists and farmers (Technology Transfer) / விவசாய விஞ்ஞானிகளுக்கும் விவசாயிகளுக்கும் இடையே ஒரு இணைப்பாக செயல்படுதல் (தொழில்நுட்பப் பரிமாற்றம்)
+c) To sell agricultural products / விவசாயப் பொருட்களை விற்பனை செய்தல்
+d) To regulate pesticide use / பூச்சிக்கொல்லி பயன்பாட்டை ஒழுங்குபடுத்துதல்
+Answer: b
+
+59. Tamil Nadu Agricultural University (TNAU) is located in:
+தமிழ்நாடு வேளாண்மைப் பல்கலைக்கழகம் (TNAU) எங்கு அமைந்துள்ளது?
+a) Chennai / சென்னை
+b) Madurai / மதுரை
+c) Coimbatore / கோயம்புத்தூர்
+d) Trichy / திருச்சி
+Answer: c
+
+60. The Indian Institute of Horticultural Research (IIHR) is situated in:
+இந்திய தோட்டக்கலை ஆராய்ச்சி நிறுவனம் (IIHR) எங்கு அமைந்துள்ளது?
+a) Shimla / சிம்லா
+b) Nagpur / நாக்பூர்
+c) Bengaluru / பெங்களூரு
+d) Lucknow / லக்னோ
+Answer: c

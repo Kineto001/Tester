@@ -1,0 +1,783 @@
+**Overall Topic for Question Generation: Rivers in India**
+
+---
+
+**1. Assertion and Reason Questions (6 questions):**
+
+**Question 1:**
+Assertion (A): The Ganga river is a perennial river.
+Reason (R): It is fed by snowmelt from the Himalayas and rainfall during the monsoon season.
+
+கூற்று (A): கங்கை நதி ஒரு வற்றாத நதி.
+காரணம் (R): இது இமயமலையில் பனி உருகுவதாலும், பருவமழை காலங்களில் மழையினாலும் நீர் பெறுகிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+Answer: a
+
+**Question 2:**
+Assertion (A): The Narmada river flows westwards.
+Reason (R): It flows through a rift valley between the Vindhya and Satpura ranges.
+
+கூற்று (A): நர்மதா நதி மேற்கு நோக்கி பாய்கிறது.
+காரணம் (R): இது விந்திய மற்றும் சாத்பூரா மலைத்தொடர்களுக்கு இடையிலான ஒரு பிளவுப் பள்ளத்தாக்கு வழியாக பாய்கிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+Answer: a
+
+**Question 3:**
+Assertion (A): Peninsular rivers are mostly seasonal.
+Reason (R): They are primarily dependent on monsoon rainfall.
+
+கூற்று (A): தீபகற்ப நதிகள் பெரும்பாலும் பருவகால நதிகள்.
+காரணம் (R): அவை முதன்மையாக பருவமழையை சார்ந்துள்ளன.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+Answer: a
+
+**Question 4:**
+Assertion (A): The Godavari is often referred to as 'Dakshina Ganga'.
+Reason (R): It is the longest river in Peninsular India and has significant cultural importance.
+
+கூற்று (A): கோதாவரி நதி பெரும்பாலும் 'தட்சிண கங்கை' என்று குறிப்பிடப்படுகிறது.
+காரணம் (R): இது தீபகற்ப இந்தியாவின் மிக நீளமான நதி மற்றும் குறிப்பிடத்தக்க கலாச்சார முக்கியத்துவத்தைக் கொண்டுள்ளது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+Answer: a
+
+**Question 5:**
+Assertion (A): The Indus River originates in Tibet.
+Reason (R): Most of its course flows through Pakistan before draining into the Arabian Sea.
+
+கூற்று (A): சிந்து நதி திபெத்தில் உருவாகிறது.
+காரணம் (R): அதன் பெரும்பகுதி அரபிக்கடலில் கலப்பதற்கு முன் பாகிஸ்தான் வழியாக பாய்கிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+Answer: b
+
+**Question 6:**
+Assertion (A): The Kaveri river delta is highly fertile.
+Reason (R): The river deposits rich alluvial soil in its delta region.
+
+கூற்று (A): காவிரி நதி டெல்டா மிகவும் வளமானது.
+காரணம் (R): நதி அதன் டெல்டா பகுதியில் வளமான வண்டல் மண்ணை படிய வைக்கிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+Answer: a
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions):**
+
+**Question 7:**
+Identify the wrongly matched pair:
+(River – Origin)
+a) Ganga – Gangotri Glacier
+b) Yamuna – Yamunotri Glacier
+c) Brahmaputra – Chemayungdung Glacier
+d) Mahanadi – Amarkantak Plateau
+
+தவறாகப் பொருந்தும் இணையைக் கண்டறியவும்:
+(நதி – பிறப்பிடம்)
+a) கங்கை – கங்கோத்ரி பனியாறு
+b) யமுனை – யமுனோத்ரி பனியாறு
+c) பிரம்மபுத்திரா – செமாயுங்டங் பனியாறு
+d) மகாநதி – அமர்கண்டக் பீடபூமி
+Answer: d (Mahanadi originates in Sihawa, Chhattisgarh. மகாநதி சத்தீஸ்கரில் உள்ள சிகாவாவில் உருவாகிறது.)
+
+**Question 8:**
+Identify the wrongly matched pair:
+(River – Major Tributary)
+a) Indus – Sutlej
+b) Ganga – Yamuna
+c) Godavari – Tungabhadra
+d) Krishna – Bhima
+
+தவறாகப் பொருந்தும் இணையைக் கண்டறியவும்:
+(நதி – முக்கிய துணை நதி)
+a) சிந்து – சட்லஜ்
+b) கங்கை – யமுனை
+c) கோதாவரி – துங்கபத்திரை
+d) கிருஷ்ணா – பீமா
+Answer: c (Tungabhadra is a major tributary of Krishna River. துங்கபத்திரை கிருஷ்ணா நதியின் முக்கிய துணை நதியாகும்.)
+
+**Question 9:**
+Identify the wrongly matched pair:
+(Dam – River)
+a) Bhakra Nangal Dam – Sutlej
+b) Hirakud Dam – Mahanadi
+c) Nagarjuna Sagar Dam – Godavari
+d) Sardar Sarovar Dam – Narmada
+
+தவறாகப் பொருந்தும் இணையைக் கண்டறியவும்:
+(அணை – நதி)
+a) பக்ரா நங்கல் அணை – சட்லஜ்
+b) ஹிராகுட் அணை – மகாநதி
+c) நாகார்ஜுன சாகர் அணை – கோதாவரி
+d) சர்தார் சரோவர் அணை – நர்மதா
+Answer: c (Nagarjuna Sagar Dam is on Krishna River. நாகார்ஜுன சாகர் அணை கிருஷ்ணா நதியின் மீது உள்ளது.)
+
+**Question 10:**
+Identify the wrongly matched pair:
+(City – River Bank)
+a) Delhi – Yamuna
+b) Kolkata – Hooghly
+c) Lucknow – Gomti
+d) Hyderabad – Godavari
+
+தவறாகப் பொருந்தும் இணையைக் கண்டறியவும்:
+(நகரம் – நதிக்கரை)
+a) டெல்லி – யமுனை
+b) கொல்கத்தா – ஹூக்ளி
+c) லக்னோ – கோமதி
+d) ஹைதராபாத் – கோதாவரி
+Answer: d (Hyderabad is on the banks of the Musi River. ஹைதராபாத் மூசி நதிக்கரையில் அமைந்துள்ளது.)
+
+**Question 11:**
+Identify the wrongly matched pair:
+(River – Drains into)
+a) Ganga – Bay of Bengal
+b) Narmada – Arabian Sea
+c) Mahanadi – Arabian Sea
+d) Krishna – Bay of Bengal
+
+தவறாகப் பொருந்தும் இணையைக் கண்டறியவும்:
+(நதி – கலக்குமிடம்)
+a) கங்கை – வங்காள விரிகுடா
+b) நர்மதை – அரபிக்கடல்
+c) மகாநதி – அரபிக்கடல்
+d) கிருஷ்ணா – வங்காள விரிகுடா
+Answer: c (Mahanadi drains into Bay of Bengal. மகாநதி வங்காள விரிகுடாவில் கலக்கிறது.)
+
+**Question 12:**
+Identify the wrongly matched pair:
+(Waterfall – River)
+a) Jog Falls – Sharavati River
+b) Sivasamudram Falls – Kaveri River
+c) Dudhsagar Falls – Mandovi River
+d) Hogenakkal Falls – Periyar River
+
+தவறாகப் பொருந்தும் இணையைக் கண்டறியவும்:
+(நீர்வீழ்ச்சி – நதி)
+a) ஜோக் நீர்வீழ்ச்சி – ஷராவதி நதி
+b) சிவசமுத்திரம் நீர்வீழ்ச்சி – காவிரி நதி
+c) தூத்சாகர் நீர்வீழ்ச்சி – மாண்டோவி நதி
+d) ஒகேனக்கல் நீர்வீழ்ச்சி – பெரியாறு நதி
+Answer: d (Hogenakkal Falls is on the Kaveri River. ஒகேனக்கல் நீர்வீழ்ச்சி காவிரி நதியில் உள்ளது.)
+
+---
+
+**3. Match the Following Questions (6 questions):**
+
+**Question 13:**
+Match List-I with List-II:
+List-I (River) List-II (Tributary)
+1. Ganga         a. Chambal
+2. Yamuna     b. Son
+3. Indus         c. Tista
+4. Brahmaputra d. Jhelum
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (நதி) பட்டியல்-II (துணை நதி)
+1. கங்கை         a. சம்பல்
+2. யமுனை     b. சோன்
+3. சிந்து         c. தீஸ்தா
+4. பிரம்மபுத்திரா d. ஜீலம்
+
+Options:
+A) 1-b, 2-a, 3-d, 4-c
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-d, 2-c, 3-a, 4-b
+D) 1-c, 2-d, 3-b, 4-a
+Answer: A
+
+**Question 14:**
+Match List-I with List-II:
+List-I (River) List-II (Origin Place)
+1. Godavari      a. Talakaveri
+2. Krishna       b. Amarkantak
+3. Narmada    c. Trimbakeshwar
+4. Kaveri         d. Mahabaleshwar
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (நதி) பட்டியல்-II (பிறப்பிடம்)
+1. கோதாவரி      a. தலைக்காவிரி
+2. கிருஷ்ணா       b. அமர்கண்டக்
+3. நர்மதா        c. திரியம்பகேஷ்வர்
+4. காவிரி         d. மகாபலேஷ்வர்
+
+Options:
+A) 1-c, 2-d, 3-b, 4-a
+B) 1-d, 2-c, 3-a, 4-b
+C) 1-a, 2-b, 3-d, 4-c
+D) 1-b, 2-a, 3-c, 4-d
+Answer: A
+
+**Question 15:**
+Match List-I with List-II:
+List-I (Dam) List-II (State)
+1. Tehri Dam           a. Odisha
+2. Hirakud Dam       b. Gujarat
+3. Sardar Sarovar Dam c. Kerala
+4. Idukki Dam          d. Uttarakhand
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (அணை) பட்டியல்-II (மாநிலம்)
+1. தெஹ்ரி அணை           a. ஒடிசா
+2. ஹிராகுட் அணை       b. குஜராத்
+3. சர்தார் சரோவர் அணை c. கேரளா
+4. இடுக்கி அணை          d. உத்தராகண்ட்
+
+Options:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-d, 2-a, 3-b, 4-c
+C) 1-b, 2-c, 3-d, 4-a
+D) 1-c, 2-d, 3-a, 4-b
+Answer: B
+
+**Question 16:**
+Match List-I with List-II:
+List-I (River) List-II (Alternative Name / Feature)
+1. Brahmaputra     a. Sorrow of Bihar
+2. Kosi                 b. Dakshina Ganga
+3. Godavari           c. Tsangpo in Tibet
+4. Luni                  d. Inland drainage river
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (நதி) பட்டியல்-II (மாற்றுப் பெயர் / அம்சம்)
+1. பிரம்மபுத்திரா     a. பீகாரின் துயரம்
+2. கோசி                 b. தட்சிண கங்கை
+3. கோதாவரி           c. திபெத்தில் சாங்போ
+4. லூனி                  d. உள்நாட்டு வடிகால் நதி
+
+Options:
+A) 1-c, 2-a, 3-b, 4-d
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-d, 3-a, 4-c
+D) 1-d, 2-c, 3-b, 4-a
+Answer: A
+
+**Question 17:**
+Match List-I with List-II:
+List-I (City) List-II (River)
+1. Varanasi         a. Sabarmati
+2. Ahmedabad   b. Ganga
+3. Cuttack         c. Musi
+4. Hyderabad    d. Mahanadi
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (நகரம்) பட்டியல்-II (நதி)
+1. வாரணாசி         a. சபர்மதி
+2. அகமதாபாத்   b. கங்கை
+3. கட்டாக்         c. மூசி
+4. ஹைதராபாத்    d. மகாநதி
+
+Options:
+A) 1-d, 2-a, 3-c, 4-b
+B) 1-c, 2-b, 3-d, 4-a
+C) 1-b, 2-a, 3-d, 4-c
+D) 1-a, 2-d, 3-b, 4-c
+Answer: C
+
+**Question 18:**
+Match List-I with List-II:
+List-I (River System) List-II (Characteristic)
+1. Himalayan Rivers    a. Mostly seasonal
+2. Peninsular Rivers    b. Form estuaries
+3. West Flowing Peninsular Rivers c. Form large deltas
+4. East Flowing Peninsular Rivers  d. Perennial, snow-fed
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (நதி அமைப்பு) பட்டியல்-II (பண்பு)
+1. இமயமலை நதிகள்    a. பெரும்பாலும் பருவகாலமானவை
+2. தீபகற்ப நதிகள்    b. முகத்துவாரங்களை உருவாக்குகின்றன
+3. மேற்கு நோக்கி பாயும் தீபகற்ப நதிகள் c. பெரிய டெல்டாக்களை உருவாக்குகின்றன
+4. கிழக்கு நோக்கி பாயும் தீபகற்ப நதிகள்  d. வற்றாதவை, பனி ஊட்டப்பட்டவை
+
+Options:
+A) 1-a, 2-d, 3-c, 4-b
+B) 1-d, 2-a, 3-b, 4-c
+C) 1-b, 2-c, 3-a, 4-d
+D) 1-c, 2-b, 3-d, 4-a
+Answer: B
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions):**
+
+**Question 19:**
+Which is the longest river in India?
+a) Godavari
+b) Ganga
+c) Brahmaputra
+d) Indus
+
+இந்தியாவின் மிக நீளமான நதி எது?
+a) கோதாவரி
+b) கங்கை
+c) பிரம்மபுத்திரா
+d) சிந்து
+Answer: b
+
+**Question 20:**
+The river Narmada originates from:
+a) Amarkantak Plateau
+b) Mahabaleshwar
+c) Trimbakeshwar
+d) Gangotri Glacier
+
+நர்மதா நதி எங்கிருந்து உருவாகிறது?
+a) அமர்கண்டக் பீடபூமி
+b) மகாபலேஷ்வர்
+c) திரியம்பகேஷ்வர்
+d) கங்கோத்ரி பனியாறு
+Answer: a
+
+**Question 21:**
+Which of the following rivers flows through a rift valley?
+a) Godavari
+b) Krishna
+c) Tapti
+d) Mahanadi
+
+பின்வரும் நதிகளில் எது பிளவுப் பள்ளத்தாக்கு வழியாக பாய்கிறது?
+a) கோதாவரி
+b) கிருஷ்ணா
+c) தபதி
+d) மகாநதி
+Answer: c
+
+**Question 22:**
+The Sivasamudram Falls is located on which river?
+a) Krishna
+b) Godavari
+c) Kaveri
+d) Periyar
+
+சிவசமுத்திரம் நீர்வீழ்ச்சி எந்த ஆற்றில் அமைந்துள்ளது?
+a) கிருஷ்ணா
+b) கோதாவரி
+c) காவிரி
+d) பெரியாறு
+Answer: c
+
+**Question 23:**
+Which river is known as the 'Sorrow of Bengal'?
+a) Ganga
+b) Damodar
+c) Hooghly
+d) Teesta
+
+'வங்காளத்தின் துயரம்' என்று அழைக்கப்படும் நதி எது?
+a) கங்கை
+b) தாமோதர்
+c) ஹூக்ளி
+d) தீஸ்தா
+Answer: b
+
+**Question 24:**
+The river Brahmaputra enters India in which state?
+a) Assam
+b) Arunachal Pradesh
+c) Nagaland
+d) Sikkim
+
+பிரம்மபுத்திரா நதி எந்த மாநிலத்தில் இந்தியாவிற்குள் நுழைகிறது?
+a) அசாம்
+b) அருணாச்சல பிரதேசம்
+c) நாகாலாந்து
+d) சிக்கிம்
+Answer: b
+
+**Question 25:**
+Which of the following is a west-flowing river of Peninsular India?
+a) Mahanadi
+b) Godavari
+c) Periyar
+d) Krishna
+
+பின்வருவனவற்றில் தீபகற்ப இந்தியாவின் மேற்கு நோக்கி பாயும் நதி எது?
+a) மகாநதி
+b) கோதாவரி
+c) பெரியாறு
+d) கிருஷ்ணா
+Answer: c
+
+**Question 26:**
+The city of Vijayawada is located on the banks of which river?
+a) Godavari
+b) Krishna
+c) Tungabhadra
+d) Penna
+
+விஜயவாடா நகரம் எந்த ஆற்றின் கரையில் அமைந்துள்ளது?
+a) கோதாவரி
+b) கிருஷ்ணா
+c) துங்கபத்திரை
+d) பெண்ணாறு
+Answer: b
+
+**Question 27:**
+The confluence of Alaknanda and Bhagirathi rivers at Devprayag forms which river?
+a) Yamuna
+b) Ganga
+c) Indus
+d) Brahmaputra
+
+தேவபிரயாகையில் அலக்நந்தா மற்றும் பாகீரதி ஆறுகள் சங்கமித்து எந்த நதியை உருவாக்குகின்றன?
+a) யமுனை
+b) கங்கை
+c) சிந்து
+d) பிரம்மபுத்திரா
+Answer: b
+
+**Question 28:**
+Which is the longest tributary of the Ganga river?
+a) Yamuna
+b) Ghaghara
+c) Son
+d) Kosi
+
+கங்கை நதியின் மிக நீளமான துணை நதி எது?
+a) யமுனை
+b) காகரா
+c) சோன்
+d) கோசி
+Answer: a
+
+**Question 29:**
+The Hirakud Dam, one of the longest dams in the world, is built on which river?
+a) Godavari
+b) Mahanadi
+c) Narmada
+d) Tapti
+
+உலகின் மிக நீளமான அணைகளில் ஒன்றான ஹிராகுட் அணை எந்த ஆற்றின் மீது கட்டப்பட்டுள்ளது?
+a) கோதாவரி
+b) மகாநதி
+c) நர்மதா
+d) தபதி
+Answer: b
+
+**Question 30:**
+Which river forms the famous Jog Falls (Gersoppa Falls)?
+a) Kaveri
+b) Sharavati
+c) Krishna
+d) Tungabhadra
+
+புகழ்பெற்ற ஜோக் நீர்வீழ்ச்சியை (கெர்சோப்பா நீர்வீழ்ச்சி) உருவாக்கும் நதி எது?
+a) காவிரி
+b) ஷராவதி
+c) கிருஷ்ணா
+d) துங்கபத்திரை
+Answer: b
+
+**Question 31:**
+The river Tsangpo flows through Tibet before entering India as:
+a) Ganga
+b) Indus
+c) Brahmaputra
+d) Sutlej
+
+சாங்போ நதி திபெத் வழியாக பாய்ந்து இந்தியாவிற்குள் எவ்வாறு நுழைகிறது?
+a) கங்கை
+b) சிந்து
+c) பிரம்மபுத்திரா
+d) சட்லஜ்
+Answer: c
+
+**Question 32:**
+Which Indian river is also known as 'Vridha Ganga' (Old Ganga)?
+a) Krishna
+b) Kaveri
+c) Godavari
+d) Narmada
+
+'விருத்த கங்கா' (பழைய கங்கை) என்றும் அழைக்கப்படும் இந்திய நதி எது?
+a) கிருஷ்ணா
+b) காவிரி
+c) கோதாவரி
+d) நர்மதா
+Answer: c
+
+**Question 33:**
+The Luni River drains into:
+a) Arabian Sea
+b) Bay of Bengal
+c) Rann of Kutch
+d) Sambhar Lake
+
+லூனி நதி எங்கு கலக்கிறது?
+a) அரபிக்கடல்
+b) வங்காள விரிகுடா
+c) ரான் ஆஃப் கட்ச்
+d) சாம்பார் ஏரி
+Answer: c
+
+**Question 34:**
+The Majuli island, the largest riverine island in the world, is located in which river?
+a) Ganga
+b) Brahmaputra
+c) Indus
+d) Godavari
+
+உலகின் மிகப்பெரிய ஆற்றுத் தீவான மஜூலி தீவு எந்த ஆற்றில் அமைந்துள்ளது?
+a) கங்கை
+b) பிரம்மபுத்திரா
+c) சிந்து
+d) கோதாவரி
+Answer: b
+
+**Question 35:**
+Which of these rivers does not originate in India?
+a) Ganga
+b) Yamuna
+c) Sutlej
+d) Ravi
+
+பின்வரும் நதிகளில் எது இந்தியாவில் உருவாகவில்லை?
+a) கங்கை
+b) யமுனை
+c) சட்லஜ்
+d) ராவி
+Answer: c
+
+**Question 36:**
+The city of Nashik is situated on the banks of which river?
+a) Krishna
+b) Godavari
+c) Tapti
+d) Narmada
+
+நாசிக் நகரம் எந்த ஆற்றின் கரையில் அமைந்துள்ளது?
+a) கிருஷ்ணா
+b) கோதாவரி
+c) தபதி
+d) நர்மதா
+Answer: b
+
+**Question 37:**
+The river also known as 'Dakshina Ganga' is:
+a) Mahanadi
+b) Godavari
+c) Krishna
+d) Kaveri
+
+'தட்சிண கங்கை' என்று அழைக்கப்படும் நதி:
+a) மகாநதி
+b) கோதாவரி
+c) கிருஷ்ணா
+d) காவிரி
+Answer: b
+
+**Question 38:**
+The Teesta river is a tributary of which major river system?
+a) Ganga
+b) Brahmaputra
+c) Indus
+d) Mahanadi
+
+தீஸ்தா நதி எந்த முக்கிய நதி அமைப்பின் துணை நதியாகும்?
+a) கங்கை
+b) பிரம்மபுத்திரா
+c) சிந்து
+d) மகாநதி
+Answer: b
+
+**Question 39:**
+Which river is famous for its 'Marble Rocks' at Bhedaghat?
+a) Godavari
+b) Krishna
+c) Narmada
+d) Tapti
+
+பேடாகாட்டில் உள்ள 'சலவைக் கல் பாறைகளுக்கு' புகழ்பெற்ற நதி எது?
+a) கோதாவரி
+b) கிருஷ்ணா
+c) நர்மதா
+d) தபதி
+Answer: c
+
+**Question 40:**
+The river that forms the delta named 'Sunderbans' is:
+a) Brahmaputra
+b) Ganga
+c) Both Ganga and Brahmaputra
+d) Mahanadi
+
+'சுந்தரவனக்காடுகள்' என்ற டெல்டாவை உருவாக்கும் நதி:
+a) பிரம்மபுத்திரா
+b) கங்கை
+c) கங்கை மற்றும் பிரம்மபுத்திரா இரண்டும்
+d) மகாநதி
+Answer: c
+
+**Question 41:**
+The Pong Dam is constructed on which river?
+a) Beas
+b) Ravi
+c) Sutlej
+d) Chenab
+
+பாங் அணை எந்த ஆற்றின் மீது கட்டப்பட்டுள்ளது?
+a) பியாஸ்
+b) ராவி
+c) சட்லஜ்
+d) செனாப்
+Answer: a
+
+**Question 42:**
+Which of the following Peninsular rivers is the longest?
+a) Narmada
+b) Godavari
+c) Krishna
+d) Mahanadi
+
+பின்வரும் தீபகற்ப நதிகளில் மிக நீளமானது எது?
+a) நர்மதா
+b) கோதாவரி
+c) கிருஷ்ணா
+d) மகாநதி
+Answer: b
+
+**Question 43:**
+The river Indus originates from:
+a) Mansarovar Lake
+b) Rakas Lake
+c) Chemayungdung Glacier
+d) Siachen Glacier
+
+சிந்து நதி எங்கிருந்து உருவாகிறது?
+a) மானசரோவர் ஏரி (அருகில்)
+b) ராகாஸ் ஏரி
+c) செமாயுங்டங் பனியாறு
+d) சியாச்சின் பனியாறு
+Answer: a
+
+**Question 44:**
+The city of Ayodhya is located on the banks of which river?
+a) Ganga
+b) Yamuna
+c) Saryu
+d) Gomti
+
+அயோத்தி நகரம் எந்த ஆற்றின் கரையில் அமைந்துள்ளது?
+a) கங்கை
+b) யமுனை
+c) சரயு
+d) கோமதி
+Answer: c
+
+**Question 45:**
+Which of the following rivers is known as the 'lifeline of Kerala'?
+a) Kaveri
+b) Periyar
+c) Pamba
+d) Bharathappuzha
+
+பின்வரும் நதிகளில் எது 'கேரளாவின் உயிர்நாடி' என்று அழைக்கப்படுகிறது?
+a) காவிரி
+b) பெரியாறு
+c) பம்பா
+d) பாரதப்புழா
+Answer: b
+
+**Question 46:**
+The Amravati, Bhavani, Hemavati and Kabini are tributaries of which river?
+a) Krishna
+b) Godavari
+c) Mahanadi
+d) Kaveri
+
+அமராவதி, பவானி, ஹேமாவதி மற்றும் கபினி ஆகியவை எந்த ஆற்றின் துணை நதிகள்?
+a) கிருஷ்ணா
+b) கோதாவரி
+c) மகாநதி
+d) காவிரி
+Answer: d
+
+**Question 47:**
+The river that flows between Vindhya and Satpura ranges is:
+a) Mahanadi
+b) Narmada
+c) Godavari
+d) Krishna
+
+விந்திய மற்றும் சாத்பூரா மலைத்தொடர்களுக்கு இடையில் பாயும் நதி:
+a) மகாநதி
+b) நர்மதா
+c) கோதாவரி
+d) கிருஷ்ணா
+Answer: b
+
+**Question 48:**
+Which of the following is an east-flowing river in Peninsular India?
+a) Tapti
+b) Narmada
+c) Sabarmati
+d) Mahanadi
+
+பின்வருவனவற்றில் தீபகற்ப இந்தியாவில் கிழக்கு நோக்கி பாயும் நதி எது?
+a) தபதி
+b) நர்மதா
+c) சபர்மதி
+d) மகாநதி
+Answer: d
+
+**Question 49:**
+The Ukai Dam is located on which river?
+a) Narmada
+b) Tapti
+c) Mahi
+d) Sabarmati
+
+உக்காய் அணை எந்த ஆற்றின் மீது அமைந்துள்ளது?
+a) நர்மதா
+b) தபதி
+c) மஹி
+d) சபர்மதி
+Answer: b
+
+**Question 50:**
+The Baglihar Dam is built on which river?
+a) Jhelum
+b) Chenab
+c) Ravi
+d) Sutlej
+
+பக்லிஹார் அணை எந்த ஆற்றின் மீது கட்டப்பட்டுள்ளது?
+a) ஜீலம்
+b) செனாப்
+c) ராவி
+d) சட்லஜ்
+Answer: b

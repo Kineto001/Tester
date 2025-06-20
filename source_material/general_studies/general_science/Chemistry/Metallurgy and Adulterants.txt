@@ -1,0 +1,897 @@
+Overall Topic for Question Generation: Metallurgy and Food Adulterants
+
+---
+
+**1. Assertion and Reason Questions (6 questions):**
+
+1.
+Assertion (A): Aluminum is widely used in the manufacturing of aircraft bodies.
+Reason (R): Aluminum is a lightweight metal with high tensile strength and good resistance to corrosion.
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+கூற்று (A): அலுமினியம் விமான உடல்களைத் தயாரிப்பதில் பரவலாகப் பயன்படுத்தப்படுகிறது.
+காரணம் (R): அலுமினியம் ஒரு குறைந்த எடை கொண்ட உலோகம், அதிக இழுவிசை வலிமை மற்றும் அரிப்பை எதிர்க்கும் நல்ல பண்பு கொண்டது.
+விருப்பங்கள்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+2.
+Assertion (A): Roasting process is generally applied to sulphide ores.
+Reason (R): During roasting, sulphide ores are converted into their respective oxides by heating in a regulated supply of air below their melting point.
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+கூற்று (A): வறுத்தல் செயல்முறை பொதுவாக சல்பைடு தாதுக்களுக்குப் பயன்படுத்தப்படுகிறது.
+காரணம் (R): வறுத்தலின் போது, சல்பைடு தாதுக்கள் அவற்றின் உருகுநிலைக்குக் கீழே கட்டுப்படுத்தப்பட்ட காற்றில் சூடாக்குவதன் மூலம் அந்தந்த ஆக்சைடுகளாக மாற்றப்படுகின்றன.
+விருப்பங்கள்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+3.
+Assertion (A): Metanil yellow is often used as an adulterant in turmeric powder.
+Reason (R): Metanil yellow is a permitted and safe food colouring agent.
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+கூற்று (A): மெட்டானில் மஞ்சள் பெரும்பாலும் மஞ்சள் தூளில் கலப்படப் பொருளாகப் பயன்படுத்தப்படுகிறது.
+காரணம் (R): மெட்டானில் மஞ்சள் ஒரு அனுமதிக்கப்பட்ட மற்றும் பாதுகாப்பான உணவு வண்ணமூட்டும் பொருளாகும்.
+விருப்பங்கள்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+Answer: c
+
+4.
+Assertion (A): Prolonged consumption of Kesari dal can lead to lathyrism.
+Reason (R): Kesari dal contains a neurotoxin called BOAA (Beta-N-Oxalyl-L-alpha,beta-diaminopropionic acid).
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+கூற்று (A): கேசரி பருப்பை நீண்டகாலம் உட்கொள்வது லேத்திரியம் பாதிப்புக்கு வழிவகுக்கும்.
+காரணம் (R): கேசரி பருப்பில் BOAA (பீட்டா-N-ஆக்சாலில்-L-ஆல்ஃபா, பீட்டா-டையமினோபுரோபியோனிக் அமிலம்) என்ற நரம்பு நச்சு உள்ளது.
+விருப்பங்கள்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+5.
+Assertion (A): Galvanizing is a process of coating iron with a thin layer of zinc.
+Reason (R): Zinc acts as a sacrificial anode, protecting the iron from rusting.
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+கூற்று (A): நாகமுலாமிடல் என்பது இரும்பின் மீது துத்தநாகத்தின் மெல்லிய அடுக்கைப் பூசும் ஒரு செயல்முறையாகும்.
+காரணம் (R): துத்தநாகம் ஒரு தியாக மின்முனையாக செயல்பட்டு, இரும்பைத் துருப்பிடிக்காமல் பாதுகாக்கிறது.
+விருப்பங்கள்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+6.
+Assertion (A): Adding water to milk is considered a form of adulteration.
+Reason (R): Adding water to milk increases its nutritional value and density.
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+கூற்று (A): பாலில் தண்ணீர் சேர்ப்பது ஒரு வகையான கலப்படமாகக் கருதப்படுகிறது.
+காரணம் (R): பாலில் தண்ணீர் சேர்ப்பது அதன் ஊட்டச்சத்து மதிப்பையும் அடர்த்தியையும் அதிகரிக்கிறது.
+விருப்பங்கள்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+Answer: c
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions):**
+
+7.
+Identify the wrongly matched pair:
+a) Bauxite - Aluminium
+b) Haematite - Iron
+c) Calamine - Zinc
+d) Malachite - Lead
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+a) பாக்சைட் - அலுமினியம்
+b) ஹேமடைட் - இரும்பு
+c) கேலமைன் - துத்தநாகம்
+d) மாலகைட் - ஈயம்
+Answer: d (Malachite - Copper / மாலகைட் - தாமிரம்)
+
+8.
+Identify the wrongly matched pair (Alloy - Major Constituents):
+a) Brass - Copper, Zinc
+b) Bronze - Copper, Tin
+c) Solder - Lead, Tin
+d) Duralumin - Aluminium, Iron
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும் (உலோகக்கலவை - முக்கிய கூறுகள்):
+a) பித்தளை - தாமிரம், துத்தநாகம்
+b) வெண்கலம் - தாமிரம், தகரம்
+c) பற்றாசு - ஈயம், தகரம்
+d) டூராலுமின் - அலுமினியம், இரும்பு
+Answer: d (Duralumin - Aluminium, Copper, Magnesium, Manganese / டூராலுமின் - அலுமினியம், தாமிரம், மெக்னீசியம், மாங்கனீசு)
+
+9.
+Identify the wrongly matched pair (Food Item - Common Adulterant):
+a) Milk - Urea
+b) Turmeric powder - Metanil yellow
+c) Black pepper - Papaya seeds
+d) Coffee powder - Brick powder
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும் (உணவுப் பொருள் - பொதுவான கலப்படப்பொருள்):
+a) பால் - யூரியா
+b) மஞ்சள் தூள் - மெட்டானில் மஞ்சள்
+c) கருமிளகு - பப்பாளி விதைகள்
+d) காபி தூள் - செங்கல் தூள்
+Answer: d (Coffee powder - Chicory powder, Tamarind seed powder / காபி தூள் - சிக்கரி தூள், புளி விதை தூள்)
+
+10.
+Identify the wrongly matched pair (Metallurgical Process - Purpose/Ore type):
+a) Roasting - Sulphide ores
+b) Calcination - Carbonate ores
+c) Smelting - Reduction of ore to metal
+d) Froth Flotation - Oxide ores
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும் (உலோகவியல் செயல்முறை - நோக்கம்/தாது வகை):
+a) வறுத்தல் - சல்பைடு தாதுக்கள்
+b) காற்றில்லா வறுத்தல் (சுண்ணாம்பாக்கல்) - கார்பனேட் தாதுக்கள்
+c) உருக்குதல் - தாதுவை உலோகமாகக் குறைத்தல்
+d) நுரை மிதப்பு முறை - ஆக்சைடு தாதுக்கள்
+Answer: d (Froth Flotation - Sulphide ores / நுரை மிதப்பு முறை - சல்பைடு தாதுக்கள்)
+
+11.
+Identify the wrongly matched pair (Adulterant - Health Effect):
+a) Argemone oil - Epidemic dropsy
+b) Lead chromate - Carcinogenic
+c) Kesari dal - Lathyrism
+d) Metanil yellow - Improves digestion
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும் (கலப்படப்பொருள் - சுகாதார விளைவு):
+a) ஆர்ஜிமோன் எண்ணெய் - எபிடெமிக் டிராப்சி (பெருநீர்க்கோவை)
+b) லெட் குரோமேட் - புற்றுநோயை உண்டாக்கும்
+c) கேசரி பருப்பு - லேத்திரியம்
+d) மெட்டானில் மஞ்சள் - செரிமானத்தை மேம்படுத்துகிறது
+Answer: d (Metanil yellow - Harmful, can cause neurotoxicity, cancer / மெட்டானில் மஞ்சள் - தீங்கு விளைவிக்கும், நரம்பு நச்சுத்தன்மை, புற்றுநோயை ஏற்படுத்தலாம்)
+
+12.
+Identify the wrongly matched pair (Metal - Primary Use/Property):
+a) Copper - Electrical wiring
+b) Aluminium - Aircraft parts
+c) Gold - Jewellery
+d) Mercury - Food preservation
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும் (உலோகம் - முதன்மைப் பயன்பாடு/பண்பு):
+a) தாமிரம் - மின்சார வயரிங்
+b) அலுமினியம் - விமான பாகங்கள்
+c) தங்கம் - நகைகள்
+d) பாதரசம் - உணவுப் பாதுகாப்பு
+Answer: d (Mercury - Thermometers, barometers (toxic, not for food preservation) / பாதரசம் - வெப்பமானிகள், பாரமானிகள் (நச்சுத்தன்மை வாய்ந்தது, உணவுப் பாதுகாப்பிற்கு அல்ல))
+
+---
+
+**3. Match the Following Questions (6 questions):**
+
+13.
+Match List-I (Ore) with List-II (Metal):
+List-I
+1. Bauxite
+2. Haematite
+3. Galena
+4. Cinnabar
+List-II
+a. Mercury
+b. Lead
+c. Iron
+d. Aluminium
+
+Options:
+A) 1-d, 2-c, 3-b, 4-a
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-c, 2-d, 3-a, 4-b
+D) 1-b, 2-a, 3-d, 4-c
+
+பட்டியல்-I (தாது) ஐ பட்டியல்-II (உலோகம்) உடன் பொருத்துக:
+பட்டியல்-I
+1. பாக்சைட்
+2. ஹேமடைட்
+3. கலீனா
+4. சின்னபார்
+பட்டியல்-II
+a. பாதரசம்
+b. ஈயம்
+c. இரும்பு
+d. அலுமினியம்
+
+விருப்பங்கள்:
+A) 1-d, 2-c, 3-b, 4-a
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-c, 2-d, 3-a, 4-b
+D) 1-b, 2-a, 3-d, 4-c
+Answer: A
+
+14.
+Match List-I (Alloy) with List-II (Major Constituents):
+List-I
+1. Brass
+2. Bronze
+3. Stainless Steel
+4. Solder
+List-II
+a. Copper, Tin
+b. Iron, Chromium, Nickel
+c. Lead, Tin
+d. Copper, Zinc
+
+Options:
+A) 1-d, 2-a, 3-b, 4-c
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-c, 3-d, 4-a
+D) 1-c, 2-d, 3-a, 4-b
+
+பட்டியல்-I (உலோகக்கலவை) ஐ பட்டியல்-II (முக்கிய கூறுகள்) உடன் பொருத்துக:
+பட்டியல்-I
+1. பித்தளை
+2. வெண்கலம்
+3. துருப்பிடிக்காத எஃகு
+4. பற்றாசு
+பட்டியல்-II
+a. தாமிரம், தகரம்
+b. இரும்பு, குரோமியம், நிக்கல்
+c. ஈயம், தகரம்
+d. தாமிரம், துத்தநாகம்
+
+விருப்பங்கள்:
+A) 1-d, 2-a, 3-b, 4-c
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-c, 3-d, 4-a
+D) 1-c, 2-d, 3-a, 4-b
+Answer: A
+
+15.
+Match List-I (Food Item) with List-II (Common Adulterant):
+List-I
+1. Milk
+2. Ghee
+3. Chilli powder
+4. Honey
+List-II
+a. Brick powder
+b. Sugar syrup
+c. Starch/Water
+d. Vanaspati
+
+Options:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-c, 2-d, 3-a, 4-b
+C) 1-d, 2-c, 3-b, 4-a
+D) 1-b, 2-a, 3-d, 4-c
+
+பட்டியல்-I (உணவுப் பொருள்) ஐ பட்டியல்-II (பொதுவான கலப்படப்பொருள்) உடன் பொருத்துக:
+பட்டியல்-I
+1. பால்
+2. நெய்
+3. மிளகாய் தூள்
+4. தேன்
+பட்டியல்-II
+a. செங்கல் தூள்
+b. சர்க்கரை பாகு
+c. ஸ்டார்ச்/தண்ணீர்
+d. வனஸ்பதி
+
+விருப்பங்கள்:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-c, 2-d, 3-a, 4-b
+C) 1-d, 2-c, 3-b, 4-a
+D) 1-b, 2-a, 3-d, 4-c
+Answer: B
+
+16.
+Match List-I (Metallurgical Term) with List-II (Description):
+List-I
+1. Gangue
+2. Flux
+3. Slag
+4. Ore Dressing
+List-II
+a. Fusible product formed by reaction of flux and gangue
+b. Process of removing impurities from ore
+c. Earthy impurities associated with an ore
+d. Substance added to remove gangue
+
+Options:
+A) 1-c, 2-d, 3-a, 4-b
+B) 1-a, 2-b, 3-d, 4-c
+C) 1-b, 2-a, 3-c, 4-d
+D) 1-d, 2-c, 3-b, 4-a
+
+பட்டியல்-I (உலோகவியல் சொல்) ஐ பட்டியல்-II (விளக்கம்) உடன் பொருத்துக:
+பட்டியல்-I
+1. கனிமக்கழிவு (கேங்கு)
+2. இளக்கி (ஃப்ளக்ஸ்)
+3. கசடு (ஸ்லாக்)
+4. தாது அடர்ப்பித்தல்
+பட்டியல்-II
+a. இளக்கி மற்றும் கனிமக்கழிவு வினைபுரிந்து உருவாகும் உருகக்கூடிய பொருள்
+b. தாதுவிலிருந்து மாசுகளை அகற்றும் செயல்முறை
+c. தாதுவுடன் தொடர்புடைய மண் மாசுகள்
+d. கனிமக்கழிவை அகற்ற சேர்க்கப்படும் பொருள்
+
+விருப்பங்கள்:
+A) 1-c, 2-d, 3-a, 4-b
+B) 1-a, 2-b, 3-d, 4-c
+C) 1-b, 2-a, 3-c, 4-d
+D) 1-d, 2-c, 3-b, 4-a
+Answer: A
+
+17.
+Match List-I (Food Adulterant) with List-II (Food Commonly Adulterated):
+List-I
+1. Metanil Yellow
+2. Argemone Oil
+3. Brick Powder
+4. Used Tea Leaves
+List-II
+a. Mustard Oil
+b. Tea powder
+c. Turmeric Powder / Pulses
+d. Chilli Powder
+
+Options:
+A) 1-d, 2-c, 3-b, 4-a
+B) 1-c, 2-a, 3-d, 4-b
+C) 1-a, 2-b, 3-c, 4-d
+D) 1-b, 2-d, 3-a, 4-c
+
+பட்டியல்-I (உணவு கலப்படப்பொருள்) ஐ பட்டியல்-II (பொதுவாக கலப்படம் செய்யப்படும் உணவு) உடன் பொருத்துக:
+பட்டியல்-I
+1. மெட்டானில் மஞ்சள்
+2. ஆர்ஜிமோன் எண்ணெய்
+3. செங்கல் தூள்
+4. பயன்படுத்தப்பட்ட தேயிலை
+பட்டியல்-II
+a. கடுகு எண்ணெய்
+b. தேயிலை தூள்
+c. மஞ்சள் தூள் / பருப்பு வகைகள்
+d. மிளகாய் தூள்
+
+விருப்பங்கள்:
+A) 1-d, 2-c, 3-b, 4-a
+B) 1-c, 2-a, 3-d, 4-b
+C) 1-a, 2-b, 3-c, 4-d
+D) 1-b, 2-d, 3-a, 4-c
+Answer: B
+
+18.
+Match List-I (Metal Property/Process) with List-II (Related Term/Example):
+List-I
+1. Malleability
+2. Ductility
+3. Corrosion
+4. Alloy
+List-II
+a. Rusting of Iron
+b. Brass
+c. Can be drawn into wires
+d. Can be beaten into thin sheets
+
+Options:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-d, 2-c, 3-a, 4-b
+D) 1-c, 2-d, 3-b, 4-a
+
+பட்டியல்-I (உலோகப் பண்பு/செயல்முறை) ஐ பட்டியல்-II (தொடர்புடைய சொல்/எடுத்துக்காட்டு) உடன் பொருத்துக:
+பட்டியல்-I
+1. தகடாகும் பண்பு (மேலியபிலிட்டி)
+2. கம்பியாக நீளும் பண்பு (டக்டிலிட்டி)
+3. அரிமானம்
+4. உலோகக்கலவை
+பட்டியல்-II
+a. இரும்பு துருப்பிடித்தல்
+b. பித்தளை
+c. கம்பிகளாக நீட்ட முடியும்
+d. மெல்லிய தகடுகளாக அடிக்க முடியும்
+
+விருப்பங்கள்:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-d, 2-c, 3-a, 4-b
+D) 1-c, 2-d, 3-b, 4-a
+Answer: C
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions):**
+
+19.
+Which is the most abundant metal in the Earth's crust?
+a) Iron
+b) Aluminium
+c) Copper
+d) Silicon
+
+பூமியின் மேலோட்டத்தில் மிக அதிகமாகக் காணப்படும் உலோகம் எது?
+a) இரும்பு
+b) அலுமினியம்
+c) தாமிரம்
+d) சிலிக்கான்
+Answer: b
+
+20.
+The process of extraction of metals from their ores is known as:
+a) Metallurgy
+b) Refining
+c) Corrosion
+d) Alloy formation
+
+தாதுக்களிலிருந்து உலோகங்களைப் பிரித்தெடுக்கும் செயல்முறை இவ்வாறு அழைக்கப்படுகிறது:
+a) உலோகவியல்
+b) தூய்மையாக்கல்
+c) அரிமானம்
+d) உலோகக்கலவை உருவாக்கம்
+Answer: a
+
+21.
+Rust is chemically known as:
+a) Ferrous oxide
+b) Ferric sulphate
+c) Hydrated ferric oxide
+d) Ferrous carbonate
+
+துரு வேதியியல் ரீதியாக இவ்வாறு அறியப்படுகிறது:
+a) ஃபெர்ரஸ் ஆக்சைடு
+b) ஃபெர்ரிக் சல்பேட்
+c) நீரேறிய ஃபெர்ரிக் ஆக்சைடு
+d) ஃபெர்ரஸ் கார்பனேட்
+Answer: c
+
+22.
+Brass is an alloy of:
+a) Copper and Tin
+b) Copper and Zinc
+c) Lead and Tin
+d) Aluminium and Copper
+
+பித்தளை என்பது இதன் உலோகக்கலவை:
+a) தாமிரம் மற்றும் தகரம்
+b) தாமிரம் மற்றும் துத்தநாகம்
+c) ஈயம் மற்றும் தகரம்
+d) அலுமினியம் மற்றும் தாமிரம்
+Answer: b
+
+23.
+Which adulterant is commonly used in chilli powder to give it a bright red colour?
+a) Metanil yellow
+b) Brick powder
+c) Turmeric powder
+d) Sawdust
+
+மிளகாய் தூளுக்கு பிரகாசமான சிவப்பு நிறத்தைக் கொடுக்க பொதுவாக எந்த கலப்படப்பொருள் பயன்படுத்தப்படுகிறது?
+a) மெட்டானில் மஞ்சள்
+b) செங்கல் தூள்
+c) மஞ்சள் தூள்
+d) மரத்தூள்
+Answer: b
+
+24.
+Consumption of mustard oil adulterated with argemone oil causes:
+a) Lathyrism
+b) Epidemic dropsy
+c) Food poisoning
+d) Anaemia
+
+ஆர்ஜிமோன் எண்ணெய் கலப்படம் செய்யப்பட்ட கடுகு எண்ணெயை உட்கொள்வதால் ஏற்படும் பாதிப்பு:
+a) லேத்திரியம்
+b) எபிடெமிக் டிராப்சி (பெருநீர்க்கோவை)
+c) உணவு நச்சுத்தன்மை
+d) இரத்த சோகை
+Answer: b
+
+25.
+FSSAI stands for:
+a) Food Safety and Security Authority of India
+b) Food Standards and Safety Authority of India
+c) Food Safety and Standards Authority of India
+d) Food Security and Standards Agency of India
+
+FSSAI என்பதன் விரிவாக்கம்:
+a) இந்திய உணவுப் பாதுகாப்பு மற்றும் பாதுகாப்பு ஆணையம்
+b) இந்திய உணவுத் தரங்கள் மற்றும் பாதுகாப்பு ஆணையம்
+c) இந்திய உணவுப் பாதுகாப்பு மற்றும் தர நிர்ணய ஆணையம்
+d) இந்திய உணவுப் பாதுகாப்பு மற்றும் தர நிர்ணய முகமை
+Answer: c
+
+26.
+The yellow colour in pure turmeric is due to the presence of:
+a) Carotene
+b) Curcumin
+c) Xanthophyll
+d) Metanil yellow
+
+தூய மஞ்சளில் மஞ்சள் நிறம் இதிருப்பதால் ஏற்படுகிறது:
+a) கரோட்டின்
+b) குர்குமின்
+c) சாந்தோஃபில்
+d) மெட்டானில் மஞ்சள்
+Answer: b
+
+27.
+The process of coating iron or steel with a layer of zinc to prevent rusting is called:
+a) Electroplating
+b) Galvanization
+c) Anodizing
+d) Tinning
+
+இரும்பு அல்லது எஃகு துருப்பிடிப்பதைத் தடுக்க துத்தநாக அடுக்கால் பூசும் செயல்முறை இவ்வாறு அழைக்கப்படுகிறது:
+a) மின்முலாம் பூசுதல்
+b) நாகமுலாமிடல்
+c) நேர்மின்முனையாக்கல்
+d) தகர முலாமிடல்
+Answer: b
+
+28.
+Which of the following is an ore of mercury?
+a) Bauxite
+b) Cinnabar
+c) Haematite
+d) Galena
+
+பின்வருவனவற்றில் எது பாதரசத்தின் தாது?
+a) பாக்சைட்
+b) சின்னபார்
+c) ஹேமடைட்
+d) கலீனா
+Answer: b
+
+29.
+A common adulterant found in black pepper is:
+a) Chicory seeds
+b) Papaya seeds
+c) Tamarind seeds
+d) Artificial colours
+
+கருமிளகில் பொதுவாகக் காணப்படும் கலப்படப்பொருள்:
+a) சிக்கரி விதைகள்
+b) பப்பாளி விதைகள்
+c) புளி விதைகள்
+d) செயற்கை வண்ணங்கள்
+Answer: b
+
+30.
+Which of the following methods is used for the concentration of sulphide ores?
+a) Magnetic separation
+b) Froth flotation
+c) Leaching
+d) Gravity separation
+
+சல்பைடு தாதுக்களை அடர்ப்பிக்க பின்வரும் எந்த முறை பயன்படுத்தப்படுகிறது?
+a) காந்தப் பிரிப்பு
+b) நுரை மிதப்பு முறை
+c) கщеரித்தல் (லீச்சிங்)
+d) புவியீர்ப்பு முறை பிரிப்பு
+Answer: b
+
+31.
+Vanaspati is often used as an adulterant in:
+a) Milk
+b) Honey
+c) Ghee
+d) Edible oils (like groundnut oil)
+
+வனஸ்பதி பெரும்பாலும் இதில் கலப்படப் பொருளாகப் பயன்படுத்தப்படுகிறது:
+a) பால்
+b) தேன்
+c) நெய்
+d) சமையல் எண்ணெய்கள் (கடலை எண்ணெய் போன்றவை)
+Answer: c
+
+32.
+The chemical symbol for gold is:
+a) Ag
+b) Au
+c) Gd
+d) Go
+
+தங்கத்தின் வேதியியல் குறியீடு:
+a) Ag
+b) Au
+c) Gd
+d) Go
+Answer: b
+
+33.
+An example of a noble metal is:
+a) Aluminium
+b) Iron
+c) Platinum
+d) Zinc
+
+ஒரு உயரிய உலோகத்திற்கு எடுத்துக்காட்டு:
+a) அலுமினியம்
+b) இரும்பு
+c) பிளாட்டினம்
+d) துத்தநாகம்
+Answer: c
+
+34.
+Which test is commonly used to detect the presence of starch as an adulterant in milk or milk products?
+a) Litmus test
+b) Iodine test
+c) Benedict's test
+d) Millon's test
+
+பால் அல்லது பால் பொருட்களில் ஸ்டார்ச் கலப்படத்தைக் கண்டறிய பொதுவாக எந்த சோதனை பயன்படுத்தப்படுகிறது?
+a) லிட்மஸ் சோதனை
+b) அயோடின் சோதனை
+c) பெனடிக்ட் சோதனை
+d) மில்லன் சோதனை
+Answer: b
+
+35.
+The process of heating an ore strongly in the absence of air is called:
+a) Roasting
+b) Smelting
+c) Calcination
+d) Reduction
+
+காற்றில்லாமல் ஒரு தாதுவை வலுவாக சூடாக்கும் செயல்முறை இவ்வாறு அழைக்கப்படுகிறது:
+a) வறுத்தல்
+b) உருக்குதல்
+c) காற்றில்லா வறுத்தல் (சுண்ணாம்பாக்கல்)
+d) ஒடுக்கம்
+Answer: c
+
+36.
+Consumption of food items contaminated with Aflatoxins can primarily damage which organ?
+a) Kidneys
+b) Liver
+c) Heart
+d) Lungs
+
+அஃப்லடாக்சின்களால் அசுத்தமான உணவுப் பொருட்களை உட்கொள்வது முதன்மையாக எந்த உறுப்பை சேதப்படுத்தும்?
+a) சிறுநீரகங்கள்
+b) கல்லீரல்
+c) இதயம்
+d) நுரையீரல்
+Answer: b
+
+37.
+Stainless steel is an alloy primarily because it:
+a) Is a good conductor of electricity
+b) Is very lightweight
+c) Resists corrosion
+d) Is highly magnetic
+
+துருப்பிடிக்காத எஃகு ஒரு உலோகக்கலவையாக இருப்பதற்குக் காரணம் அது:
+a) மின்சாரத்தை நன்கு கடத்துகிறது
+b) மிகவும் இலகுவானது
+c) அரிமானத்தை எதிர்க்கிறது
+d) அதிக காந்தத்தன்மை கொண்டது
+Answer: c
+
+38.
+Which of the following is a common adulterant in coffee powder to increase its bulk and give colour?
+a) Chalk powder
+b) Chicory powder
+c) Sand
+d) Sawdust
+
+காபி தூளின் அளவை அதிகரிக்கவும் நிறம் கொடுக்கவும் சேர்க்கப்படும் ஒரு பொதுவான கலப்படப்பொருள் எது?
+a) சுண்ணக்கட்டி தூள்
+b) சிக்கரி தூள்
+c) மணல்
+d) மரத்தூள்
+Answer: b
+
+39.
+The property of metals by which they can be drawn into thin wires is called:
+a) Malleability
+b) Ductility
+c) Conductivity
+d) Lustre
+
+உலோகங்களை மெல்லிய கம்பிகளாக நீட்டக்கூடிய பண்பு இவ்வாறு அழைக்கப்படுகிறது:
+a) தகடாகும் பண்பு
+b) கம்பியாக நீளும் பண்பு
+c) கடத்துத்திறன்
+d) பளபளப்பு
+Answer: b
+
+40.
+Which Act in India primarily deals with preventing food adulteration and ensuring food safety?
+a) Consumer Protection Act
+b) Food Safety and Standards Act
+c) Essential Commodities Act
+d) Prevention of Food Adulteration Act (now subsumed under FSSA)
+
+இந்தியாவில் எந்தச் சட்டம் முதன்மையாக உணவு கலப்படத்தைத் தடுப்பது மற்றும் உணவுப் பாதுகாப்பை உறுதி செய்வதுடன் தொடர்புடையது?
+a) நுகர்வோர் பாதுகாப்புச் சட்டம்
+b) உணவுப் பாதுகாப்பு மற்றும் தர நிர்ணயச் சட்டம்
+c) அத்தியாவசியப் பொருட்கள் சட்டம்
+d) உணவு கலப்படத் தடுப்புச் சட்டம் (தற்போது FSSA இன் கீழ் உள்ளது)
+Answer: b (Note: PFA Act was the older one, FSSA, 2006 is the current comprehensive legislation)
+
+41.
+Electrolytic refining is used to obtain:
+a) Metals of low purity
+b) Metals of high purity
+c) Alloys
+d) Non-metals
+
+மின்னாற்பகுப்பு தூய்மையாக்கல் இதைப் பெறப் பயன்படுகிறது:
+a) குறைந்த தூய்மையுள்ள உலோகங்கள்
+b) அதிக தூய்மையுள்ள உலோகங்கள்
+c) உலோகக்கலவைகள்
+d) அலோகங்கள்
+Answer: b
+
+42.
+Sudan dyes are sometimes found as adulterants in:
+a) Milk
+b) Honey
+c) Spices like chilli powder
+d) Grains
+
+சூடான் சாயங்கள் சில நேரங்களில் எதில் கலப்படப் பொருட்களாகக் காணப்படுகின்றன:
+a) பால்
+b) தேன்
+c) மிளகாய் தூள் போன்ற மசாலாப் பொருட்கள்
+d) தானியங்கள்
+Answer: c
+
+43.
+The main ore of aluminium is:
+a) Magnetite
+b) Bauxite
+c) Siderite
+d) Copper glance
+
+அலுமினியத்தின் முக்கிய தாது:
+a) மேக்னடைட்
+b) பாக்சைட்
+c) சிடரைட்
+d) காப்பர் கிளான்ஸ்
+Answer: b
+
+44.
+Adding chalk powder to wheat flour is an example of:
+a) Intentional adulteration
+b) Incidental adulteration
+c) Metallic contamination
+d) Fortification
+
+கோதுமை மாவில் சுண்ணக்கட்டி தூள் சேர்ப்பது இதற்கு ஒரு எடுத்துக்காட்டு:
+a) வேண்டுமென்றே செய்யப்படும் கலப்படம்
+b) தற்செயலான கலப்படம்
+c) உலோக அசுத்தம்
+d) செறிவூட்டல்
+Answer: a
+
+45.
+Which metal is liquid at room temperature?
+a) Sodium
+b) Magnesium
+c) Mercury
+d) Bromine
+
+அறை வெப்பநிலையில் திரவ நிலையில் உள்ள உலோகம் எது?
+a) சோடியம்
+b) மெக்னீசியம்
+c) பாதரசம்
+d) புரோமின்
+Answer: c
+
+46.
+The presence of argemone seeds in mustard seeds can be identified by their:
+a) Sweeter taste
+b) Larger size and smooth surface
+c) Smaller size and rough, pitted surface
+d) Bright yellow colour
+
+கடுகு விதைகளில் ஆர்ஜிமோன் விதைகள் இருப்பதை அவற்றின் மூலம் அடையாளம் காணலாம்:
+a) இனிப்பான சுவை
+b) பெரிய அளவு மற்றும் மென்மையான மேற்பரப்பு
+c) சிறிய அளவு மற்றும் கரடுமுரடான, குழிவான மேற்பரப்பு
+d) பிரகாசமான மஞ்சள் நிறம்
+Answer: c
+
+47.
+The Hall-Héroult process is used for the extraction of:
+a) Iron
+b) Copper
+c) Aluminium
+d) Gold
+
+ஹால்-ஹெரால்ட் செயல்முறை இதன் பிரித்தெடுப்பிற்குப் பயன்படுத்தப்படுகிறது:
+a) இரும்பு
+b) தாமிரம்
+c) அலுமினியம்
+d) தங்கம்
+Answer: c
+
+48.
+Non-permitted food colours are often added to sweets. One such harmful colour is:
+a) Tartrazine (permitted in limits)
+b) Rhodamine B
+c) Curcumin (natural colour)
+d) Caramel (natural/permitted colour)
+
+அனுமதிக்கப்படாத உணவு வண்ணங்கள் பெரும்பாலும் இனிப்புகளில் சேர்க்கப்படுகின்றன. அத்தகைய ஒரு தீங்கு விளைவிக்கும் வண்ணம்:
+a) டார்ட்ராஜின் (வரம்புகளுக்குள் அனுமதிக்கப்பட்டது)
+b) ரோடமைன் பி
+c) குர்குமின் (இயற்கை நிறம்)
+d) கேரமல் (இயற்கை/அனுமதிக்கப்பட்ட நிறம்)
+Answer: b
+
+49.
+Which of the following is NOT a method to prevent corrosion?
+a) Painting
+b) Alloying
+c) Exposing to moisture
+d) Galvanizing
+
+பின்வருவனவற்றில் எது அரிமானத்தைத் தடுக்கும் முறை அல்ல?
+a) வர்ணம் பூசுதல்
+b) உலோகக்கலவை ஆக்குதல்
+c) ஈரப்பதத்திற்கு வெளிப்படுத்துதல்
+d) நாகமுலாமிடல்
+Answer: c
+
+50.
+To detect adulteration of vanaspati in ghee, a small amount of which chemical is added followed by concentrated HCl?
+a) Iodine solution
+b) Sugar
+c) Copper sulphate
+d) Nitric acid
+
+நெய்யில் வனஸ்பதி கலப்படத்தைக் கண்டறிய, சிறிதளவு எந்த இரசாயனப் பொருள் சேர்க்கப்பட்டு பின்னர் அடர் HCl சேர்க்கப்படுகிறது?
+a) அயோடின் கரைசல்
+b) சர்க்கரை
+c) காப்பர் சல்பேட்
+d) நைட்ரிக் அமிலம்
+Answer: b (Baudouin test involves sugar and HCl)

@@ -1,0 +1,508 @@
+**Topic: Heat (வெப்பம்)**
+
+**TNPSC Group 4 Multiple Choice Questions**
+
+**Assertion and Reason Questions (கூற்று மற்றும் காரணம் வகை வினாக்கள்)**
+
+1.
+Assertion (A): Metals are generally good conductors of heat.
+Reason (R): Metals have a large number of free electrons that can transfer thermal energy.
+கூற்று (A): உலோகங்கள் பொதுவாக வெப்பத்தை நன்கு கடத்துபவை.
+காரணம் (R): உலோகங்களில் அதிக எண்ணிக்கையிலான சுதந்திர எலக்ட்ரான்கள் உள்ளன, அவை வெப்ப ஆற்றலைக் கடத்த முடியும்.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A இன் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A is true, but R is false. / A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: a)
+
+2.
+Assertion (A): Sea breeze occurs during the day time.
+Reason (R): During the day, land heats up faster than the sea, causing air above land to rise and cooler air from the sea to move in.
+கூற்று (A): கடல் காற்று பகல் நேரத்தில் ஏற்படுகிறது.
+காரணம் (R): பகலில், நிலம் கடலை விட வேகமாக வெப்பமடைகிறது, இதனால் நிலத்தின் மேலுள்ள காற்று உயர்ந்து, கடலில் இருந்து குளிர் காற்று உள்ளே நகர்கிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A இன் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A is true, but R is false. / A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: a)
+
+3.
+Assertion (A): We wear light-coloured clothes in summer.
+Reason (R): Light-coloured clothes are good reflectors of heat and keep us cool.
+கூற்று (A): கோடை காலத்தில் நாம் வெளிர் நிற ஆடைகளை அணிகிறோம்.
+காரணம் (R): வெளிர் நிற ஆடைகள் வெப்பத்தை நன்கு பிரதிபலித்து நம்மை குளிர்ச்சியாக வைத்திருக்கும்.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A இன் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A is true, but R is false. / A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: a)
+
+4.
+Assertion (A): Water is used as a coolant in car radiators.
+Reason (R): Water has a low specific heat capacity.
+கூற்று (A): கார் ரேடியேட்டர்களில் நீர் குளிர்விப்பானாகப் பயன்படுத்தப்படுகிறது.
+காரணம் (R): நீர் குறைந்த தன்வெப்ப ஏற்புத்திறனைக் கொண்டுள்ளது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A இன் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A is true, but R is false. / A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: c) (Water has a high specific heat capacity / நீர் அதிக தன்வெப்ப ஏற்புத்திறனைக் கொண்டுள்ளது)
+
+5.
+Assertion (A): Burns caused by steam are more severe than those caused by boiling water at the same temperature.
+Reason (R): Steam possesses additional latent heat of vaporization.
+கூற்று (A): கொதிக்கும் நீரை விட அதே வெப்பநிலையில் உள்ள நீராவியால் ஏற்படும் தீக்காயங்கள் மிகவும் கடுமையானவை.
+காரணம் (R): நீராவி கூடுதல் ஆவியாதல் உள்ளுறை வெப்பத்தைக் கொண்டுள்ளது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A இன் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A is true, but R is false. / A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: a)
+
+6.
+Assertion (A): Small gaps are left between railway tracks.
+Reason (R): This is to allow for the contraction of the metal rails during winter.
+கூற்று (A): ரயில் தண்டவாளங்களுக்கு இடையில் சிறிய இடைவெளிகள் விடப்படுகின்றன.
+காரணம் (R): குளிர்காலத்தில் உலோக தண்டவாளங்கள் சுருங்குவதற்கு இது அனுமதிக்கிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A இன் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A is true, but R is false. / A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: c) (It's for expansion in summer / இது கோடையில் விரிவாக்கத்திற்காக)
+
+---
+
+**Wrongly Matched Pairs (தவறாகப் பொருந்தும் ஜோடிகள்)**
+Identify the wrongly matched pair. / தவறாகப் பொருந்தும் ஜோடியை அடையாளம் காணவும்.
+
+7.
+a) Heat - Joule / வெப்பம் - ஜூல்
+b) Temperature - Kelvin / வெப்பநிலை - கெல்வின்
+c) Specific Heat Capacity - J/kg / தன்வெப்ப ஏற்புத்திறன் - J/kg
+d) Power - Watt / திறன் - வாட்
+Answer: c) Specific Heat Capacity - J/kg / தன்வெப்ப ஏற்புத்திறன் - J/kg (Correct unit is J/kgK or J/kg°C / சரியான அலகு J/kgK அல்லது J/kg°C)
+
+8.
+a) Conduction - Solids / வெப்பக்கடத்தல் - திடப்பொருட்கள்
+b) Convection - Vacuum / வெப்பச்சலனம் - வெற்றிடம்
+c) Radiation - Electromagnetic waves / வெப்பக்கதிர்வீச்சு - மின்காந்த அலைகள்
+d) Convection - Fluids / வெப்பச்சலனம் - பாய்மங்கள்
+Answer: b) Convection - Vacuum / வெப்பச்சலனம் - வெற்றிடம் (Convection requires a medium / வெப்பச்சலனத்திற்கு ஊடகம் தேவை)
+
+9.
+a) Copper - Good conductor / தாமிரம் - நல்ல கடத்தி
+b) Wood - Insulator / மரம் - காப்பான்
+c) Air - Good conductor / காற்று - நல்ல கடத்தி
+d) Glass - Bad conductor / கண்ணாடி - மோசமான கடத்தி
+Answer: c) Air - Good conductor / காற்று - நல்ல கடத்தி (Air is a poor conductor/insulator / காற்று ஒரு மோசமான கடத்தி/காப்பான்)
+
+10.
+a) Boiling point of water - 100°C / நீரின் கொதிநிலை - 100°C
+b) Freezing point of water - 0°F / நீரின் உறைநிலை - 0°F
+c) Absolute zero - 0 K / தனிச்சுழி வெப்பநிலை - 0 K
+d) Normal human body temperature - 37°C / சாதாரண மனித உடல் வெப்பநிலை - 37°C
+Answer: b) Freezing point of water - 0°F / நீரின் உறைநிலை - 0°F (Freezing point of water is 32°F or 0°C / நீரின் உறைநிலை 32°F அல்லது 0°C)
+
+11.
+a) Evaporation - Cooling process / ஆவியாதல் - குளிரூட்டும் செயல்முறை
+b) Condensation - Heating process / ஒடுக்கம் - வெப்பமூட்டும் செயல்முறை (releases heat / வெப்பத்தை வெளியிடுகிறது)
+c) Melting - Liquid to Solid / உருகுதல் - திரவத்திலிருந்து திடப்பொருள்
+d) Sublimation - Solid to Gas / பதங்கமாதல் - திடப்பொருளிலிருந்து வாயு
+Answer: c) Melting - Liquid to Solid / உருகுதல் - திரவத்திலிருந்து திடப்பொருள் (Melting is Solid to Liquid / உருகுதல் என்பது திடப்பொருளிலிருந்து திரவத்திற்கு)
+
+12.
+a) Thermometer - Measures Temperature / வெப்பநிலைமானி - வெப்பநிலையை அளக்கிறது
+b) Calorimeter - Measures Heat Quantity / கலோரிமீட்டர் - வெப்ப அளவை அளக்கிறது
+c) Bimetallic strip - Used in Thermostats / இரு உலோக பட்டை - வெப்பநிலை சீராக்கிகளில் பயன்படுத்தப்படுகிறது
+d) Pyrometer - Measures Low Temperatures / பைரோமீட்டர் - குறைந்த வெப்பநிலையை அளக்கிறது
+Answer: d) Pyrometer - Measures Low Temperatures / பைரோமீட்டர் - குறைந்த வெப்பநிலையை அளக்கிறது (Pyrometer measures high temperatures / பைரோமீட்டர் உயர் வெப்பநிலையை அளக்கிறது)
+
+---
+
+**Match the Following (பொருத்துக)**
+
+13.
+Match Column I with Column II and select the correct answer using the codes given below.
+பொருத்துக: நிரல் I உடன் நிரல் II ஐப் பொருத்தி, கீழே கொடுக்கப்பட்டுள்ள குறியீடுகளைப் பயன்படுத்தி சரியான பதிலைத் தேர்ந்தெடுக்கவும்.
+
+Column I (Process) / நிரல் I (செயல்முறை) | Column II (Characteristic/Medium) / நிரல் II (பண்பு/ஊடகம்)
+---------------------------------|----------------------------------------------
+1. Conduction / வெப்பக்கடத்தல்       | a. No medium required / ஊடகம் தேவையில்லை
+2. Convection / வெப்பச்சலனம்         | b. Solids, direct contact / திடப்பொருட்கள், நேரடி தொடர்பு
+3. Radiation / வெப்பக்கதிர்வீச்சு        | c. Fluids, actual movement / பாய்மங்கள், உண்மையான இயக்கம்
+4. Thermos Flask / வெற்றிடக்குடுவை | d. Minimizes all heat transfer / அனைத்து வெப்ப பரிமாற்றத்தையும் குறைக்கிறது
+
+Options / விருப்பங்கள்:
+A) 1-b, 2-c, 3-a, 4-d
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-c, 2-a, 3-b, 4-d
+D) 1-b, 2-a, 3-c, 4-d
+Answer: A)
+
+14.
+Match Column I with Column II and select the correct answer.
+பொருத்துக: நிரல் I உடன் நிரல் II ஐப் பொருத்தி சரியான பதிலைத் தேர்ந்தெடுக்கவும்.
+
+Column I (Quantity) / நிரல் I (அளவு)      | Column II (Unit) / நிரல் II (அலகு)
+------------------------------------|-------------------------------------
+1. Heat / வெப்பம்                       | a. Kelvin (K) / கெல்வின் (K)
+2. Temperature / வெப்பநிலை             | b. Joule/kilogram Kelvin (J/kgK) / ஜூல்/கிலோகிராம் கெல்வின் (J/kgK)
+3. Specific Heat Capacity / தன்வெப்ப ஏற்புத்திறன் | c. Joule (J) / ஜூல் (J)
+4. Latent Heat / உள்ளுறை வெப்பம்        | d. Joule/kilogram (J/kg) / ஜூல்/கிலோகிராம் (J/kg)
+
+Options / விருப்பங்கள்:
+A) 1-c, 2-a, 3-b, 4-d
+B) 1-a, 2-c, 3-d, 4-b
+C) 1-c, 2-b, 3-a, 4-d
+D) 1-d, 2-a, 3-c, 4-b
+Answer: A)
+
+15.
+Match Column I with Column II and select the correct answer.
+பொருத்துக: நிரல் I உடன் நிரல் II ஐப் பொருத்தி சரியான பதிலைத் தேர்ந்தெடுக்கவும்.
+
+Column I (Phenomenon/Device) / நிரல் I (நிகழ்வு/சாதனம்) | Column II (Principle/Example) / நிரல் II (கொள்கை/உதாரணம்)
+-----------------------------------------|-------------------------------------------------
+1. Sea Breeze / கடல் காற்று                 | a. Good absorber of radiation / கதிர்வீச்சை நன்கு உறிஞ்சும்
+2. Black Body / கரும்பொருள்                 | b. Convection current during day / பகலில் வெப்பச்சலன ஓட்டம்
+3. Thermos Flask / வெற்றிடக்குடுவை          | c. Anomalous expansion / முரண்பாடான விரிவாக்கம்
+4. Water (0°C to 4°C) / நீர் (0°C முதல் 4°C) | d. Prevents heat loss by conduction, convection & radiation / கடத்தல், சலனம் மற்றும் கதிர்வீச்சு மூலம் வெப்ப இழப்பைத் தடுக்கிறது
+
+Options / விருப்பங்கள்:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-c, 2-d, 3-a, 4-b
+D) 1-b, 2-d, 3-c, 4-a
+Answer: B)
+
+16.
+Match Column I with Column II and select the correct answer.
+பொருத்துக: நிரல் I உடன் நிரல் II ஐப் பொருத்தி சரியான பதிலைத் தேர்ந்தெடுக்கவும்.
+
+Column I (Temperature Scale) / நிரல் I (வெப்பநிலை அளவு) | Column II (Value/Conversion) / நிரல் II (மதிப்பு/மாற்றம்)
+------------------------------------|-------------------------------------------
+1. Kelvin to Celsius / கெல்வின் முதல் செல்சியஸ் வரை   | a. (°F - 32) × 5/9
+2. Celsius to Fahrenheit / செல்சியஸ் முதல் ஃபாரன்ஹீட் வரை | b. K - 273.15
+3. Fahrenheit to Celsius / ஃபாரன்ஹீட் முதல் செல்சியஸ் வரை | c. (°C × 9/5) + 32
+4. Celsius to Kelvin / செல்சியஸ் முதல் கெல்வின் வரை   | d. °C + 273.15
+
+Options / விருப்பங்கள்:
+A) 1-b, 2-c, 3-a, 4-d
+B) 1-a, 2-b, 3-d, 4-c
+C) 1-d, 2-a, 3-c, 4-b
+D) 1-b, 2-d, 3-a, 4-c
+Answer: A)
+
+17.
+Match Column I with Column II and select the correct answer.
+பொருத்துக: நிரல் I உடன் நிரல் II ஐப் பொருத்தி சரியான பதிலைத் தேர்ந்தெடுக்கவும்.
+
+Column I (Process) / நிரல் I (செயல்முறை) | Column II (State Change) / நிரல் II (நிலை மாற்றம்)
+-----------------------------------|--------------------------------------
+1. Melting / உருகுதல்              | a. Liquid to Gas / திரவத்திலிருந்து வாயு
+2. Boiling / கொதித்தல்             | b. Gas to Liquid / வாயுவிலிருந்து திரவம்
+3. Freezing / உறைதல்              | c. Solid to Liquid / திடப்பொருளிலிருந்து திரவம்
+4. Condensation / ஒடுக்கம்          | d. Liquid to Solid / திரவத்திலிருந்து திடப்பொருள்
+
+Options / விருப்பங்கள்:
+A) 1-c, 2-a, 3-d, 4-b
+B) 1-a, 2-c, 3-b, 4-d
+C) 1-d, 2-b, 3-c, 4-a
+D) 1-c, 2-d, 3-a, 4-b
+Answer: A)
+
+18.
+Match Column I with Column II and select the correct answer.
+பொருத்துக: நிரல் I உடன் நிரல் II ஐப் பொருத்தி சரியான பதிலைத் தேர்ந்தெடுக்கவும்.
+
+Column I (Concept) / நிரல் I (கருத்து)       | Column II (Description) / நிரல் II (விளக்கம்)
+----------------------------------------|-------------------------------------------------------------------
+1. Specific Heat Capacity / தன்வெப்ப ஏற்புத்திறன் | a. Heat for state change at constant temperature / நிலையான வெப்பநிலையில் நிலை மாற்றத்திற்கான வெப்பம்
+2. Latent Heat / உள்ளுறை வெப்பம்           | b. Lowest possible temperature / சாத்தியமான குறைந்தபட்ச வெப்பநிலை
+3. Thermal Equilibrium / வெப்ப சமநிலை      | c. Heat to raise 1kg by 1°C / 1 கிலோவை 1°C உயர்த்த தேவையான வெப்பம்
+4. Absolute Zero / தனிச்சுழி வெப்பநிலை     | d. No net heat flow between bodies / பொருட்களுக்கு இடையே நிகர வெப்ப ஓட்டம் இல்லை
+
+Options / விருப்பங்கள்:
+A) 1-c, 2-a, 3-d, 4-b
+B) 1-a, 2-c, 3-b, 4-d
+C) 1-d, 2-b, 3-c, 4-a
+D) 1-c, 2-d, 3-a, 4-b
+Answer: A)
+
+---
+
+**Multiple Choice Questions (பல தேர்வு வினாக்கள்)**
+
+19. Heat is a form of:
+வெப்பம் என்பது இதன் ஒரு வடிவம்:
+a) Force / விசை
+b) Energy / ஆற்றல்
+c) Power / திறன்
+d) Work / வேலை
+Answer: b) Energy / ஆற்றல்
+
+20. The S.I. unit of heat is:
+வெப்பத்தின் S.I. அலகு:
+a) Celsius / செல்சியஸ்
+b) Kelvin / கெல்வின்
+c) Joule / ஜூல்
+d) Watt / வாட்
+Answer: c) Joule / ஜூல்
+
+21. Temperature is a measure of:
+வெப்பநிலை என்பது இதன் அளவீடு:
+a) Total heat content / மொத்த வெப்ப உள்ளடக்கம்
+b) Degree of hotness or coldness / வெப்பம் அல்லது குளிரின் அளவு
+c) Specific heat capacity / தன்வெப்ப ஏற்புத்திறன்
+d) Latent heat / உள்ளுறை வெப்பம்
+Answer: b) Degree of hotness or coldness / வெப்பம் அல்லது குளிரின் அளவு
+
+22. Which of the following is the S.I. unit of temperature?
+பின்வருவனவற்றில் எது வெப்பநிலையின் S.I. அலகு?
+a) Celsius / செல்சியஸ்
+b) Fahrenheit / ஃபாரன்ஹீட்
+c) Kelvin / கெல்வின்
+d) Calorie / கலோரி
+Answer: c) Kelvin / கெல்வின்
+
+23. The process of heat transfer in solids without the actual movement of particles is called:
+துகள்களின் உண்மையான இயக்கம் இல்லாமல் திடப்பொருட்களில் வெப்பம் மாற்றப்படும் செயல்முறை இவ்வாறு அழைக்கப்படுகிறது:
+a) Conduction / வெப்பக்கடத்தல்
+b) Convection / வெப்பச்சலனம்
+c) Radiation / வெப்பக்கதிர்வீச்சு
+d) Evaporation / ஆவியாதல்
+Answer: a) Conduction / வெப்பக்கடத்தல்
+
+24. In which mode of heat transfer do molecules move from hotter regions to colder regions?
+எந்த வெப்ப பரிமாற்ற முறையில் மூலக்கூறுகள் வெப்பமான பகுதிகளிலிருந்து குளிர்ச்சியான பகுதிகளுக்கு நகர்கின்றன?
+a) Conduction / வெப்பக்கடத்தல்
+b) Convection / வெப்பச்சலனம்
+c) Radiation / வெப்பக்கதிர்வீச்சு
+d) Both a and b / a மற்றும் b இரண்டும்
+Answer: b) Convection / வெப்பச்சலனம்
+
+25. Heat from the Sun reaches the Earth primarily through:
+சூரியனிலிருந்து வரும் வெப்பம் பூமிக்கு முதன்மையாக இதன் மூலம் அடைகிறது:
+a) Conduction / வெப்பக்கடத்தல்
+b) Convection / வெப்பச்சலனம்
+c) Radiation / வெப்பக்கதிர்வீச்சு
+d) Reflection / பிரதிபலிப்பு
+Answer: c) Radiation / வெப்பக்கதிர்வீச்சு
+
+26. Which of the following requires a medium for heat transfer?
+பின்வருவனவற்றில் வெப்ப பரிமாற்றத்திற்கு ஊடகம் தேவைப்படுவது எது?
+a) Radiation only / கதிர்வீச்சு மட்டும்
+b) Conduction only / வெப்பக்கடத்தல் மட்டும்
+c) Convection only / வெப்பச்சலனம் மட்டும்
+d) Both Conduction and Convection / வெப்பக்கடத்தல் மற்றும் வெப்பச்சலனம் இரண்டும்
+Answer: d) Both Conduction and Convection / வெப்பக்கடத்தல் மற்றும் வெப்பச்சலனம் இரண்டும்
+
+27. A device used to measure temperature is called:
+வெப்பநிலையை அளவிடப் பயன்படும் சாதனம் இவ்வாறு அழைக்கப்படுகிறது:
+a) Calorimeter / கலோரிமீட்டர்
+b) Thermometer / வெப்பநிலைமானி
+c) Barometer / பாரமானி
+d) Ammeter / அம்மீட்டர்
+Answer: b) Thermometer / வெப்பநிலைமானி
+
+28. The specific heat capacity of water is:
+நீரின் தன்வெப்ப ஏற்புத்திறன்:
+a) Low / குறைவு
+b) High / அதிகம்
+c) Zero / பூஜ்ஜியம்
+d) Infinite / முடிவிலி
+Answer: b) High / அதிகம்
+
+29. The process of conversion of a liquid into its vapour at any temperature below its boiling point is called:
+ஒரு திரவம் அதன் கொதிநிலைக்குக் குறைவான எந்த வெப்பநிலையிலும் அதன் ஆவியாக மாறும் செயல்முறை இவ்வாறு அழைக்கப்படுகிறது:
+a) Boiling / கொதித்தல்
+b) Condensation / ஒடுக்கம்
+c) Evaporation / ஆவியாதல்
+d) Melting / உருகுதல்
+Answer: c) Evaporation / ஆவியாதல்
+
+30. Good absorbers of heat are also:
+வெப்பத்தை நன்கு உறிஞ்சுபவை இவையும் கூட:
+a) Poor emitters of heat / வெப்பத்தை மோசமாக உமிழ்பவை
+b) Good emitters of heat / வெப்பத்தை நன்கு உமிழ்பவை
+c) Good reflectors of heat / வெப்பத்தை நன்கு பிரதிபலிப்பவை
+d) Non-emitters of heat / வெப்பத்தை உமிழாதவை
+Answer: b) Good emitters of heat / வெப்பத்தை நன்கு உமிழ்பவை
+
+31. The amount of heat required to change 1 kg of a substance from solid to liquid at its melting point is called:
+ஒரு பொருளின் 1 கிலோவை அதன் உருகுநிலையில் திடப்பொருளிலிருந்து திரவமாக மாற்றத் தேவையான வெப்பத்தின் அளவு இவ்வாறு அழைக்கப்படுகிறது:
+a) Specific heat capacity / தன்வெப்ப ஏற்புத்திறன்
+b) Latent heat of fusion / உருகுதலின் உள்ளுறை வெப்பம்
+c) Latent heat of vaporization / ஆவியாதலின் உள்ளுறை வெப்பம்
+d) Heat capacity / வெப்ப ஏற்புத்திறன்
+Answer: b) Latent heat of fusion / உருகுதலின் உள்ளுறை வெப்பம்
+
+32. The temperature at which a solid changes into a liquid is called its:
+ஒரு திடப்பொருள் திரவமாக மாறும் வெப்பநிலை இவ்வாறு அழைக்கப்படுகிறது:
+a) Boiling point / கொதிநிலை
+b) Melting point / உருகுநிலை
+c) Freezing point / உறைநிலை
+d) Dew point / பனித்துளி நிலை
+Answer: b) Melting point / உருகுநிலை
+
+33. The handles of cooking utensils are usually made of materials that are:
+சமையல் பாத்திரங்களின் கைப்பிடிகள் பொதுவாக இவற்றால் செய்யப்பட்ட பொருட்களால் செய்யப்படுகின்றன:
+a) Good conductors of heat / வெப்பத்தை நன்கு கடத்துபவை
+b) Poor conductors of heat (insulators) / வெப்பத்தை மோசமாக கடத்துபவை (காப்பான்கள்)
+c) Good reflectors of heat / வெப்பத்தை நன்கு பிரதிபலிப்பவை
+d) Good absorbers of heat / வெப்பத்தை நன்கு உறிஞ்சுபவை
+Answer: b) Poor conductors of heat (insulators) / வெப்பத்தை மோசமாக கடத்துபவை (காப்பான்கள்)
+
+34. Which colour absorbs the most heat?
+எந்த நிறம் அதிக வெப்பத்தை உறிஞ்சுகிறது?
+a) White / வெள்ளை
+b) Black / கருப்பு
+c) Red / சிவப்பு
+d) Green / பச்சை
+Answer: b) Black / கருப்பு
+
+35. The transfer of heat by the movement of a heated fluid (gas or liquid) is called:
+சூடேற்றப்பட்ட பாய்மத்தின் (வாயு அல்லது திரவம்) இயக்கத்தால் வெப்பம் மாற்றப்படுவது இவ்வாறு அழைக்கப்படுகிறது:
+a) Conduction / வெப்பக்கடத்தல்
+b) Convection / வெப்பச்சலனம்
+c) Radiation / வெப்பக்கதிர்வீச்சு
+d) Sublimation / பதங்கமாதல்
+Answer: b) Convection / வெப்பச்சலனம்
+
+36. The relation between Celsius and Kelvin scale is:
+செல்சியஸ் மற்றும் கெல்வின் அளவுகோலுக்கு இடையிலான தொடர்பு:
+a) K = C + 273.15
+b) C = K + 273.15
+c) K = C - 273.15
+d) C = K - 273.15
+Answer: a) K = C + 273.15
+
+37. When water freezes, its volume:
+நீர் உறையும்போது, அதன் கனஅளவு:
+a) Decreases / குறைகிறது
+b) Increases / அதிகரிக்கிறது
+c) Remains the same / அப்படியே இருக்கும்
+d) First increases then decreases / முதலில் அதிகரித்து பின்னர் குறைகிறது
+Answer: b) Increases / அதிகரிக்கிறது
+
+38. A clinical thermometer is used to measure:
+மருத்துவ வெப்பநிலைமானி இதை அளவிட பயன்படுகிறது:
+a) Room temperature / அறை வெப்பநிலை
+b) Body temperature / உடல் வெப்பநிலை
+c) Temperature of boiling water / கொதிக்கும் நீரின் வெப்பநிலை
+d) Atmospheric temperature / வளிமண்டல வெப்பநிலை
+Answer: b) Body temperature / உடல் வெப்பநிலை
+
+39. Land breeze blows during the:
+நிலக்காற்று இந்த நேரத்தில் வீசுகிறது:
+a) Day / பகல்
+b) Night / இரவு
+c) Both day and night / பகல் மற்றும் இரவு இரண்டும்
+d) Only in summer / கோடையில் மட்டும்
+Answer: b) Night / இரவு
+
+40. The unit "calorie" is related to:
+"கலோரி" என்ற அலகு இதனுடன் தொடர்புடையது:
+a) Temperature / வெப்பநிலை
+b) Heat / வெப்பம்
+c) Work / வேலை
+d) Power / திறன்
+Answer: b) Heat / வெப்பம் (1 calorie = 4.184 Joules)
+
+41. Thermal expansion is maximum in:
+வெப்ப விரிவாக்கம் இதில் அதிகபட்சமாக இருக்கும்:
+a) Solids / திடப்பொருட்கள்
+b) Liquids / திரவங்கள்
+c) Gases / வாயுக்கள்
+d) Equal in all / அனைத்திலும் சமம்
+Answer: c) Gases / வாயுக்கள்
+
+42. The process of a gas directly changing into a solid is called:
+ஒரு வாயு நேரடியாக திடப்பொருளாக மாறும் செயல்முறை இவ்வாறு அழைக்கப்படுகிறது:
+a) Sublimation / பதங்கமாதல்
+b) Deposition (or Desublimation) / படிதல் (அல்லது எதிர் பதங்கமாதல்)
+c) Condensation / ஒடுக்கம்
+d) Evaporation / ஆவியாதல்
+Answer: b) Deposition (or Desublimation) / படிதல் (அல்லது எதிர் பதங்கமாதல்)
+
+43. Which of these is a bad conductor of heat?
+இவற்றில் எது வெப்பத்தை மோசமாகக் கடத்துகிறது?
+a) Silver / வெள்ளி
+b) Copper / தாமிரம்
+c) Air / காற்று
+d) Aluminium / அலுமினியம்
+Answer: c) Air / காற்று
+
+44. The range of a laboratory thermometer is usually:
+ஆய்வக வெப்பநிலைமானியின் வரம்பு பொதுவாக:
+a) 35°C to 42°C
+b) -10°C to 110°C
+c) 0°C to 100°C
+d) -50°C to 50°C
+Answer: b) -10°C to 110°C
+
+45. The phenomenon of anomalous expansion of water occurs between:
+நீரின் முரண்பாடான விரிவாக்க நிகழ்வு இவற்றுக்கு இடையில் நிகழ்கிறது:
+a) 0°C and 4°C
+b) 4°C and 10°C
+c) -4°C and 0°C
+d) 0°C and 100°C
+Answer: a) 0°C and 4°C
+
+46. When heat is supplied to a substance, its temperature:
+ஒரு பொருளுக்கு வெப்பம் அளிக்கப்படும்போது, அதன் வெப்பநிலை:
+a) Always increases / எப்போதும் அதிகரிக்கிறது
+b) Always decreases / எப்போதும் குறைகிறது
+c) May increase or remain constant / அதிகரிக்கலாம் அல்லது மாறாமல் இருக்கலாம்
+d) Always remains constant / எப்போதும் மாறாமல் இருக்கும்
+Answer: c) May increase or remain constant / அதிகரிக்கலாம் அல்லது மாறாமல் இருக்கலாம் (during phase change, temperature remains constant / நிலை மாற்றத்தின் போது, வெப்பநிலை மாறாமல் இருக்கும்)
+
+47. One Kilocalorie is equal to:
+ஒரு கிலோகலோரி இதற்கு சமம்:
+a) 1000 Joules / 1000 ஜூல்
+b) 4184 Joules / 4184 ஜூல்
+c) 100 Joules / 100 ஜூல்
+d) 4.184 Joules / 4.184 ஜூல்
+Answer: b) 4184 Joules / 4184 ஜூல் (approximately 4200 J)
+
+48. A bimetallic strip works on the principle of:
+ஒரு இரு உலோக பட்டை இந்த கொள்கையின் அடிப்படையில் செயல்படுகிறது:
+a) Equal expansion of two metals / இரண்டு உலோகங்களின் சம விரிவாக்கம்
+b) Unequal expansion of two metals / இரண்டு உலோகங்களின் சமமற்ற விரிவாக்கம்
+c) Equal contraction of two metals / இரண்டு உலோகங்களின் சம சுருக்கம்
+d) Conduction of heat / வெப்பக்கடத்தல்
+Answer: b) Unequal expansion of two metals / இரண்டு உலோகங்களின் சமமற்ற விரிவாக்கம்
+
+49. In a thermos flask, the silvered walls reduce heat loss by:
+வெற்றிடக் குடுவையில், வெள்ளி பூசப்பட்ட சுவர்கள் இதன் மூலம் வெப்ப இழப்பைக் குறைக்கின்றன:
+a) Conduction / வெப்பக்கடத்தல்
+b) Convection / வெப்பச்சலனம்
+c) Radiation / வெப்பக்கதிர்வீச்சு
+d) Both conduction and convection / வெப்பக்கடத்தல் மற்றும் வெப்பச்சலனம் இரண்டும்
+Answer: c) Radiation / வெப்பக்கதிர்வீச்சு
+
+50. The boiling point of water in Kelvin scale is:
+கெல்வின் அளவில் நீரின் கொதிநிலை:
+a) 273.15 K
+b) 373.15 K
+c) 100 K
+d) 0 K
+Answer: b) 373.15 K (100°C + 273.15)

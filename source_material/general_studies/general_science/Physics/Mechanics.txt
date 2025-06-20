@@ -1,0 +1,486 @@
+TNPSC Group 4 Style MCQs: Everyday Application of Basic Principles of Mechanics
+
+**Instructions:** Choose the best answer for each question.
+**வழிமுறைகள்:** ஒவ்வொரு கேள்விக்கும் சிறந்த பதிலைத் தேர்ந்தெடுக்கவும்.
+
+---
+
+1.  When a bus suddenly starts, passengers tend to fall backward. This is an example of:
+    A) Inertia of rest
+    B) Inertia of motion
+    C) Newton's third law
+    D) Force of friction
+
+    ஒரு பேருந்து திடீரென நகர ஆரம்பிக்கும்போது, பயணிகள் பின்னோக்கி சாய்கின்றனர். இது எதற்கான உதாரணம்:
+    A) ஓய்வு நிலைமம்
+    B) இயக்க நிலைமம்
+    C) நியூட்டனின் மூன்றாம் விதி
+    D) உராய்வு விசை
+
+    Answer: A) Inertia of rest / ஓய்வு நிலைமம்
+
+---
+
+2.  A cricketer pulls his hands back while catching a fast-moving ball. This action is to:
+    A) Increase the force
+    B) Decrease the time of impact, thus increasing force
+    C) Increase the time of impact, thus decreasing force
+    D) Apply Newton's third law
+
+    ஒரு கிரிக்கெட் வீரர் வேகமாக வரும் பந்தைப் பிடிக்கும்போது தனது கைகளை பின்னோக்கி இழுக்கிறார். இந்தச் செயல் எதற்காக:
+    A) விசையை அதிகரிக்க
+    B) மோதல் நேரத்தைக் குறைத்து, அதன் மூலம் விசையை அதிகரிக்க
+    C) மோதல் நேரத்தை அதிகரித்து, அதன் மூலம் விசையைக் குறைக்க
+    D) நியூட்டனின் மூன்றாம் விதியைப் பயன்படுத்த
+
+    Answer: C) Increase the time of impact, thus decreasing force / மோதல் நேரத்தை அதிகரித்து, அதன் மூலம் விசையைக் குறைக்க
+
+---
+
+3.  Which of Newton's laws explains why it's harder to push a heavy box than a light one?
+    A) First Law
+    B) Second Law
+    C) Third Law
+    D) Law of Gravitation
+
+    ஒரு கனமான பெட்டியைத் தள்ளுவது, லேசான பெட்டியைத் தள்ளுவதை விட ஏன் கடினமாக உள்ளது என்பதை நியூட்டனின் எந்த விதி விளக்குகிறது?
+    A) முதல் விதி
+    B) இரண்டாம் விதி
+    C) மூன்றாம் விதி
+    D) ஈர்ப்பு விதி
+
+    Answer: B) Second Law / இரண்டாம் விதி
+
+---
+
+4.  Walking on the ground is possible due to:
+    A) Inertia of rest
+    B) Newton's third law of motion
+    C) Buoyancy
+    D) Surface tension
+
+    தரையில் நடப்பது எதனால் சாத்தியமாகிறது:
+    A) ஓய்வு நிலைமம்
+    B) நியூட்டனின் மூன்றாம் இயக்க விதி
+    C) மிதப்பு விசை
+    D) பரப்பு இழுவிசை
+
+    Answer: B) Newton's third law of motion / நியூட்டனின் மூன்றாம் இயக்க விதி
+
+---
+
+5.  A bottle opener is an example of which class of lever?
+    A) Class I lever
+    B) Class II lever
+    C) Class III lever
+    D) Pulley
+
+    ஒரு பாட்டில் திறப்பான் எந்த வகை நெம்புகோலுக்கு உதாரணம்?
+    A) முதல் வகை நெம்புகோல்
+    B) இரண்டாம் வகை நெம்புகோல்
+    C) மூன்றாம் வகை நெம்புகோல்
+    D) கப்பி
+
+    Answer: B) Class II lever / இரண்டாம் வகை நெம்புகோல் (Fulcrum at one end, load in middle, effort at other end)
+
+---
+
+6.  Why are the handles of doors usually placed at the edge, far from the hinges?
+    A) To decrease the force required
+    B) To increase the torque (moment of force)
+    C) To decrease the torque
+    D) For aesthetic reasons
+
+    கதவுகளின் கைப்பிடிகள் பொதுவாக கீல்களிலிருந்து தொலைவில், ஓரத்தில் ஏன் வைக்கப்படுகின்றன?
+    A) தேவைப்படும் விசையைக் குறைக்க
+    B) திருப்புவிசையை (விசையின் திருப்புத்திறன்) அதிகரிக்க
+    C) திருப்புவிசையைக் குறைக்க
+    D) அழகியல் காரணங்களுக்காக
+
+    Answer: B) To increase the torque (moment of force) / திருப்புவிசையை (விசையின் திருப்புத்திறன்) அதிகரிக்க
+
+---
+
+7.  Sharpening a knife makes it easier to cut because:
+    A) It increases the force applied
+    B) It decreases the area of contact, increasing pressure
+    C) It increases the area of contact, decreasing pressure
+    D) It reduces friction
+
+    ஒரு கத்தியைக் கூர்மைப்படுத்துவது வெட்டுவதை எளிதாக்குகிறது, ஏனெனில்:
+    A) இது செலுத்தப்படும் விசையை அதிகரிக்கிறது
+    B) இது தொடும் பரப்பளவைக் குறைத்து, அழுத்தத்தை அதிகரிக்கிறது
+    C) இது தொடும் பரப்பளவை அதிகரித்து, அழுத்தத்தைக் குறைக்கிறது
+    D) இது உராய்வைக் குறைக்கிறது
+
+    Answer: B) It decreases the area of contact, increasing pressure / இது தொடும் பரப்பளவைக் குறைத்து, அழுத்தத்தை அதிகரிக்கிறது
+
+---
+
+8.  When we drink a liquid using a straw, which principle is mainly involved?
+    A) Surface tension
+    B) Atmospheric pressure
+    C) Buoyancy
+    D) Capillarity
+
+    நாம் உறிஞ்சுகுழாய் (straw) மூலம் ஒரு திரவத்தை அருந்தும்போது, முக்கியமாக எந்த தத்துவம் ஈடுபட்டுள்ளது?
+    A) பரப்பு இழுவிசை
+    B) வளிமண்டல அழுத்தம்
+    C) மிதப்பு விசை
+    D) நுண்புழை ஏற்றம்
+
+    Answer: B) Atmospheric pressure / வளிமண்டல அழுத்தம்
+
+---
+
+9.  A see-saw is an example of:
+    A) An inclined plane
+    B) A lever
+    C) A pulley
+    D) A wedge
+
+    சீசா (see-saw) எதற்கு உதாரணம்:
+    A) ஒரு சாய்தளம்
+    B) ஒரு நெம்புகோல்
+    C) ஒரு கப்பி
+    D) ஓர் ஆப்பு
+
+    Answer: B) A lever / ஒரு நெம்புகோல்
+
+---
+
+10. The working principle of a hydraulic lift is based on:
+    A) Archimedes' principle
+    B) Pascal's law
+    C) Bernoulli's principle
+    D) Newton's laws of motion
+
+    ஒரு நீரியல் தூக்கியின் (hydraulic lift) வேலை செய்யும் தத்துவம் எதை அடிப்படையாகக் கொண்டது:
+    A) ஆர்க்கிமிடிஸ் தத்துவம்
+    B) பாஸ்கல் விதி
+    C) பெர்னூலியின் தத்துவம்
+    D) நியூட்டனின் இயக்க விதிகள்
+
+    Answer: B) Pascal's law / பாஸ்கல் விதி
+
+---
+
+11. Why does a ship made of iron float on water, while an iron nail sinks?
+    A) The ship has less density than water
+    B) The buoyant force on the ship is greater than its weight due to its shape
+    C) The iron nail has more density than the ship
+    D) The ship is hollow
+
+    இரும்பினால் செய்யப்பட்ட ஒரு கப்பல் தண்ணீரில் மிதக்கும்போது, ஒரு இரும்பு ஆணி ஏன் மூழ்குகிறது?
+    A) கப்பல் தண்ணீரை விட குறைவான அடர்த்தி கொண்டது
+    B) கப்பலின் வடிவம் காரணமாக அதன் மீதான மிதப்பு விசை அதன் எடையை விட அதிகமாக உள்ளது
+    C) இரும்பு ஆணி கப்பலை விட அதிக அடர்த்தி கொண்டது
+    D) கப்பல் உள்ளீடற்றது
+
+    Answer: B) The buoyant force on the ship is greater than its weight due to its shape / கப்பலின் வடிவம் காரணமாக அதன் மீதான மிதப்பு விசை அதன் எடையை விட அதிகமாக உள்ளது
+
+---
+
+12. Which simple machine is used to draw water from a well?
+    A) Lever
+    B) Inclined plane
+    C) Pulley
+    D) Wedge
+
+    கிணற்றிலிருந்து தண்ணீர் எடுக்க எந்த எளிய இயந்திரம் பயன்படுத்தப்படுகிறது?
+    A) நெம்புகோல்
+    B) சாய்தளம்
+    C) கப்பி
+    D) ஆப்பு
+
+    Answer: C) Pulley / கப்பி
+
+---
+
+13. The treads on tyres are designed to:
+    A) Decrease friction
+    B) Increase friction
+    C) Make the tyre look good
+    D) Reduce the weight of the tyre
+
+    டயர்களில் உள்ள தடம் (treads) எதற்காக வடிவமைக்கப்பட்டுள்ளன:
+    A) உராய்வைக் குறைக்க
+    B) உராய்வை அதிகரிக்க
+    C) டயர் அழகாக இருக்க
+    D) டயரின் எடையைக் குறைக்க
+
+    Answer: B) Increase friction / உராய்வை அதிகரிக்க
+
+---
+
+14. A screwdriver is an application of which simple machine?
+    A) Lever
+    B) Wheel and axle
+    C) Inclined plane (as a screw)
+    D) Wedge
+
+    ஒரு திருப்புளி (screwdriver) எந்த எளிய இயந்திரத்தின் பயன்பாடு ஆகும்?
+    A) நெம்புகோல்
+    B) சக்கரம் மற்றும் அச்சு
+    C) சாய்தளம் (திருகாணியாக)
+    D) ஆப்பு
+
+    Answer: B) Wheel and axle / சக்கரம் மற்றும் அச்சு (The handle and shaft act as wheel and axle for torque)
+
+---
+
+15. When you shake a wet cloth to remove water droplets, which principle is at play?
+    A) Surface Tension
+    B) Inertia
+    C) Gravity
+    D) Centrifugal force (apparent)
+
+    தண்ணீர்த் துளிகளை அகற்ற ஈரமான துணியை உதறும்போது, எந்த தத்துவம் செயல்படுகிறது?
+    A) பரப்பு இழுவிசை
+    B) நிலைமம்
+    C) ஈர்ப்பு விசை
+    D) மையவிலக்கு விசை (தோற்ற)
+
+    Answer: B) Inertia / நிலைமம் (Inertia of the water droplets)
+
+---
+
+16. An axe is an example of a:
+    A) Lever
+    B) Pulley
+    C) Wedge
+    D) Screw
+
+    ஒரு கோடாரி எதற்கு உதாரணம்:
+    A) நெம்புகோல்
+    B) கப்பி
+    C) ஆப்பு
+    D) திருகு
+
+    Answer: C) Wedge / ஆப்பு
+
+---
+
+17. Why is it easier to roll a barrel than to slide it?
+    A) Rolling friction is greater than sliding friction
+    B) Rolling friction is less than sliding friction
+    C) It requires less force
+    D) It covers more distance
+
+    ஒரு பீப்பாயை உருட்டுவது அதை இழுத்துச் செல்வதை விட ஏன் எளிதானது?
+    A) உருள் உராய்வு நழுவு உராய்வை விட அதிகம்
+    B) உருள் உராய்வு நழுவு உராய்வை விட குறைவு
+    C) இதற்கு குறைந்த விசை தேவைப்படுகிறது
+    D) இது அதிக தூரம் கடக்கிறது
+
+    Answer: B) Rolling friction is less than sliding friction / உருள் உராய்வு நழுவு உராய்வை விட குறைவு
+
+---
+
+18. The force that opposes motion between two surfaces in contact is called:
+    A) Gravitational force
+    B) Frictional force
+    C) Magnetic force
+    D) Electrostatic force
+
+    தொடர்பில் உள்ள இரண்டு பரப்புகளுக்கு இடையே இயக்கத்தை எதிர்க்கும் விசை இவ்வாறு அழைக்கப்படுகிறது:
+    A) ஈர்ப்பு விசை
+    B) உராய்வு விசை
+    C) காந்த விசை
+    D) நிலைமின்னியல் விசை
+
+    Answer: B) Frictional force / உராய்வு விசை
+
+---
+
+19. When a car takes a turn on a level road, the necessary centripetal force is provided by:
+    A) The engine of the car
+    B) The brakes of the car
+    C) Frictional force between the tyres and the road
+    D) The weight of the car
+
+    ஒரு கார் சமமான சாலையில் திரும்பும்போது, தேவையான மையநோக்கு விசை எதனால் வழங்கப்படுகிறது:
+    A) காரின் இயந்திரம்
+    B) காரின் பிரேக்குகள்
+    C) டயர்களுக்கும் சாலைக்கும் இடையிலான உராய்வு விசை
+    D) காரின் எடை
+
+    Answer: C) Frictional force between the tyres and the road / டயர்களுக்கும் சாலைக்கும் இடையிலான உராய்வு விசை
+
+---
+
+20. A ramp used to load heavy objects onto a truck is an example of:
+    A) A lever
+    B) An inclined plane
+    C) A pulley
+    D) A wedge
+
+    கனமான பொருட்களை ஒரு டிரக்கில் ஏற்றுவதற்குப் பயன்படுத்தப்படும் சரிவுப்பாதை (ramp) எதற்கு உதாரணம்:
+    A) ஒரு நெம்புகோல்
+    B) ஒரு சாய்தளம்
+    C) ஒரு கப்பி
+    D) ஓர் ஆப்பு
+
+    Answer: B) An inclined plane / ஒரு சாய்தளம்
+
+---
+
+21. The ability of a body to resist a change in its state of rest or motion is called:
+    A) Force
+    B) Momentum
+    C) Inertia
+    D) Pressure
+
+    ஒரு பொருளின் ஓய்வு நிலை அல்லது இயக்க நிலையில் ஏற்படும் மாற்றத்தை எதிர்க்கும் திறன் இவ்வாறு அழைக்கப்படுகிறது:
+    A) விசை
+    B) உந்தம்
+    C) நிலைமம்
+    D) அழுத்தம்
+
+    Answer: C) Inertia / நிலைமம்
+
+---
+
+22. A person weighing themselves on a weighing scale is an application of:
+    A) Newton's first law
+    B) Newton's second law
+    C) Newton's third law (and gravity)
+    D) Pascal's law
+
+    ஒருவர் எடை பார்க்கும் தராசில் தன்னை எடைபோடுவது எதன் பயன்பாடு:
+    A) நியூட்டனின் முதல் விதி
+    B) நியூட்டனின் இரண்டாம் விதி
+    C) நியூட்டனின் மூன்றாம் விதி (மற்றும் ஈர்ப்பு)
+    D) பாஸ்கல் விதி
+
+    Answer: C) Newton's third law (and gravity) / நியூட்டனின் மூன்றாம் விதி (மற்றும் ஈர்ப்பு) (The scale pushes up with a normal force equal to your weight, which is due to gravity.)
+
+---
+
+23. Using a pair of scissors to cut paper involves which simple machine primarily?
+    A) Two levers
+    B) Two wedges
+    C) A pulley system
+    D) A screw
+
+    காகிதத்தை வெட்ட ஒரு ஜோடி கத்தரிக்கோலைப் பயன்படுத்துவது முதன்மையாக எந்த எளிய இயந்திரத்தை உள்ளடக்கியது?
+    A) இரண்டு நெம்புகோல்கள்
+    B) இரண்டு ஆப்புகள்
+    C) ஒரு கப்பி அமைப்பு
+    D) ஒரு திருகு
+
+    Answer: A) Two levers / இரண்டு நெம்புகோல்கள் (and the blades also act as wedges)
+
+---
+
+24. Why does a spinning top eventually stop?
+    A) Due to lack of centripetal force
+    B) Due to air resistance and friction with the ground
+    C) Because its potential energy is exhausted
+    D) Due to Newton's first law
+
+    சுழலும் பம்பரம் இறுதியில் ஏன் நின்றுவிடுகிறது?
+    A) மையநோக்கு விசை இல்லாததால்
+    B) காற்று எதிர்ப்பு மற்றும் தரையுடனான உராய்வு காரணமாக
+    C) அதன் நிலை ஆற்றல் தீர்ந்துவிடுவதால்
+    D) நியூட்டனின் முதல் விதி காரணமாக
+
+    Answer: B) Due to air resistance and friction with the ground / காற்று எதிர்ப்பு மற்றும் தரையுடனான உராய்வு காரணமாக
+
+---
+
+25. The 'kick' or recoil experienced when firing a gun is explained by:
+    A) Newton's First Law
+    B) Newton's Second Law
+    C) Newton's Third Law
+    D) Law of Conservation of Energy
+
+    துப்பாக்கியால் சுடும்போது உணரப்படும் 'உதைப்பு' அல்லது பின்னுதைப்பு எதனால் விளக்கப்படுகிறது:
+    A) நியூட்டனின் முதல் விதி
+    B) நியூட்டனின் இரண்டாம் விதி
+    C) நியூட்டனின் மூன்றாம் விதி
+    D) ஆற்றல் அழிவின்மை விதி
+
+    Answer: C) Newton's Third Law / நியூட்டனின் மூன்றாம் விதி
+
+---
+
+26. To make a heavy object more stable, its centre of gravity should be:
+    A) As high as possible
+    B) As low as possible
+    C) At the geometric centre
+    D) Outside the object
+
+    ஒரு கனமான பொருளை மேலும் நிலையானதாக மாற்ற, அதன் ஈர்ப்பு மையம் இவ்வாறு இருக்க வேண்டும்:
+    A) முடிந்தவரை உயரமாக
+    B) முடிந்தவரை தாழ்வாக
+    C) வடிவியல் மையத்தில்
+    D) பொருளுக்கு வெளியே
+
+    Answer: B) As low as possible / முடிந்தவரை தாழ்வாக
+
+---
+
+27. A see-saw balances when the moments of force (torques) on both sides of the fulcrum are:
+    A) Unequal
+    B) Equal
+    C) Zero
+    D) Maximized
+
+    ஒரு சீசா எப்போது சமநிலை அடைகிறது என்றால், ஆதார முனையின் (fulcrum) இருபுறமும் உள்ள விசைகளின் திருப்புத்திறன்கள் (torques):
+    A) சமமற்றதாக இருக்கும்போது
+    B) சமமாக இருக்கும்போது
+    C) பூஜ்ஜியமாக இருக்கும்போது
+    D) அதிகபட்சமாக இருக்கும்போது
+
+    Answer: B) Equal / சமமாக இருக்கும்போது
+
+---
+
+28. The reason a ball thrown upwards comes down is:
+    A) Air pressure
+    B) Force of gravity
+    C) Inertia of motion
+    D) Frictional force
+
+    மேல்நோக்கி எறியப்பட்ட பந்து கீழே வருவதற்கு காரணம்:
+    A) காற்று அழுத்தம்
+    B) ஈர்ப்பு விசை
+    C) இயக்க நிலைமம்
+    D) உராய்வு விசை
+
+    Answer: B) Force of gravity / ஈர்ப்பு விசை
+
+---
+
+29. Which of the following is NOT a simple machine?
+    A) Bicycle
+    B) Screw
+    C) Wedge
+    D) Pulley
+
+    பின்வருவனவற்றில் எது எளிய இயந்திரம் அல்ல?
+    A) மிதிவண்டி
+    B) திருகு
+    C) ஆப்பு
+    D) கப்பி
+
+    Answer: A) Bicycle / மிதிவண்டி (A bicycle is a compound machine, made of several simple machines)
+
+---
+
+30. When you push a wall, the wall pushes you back with an equal and opposite force. This is an application of:
+    A) Newton's First Law
+    B) Newton's Second Law
+    C) Newton's Third Law
+    D) Law of Inertia
+
+    நீங்கள் ஒரு சுவரைத் தள்ளும்போது, சுவர் உங்களை சமமான மற்றும் எதிர் விசையுடன் பின்னுக்குத் தள்ளுகிறது. இது எதன் பயன்பாடு:
+    A) நியூட்டனின் முதல் விதி
+    B) நியூட்டனின் இரண்டாம் விதி
+    C) நியூட்டனின் மூன்றாம் விதி
+    D) நிலைம விதி
+
+    Answer: C) Newton's Third Law / நியூட்டனின் மூன்றாம் விதி
+
+---

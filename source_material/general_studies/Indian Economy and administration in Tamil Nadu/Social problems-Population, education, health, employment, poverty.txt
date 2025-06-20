@@ -1,0 +1,479 @@
+1. As per the 2011 Census, which state in India has the highest population density?
+இந்தியாவின் 2011 மக்கள் தொகைக் கணக்கெடுப்பின்படி, எந்த மாநிலத்தில் அதிக மக்கள் அடர்த்தி உள்ளது?
+a) West Bengal / மேற்கு வங்கம்
+b) Bihar / பீகார்
+c) Kerala / கேரளா
+d) Uttar Pradesh / உத்தரப் பிரதேசம்
+Answer: b
+
+2. What is the overall sex ratio in India according to the 2011 Census?
+2011 மக்கள் தொகைக் கணக்கெடுப்பின்படி, இந்தியாவின் ஒட்டுமொத்த பாலின விகிதம் என்ன?
+a) 933 females per 1000 males / 1000 ஆண்களுக்கு 933 பெண்கள்
+b) 943 females per 1000 males / 1000 ஆண்களுக்கு 943 பெண்கள்
+c) 953 females per 1000 males / 1000 ஆண்களுக்கு 953 பெண்கள்
+d) 963 females per 1000 males / 1000 ஆண்களுக்கு 963 பெண்கள்
+Answer: b
+
+3. The National Population Policy of India was introduced in which year?
+இந்தியாவின் தேசிய மக்கள் தொகைக் கொள்கை எந்த ஆண்டு அறிமுகப்படுத்தப்பட்டது?
+a) 1991
+b) 1976
+c) 2000
+d) 2011
+Answer: c
+
+4. Which state has the lowest literacy rate in India as per the 2011 Census?
+2011 மக்கள் தொகைக் கணக்கெடுப்பின்படி, இந்தியாவில் மிகக் குறைந்த கல்வியறிவு விகிதம் கொண்ட மாநிலம் எது?
+a) Rajasthan / ராஜஸ்தான்
+b) Jharkhand / ஜார்க்கண்ட்
+c) Arunachal Pradesh / அருணாச்சல பிரதேசம்
+d) Bihar / பீகார்
+Answer: d
+
+5. The term 'Demographic Dividend' refers to:
+'மக்கள் தொகை ஈவுத்தொகை' என்ற சொல் எதைக் குறிக்கிறது?
+a) A rise in the population of senior citizens / மூத்த குடிமக்களின் மக்கள்தொகை அதிகரிப்பு
+b) An increase in the working-age population / உழைக்கும் வயதுடைய மக்கள்தொகை அதிகரிப்பு
+c) A decline in the overall population / ஒட்டுமொத்த மக்கள்தொகை குறைவு
+d) An increase in the infant population / குழந்தை மக்கள்தொகை அதிகரிப்பு
+Answer: b
+
+6. As per Census 2011, what is the literacy rate of India?
+2011 மக்கள் தொகைக் கணக்கெடுப்பின்படி, இந்தியாவின் கல்வியறிவு விகிதம் என்ன?
+a) 64.8%
+b) 74.04%
+c) 82.14%
+d) 65.46%
+Answer: b
+
+7. Which state has the highest sex ratio according to the 2011 Census?
+2011 மக்கள் தொகைக் கணக்கெடுப்பின்படி, அதிக பாலின விகிதம் கொண்ட மாநிலம் எது?
+a) Tamil Nadu / தமிழ்நாடு
+b) Andhra Pradesh / ஆந்திரப் பிரதேசம்
+c) Kerala / கேரளா
+d) Chhattisgarh / சத்தீஸ்கர்
+Answer: c
+
+8. The study of population is called:
+மக்கள் தொகையைப் பற்றிய ஆய்வு இவ்வாறு அழைக்கப்படுகிறது:
+a) Demography / மக்கள்தொகையியல்
+b) Anthropology / மானுடவியல்
+c) Sociology / சமூகவியல்
+d) Psychology / உளவியல்
+Answer: a
+
+9. As per the 2011 Census, which Union Territory has the highest literacy rate?
+2011 மக்கள் தொகைக் கணக்கெடுப்பின்படி, எந்த யூனியன் பிரதேசம் அதிக கல்வியறிவு விகிதத்தைக் கொண்டுள்ளது?
+a) Delhi / டெல்லி
+b) Puducherry / புதுச்சேரி
+c) Chandigarh / சண்டிகர்
+d) Lakshadweep / லட்சத்தீவு
+Answer: d
+
+10. The first synchronized census in India was held in which year?
+இந்தியாவில் முதல் ஒத்திசைக்கப்பட்ட மக்கள் தொகைக் கணக்கெடுப்பு எந்த ஆண்டு நடைபெற்றது?
+a) 1872
+b) 1881
+c) 1901
+d) 1947
+Answer: b
+
+11. Which Indian state has the largest tribal population?
+இந்தியாவின் எந்த மாநிலத்தில் பழங்குடி மக்கள் தொகை அதிகமாக உள்ளது?
+a) Madhya Pradesh / மத்தியப் பிரதேசம்
+b) Odisha / ஒடிசா
+c) Jharkhand / ஜார்க்கண்ட்
+d) Chhattisgarh / சத்தீஸ்கர்
+Answer: a
+
+12. The main objective of the National Population Policy, 2000 is to achieve a stable population by:
+தேசிய மக்கள் தொகைக் கொள்கை, 2000-இன் முக்கிய நோக்கம், எந்த ஆண்டுக்குள் நிலையான மக்கள் தொகையை அடைவதாகும்?
+a) 2035
+b) 2045
+c) 2050
+d) 2060
+Answer: b
+
+13. The Right of Children to Free and Compulsory Education (RTE) Act was passed in which year?
+குழந்தைகளுக்கான இலவச மற்றும் கட்டாயக் கல்வி உரிமைச் சட்டம் (RTE) எந்த ஆண்டு நிறைவேற்றப்பட்டது?
+a) 2005
+b) 2009
+c) 2010
+d) 2012
+Answer: b
+
+14. The Mid-Day Meal Scheme, one of the largest school feeding programs in the world, was launched in:
+உலகின் மிகப்பெரிய பள்ளி உணவுத் திட்டங்களில் ஒன்றான மதிய உணவுத் திட்டம் எப்போது தொடங்கப்பட்டது?
+a) 1991
+b) 1995
+c) 2001
+d) 2004
+Answer: b
+
+15. The 'Sarva Shiksha Abhiyan' (SSA) was launched with the aim of:
+'சர்வா சிக்ஷா அபியான்' (SSA) எந்த நோக்கத்துடன் தொடங்கப்பட்டது?
+a) Universalisation of Elementary Education / தொடக்கக் கல்வியை உலகமயமாக்குதல்
+b) Promoting Higher Education / உயர்கல்வியை மேம்படுத்துதல்
+c) Providing Vocational Training / தொழிற்பயிற்சி வழங்குதல்
+d) Adult Literacy / வயது வந்தோர் கல்வி
+Answer: a
+
+16. The National Education Policy (NEP) 2020 replaced which previous policy?
+தேசிய கல்விக் கொள்கை (NEP) 2020, முந்தைய எந்தக் கொள்கைக்கு மாற்றாக கொண்டுவரப்பட்டது?
+a) National Policy on Education, 1968 / தேசிய கல்விக் கொள்கை, 1968
+b) National Policy on Education, 1986 / தேசிய கல்விக் கொள்கை, 1986
+c) National Curriculum Framework, 2005 / தேசிய பாடத்திட்டக் கட்டமைப்பு, 2005
+d) Right to Education Act, 2009 / கல்வி உரிமைச் சட்டம், 2009
+Answer: b
+
+17. Which article of the Indian Constitution was amended to make elementary education a fundamental right?
+தொடக்கக் கல்வியை அடிப்படை உரிமையாக்க இந்திய அரசியலமைப்பின் எந்தப் பிரிவு திருத்தப்பட்டது?
+a) Article 45 / பிரிவு 45
+b) Article 21 / பிரிவு 21
+c) Article 21-A / பிரிவு 21-A
+d) Article 51-A / பிரிவு 51-A
+Answer: c
+
+18. What is the new curricular structure proposed by NEP 2020?
+NEP 2020 ஆல் முன்மொழியப்பட்ட புதிய பாடத்திட்ட அமைப்பு என்ன?
+a) 10+2
+b) 5+3+3+4
+c) 8+4
+d) 5+4+3+2
+Answer: b
+
+19. The 'Beti Bachao, Beti Padhao' scheme was launched primarily to address:
+'பேட்டி பச்சாவோ, பேட்டி பதாவோ' திட்டம் முதன்மையாக எதைக் கையாள தொடங்கப்பட்டது?
+a) Child nutrition / குழந்தை ஊட்டச்சத்து
+b) Declining Child Sex Ratio and women's education / சரிந்து வரும் குழந்தை பாலின விகிதம் மற்றும் பெண்களின் கல்வி
+c) Child marriage / குழந்தை திருமணம்
+d) Child labour / குழந்தைத் தொழிலாளர்
+Answer: b
+
+20. The "Operation Blackboard" program was introduced to improve:
+"ஆபரேஷன் பிளாக்போர்டு" திட்டம் எதை மேம்படுத்துவதற்காக அறிமுகப்படுத்தப்பட்டது?
+a) Higher education / உயர்கல்வி
+b) Primary education / தொடக்கக் கல்வி
+c) Secondary education / இடைநிலைக் கல்வி
+d) Adult education / வயது வந்தோர் கல்வி
+Answer: b
+
+21. The National Council of Educational Research and Training (NCERT) was established in which year?
+தேசிய கல்வி ஆராய்ச்சி மற்றும் பயிற்சி கவுன்சில் (NCERT) எந்த ஆண்டு நிறுவப்பட்டது?
+a) 1951
+b) 1961
+c) 1971
+d) 1981
+Answer: b
+
+22. The Kasturba Gandhi Balika Vidyalaya (KGBV) scheme focuses on education for:
+கஸ்தூரிபா காந்தி பாலிகா வித்யாலயா (KGBV) திட்டம் யாருக்கான கல்வியில் கவனம் செலுத்துகிறது?
+a) Girls from disadvantaged sections in rural areas / கிராமப்புறங்களில் உள்ள பின்தங்கிய பிரிவுகளைச் சேர்ந்த சிறுமிகள்
+b) Urban slum children / நகர்ப்புற சேரி குழந்தைகள்
+c) Tribal boys / பழங்குடி சிறுவர்கள்
+d) All children in primary schools / தொடக்கப் பள்ளிகளில் உள்ள அனைத்து குழந்தைகள்
+Answer: a
+
+23. 'DIKSHA' is a national platform for:
+'DIKSHA' என்பது எதற்கான ஒரு தேசிய தளமாகும்?
+a) School Teachers / பள்ளி ஆசிரியர்கள்
+b) University Students / பல்கலைக்கழக மாணவர்கள்
+c) Health Workers / சுகாதாரப் பணியாளர்கள்
+d) Farmers / விவசாயிகள்
+Answer: a
+
+24. The Rashtriya Madhyamik Shiksha Abhiyan (RMSA) was launched to enhance access to:
+ராஷ்ட்ரிய மத்யமிக் சிக்ஷா அபியான் (RMSA) எதற்கான அணுகலை மேம்படுத்த தொடங்கப்பட்டது?
+a) Primary Education / தொடக்கக் கல்வி
+b) Secondary Education / இடைநிலைக் கல்வி
+c) Higher Education / உயர்கல்வி
+d) Vocational Education / தொழிற்கல்வி
+Answer: b
+
+25. Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY) provides a health cover of up to:
+ஆயுஷ்மான் பாரத் - பிரதான் மந்திரி ஜன் ஆரோக்கிய யோஜனா (PM-JAY) எவ்வளவு ரூபாய் வரை சுகாதாரப் பாதுகாப்பை வழங்குகிறது?
+a) ₹2 lakh per family per year / ஒரு குடும்பத்திற்கு ஆண்டுக்கு ₹2 லட்சம்
+b) ₹3 lakh per family per year / ஒரு குடும்பத்திற்கு ஆண்டுக்கு ₹3 லட்சம்
+c) ₹5 lakh per family per year / ஒரு குடும்பத்திற்கு ஆண்டுக்கு ₹5 லட்சம்
+d) ₹1 lakh per person per year / ஒரு நபருக்கு ஆண்டுக்கு ₹1 லட்சம்
+Answer: c
+
+26. The National Health Mission (NHM) was launched in which year?
+தேசிய சுகாதார இயக்கம் (NHM) எந்த ஆண்டு தொடங்கப்பட்டது?
+a) 2001
+b) 2005
+c) 2010
+d) 2014
+Answer: b
+
+27. The Integrated Child Development Services (ICDS) scheme mainly focuses on the health and nutrition of:
+ஒருங்கிணைந்த குழந்தை மேம்பாட்டு சேவைகள் (ICDS) திட்டம் முக்கியமாக யாருடைய சுகாதாரம் மற்றும் ஊட்டச்சத்தில் கவனம் செலுத்துகிறது?
+a) Children up to 6 years of age and pregnant/lactating mothers / 6 வயது வரையிலான குழந்தைகள் மற்றும் கர்ப்பிணி/பாலூட்டும் தாய்மார்கள்
+b) Adolescent girls only / வளரிளம் பெண்கள் மட்டும்
+c) Senior citizens / மூத்த குடிமக்கள்
+d) School-going children only / பள்ளி செல்லும் குழந்தைகள் மட்டும்
+Answer: a
+
+28. Janani Suraksha Yojana (JSY) is a safe motherhood intervention aimed at reducing:
+ஜனனி சுரக்ஷா யோஜனா (JSY) என்பது எதைக் குறைப்பதை நோக்கமாகக் கொண்ட ஒரு பாதுகாப்பான தாய்மைத் திட்டமாகும்?
+a) Infant mortality and maternal mortality / சிசு மரணம் மற்றும் தாய்வழி மரணம்
+b) Malnutrition among children / குழந்தைகளிடையே ஊட்டச்சத்துக் குறைபாடு
+c) The spread of communicable diseases / தொற்று நோய்கள் பரவுதல்
+d) Gender imbalance / பாலின சமத்துவமின்மை
+Answer: a
+
+29. 'Mission Indradhanush' is associated with:
+'மிஷன் இந்திரதனுஷ்' என்பது எதனுடன் தொடர்புடையது?
+a) Women's education / பெண்கள் கல்வி
+b) Child immunization / குழந்தை தடுப்பூசி
+c) Rural sanitation / கிராமப்புற சுகாதாரம்
+d) Digital literacy / டிஜிட்டல் கல்வி
+Answer: b
+
+30. The term 'IMR' in health statistics stands for:
+சுகாதாரப் புள்ளிவிவரங்களில் 'IMR' என்ற சொல் எதைக் குறிக்கிறது?
+a) Infant Mortality Rate / சிசு மரண விகிதம்
+b) Indian Medical Ratio / இந்திய மருத்துவ விகிதம்
+c) Immediate Medical Response / உடனடி மருத்துவ சிகிச்சை
+d) Internal Mortality Ratio / உள் மரண விகிதம்
+Answer: a
+
+31. POSHAN Abhiyaan (National Nutrition Mission) was launched in which year?
+போஷன் அபியான் (தேசிய ஊட்டச்சத்து இயக்கம்) எந்த ஆண்டு தொடங்கப்பட்டது?
+a) 2015
+b) 2016
+c) 2017
+d) 2018
+Answer: d
+
+32. The National Rural Health Mission (NRHM) was a sub-mission under which larger program?
+தேசிய ஊரக சுகாதார இயக்கம் (NRHM) எந்த பெரிய திட்டத்தின் கீழ் ஒரு துணைத் திட்டமாக இருந்தது?
+a) National Health Mission / தேசிய சுகாதார இயக்கம்
+b) Ayushman Bharat / ஆயுஷ்மான் பாரத்
+c) Swachh Bharat Mission / தூய்மை இந்தியா இயக்கம்
+d) National Urban Health Mission / தேசிய நகர்ப்புற சுகாதார இயக்கம்
+Answer: a
+
+33. Which program was launched by the Government of India for the eradication of Polio?
+போலியோவை ஒழிப்பதற்காக இந்திய அரசால் தொடங்கப்பட்ட திட்டம் எது?
+a) Pulse Polio Immunization Program / பல்ஸ் போலியோ நோய்த்தடுப்புத் திட்டம்
+b) Mission Indradhanush / மிஷன் இந்திரதனுஷ்
+c) Janani Suraksha Yojana / ஜனனி சுரக்ஷா யோஜனா
+d) National Leprosy Eradication Program / தேசிய தொழுநோய் ஒழிப்புத் திட்டம்
+Answer: a
+
+34. ASHA workers are associated with which government scheme?
+ஆஷா (ASHA) பணியாளர்கள் எந்த அரசாங்கத் திட்டத்துடன் தொடர்புடையவர்கள்?
+a) MGNREGA / மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதித் திட்டம்
+b) National Health Mission (NHM) / தேசிய சுகாதார இயக்கம் (NHM)
+c) Sarva Shiksha Abhiyan / சர்வா சிக்ஷா அபியான்
+d) Pradhan Mantri Awas Yojana / பிரதான் மந்திரி ஆவாஸ் யோஜனா
+Answer: b
+
+35. The term 'MMR' in public health refers to:
+பொது சுகாதாரத்தில் 'MMR' என்ற சொல் எதைக் குறிக்கிறது?
+a) Minimum Mortality Rate / குறைந்தபட்ச மரண விகிதம்
+b) Maternal Mortality Ratio / தாய்வழி மரண விகிதம்
+c) Male Mortality Rate / ஆண் இறப்பு விகிதம்
+d) Medical Management Record / மருத்துவ மேலாண்மைப் பதிவு
+Answer: b
+
+36. The Swachh Bharat Mission was launched with the primary objective of:
+தூய்மை இந்தியா இயக்கம் எந்த முதன்மை நோக்கத்துடன் தொடங்கப்பட்டது?
+a) Providing clean drinking water / தூய்மையான குடிநீர் வழங்குதல்
+b) Achieving an "Open-Defecation Free" (ODF) India / "திறந்தவெளிக் கழிப்பிடமற்ற" இந்தியாவை அடைதல்
+c) Waste management in urban areas / நகர்ப்புறங்களில் கழிவு மேலாண்மை
+d) Cleaning of rivers / நதிகளை சுத்தம் செய்தல்
+Answer: b
+
+37. MGNREGA guarantees how many days of wage employment in a financial year to a rural household?
+மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதித் திட்டம் (MGNREGA) ஒரு நிதியாண்டில் ஒரு கிராமப்புறக் குடும்பத்திற்கு எத்தனை நாட்கள் ஊதிய வேலையை உறுதி செய்கிறது?
+a) 50 days / 50 நாட்கள்
+b) 100 days / 100 நாட்கள்
+c) 150 days / 150 நாட்கள்
+d) 200 days / 200 நாட்கள்
+Answer: b
+
+38. Which type of unemployment occurs when people are in between jobs or are entering the workforce for the first time?
+மக்கள் வேலைகளுக்கு இடையில் இருக்கும்போது அல்லது முதன்முறையாகப் பணிக்குச் சேரும்போது ஏற்படும் வேலையின்மை வகை எது?
+a) Structural unemployment / கட்டமைப்பு வேலையின்மை
+b) Frictional unemployment / உராய்வு வேலையின்மை
+c) Cyclical unemployment / சுழற்சி வேலையின்மை
+d) Disguised unemployment / மறைமுக வேலையின்மை
+Answer: b
+
+39. The Pradhan Mantri Kaushal Vikas Yojana (PMKVY) is a flagship scheme for:
+பிரதான் மந்திரி கௌஷல் விகாஸ் யோஜனா (PMKVY) என்பது எதற்கான ஒரு முதன்மைத் திட்டமாகும்?
+a) Providing housing / வீட்டு வசதி வழங்குதல்
+b) Skill Development / திறன் மேம்பாடு
+c) Providing financial inclusion / நிதிச் சேர்க்கையை வழங்குதல்
+d) Rural employment / கிராமப்புற வேலைவாய்ப்பு
+Answer: b
+
+40. Disguised unemployment is a prominent feature of which sector in India?
+மறைமுக வேலையின்மை என்பது இந்தியாவில் எந்தத் துறையின் ஒரு முக்கிய அம்சமாகும்?
+a) Industrial sector / தொழில் துறை
+b) Service sector / சேவைத் துறை
+c) Agricultural sector / விவசாயத் துறை
+d) IT sector / தகவல் தொழில்நுட்பத் துறை
+Answer: c
+
+41. The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) was passed in which year?
+மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதிச் சட்டம் (MGNREGA) எந்த ஆண்டு நிறைவேற்றப்பட்டது?
+a) 2004
+b) 2005
+c) 2006
+d) 2009
+Answer: b
+
+42. What does 'unemployment trap' mean?
+'வேலையின்மைப் பொறி' என்பதன் பொருள் என்ன?
+a) A situation where unemployment benefits discourage the unemployed from going to work / வேலையின்மைப் பலன்கள் வேலையில்லாதவர்களை வேலைக்குச் செல்வதிலிருந்து ஊக்கமிழக்கச் செய்யும் ஒரு சூழ்நிலை
+b) A situation where there are no jobs available / வேலைகள் இல்லாத ஒரு சூழ்நிலை
+c) A government policy to reduce unemployment / வேலையின்மையைக் குறைக்க ஒரு அரசாங்கக் கொள்கை
+d) A trap set by employers / முதலாளிகளால் அமைக்கப்பட்ட ஒரு பொறி
+Answer: a
+
+43. The National Skill Development Corporation (NSDC) was set up as a:
+தேசிய திறன் மேம்பாட்டுக் கழகம் (NSDC) எவ்வாறு அமைக்கப்பட்டது?
+a) Government agency / அரசு நிறுவனம்
+b) Private company / தனியார் நிறுவனம்
+c) Public-Private Partnership / பொது-தனியார் கூட்டாண்மை
+d) Non-governmental organization / அரசு சாரா அமைப்பு
+Answer: c
+
+44. Structural unemployment is caused by:
+கட்டமைப்பு வேலையின்மை எதனால் ஏற்படுகிறது?
+a) A recession in the economy / பொருளாதாரத்தில் மந்தநிலை
+b) Seasonal nature of work / வேலையின் பருவகாலத் தன்மை
+c) A mismatch between the skills of workers and the skills required for jobs / தொழிலாளர்களின் திறன்களுக்கும் வேலைக்குத் தேவையான திறன்களுக்கும் இடையில் ஒரு பொருந்தாமை
+d) People voluntarily changing jobs / மக்கள் தானாக முன்வந்து வேலைகளை மாற்றுதல்
+Answer: c
+
+45. The "Deen Dayal Upadhyaya Grameen Kaushalya Yojana" (DDU-GKY) aims to provide skills and employment to:
+"தீன் தயாள் உபாத்யாய கிராமீன் கௌசல்யா யோஜனா" (DDU-GKY) யாருக்குத் திறன் மற்றும் வேலைவாய்ப்பை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது?
+a) Urban youth / நகர்ப்புற இளைஞர்கள்
+b) Rural youth / கிராமப்புற இளைஞர்கள்
+c) Senior citizens / மூத்த குடிமக்கள்
+d) Women self-help groups / மகளிர் சுய உதவிக் குழுக்கள்
+Answer: b
+
+46. The Labour Force Participation Rate (LFPR) is defined as the percentage of the:
+தொழிலாளர் சக்தி பங்கேற்பு விகிதம் (LFPR) என்பது எதன் சதவீதமாக வரையறுக்கப்படுகிறது?
+a) Population that is employed / வேலையில் உள்ள மக்கள்தொகை
+b) Population that is unemployed / வேலையில்லாத மக்கள்தொகை
+c) Population that is either working or seeking work / வேலை செய்யும் அல்லது வேலை தேடும் மக்கள்தொகை
+d) Working-age population that is employed / வேலையில் உள்ள உழைக்கும் வயது மக்கள்தொகை
+Answer: c
+
+47. In India, unemployment data is primarily collected by which organization?
+இந்தியாவில், வேலையின்மைத் தரவுகள் முதன்மையாக எந்த அமைப்பால் சேகரிக்கப்படுகின்றன?
+a) Reserve Bank of India (RBI) / இந்திய ரிசர்வ் வங்கி (RBI)
+b) Ministry of Finance / நிதி அமைச்சகம்
+c) National Statistical Office (NSO) / தேசிய புள்ளியியல் அலுவலகம் (NSO)
+d) NITI Aayog / நிதி ஆயோக்
+Answer: c
+
+48. The "Startup India" initiative was launched to promote:
+"ஸ்டார்ட்அப் இந்தியா" முயற்சி எதை மேம்படுத்துவதற்காகத் தொடங்கப்பட்டது?
+a) Agriculture / விவசாயம்
+b) Entrepreneurship and job creation / தொழில்முனைவு மற்றும் வேலை உருவாக்கம்
+c) Rural infrastructure / கிராமப்புற உள்கட்டமைப்பு
+d) Health services / சுகாதார சேவைகள்
+Answer: b
+
+49. Which committee's methodology is currently used by India to estimate the poverty line?
+வறுமைக் கோட்டைக் கணக்கிட, இந்தியா தற்போது எந்தக் குழுவின் வழிமுறையைப் பயன்படுத்துகிறது?
+a) Lakdawala Committee / லக்டாவாலா குழு
+b) Alagh Committee / அலாக் குழு
+c) Tendulkar Committee / டெண்டுல்கர் குழு
+d) Rangarajan Committee / ரங்கராஜன் குழு
+Answer: c
+
+50. 'Antyodaya Anna Yojana' (AAY) is a scheme designed to provide highly subsidized food to:
+'அந்த்யோதயா அன்ன யோஜனா' (AAY) என்பது யாருக்கு அதிக மானிய விலையில் உணவு வழங்குவதற்காக வடிவமைக்கப்பட்ட ஒரு திட்டமாகும்?
+a) All BPL families / அனைத்து வறுமைக் கோட்டிற்கு கீழ் உள்ள குடும்பங்கள்
+b) The poorest of the poor families / ஏழைகளிலும் ஏழ்மையான குடும்பங்கள்
+c) All rural families / அனைத்து கிராமப்புறக் குடும்பங்கள்
+d) Senior citizens only / மூத்த குடிமக்கள் மட்டும்
+Answer: b
+
+51. The concept of the poverty line in India is based on:
+இந்தியாவில் வறுமைக் கோடு என்ற கருத்து எதை அடிப்படையாகக் கொண்டது?
+a) Per capita income / தலா வருமானம்
+b) Household savings / குடும்ப சேமிப்பு
+c) Minimum calorie intake / குறைந்தபட்ச கலோரி உட்கொள்ளல்
+d) Land ownership / நில உடைமை
+Answer: c
+
+52. The National Food Security Act (NFSA) was passed in which year?
+தேசிய உணவுப் பாதுகாப்புச் சட்டம் (NFSA) எந்த ஆண்டு நிறைவேற்றப்பட்டது?
+a) 2011
+b) 2012
+c) 2013
+d) 2014
+Answer: c
+
+53. 'Absolute Poverty' refers to a condition where:
+'முழுமையான வறுமை' என்பது எந்த நிலையைக் குறிக்கிறது?
+a) A person's income is less than the average income of the country / ஒரு நபரின் வருமானம் நாட்டின் சராசரி வருமானத்தை விடக் குறைவாக உள்ளது
+b) A person cannot afford the basic necessities of life like food, shelter, and clothing / ஒரு நபரால் உணவு, இருப்பிடம், உடை போன்ற வாழ்க்கையின் அடிப்படைத் தேவைகளைப் பூர்த்தி செய்ய முடியாத நிலை
+c) A person feels poor compared to others / ஒரு நபர் மற்றவர்களுடன் ஒப்பிடும்போது தன்னை ஏழையாக உணர்கிறார்
+d) A person is unemployed / ஒரு நபர் வேலையில்லாமல் இருக்கிறார்
+Answer: b
+
+54. The Pradhan Mantri Ujjwala Yojana (PMUY) is a social welfare scheme aimed at:
+பிரதான் மந்திரி உஜ்வாலா யோஜனா (PMUY) என்பது எந்த சமூக நலத் திட்டத்தை நோக்கமாகக் கொண்டது?
+a) Providing electricity to all households / அனைத்து வீடுகளுக்கும் மின்சாரம் வழங்குதல்
+b) Providing LPG connections to women from BPL households / வறுமைக் கோட்டிற்கு கீழ் உள்ள குடும்பங்களைச் சேர்ந்த பெண்களுக்கு LPG இணைப்புகளை வழங்குதல்
+c) Constructing toilets in rural areas / கிராமப்புறங்களில் கழிப்பறைகளைக் கட்டுதல்
+d) Providing financial assistance to farmers / விவசாயிகளுக்கு நிதி உதவி வழங்குதல்
+Answer: b
+
+55. The Public Distribution System (PDS) in India aims to provide:
+இந்தியாவில் உள்ள பொது விநியோகத் திட்டம் (PDS) எதை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது?
+a) Food grains at subsidized prices / மானிய விலையில் உணவு தானியங்கள்
+b) Free education to all / அனைவருக்கும் இலவசக் கல்வி
+c) Employment opportunities / வேலை வாய்ப்புகள்
+d) Healthcare facilities / சுகாதார வசதிகள்
+Answer: a
+
+56. The 'poverty gap index' measures:
+'வறுமை இடைவெளிக் குறியீடு' எதை அளவிடுகிறது?
+a) The number of people below the poverty line / வறுமைக் கோட்டிற்கு கீழ் உள்ள மக்களின் எண்ணிக்கை
+b) The intensity of poverty / வறுமையின் தீவிரம்
+c) The percentage of the population living in poverty / வறுமையில் வாழும் மக்கள்தொகையின் சதவீதம்
+d) The gap between rich and poor / பணக்காரர்களுக்கும் ஏழைகளுக்கும் இடையிலான இடைவெளி
+Answer: b
+
+57. The National Social Assistance Programme (NSAP) provides support to:
+தேசிய சமூக உதவித் திட்டம் (NSAP) யாருக்கு ஆதரவை வழங்குகிறது?
+a) Unemployed youth / வேலையற்ற இளைஞர்கள்
+b) The elderly, widows, and persons with disabilities / முதியவர்கள், விதவைகள் மற்றும் மாற்றுத் திறனாளிகள்
+c) Farmers in distress / துயரத்தில் உள்ள விவசாயிகள்
+d) Students from poor families / ஏழை குடும்பங்களைச் சேர்ந்த மாணவர்கள்
+Answer: b
+
+58. Which Five-Year Plan had the primary objective of "Garibi Hatao" (Eradicate Poverty)?
+எந்த ஐந்தாண்டுத் திட்டம் "கரிபி ஹட்டாவோ" (வறுமையை ஒழித்தல்) என்பதை முதன்மை நோக்கமாகக் கொண்டிருந்தது?
+a) Third Five-Year Plan / மூன்றாவது ஐந்தாண்டுத் திட்டம்
+b) Fourth Five-Year Plan / நான்காவது ஐந்தாண்டுத் திட்டம்
+c) Fifth Five-Year Plan / ஐந்தாவது ஐந்தாண்டுத் திட்டம்
+d) Sixth Five-Year Plan / ஆறாவது ஐந்தாண்டுத் திட்டம்
+Answer: c
+
+59. The Targeted Public Distribution System (TPDS) was introduced in which year to benefit the poor?
+ஏழைகளுக்குப் பயனளிக்கும் வகையில் இலக்கு பொது விநியோகத் திட்டம் (TPDS) எந்த ஆண்டு அறிமுகப்படுத்தப்பட்டது?
+a) 1992
+b) 1995
+c) 1997
+d) 2000
+Answer: c
+
+60. Relative poverty refers to:
+சார்பு வறுமை என்பது எதைக் குறிக்கிறது?
+a) Poverty in comparison to other people, regions or nations / மற்ற மக்கள், பிராந்தியங்கள் அல்லது நாடுகளுடன் ஒப்பிடும்போது உள்ள வறுமை
+b) The absolute minimum standard of living / வாழ்க்கையின் முழுமையான குறைந்தபட்சத் தரம்
+c) Poverty caused by a natural disaster / இயற்கை பேரழிவால் ஏற்படும் வறுமை
+d) Poverty that is passed from one generation to the next / ஒரு தலைமுறையிலிருந்து அடுத்த தலைமுறைக்குக் கடத்தப்படும் வறுமை
+Answer: a

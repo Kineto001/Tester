@@ -1,0 +1,886 @@
+**Overall Topic for Question Generation: Genetics**
+**மொத்த தலைப்பு: மரபியல்**
+
+---
+**1. Assertion and Reason Questions (6 questions):**
+**1. கூற்று மற்றும் காரணம் வகை கேள்விகள் (6 கேள்விகள்):**
+---
+
+**Question 1**
+**Assertion (A):** Mendel is known as the Father of Genetics.
+**Reason (R):** Mendel conducted experiments on pea plants and formulated the laws of inheritance.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** மெண்டல் மரபியலின் தந்தை என்று அழைக்கப்படுகிறார்.
+**காரணம் (R):** மெண்டல் பட்டாணி செடிகளில் சோதனைகள் செய்து பாரம்பரிய விதிகளை வகுத்தார்.
+
+a) A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: a
+
+**Question 2**
+**Assertion (A):** DNA is the genetic material in most organisms.
+**Reason (R):** DNA carries genetic information from one generation to the next.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** பெரும்பாலான உயிரினங்களில் டி.என்.ஏ மரபணுப் பொருளாகும்.
+**காரணம் (R):** டி.என்.ஏ மரபணுத் தகவல்களை ஒரு தலைமுறையிலிருந்து அடுத்த தலைமுறைக்கு கொண்டு செல்கிறது.
+
+a) A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: a
+
+**Question 3**
+**Assertion (A):** Down syndrome is caused by a trisomy of chromosome 21.
+**Reason (R):** Individuals with Down syndrome have 47 chromosomes instead of the usual 46.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** குரோமோசோம் 21-ன் மும்மை இணைதலால் டவுன் சிண்ட்ரோம் ஏற்படுகிறது.
+**காரணம் (R):** டவுன் சிண்ட்ரோம் உள்ள நபர்களுக்கு வழக்கமான 46 குரோமோசோம்களுக்கு பதிலாக 47 குரோமோசோம்கள் இருக்கும்.
+
+a) A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: a
+
+**Question 4**
+**Assertion (A):** RNA is a single-stranded nucleic acid.
+**Reason (R):** RNA contains uracil instead of thymine.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** ஆர்.என்.ஏ ஒரு ஒற்றை இழை நியூக்ளிக் அமிலம் ஆகும்.
+**காரணம் (R):** ஆர்.என்.ஏ-வில் தைமினுக்கு பதிலாக யுராசில் உள்ளது.
+
+a) A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: b
+
+**Question 5**
+**Assertion (A):** Mutations are always harmful to organisms.
+**Reason (R):** Mutations can lead to genetic disorders.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** சடுதிமாற்றங்கள் எப்போதும் உயிரினங்களுக்கு தீங்கு விளைவிப்பவை.
+**காரணம் (R):** சடுதிமாற்றங்கள் மரபணு கோளாறுகளுக்கு வழிவகுக்கும்.
+
+a) A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: d
+
+**Question 6**
+**Assertion (A):** The human ABO blood group system is an example of multiple alleles.
+**Reason (R):** In the ABO system, a single gene has only two allelic forms.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** மனித ABO இரத்த வகை அமைப்பு பல அல்லீல்களுக்கு ஒரு எடுத்துக்காட்டு.
+**காரணம் (R):** ABO அமைப்பில், ஒரு மரபணு இரண்டு அல்லீல் வடிவங்களை மட்டுமே கொண்டுள்ளது.
+
+a) A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: c
+
+---
+**2. Identify the Wrongly Matched Pair Questions (6 questions):**
+**2. தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியும் கேள்விகள் (6 கேள்விகள்):**
+---
+
+**Question 7**
+Identify the wrongly matched pair:
+a) Gregor Mendel - Laws of Inheritance
+b) Watson and Crick - Double helix structure of DNA
+c) T.H. Morgan - Mutation theory
+d) Johannsen - Coined the term 'gene'
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+a) கிரிகோர் மெண்டல் - பாரம்பரிய விதிகள்
+b) வாட்சன் மற்றும் கிரிக் - டி.என்.ஏ-வின் இரட்டை சுருள் அமைப்பு
+c) டி.ஹெச். மோர்கன் - சடுதிமாற்றக் கோட்பாடு
+d) ஜோஹன்சன் - 'மரபணு' என்ற சொல்லை உருவாக்கினார்
+
+Answer: c (Corrected match: T.H. Morgan - Linkage and sex-linked inheritance; Mutation theory - Hugo de Vries)
+(சரியான பொருத்தம்: டி.ஹெச். மோர்கன் - இணைப்பு மற்றும் பால் சார்ந்த பாரம்பரியம்; சடுதிமாற்றக் கோட்பாடு - ஹியூகோ டி விரிஸ்)
+
+**Question 8**
+Identify the wrongly matched pair:
+a) DNA - Deoxyribose sugar
+b) RNA - Ribose sugar
+c) Adenine - Purine
+d) Uracil - Purine
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+a) டி.என்.ஏ - டீஆக்சிரிபோஸ் சர்க்கரை
+b) ஆர்.என்.ஏ - ரிபோஸ் சர்க்கரை
+c) அடினைன் - பியூரின்
+d) யுராசில் - பியூரின்
+
+Answer: d (Corrected match: Uracil - Pyrimidine)
+(சரியான பொருத்தம்: யுராசில் - பைரிமிடின்)
+
+**Question 9**
+Identify the wrongly matched pair regarding genetic disorders:
+a) Down Syndrome - Trisomy 21
+b) Klinefelter Syndrome - XXY
+c) Turner Syndrome - XO
+d) Sickle cell anemia - Autosomal dominant
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும் (மரபணு கோளாறுகள் தொடர்பாக):
+a) டவுன் சிண்ட்ரோம் - டிரைசோமி 21
+b) கிளைன்பெல்டர் சிண்ட்ரோம் - XXY
+c) டர்னர் சிண்ட்ரோம் - XO
+d) அரிவாள் செல் இரத்த சோகை - ஆட்டோசோமல் ஓங்குத்தன்மை
+
+Answer: d (Corrected match: Sickle cell anemia - Autosomal recessive)
+(சரியான பொருத்தம்: அரிவாள் செல் இரத்த சோகை - ஆட்டோசோமல் ஒடுங்கு கோளாறு)
+
+**Question 10**
+Identify the wrongly matched pair:
+a) Gene - Basic unit of heredity
+b) Allele - Alternative form of a gene
+c) Genotype - Observable characteristics
+d) Phenotype - Physical expression of a trait
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+a) மரபணு - பாரம்பரியத்தின் அடிப்படை அலகு
+b) அல்லீல் - ஒரு மரபணுவின் மாற்று வடிவம்
+c) மரபணு அமைப்பு (Genotype) - காணக்கூடிய பண்புகள்
+d) புறத்தோற்றம் (Phenotype) - ஒரு பண்பின் உடல் வெளிப்பாடு
+
+Answer: c (Corrected match: Genotype - Genetic makeup; Phenotype - Observable characteristics)
+(சரியான பொருத்தம்: மரபணு அமைப்பு (Genotype) - மரபணு உருவாக்கம்; புறத்தோற்றம் (Phenotype) - காணக்கூடிய பண்புகள்)
+
+**Question 11**
+Identify the wrongly matched pair regarding types of RNA:
+a) mRNA - Carries genetic code from DNA to ribosome
+b) tRNA - Carries amino acids to ribosome
+c) rRNA - Component of ribosome
+d) snRNA - Involved in DNA replication
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும் (ஆர்.என்.ஏ வகைகள் தொடர்பாக):
+a) mRNA - டி.என்.ஏ-விலிருந்து ரிபோசோமிற்கு மரபணுக் குறியீட்டை எடுத்துச் செல்கிறது
+b) tRNA - அமினோ அமிலங்களை ரிபோசோமிற்கு எடுத்துச் செல்கிறது
+c) rRNA - ரிபோசோமின் ஒரு கூறு
+d) snRNA - டி.என்.ஏ இரட்டிப்பாதலில் ஈடுபட்டுள்ளது
+
+Answer: d (Corrected match: snRNA - Involved in RNA splicing)
+(சரியான பொருத்தம்: snRNA (சிறிய அணுக்கரு ஆர்.என்.ஏ) - ஆர்.என்.ஏ பிரித்தலில் ஈடுபட்டுள்ளது)
+
+**Question 12**
+Identify the wrongly matched pair regarding chromosomal aberrations:
+a) Deletion - Loss of a chromosome segment
+b) Duplication - Addition of a chromosome segment
+c) Inversion - Exchange of segments between non-homologous chromosomes
+d) Translocation - A segment of one chromosome breaks off and attaches to another non-homologous chromosome
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும் (குரோமோசோம் பிறழ்வுகள் தொடர்பாக):
+a) நீக்கம் - குரோமோசோம் பகுதியின் இழப்பு
+b) இரட்டித்தல் - குரோமோசோம் பகுதியின் கூடுதல்
+c) தலைகீழ்தல் - ஒத்தல்லாத குரோமோசோம்களுக்கு இடையில் பகுதிகளின் பரிமாற்றம்
+d) இடமாற்றம் - ஒரு குரோமோசோமின் ஒரு பகுதி உடைந்து மற்றொரு ஒத்தல்லாத குரோமோசோமுடன் இணைகிறது
+
+Answer: c (Corrected match: Inversion - A segment of a chromosome breaks, flips, and reattaches to the same chromosome)
+(சரியான பொருத்தம்: தலைகீழ்தல் - ஒரு குரோமோசோமின் ஒரு பகுதி உடைந்து, திரும்பி, அதே குரோமோசோமுடன் மீண்டும் இணைகிறது)
+
+---
+**3. Match the Following Questions (6 questions):**
+**3. பொருத்துக வகை கேள்விகள் (6 கேள்விகள்):**
+---
+
+**Question 13**
+Match List-I with List-II:
+List-I (Scientist)              List-II (Contribution)
+1. Gregor Mendel              a. Chromosomal theory of inheritance
+2. Sutton and Boveri        b. Laws of inheritance
+3. Watson and Crick         c. One gene-one enzyme hypothesis
+4. Beadle and Tatum         d. Double helix model of DNA
+
+A) 1-b, 2-a, 3-d, 4-c
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-c, 3-d, 4-a
+D) 1-d, 2-a, 3-b, 4-c
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (விஞ்ஞானி)             பட்டியல்-II (பங்களிப்பு)
+1. கிரிகோர் மெண்டல்              a. பாரம்பரியத்தின் குரோமோசோம் கோட்பாடு
+2. சட்டன் மற்றும் போவேரி        b. பாரம்பரிய விதிகள்
+3. வாட்சன் மற்றும் கிரிக்         c. ஒரு மரபணு-ஒரு நொதி கருதுகோள்
+4. பீடில் மற்றும் டாட்டம்         d. டி.என்.ஏ-வின் இரட்டை சுருள் மாதிரி
+
+A) 1-b, 2-a, 3-d, 4-c
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-c, 3-d, 4-a
+D) 1-d, 2-a, 3-b, 4-c
+
+Answer: A
+
+**Question 14**
+Match List-I with List-II:
+List-I (Genetic Term)         List-II (Definition)
+1. Gene                             a. Observable characteristic
+2. Allele                            b. Genetic makeup of an individual
+3. Phenotype                     c. Unit of heredity
+4. Genotype                      d. Alternative form of a gene
+
+A) 1-c, 2-d, 3-a, 4-b
+B) 1-d, 2-c, 3-b, 4-a
+C) 1-c, 2-a, 3-d, 4-b
+D) 1-a, 2-b, 3-c, 4-d
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (மரபியல் சொல்)      பட்டியல்-II (வரையறை)
+1. மரபணு                           a. காணக்கூடிய பண்பு
+2. அல்லீல்                          b. ஒரு தனிநபரின் மரபணு அமைப்பு
+3. புறத்தோற்றம்                     c. பாரம்பரியத்தின் அலகு
+4. மரபணு அமைப்பு                d. ஒரு மரபணுவின் மாற்று வடிவம்
+
+A) 1-c, 2-d, 3-a, 4-b
+B) 1-d, 2-c, 3-b, 4-a
+C) 1-c, 2-a, 3-d, 4-b
+D) 1-a, 2-b, 3-c, 4-d
+
+Answer: A
+
+**Question 15**
+Match List-I with List-II:
+List-I (Genetic Disorder)     List-II (Cause)
+1. Haemophilia                 a. Trisomy of 21st chromosome
+2. Down Syndrome          b. XXY chromosomal constitution
+3. Klinefelter Syndrome    c. Deletion of a segment of chromosome 5
+4. Cri-du-chat Syndrome   d. X-linked recessive gene
+
+A) 1-d, 2-a, 3-b, 4-c
+B) 1-a, 2-d, 3-c, 4-b
+C) 1-d, 2-b, 3-a, 4-c
+D) 1-c, 2-a, 3-d, 4-b
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (மரபணு கோளாறு)     பட்டியல்-II (காரணம்)
+1. ஹீமோபிலியா                 a. 21வது குரோமோசோமின் மும்மை இணைதல்
+2. டவுன் சிண்ட்ரோம்          b. XXY குரோமோசோம் அமைப்பு
+3. கிளைன்பெல்டர் சிண்ட்ரோம்    c. குரோமோசோம் 5-ன் ஒரு பகுதி நீக்கம்
+4. கிரி-டு-சாட் சிண்ட்ரோம்   d. X-இணைந்த ஒடுங்கு மரபணு
+
+A) 1-d, 2-a, 3-b, 4-c
+B) 1-a, 2-d, 3-c, 4-b
+C) 1-d, 2-b, 3-a, 4-c
+D) 1-c, 2-a, 3-d, 4-b
+
+Answer: A
+
+**Question 16**
+Match List-I with List-II:
+List-I (Component)          List-II (Found in)
+1. Thymine                      a. RNA only
+2. Uracil                         b. DNA only
+3. Ribose sugar               c. Both DNA and RNA
+4. Phosphate group          d. Protein
+
+A) 1-b, 2-a, 3-a, 4-c
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-a, 2-b, 3-a, 4-c
+D) 1-b, 2-c, 3-a, 4-d
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (கூறு)               பட்டியல்-II (காணப்படுவது)
+1. தைமின்                      a. ஆர்.என்.ஏ-வில் மட்டும்
+2. யுராசில்                       b. டி.என்.ஏ-வில் மட்டும்
+3. ரிபோஸ் சர்க்கரை             c. டி.என்.ஏ மற்றும் ஆர்.என்.ஏ இரண்டிலும்
+4. பாஸ்பேட் தொகுதி           d. புரதம்
+
+A) 1-b, 2-a, 3-a, 4-c
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-a, 2-b, 3-a, 4-c
+D) 1-b, 2-c, 3-a, 4-d
+
+Answer: A
+
+**Question 17**
+Match List-I with List-II:
+List-I (Process)                List-II (Description)
+1. Replication                  a. Synthesis of RNA from DNA
+2. Transcription              b. Synthesis of protein from mRNA
+3. Translation                  c. Synthesis of DNA from DNA
+4. Reverse Transcription  d. Synthesis of DNA from RNA
+
+A) 1-c, 2-a, 3-b, 4-d
+B) 1-a, 2-c, 3-d, 4-b
+C) 1-c, 2-b, 3-a, 4-d
+D) 1-d, 2-a, 3-b, 4-c
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (செயல்முறை)           பட்டியல்-II (விளக்கம்)
+1. இரட்டித்தல் (Replication)     a. டி.என்.ஏ-விலிருந்து ஆர்.என்.ஏ உருவாக்கம்
+2. படியெடுத்தல் (Transcription) b. எம்.ஆர்.என்.ஏ-விலிருந்து புரத உருவாக்கம்
+3. மொழிபெயர்த்தல் (Translation) c. டி.என்.ஏ-விலிருந்து டி.என்.ஏ உருவாக்கம்
+4. தலைகீழ் படியெடுத்தல்       d. ஆர்.என்.ஏ-விலிருந்து டி.என்.ஏ உருவாக்கம்
+
+A) 1-c, 2-a, 3-b, 4-d
+B) 1-a, 2-c, 3-d, 4-b
+C) 1-c, 2-b, 3-a, 4-d
+D) 1-d, 2-a, 3-b, 4-c
+
+Answer: A
+
+**Question 18**
+Match List-I with List-II:
+List-I (Blood Group)       List-II (Possible Genotype(s))
+1. Blood Group A            a. ii
+2. Blood Group B            b. I<sup>A</sup>I<sup>A</sup> or I<sup>A</sup>i
+3. Blood Group AB          c. I<sup>B</sup>I<sup>B</sup> or I<sup>B</sup>i
+4. Blood Group O           d. I<sup>A</sup>I<sup>B</sup>
+
+A) 1-b, 2-c, 3-d, 4-a
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-d, 3-c, 4-a
+D) 1-d, 2-c, 3-a, 4-b
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (இரத்த வகை)      பட்டியல்-II (சாத்தியமான மரபணு அமைப்பு(கள்))
+1. இரத்த வகை A             a. ii
+2. இரத்த வகை B             b. I<sup>A</sup>I<sup>A</sup> அல்லது I<sup>A</sup>i
+3. இரத்த வகை AB            c. I<sup>B</sup>I<sup>B</sup> அல்லது I<sup>B</sup>i
+4. இரத்த வகை O            d. I<sup>A</sup>I<sup>B</sup>
+
+A) 1-b, 2-c, 3-d, 4-a
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-d, 3-c, 4-a
+D) 1-d, 2-c, 3-a, 4-b
+
+Answer: A
+
+---
+**4. Standard Multiple Choice Questions (32 questions):**
+**4. стандарт பல தேர்வு கேள்விகள் (32 கேள்விகள்):**
+---
+
+**Question 19**
+Who is known as the "Father of Genetics"?
+a) Charles Darwin
+b) Gregor Mendel
+c) Louis Pasteur
+d) T.H. Morgan
+
+"மரபியலின் தந்தை" என்று அழைக்கப்படுபவர் யார்?
+a) சார்லஸ் டார்வின்
+b) கிரிகோர் மெண்டல்
+c) லூயி பாஸ்டர்
+d) டி.ஹெச். மோர்கன்
+
+Answer: b
+
+**Question 20**
+The basic unit of heredity is:
+a) Chromosome
+b) Gene
+c) DNA
+d) RNA
+
+பாரம்பரியத்தின் அடிப்படை அலகு:
+a) குரோமோசோம்
+b) மரபணு
+c) டி.என்.ஏ
+d) ஆர்.என்.ஏ
+
+Answer: b
+
+**Question 21**
+DNA molecule is a:
+a) Single helix
+b) Double helix
+c) Triple helix
+d) Straight chain
+
+டி.என்.ஏ மூலக்கூறு ஒரு:
+a) ஒற்றை சுருள்
+b) இரட்டை சுருள்
+c) மும்மை சுருள்
+d) நேர் சங்கிலி
+
+Answer: b
+
+**Question 22**
+Which of the following nitrogenous bases is NOT found in DNA?
+a) Adenine
+b) Guanine
+c) Cytosine
+d) Uracil
+
+பின்வரும் நைட்ரஜன் காரங்களில் எது டி.என்.ஏ-வில் காணப்படவில்லை?
+a) அடினைன்
+b) குவானைன்
+c) சைட்டோசின்
+d) யுராசில்
+
+Answer: d
+
+**Question 23**
+The process of synthesis of RNA from a DNA template is called:
+a) Replication
+b) Translation
+c) Transcription
+d) Transduction
+
+டி.என்.ஏ வார்ப்புருவிலிருந்து ஆர்.என்.ஏ தொகுக்கப்படும் செயல்முறை இவ்வாறு அழைக்கப்படுகிறது:
+a) இரட்டித்தல்
+b) மொழிபெயர்த்தல்
+c) படியெடுத்தல்
+d) கடத்தல்
+
+Answer: c
+
+**Question 24**
+The observable characteristics of an organism are known as its:
+a) Genotype
+b) Phenotype
+c) Allele
+d) Genome
+
+ஒரு உயிரினத்தின் காணக்கூடிய பண்புகள் இவ்வாறு அறியப்படுகின்றன:
+a) மரபணு அமைப்பு
+b) புறத்தோற்றம்
+c) அல்லீல்
+d) மரபகராதி
+
+Answer: b
+
+**Question 25**
+An alternative form of a gene is called:
+a) Locus
+b) Allele
+c) Trait
+d) Chromosome
+
+ஒரு மரபணுவின் மாற்று வடிவம் இவ்வாறு அழைக்கப்படுகிறது:
+a) இருப்பிடம் (Locus)
+b) அல்லீல்
+c) பண்பு
+d) குரோமோசோம்
+
+Answer: b
+
+**Question 26**
+How many pairs of chromosomes are present in a normal human somatic cell?
+a) 22 pairs
+b) 23 pairs
+c) 46 pairs
+d) 44 pairs
+
+ஒரு சாதாரண மனித உடல் செல்லில் எத்தனை ஜோடி குரோமோசோம்கள் உள்ளன?
+a) 22 ஜோடிகள்
+b) 23 ஜோடிகள்
+c) 46 ஜோடிகள்
+d) 44 ஜோடிகள்
+
+Answer: b
+
+**Question 27**
+Which of these is a sex-linked disease?
+a) Sickle cell anemia
+b) Colour blindness
+c) Down syndrome
+d) Albinism
+
+இவற்றில் எது பால் சார்ந்த நோய்?
+a) அரிவாள் செல் இரத்த சோகை
+b) நிறக்குருடு
+c) டவுன் சிண்ட்ரோம்
+d) அல்பினிசம்
+
+Answer: b
+
+**Question 28**
+A sudden change in the genetic material is called:
+a) Variation
+b) Mutation
+c) Evolution
+d) Adaptation
+
+மரபணுப் பொருளில் ஏற்படும் திடீர் மாற்றம் இவ்வாறு அழைக்கப்படுகிறது:
+a) மாறுபாடு
+b) சடுதிமாற்றம்
+c) பரிணாமம்
+d) தழுவல்
+
+Answer: b
+
+**Question 29**
+The genetic constitution of an organism is called its:
+a) Phenotype
+b) Genotype
+c) Karyotype
+d) Genome
+
+ஒரு உயிரினத்தின் மரபணு அமைப்பு இவ்வாறு அழைக்கப்படுகிறது:
+a) புறத்தோற்றம்
+b) மரபணு அமைப்பு
+c) காரியோடைப்
+d) மரபகராதி
+
+Answer: b
+
+**Question 30**
+The enzyme responsible for unwinding the DNA double helix during replication is:
+a) DNA Polymerase
+b) Ligase
+c) Helicase
+d) Primase
+
+டி.என்.ஏ இரட்டித்தலின் போது டி.என்.ஏ இரட்டை சுருளை பிரிப்பதற்கு காரணமான நொதி:
+a) டி.என்.ஏ பாலிமரேஸ்
+b) லைகேஸ்
+c) ஹெலிகேஸ்
+d) ப்ரைமேஸ்
+
+Answer: c
+
+**Question 31**
+In humans, the sex of the child is determined by:
+a) The mother's X chromosome
+b) The father's Y chromosome
+c) The mother's mitochondrial DNA
+d) The number of autosomes
+
+மனிதர்களில், குழந்தையின் பாலினம் எதனால் தீர்மானிக்கப்படுகிறது?
+a) தாயின் X குரோமோசோம்
+b) தந்தையின் Y குரோமோசோம்
+c) தாயின் மைட்டோகாண்ட்ரியல் டி.என்.ஏ
+d) ஆட்டோசோம்களின் எண்ணிக்கை
+
+Answer: b
+
+**Question 32**
+The sugar present in RNA is:
+a) Deoxyribose
+b) Ribose
+c) Glucose
+d) Fructose
+
+ஆர்.என்.ஏ-வில் உள்ள சர்க்கரை:
+a) டீஆக்சிரிபோஸ்
+b) ரிபோஸ்
+c) குளுக்கோஸ்
+d) பிரக்டோஸ்
+
+Answer: b
+
+**Question 33**
+A monohybrid cross involves:
+a) One gene
+b) Two genes
+c) Multiple genes
+d) No genes
+
+ஒரு மரபணு கலப்பு (Monohybrid cross) எதை உள்ளடக்கியது?
+a) ஒரு மரபணு
+b) இரண்டு மரபணுக்கள்
+c) பல மரபணுக்கள்
+d) மரபணுக்கள் இல்லை
+
+Answer: a
+
+**Question 34**
+Which of the following represents a recessive allele?
+a) T
+b) t
+c) TT
+d) Tt
+
+பின்வருவனவற்றில் எது ஒரு ஒடுங்கு அல்லீலைக் குறிக்கிறது?
+a) T
+b) t
+c) TT
+d) Tt
+
+Answer: b
+
+**Question 35**
+The process of protein synthesis is called:
+a) Transcription
+b) Translation
+c) Replication
+d) Mutation
+
+புரதத் தொகுப்பு செயல்முறை இவ்வாறு அழைக்கப்படுகிறது:
+a) படியெடுத்தல்
+b) மொழிபெயர்த்தல்
+c) இரட்டித்தல்
+d) சடுதிமாற்றம்
+
+Answer: b
+
+**Question 36**
+Down syndrome is an example of:
+a) Gene mutation
+b) Monosomy
+c) Trisomy
+d) Polyploidy
+
+டவுன் சிண்ட்ரோம் எதற்கு ஒரு எடுத்துக்காட்டு?
+a) மரபணு சடுதிமாற்றம்
+b) மோனோசோமி
+c) டிரைசோமி
+d) பாலிப்ளோயிடி
+
+Answer: c
+
+**Question 37**
+The term "gene" was coined by:
+a) Gregor Mendel
+b) T.H. Morgan
+c) Wilhelm Johannsen
+d) Hugo de Vries
+
+"மரபணு" என்ற சொல்லை உருவாக்கியவர்:
+a) கிரிகோர் மெண்டல்
+b) டி.ஹெச். மோர்கன்
+c) வில்ஹெல்ம் ஜோஹன்சன்
+d) ஹியூகோ டி விரிஸ்
+
+Answer: c
+
+**Question 38**
+Which type of RNA carries amino acids to the ribosome during protein synthesis?
+a) mRNA (messenger RNA)
+b) tRNA (transfer RNA)
+c) rRNA (ribosomal RNA)
+d) snRNA (small nuclear RNA)
+
+புரதத் தொகுப்பின் போது எந்த வகை ஆர்.என்.ஏ அமினோ அமிலங்களை ரிபோசோமிற்கு கொண்டு செல்கிறது?
+a) mRNA (தூது ஆர்.என்.ஏ)
+b) tRNA (கடத்து ஆர்.என்.ஏ)
+c) rRNA (ரிபோசோம் ஆர்.என்.ஏ)
+d) snRNA (சிறிய அணுக்கரு ஆர்.என்.ஏ)
+
+Answer: b
+
+**Question 39**
+The phenomenon where a single gene influences multiple phenotypic traits is called:
+a) Pleiotropy
+b) Polygenic inheritance
+c) Co-dominance
+d) Incomplete dominance
+
+ஒரு ஒற்றை மரபணு பல புறத்தோற்றப் பண்புகளை பாதிக்கும் நிகழ்வு இவ்வாறு அழைக்கப்படுகிறது:
+a) பிளியோட்ரோபி
+b) பல மரபணு பாரம்பரியம்
+c) இணை ஓங்குத்தன்மை
+d) முழுமையற்ற ஓங்குத்தன்மை
+
+Answer: a
+
+**Question 40**
+What is the phenotypic ratio of a dihybrid cross in F2 generation if the parents are heterozygous for two traits?
+a) 3:1
+b) 1:2:1
+c) 9:3:3:1
+d) 1:1:1:1
+
+பெற்றோர்கள் இரண்டு பண்புகளுக்கு பல்லினத்தன்மை உடையவர்களாக இருந்தால், F2 தலைமுறையில் இருபண்பு கலப்பின் புறத்தோற்ற விகிதம் என்ன?
+a) 3:1
+b) 1:2:1
+c) 9:3:3:1
+d) 1:1:1:1
+
+Answer: c
+
+**Question 41**
+The exchange of genetic material between non-sister chromatids of homologous chromosomes during meiosis is called:
+a) Linkage
+b) Crossing over
+c) Mutation
+d) Segregation
+
+ஒத்த குரோமோசோம்களின் சகோதரி அல்லாத குரோமாடிட்களுக்கு இடையில் மயோசிஸின் போது மரபணுப் பொருள் பரிமாற்றம் இவ்வாறு அழைக்கப்படுகிறது:
+a) இணைப்பு
+b) குறுக்கெதிர் மாற்றம்
+c) சடுதிமாற்றம்
+d) பிரிதல்
+
+Answer: b
+
+**Question 42**
+A human male has the sex chromosome combination:
+a) XX
+b) XY
+c) XO
+d) YY
+
+ஒரு மனித ஆணின் பால் குரோமோசோம் கலவை:
+a) XX
+b) XY
+c) XO
+d) YY
+
+Answer: b
+
+**Question 43**
+Which blood group is known as the "universal donor"?
+a) A
+b) B
+c) AB
+d) O
+
+எந்த இரத்த வகை "அனைவருக்கும் வழங்கும் தাতা" (universal donor) என்று அழைக்கப்படுகிறது?
+a) A
+b) B
+c) AB
+d) O
+
+Answer: d
+
+**Question 44**
+The genetic disorder sickle cell anemia is caused by a mutation in the gene for:
+a) Insulin
+b) Hemoglobin
+c) Growth hormone
+d) Thyroxine
+
+அரிவாள் செல் இரத்த சோகை என்ற மரபணு கோளாறு எந்த மரபணுவின் சடுதிமாற்றத்தால் ஏற்படுகிறது?
+a) இன்சுலின்
+b) ஹீமோகுளோபின்
+c) வளர்ச்சி ஹார்மோன்
+d) தைராக்சின்
+
+Answer: b
+
+**Question 45**
+The technique used to make multiple copies of a DNA segment is:
+a) Gel electrophoresis
+b) PCR (Polymerase Chain Reaction)
+c) DNA fingerprinting
+d) Gene therapy
+
+ஒரு டி.என்.ஏ பகுதியின் பல பிரதிகளை உருவாக்கப் பயன்படுத்தப்படும் நுட்பம்:
+a) ஜெல் எலக்ட்ரோபோரேசிஸ்
+b) பி.சி.ஆர் (பாலிமரேஸ் சங்கிலி வினை)
+c) டி.என்.ஏ கைரேகை பதிவு
+d) மரபணு சிகிச்சை
+
+Answer: b
+
+**Question 46**
+The Human Genome Project aimed to:
+a) Create new human genes
+b) Map and sequence the entire human genome
+c) Cure all genetic diseases
+d) Develop genetically modified humans
+
+மனித மரபகராதி திட்டம் (Human Genome Project) எதை நோக்கமாகக் கொண்டது?
+a) புதிய மனித மரபணுக்களை உருவாக்குதல்
+b) முழு மனித மரபகராதியை வரைபடமாக்குதல் மற்றும் வரிசைப்படுத்துதல்
+c) அனைத்து மரபணு நோய்களையும் குணப்படுத்துதல்
+d) மரபணு மாற்றப்பட்ட மனிதர்களை உருவாக்குதல்
+
+Answer: b
+
+**Question 47**
+In a DNA molecule, adenine (A) always pairs with:
+a) Guanine (G)
+b) Cytosine (C)
+c) Thymine (T)
+d) Uracil (U)
+
+ஒரு டி.என்.ஏ மூலக்கூறில், அடினைன் (A) எப்போதும் எதனுடன் இணைகிறது?
+a) குவானைன் (G)
+b) சைட்டோசின் (C)
+c) தைமின் (T)
+d) யுராசில் (U)
+
+Answer: c
+
+**Question 48**
+The structure in a cell that contains the genetic material is the:
+a) Mitochondria
+b) Ribosome
+c) Nucleus
+d) Endoplasmic reticulum
+
+செல்லில் மரபணுப் பொருளைக் கொண்டிருக்கும் அமைப்பு:
+a) மைட்டோகாண்ட்ரியா
+b) ரிபோசோம்
+c) உட்கரு
+d) எண்டோபிளாச வலைப்பின்னல்
+
+Answer: c
+
+**Question 49**
+Turner Syndrome is characterized by the chromosomal constitution:
+a) XXY
+b) XYY
+c) XO
+d) XXX
+
+டர்னர் சிண்ட்ரோம் எந்த குரோமோசோம் அமைப்பால் வகைப்படுத்தப்படுகிறது?
+a) XXY
+b) XYY
+c) XO
+d) XXX
+
+Answer: c
+
+**Question 50**
+The study of heredity and variation is called:
+a) Cytology
+b) Physiology
+c) Genetics
+d) Ecology
+
+பாரம்பரியம் மற்றும் மாறுபாடுகளின் ஆய்வு இவ்வாறு அழைக்கப்படுகிறது:
+a) செல் உயிரியல்
+b) உடலியல்
+c) மரபியல்
+d) சூழலியல்
+
+Answer: c

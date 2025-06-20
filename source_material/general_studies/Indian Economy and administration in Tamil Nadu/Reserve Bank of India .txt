@@ -1,0 +1,482 @@
+Reserve Bank of India (RBI) - TNPSC Group 4 MCQs
+--------------------------------------------------
+
+1. When was the Reserve Bank of India established?
+இந்திய ரிசர்வ் வங்கி எப்போது நிறுவப்பட்டது?
+a) 1st April 1935
+b) 15th August 1947
+c) 26th January 1950
+d) 1st April 1955
+Answer: a
+
+2. The Reserve Bank of India was established on the recommendation of which commission?
+எந்த ஆணையத்தின் பரிந்துரையின் பேரில் இந்திய ரிசர்வ் வங்கி நிறுவப்பட்டது?
+a) Simon Commission / சைமன் ஆணையம்
+b) Hilton Young Commission / ஹில்டன் யங் ஆணையம்
+c) Hunter Commission / ஹண்டர் ஆணையம்
+d) Sargent Commission / சார்ஜென்ட் ஆணையம்
+Answer: b
+
+3. When was the Reserve Bank of India nationalised?
+இந்திய ரிசர்வ் வங்கி எப்போது தேசியமயமாக்கப்பட்டது?
+a) 1935
+b) 1947
+c) 1949
+d) 1950
+Answer: c
+
+4. Where is the headquarters of the Reserve Bank of India located?
+இந்திய ரிசர்வ் வங்கியின் தலைமையகம் எங்கு அமைந்துள்ளது?
+a) New Delhi / புது டெல்லி
+b) Mumbai / மும்பை
+c) Kolkata / கொல்கத்தா
+d) Chennai / சென்னை
+Answer: b
+
+5. Where was the initial headquarters of the RBI before it was moved to Mumbai?
+மும்பைக்கு மாற்றப்படுவதற்கு முன்பு ரிசர்வ் வங்கியின் ஆரம்ப தலைமையகம் எங்கு இருந்தது?
+a) Delhi / டெல்லி
+b) Chennai / சென்னை
+c) Kolkata / கொல்கத்தா
+d) Bangalore / பெங்களூரு
+Answer: c
+
+6. Who appoints the Governor of the Reserve Bank of India?
+இந்திய ரிசர்வ் வங்கியின் ஆளுநரை நியமிப்பது யார்?
+a) President of India / இந்தியக் குடியரசுத் தலைவர்
+b) Prime Minister of India / இந்தியப் பிரதமர்
+c) Finance Minister / நிதி அமைச்சர்
+d) Central Government / மத்திய அரசு
+Answer: d
+
+7. Who was the first Governor of the Reserve Bank of India?
+இந்திய ரிசர்வ் வங்கியின் முதல் ஆளுநர் யார்?
+a) C. D. Deshmukh / சி. டி. தேஷ்முக்
+b) James Braid Taylor / ஜேம்ஸ் பிரெய்ட் டெய்லர்
+c) Sir Osborne Smith / சர் ஆஸ்போர்ன் ஸ்மித்
+d) L. K. Jha / எல். கே. ஜா
+Answer: c
+
+8. Who was the first Indian Governor of the Reserve Bank of India?
+இந்திய ரிசர்வ் வங்கியின் முதல் இந்திய ஆளுநர் யார்?
+a) Sir Osborne Smith / சர் ஆஸ்போர்ன் ஸ்மித்
+b) C. D. Deshmukh / சி. டி. தேஷ்முக்
+c) Benegal Rama Rau / பெனகல் ராமா ராவ்
+d) I. G. Patel / ஐ. ஜி. படேல்
+Answer: b
+
+9. Which institution is responsible for issuing currency notes in India (except the one-rupee note)?
+இந்தியாவில் (ஒரு ரூபாய் நோட்டைத் தவிர) ரூபாய் நோட்டுகளை வெளியிடும் பொறுப்பு எந்த நிறுவனத்திற்கு உள்ளது?
+a) Ministry of Finance / நிதி அமைச்சகம்
+b) State Bank of India / பாரத ஸ்டேட் வங்கி
+c) Reserve Bank of India / இந்திய ரிசர்வ் வங்கி
+d) President of India / இந்தியக் குடியரசுத் தலைவர்
+Answer: c
+
+10. Who signs the one-rupee note in India?
+இந்தியாவில் ஒரு ரூபாய் நோட்டில் யார் கையெழுத்திடுகிறார்?
+a) RBI Governor / ரிசர்வ் வங்கி ஆளுநர்
+b) Prime Minister / பிரதமர்
+c) Finance Secretary / நிதிச் செயலாளர்
+d) President of India / இந்தியக் குடியரசுத் தலைவர்
+Answer: c
+
+11. Which of the following is known as the 'Banker's Bank'?
+பின்வருவனவற்றில் 'வங்கிகளின் வங்கி' என்று அழைக்கப்படுவது எது?
+a) State Bank of India / பாரத ஸ்டேட் வங்கி
+b) NABARD / நபார்டு
+c) Central Bank of India / சென்ட்ரல் பேங்க் ஆஃப் இந்தியா
+d) Reserve Bank of India / இந்திய ரிசர்வ் வங்கி
+Answer: d
+
+12. The function of RBI as the 'lender of last resort' means:
+'கடைசி புகலிடக் கடன் வழங்குபவர்' என்ற ரிசர்வ் வங்கியின் செயல்பாட்டின் பொருள் என்ன?
+a) It provides loans to the public directly / இது பொதுமக்களுக்கு நேரடியாக கடன் வழங்குகிறது
+b) It provides loans to commercial banks in times of crisis / இது நெருக்கடி காலங்களில் வணிக வங்கிகளுக்கு கடன் வழங்குகிறது
+c) It provides loans to the government / இது அரசாங்கத்திற்கு கடன் வழங்குகிறது
+d) It lends to foreign countries / இது வெளிநாடுகளுக்கு கடன் வழங்குகிறது
+Answer: b
+
+13. Who is responsible for formulating the monetary policy in India?
+இந்தியாவில் பணவியல் கொள்கையை வகுக்கும் பொறுப்பு யாருக்கு உள்ளது?
+a) Parliament of India / இந்திய நாடாளுமன்றம்
+b) Ministry of Finance / நிதி அமைச்சகம்
+c) NITI Aayog / நிதி ஆயோக்
+d) Reserve Bank of India / இந்திய ரிசர்வ் வங்கி
+Answer: d
+
+14. What are the animal and tree depicted on the logo of the Reserve Bank of India?
+இந்திய ரிசர்வ் வங்கியின் சின்னத்தில் சித்தரிக்கப்பட்டுள்ள விலங்கு மற்றும் மரம் யாவை?
+a) Tiger and Banyan Tree / புலி மற்றும் ஆலமரம்
+b) Lion and Peepal Tree / சிங்கம் மற்றும் அரசமரம்
+c) Panther and Palm Tree / சிறுத்தை மற்றும் பனை மரம்
+d) Elephant and Neem Tree / யானை மற்றும் வேப்பமரம்
+Answer: c
+
+15. What is the accounting year of the Reserve Bank of India?
+இந்திய ரிசர்வ் வங்கியின் கணக்கு ஆண்டு எது?
+a) 1st January to 31st December / ஜனவரி 1 முதல் டிசம்பர் 31 வரை
+b) 1st July to 30th June / ஜூலை 1 முதல் ஜூன் 30 வரை
+c) 1st April to 31st March / ஏப்ரல் 1 முதல் மார்ச் 31 வரை
+d) 1st October to 30th September / அக்டோபர் 1 முதல் செப்டம்பர் 30 வரை
+Answer: c
+
+16. What does CRR stand for in the context of banking?
+வங்கித் துறையில் CRR என்பதன் விரிவாக்கம் என்ன?
+a) Cash Reserve Ratio / ரொக்க இருப்பு விகிதம்
+b) Credit Reserve Ratio / கடன் இருப்பு விகிதம்
+c) Capital Reserve Ratio / மூலதன இருப்பு விகிதம்
+d) Current Reserve Ratio / நடப்பு இருப்பு விகிதம்
+Answer: a
+
+17. What is the full form of SLR as used by RBI?
+ரிசர்வ் வங்கியால் பயன்படுத்தப்படும் SLR என்பதன் முழு வடிவம் என்ன?
+a) Standard Liquidity Ratio / நிலையான நீர்மைத்தன்மை விகிதம்
+b) Statutory Liquidity Ratio / சட்டப்பூர்வ நீர்மைத்தன்மை விகிதம்
+c) Simple Liquidity Ratio / எளிய நீர்மைத்தன்மை விகிதம்
+d) State Level Ratio / மாநில அளவிலான விகிதம்
+Answer: b
+
+18. The rate at which RBI lends money to commercial banks is known as:
+ரிசர்வ் வங்கி வணிக வங்கிகளுக்கு குறுகிய கால கடன் வழங்கும் வட்டி விகிதம் எவ்வாறு அழைக்கப்படுகிறது?
+a) Bank Rate / வங்கி விகிதம்
+b) Repo Rate / ரெப்போ விகிதம்
+c) Reverse Repo Rate / ரிவர்ஸ் ரெப்போ விகிதம்
+d) Prime Lending Rate / முதன்மை கடன் விகிதம்
+Answer: b
+
+19. The rate at which RBI borrows money from commercial banks is known as:
+ரிசர்வ் வங்கி வணிக வங்கிகளிடமிருந்து கடன் பெறும் வட்டி விகிதம் எவ்வாறு அழைக்கப்படுகிறது?
+a) Repo Rate / ரெப்போ விகிதம்
+b) Bank Rate / வங்கி விகிதம்
+c) Statutory Rate / சட்டப்பூர்வ விகிதம்
+d) Reverse Repo Rate / ரிவர்ஸ் ரெப்போ விகிதம்
+Answer: d
+
+20. To control inflation in the economy, what action does the RBI typically take?
+பொருளாதாரத்தில் பணவீக்கத்தைக் கட்டுப்படுத்த, ரிசர்வ் வங்கி பொதுவாக என்ன நடவடிக்கை எடுக்கிறது?
+a) It decreases the Repo Rate / இது ரெப்போ விகிதத்தைக் குறைக்கிறது
+b) It increases the Repo Rate / இது ரெப்போ விகிதத்தை அதிகரிக்கிறது
+c) It buys government securities / இது அரசாங்கப் பத்திரங்களை வாங்குகிறது
+d) It reduces the SLR / இது SLR-ஐ குறைக்கிறது
+Answer: b
+
+21. The RBI acts as the 'Banker to the Government'. What does this mean?
+ரிசர்வ் வங்கி 'அரசாங்கத்தின் வங்கியாளராக' செயல்படுகிறது. இதன் பொருள் என்ன?
+a) It prints money for the government / இது அரசாங்கத்திற்காக பணம் அச்சிடுகிறது
+b) It manages the government's banking transactions / இது அரசாங்கத்தின் வங்கிப் பரிவர்த்தனைகளை நிர்வகிக்கிறது
+c) It gives unlimited loans to the government / இது அரசாங்கத்திற்கு வரம்பற்ற கடன் வழங்குகிறது
+d) It formulates the national budget / இது தேசிய பட்ஜெட்டை உருவாக்குகிறது
+Answer: b
+
+22. Which act related to foreign exchange management is administered by the RBI?
+அந்நியச் செலாவணி மேலாண்மை தொடர்பான எந்தச் சட்டத்தை ரிசர்வ் வங்கி நிர்வகிக்கிறது?
+a) FERA / ஃபெரா
+b) FEMA / ஃபெமா
+c) PMLA / பி.எம்.எல்.ஏ
+d) SEBI Act / செபி சட்டம்
+Answer: b
+
+23. How many members are there in the Monetary Policy Committee (MPC) of the RBI?
+ரிசர்வ் வங்கியின் பணவியல் கொள்கைக் குழுவில் (MPC) எத்தனை உறுப்பினர்கள் உள்ளனர்?
+a) 4
+b) 5
+c) 6
+d) 8
+Answer: c
+
+24. Who is the ex-officio Chairperson of the Monetary Policy Committee (MPC)?
+பணவியல் கொள்கைக் குழுவின் (MPC) பதவிவழித் தலைவர் யார்?
+a) Finance Minister / நிதி அமைச்சர்
+b) Prime Minister / பிரதமர்
+c) RBI Governor / ரிசர்வ் வங்கி ஆளுநர்
+d) Chief Economic Advisor / தலைமைப் பொருளாதார ஆலோசகர்
+Answer: c
+
+25. The Reserve Bank of India was established under which act?
+எந்தச் சட்டத்தின் கீழ் இந்திய ரிசர்வ் வங்கி நிறுவப்பட்டது?
+a) Banking Regulation Act, 1949 / வங்கி ஒழுங்குமுறைச் சட்டம், 1949
+b) Companies Act, 1956 / நிறுவனங்கள் சட்டம், 1956
+c) Reserve Bank of India Act, 1934 / இந்திய ரிசர்வ் வங்கிச் சட்டம், 1934
+d) Indian Constitution / இந்திய அரசியலமைப்பு
+Answer: c
+
+26. What is the primary purpose of Currency Chests maintained by the RBI?
+ரிசர்வ் வங்கியால் பராமரிக்கப்படும் கரன்சி செஸ்ட்களின் (Currency Chests) முதன்மை நோக்கம் என்ன?
+a) To store gold reserves / தங்க இருப்புகளை சேமிக்க
+b) To store old, unusable notes / பழைய, பயன்படுத்த முடியாத நோட்டுகளை சேமிக்க
+c) To distribute notes and coins to banks / வங்கிகளுக்கு நோட்டுகள் மற்றும் நாணயங்களை விநியோகிக்க
+d) To store foreign currency / வெளிநாட்டு நாணயங்களை சேமிக்க
+Answer: c
+
+27. As per the RBI Act, 1934, what is the maximum denomination of a banknote that the RBI can issue?
+ரிசர்வ் வங்கி சட்டம், 1934-ன்படி, ரிசர்வ் வங்கியால் வெளியிடக்கூடிய ஒரு ரூபாய் நோட்டின் அதிகபட்ச மதிப்பு என்ன?
+a) ₹1,000
+b) ₹2,000
+c) ₹5,000
+d) ₹10,000
+Answer: d
+
+28. Which of the following is a fully owned subsidiary of the Reserve Bank of India?
+பின்வருவனவற்றில் எது இந்திய ரிசர்வ் வங்கியின் முழுமையான துணை நிறுவனமாகும்?
+a) State Bank of India (SBI) / பாரத ஸ்டேட் வங்கி (SBI)
+b) National Housing Bank (NHB) / தேசிய வீட்டுவசதி வங்கி (NHB)
+c) Deposit Insurance and Credit Guarantee Corporation (DICGC) / வைப்பு காப்பீடு மற்றும் கடன் உத்தரவாதக் கழகம் (DICGC)
+d) Securities and Exchange Board of India (SEBI) / இந்தியப் பத்திரங்கள் மற்றும் பரிவர்த்தனை வாரியம் (SEBI)
+Answer: c
+
+29. The buying and selling of government securities by the RBI in the open market is known as:
+ரிசர்வ் வங்கி, வெளிச்சந்தையில் அரசாங்கப் பத்திரங்களை வாங்குவதும் விற்பதும் எவ்வாறு அழைக்கப்படுகிறது?
+a) Repo transactions / ரெப்போ பரிவர்த்தனைகள்
+b) Open Market Operations (OMO) / வெளிச்சந்தை செயல்பாடுகள் (OMO)
+c) Credit control / கடன் கட்டுப்பாடு
+d) Fiscal policy / நிதிக் கொள்கை
+Answer: b
+
+30. Which of the following is an instrument of qualitative credit control by the RBI?
+பின்வருவனவற்றில் எது ரிசர்வ் வங்கியின் பண்புசார் கடன் கட்டுப்பாட்டுக் கருவியாகும்?
+a) Bank Rate / வங்கி விகிதம்
+b) Cash Reserve Ratio (CRR) / ரொக்க இருப்பு விகிதம் (CRR)
+c) Moral Suasion / நெறிமுறை தூண்டல்
+d) Statutory Liquidity Ratio (SLR) / சட்டப்பூர்வ நீர்மைத்தன்மை விகிதம் (SLR)
+Answer: c
+
+31. The Bank Rate is the rate at which RBI provides long-term loans to:
+வங்கி விகிதம் என்பது ரிசர்வ் வங்கி யாருக்கு நீண்ட காலக் கடன்களை வழங்கும் விகிதமாகும்?
+a) The Public / பொதுமக்கள்
+b) Central Government / மத்திய அரசு
+c) Commercial Banks / வணிக வங்கிகள்
+d) Industrial Sector / தொழில் துறை
+Answer: c
+
+32. Besides commercial banks, RBI also regulates which other financial institutions?
+வணிக வங்கிகளைத் தவிர, ரிசர்வ் வங்கி வேறு எந்த நிதி நிறுவனங்களையும் ஒழுங்குபடுத்துகிறது?
+a) Stock Exchanges / பங்குச் சந்தைகள்
+b) Insurance Companies / காப்பீட்டு நிறுவனங்கள்
+c) Non-Banking Financial Companies (NBFCs) / வங்கி அல்லாத நிதி நிறுவனங்கள் (NBFCs)
+d) Post Offices / தபால் நிலையங்கள்
+Answer: c
+
+33. The decision for demonetisation in India is formally taken by:
+இந்தியாவில் பணமதிப்பிழப்பு நடவடிக்கைக்கான முடிவு முறையாக யாரால் எடுக்கப்படுகிறது?
+a) RBI Board alone / ரிசர்வ் வங்கி வாரியம் மட்டும்
+b) Central Government on the recommendation of the RBI Board / ரிசர்வ் வங்கி வாரியத்தின் பரிந்துரையின் பேரில் மத்திய அரசு
+c) President of India / இந்தியக் குடியரசுத் தலைவர்
+d) Finance Minister alone / நிதி அமைச்சர் மட்டும்
+Answer: b
+
+34. What is the typical tenure of the Governor of the RBI?
+ரிசர்வ் வங்கி ஆளுநரின் வழக்கமான பதவிக்காலம் என்ன?
+a) 2 years / 2 ஆண்டுகள்
+b) 3 years / 3 ஆண்டுகள்
+c) 5 years / 5 ஆண்டுகள்
+d) 6 years / 6 ஆண்டுகள்
+Answer: b
+
+35. What is the maximum number of Deputy Governors the RBI can have?
+ரிசர்வ் வங்கியில் அதிகபட்சமாக எத்தனை துணை ஆளுநர்கள் இருக்க முடியும்?
+a) 2
+b) 3
+c) 4
+d) 5
+Answer: c
+
+36. The minting of coins in India is governed by which Act?
+இந்தியாவில் நாணயங்கள் அச்சடிப்பது எந்தச் சட்டத்தின் கீழ் நிர்வகிக்கப்படுகிறது?
+a) RBI Act, 1934 / ரிசர்வ் வங்கி சட்டம், 1934
+b) Banking Regulation Act, 1949 / வங்கி ஒழுங்குமுறைச் சட்டம், 1949
+c) Coinage Act, 2011 / நாணயங்கள் சட்டம், 2011
+d) Finance Act / நிதிச் சட்டம்
+Answer: c
+
+37. Currency notes issued by RBI are a liability of:
+ரிசர்வ் வங்கியால் வெளியிடப்படும் ரூபாய் நோட்டுகள் யாருடைய பொறுப்பாகும்?
+a) The concerned commercial bank / சம்பந்தப்பட்ட வணிக வங்கி
+b) The Government of India / இந்திய அரசு
+c) The Reserve Bank of India / இந்திய ரிசர்வ் வங்கி
+d) The State Governments / மாநில அரசுகள்
+Answer: c
+
+38. Who is the custodian of India's foreign exchange reserves?
+இந்தியாவின் அந்நியச் செலாவணி கையிருப்பின் பாதுகாவலர் யார்?
+a) Ministry of Finance / நிதி அமைச்சகம்
+b) State Bank of India / பாரத ஸ்டேட் வங்கி
+c) Export-Import Bank of India / இந்திய ஏற்றுமதி-இறக்குமதி வங்கி
+d) Reserve Bank of India / இந்திய ரிசர்வ் வங்கி
+Answer: d
+
+39. What does 'MSF' stand for in the context of RBI's policy rates?
+ரிசர்வ் வங்கியின் கொள்கை விகிதங்களின் பின்னணியில் 'MSF' என்பதன் விரிவாக்கம் என்ன?
+a) Marginal Standing Facility / இறுதிநிலை வசதி
+b) Maximum Standing Fund / அதிகபட்ச நிலை நிதி
+c) Minimum Support Facility / குறைந்தபட்ச ஆதரவு வசதி
+d) Monetary Support Fund / பண ஆதரவு நிதி
+Answer: a
+
+40. The primary objective of RBI's monetary policy is to maintain price stability while keeping in mind the objective of:
+ரிசர்வ் வங்கியின் பணவியல் கொள்கையின் முதன்மை நோக்கம், எந்த நோக்கத்தைக் கருத்தில் கொண்டு விலை நிலைத்தன்மையைப் பராமரிப்பதாகும்?
+a) Growth / வளர்ச்சி
+b) Employment / வேலைவாய்ப்பு
+c) Exports / ஏற்றுமதி
+d) Foreign investment / வெளிநாட்டு முதலீடு
+Answer: a
+
+41. Apart from Hindi and English, how many other official languages are printed on an Indian banknote?
+இந்தி மற்றும் ஆங்கிலம் தவிர, ஒரு இந்திய ரூபாய் நோட்டில் வேறு எத்தனை அதிகாரப்பூர்வ மொழிகள் அச்சிடப்பட்டுள்ளன?
+a) 12
+b) 15
+c) 17
+d) 22
+Answer: b
+
+42. RBI's developmental role includes promoting institutions to cater to the credit needs of which sector?
+ரிசர்வ் வங்கியின் மேம்பாட்டுப் பங்கில், எந்தத் துறையின் கடன் தேவைகளைப் பூர்த்தி செய்வதற்கான நிறுவனங்களை மேம்படுத்துவது அடங்கும்?
+a) Heavy industry / கனரகத் தொழில்
+b) Information Technology / தகவல் தொழில்நுட்பம்
+c) Agriculture and rural sector / வேளாண்மை மற்றும் கிராமப்புறத் துறை
+d) Urban real estate / நகர்ப்புற நிலம் மற்றும் மனை வணிகம்
+Answer: c
+
+43. Where is the RBI Monetary Museum located?
+ரிசர்வ் வங்கியின் பண அருங்காட்சியகம் எங்கு அமைந்துள்ளது?
+a) New Delhi / புது டெல்லி
+b) Mumbai / மும்பை
+c) Kolkata / கொல்கத்தா
+d) Chennai / சென்னை
+Answer: b
+
+44. Which system for large value electronic fund transfers is operated by the RBI?
+பெரிய மதிப்புள்ள மின்னணு நிதிப் பரிமாற்றங்களுக்கான எந்த முறையை ரிசர்வ் வங்கி இயக்குகிறது?
+a) NEFT / நெஃப்ட்
+b) RTGS / ஆர்டிஜிஎஸ்
+c) IMPS / ஐஎம்பிஎஸ்
+d) UPI / யுபிஐ
+Answer: b
+
+45. If RBI wants to increase the money supply in the economy, what will it do?
+ரிசர்வ் வங்கி பொருளாதாரத்தில் பண விநியோகத்தை அதிகரிக்க விரும்பினால், அது என்ன செய்யும்?
+a) Increase the CRR / CRR-ஐ அதிகரிக்கும்
+b) Sell government securities / அரசாங்கப் பத்திரங்களை விற்கும்
+c) Buy government securities / அரசாங்கப் பத்திரங்களை வாங்கும்
+d) Increase the Bank Rate / வங்கி விகிதத்தை அதிகரிக்கும்
+Answer: c
+
+46. Who is the current owner of the Reserve Bank of India?
+இந்திய ரிசர்வ் வங்கியின் தற்போதைய உரிமையாளர் யார்?
+a) A group of private shareholders / தனியார் பங்குதாரர்களின் குழு
+b) A consortium of commercial banks / வணிக வங்கிகளின் கூட்டமைப்பு
+c) The Government of India / இந்திய அரசு
+d) The World Bank / உலக வங்கி
+Answer: c
+
+47. The RBI has local boards in how many regions of India?
+ரிசர்வ் வங்கி இந்தியாவின் எத்தனை பிராந்தியங்களில் உள்ளூர் வாரியங்களைக் கொண்டுள்ளது?
+a) 2
+b) 4
+c) 6
+d) 8
+Answer: b
+
+48. Whose signature is found on Indian currency notes of denomination ₹2 and above?
+₹2 மற்றும் அதற்கு மேற்பட்ட மதிப்புள்ள இந்திய ரூபாய் நோட்டுகளில் யாருடைய கையொப்பம் காணப்படுகிறது?
+a) President of India / இந்தியக் குடியரசுத் தலைவர்
+b) Finance Minister / நிதி அமைச்சர்
+c) Finance Secretary / நிதிச் செயலாளர்
+d) RBI Governor / ரிசர்வ் வங்கி ஆளுநர்
+Answer: d
+
+49. At which of the following locations are Indian currency notes NOT printed?
+பின்வரும் எந்த இடத்தில் இந்திய ரூபாய் நோட்டுகள் அச்சிடப்படுவதில்லை?
+a) Nashik / நாசிக்
+b) Dewas / தேவாஸ்
+c) Mysuru / மைசூரு
+d) Noida / நொய்டா
+Answer: d
+
+50. The RBI represents the Government of India in which international financial institution?
+எந்த சர்வதேச நிதி நிறுவனத்தில் ரிசர்வ் வங்கி இந்திய அரசாங்கத்தைப் பிரதிநிதித்துவப்படுத்துகிறது?
+a) World Trade Organization (WTO) / உலக வர்த்தக அமைப்பு (WTO)
+b) International Monetary Fund (IMF) / பன்னாட்டு நிதியம் (IMF)
+c) Asian Development Bank (ADB) / ஆசிய வளர்ச்சி வங்கி (ADB)
+d) United Nations (UN) / ஐக்கிய நாடுகள் சபை (UN)
+Answer: b
+
+51. The general superintendence and direction of the RBI's affairs are entrusted to the:
+ரிசர்வ் வங்கியின் விவகாரங்களின் பொதுவான மேற்பார்வையும் வழிகாட்டுதலும் யாரிடம் ஒப்படைக்கப்பட்டுள்ளது?
+a) Governor / ஆளுநர்
+b) Monetary Policy Committee / பணவியல் கொள்கைக் குழு
+c) Central Board of Directors / மத்திய இயக்குநர்கள் வாரியம்
+d) Ministry of Finance / நிதி அமைச்சகம்
+Answer: c
+
+52. What is the inflation target set for the RBI by the Government of India, with a tolerance band?
+இந்திய அரசால் ரிசர்வ் வங்கிக்கு நிர்ணயிக்கப்பட்ட பணவீக்க இலக்கு, சகிப்புத்தன்மை வரம்புடன் என்ன?
+a) 2% (+/- 2%)
+b) 4% (+/- 2%)
+c) 6% (+/- 2%)
+d) 5% (+/- 1%)
+Answer: b
+
+53. What does RBI do with soiled and mutilated banknotes?
+அழுக்கடைந்த மற்றும் சிதைந்த ரூபாய் நோட்டுகளை ரிசர்வ் வங்கி என்ன செய்கிறது?
+a) Recirculates them / அவற்றை மீண்டும் புழக்கத்தில் விடுகிறது
+b) Sells them to collectors / அவற்றை சேகரிப்பாளர்களுக்கு விற்கிறது
+c) Destroys them and replaces them with new ones / அவற்றை அழித்து புதிய நோட்டுகளால் மாற்றுகிறது
+d) Archives them in a museum / அவற்றை அருங்காட்சியகத்தில் சேமிக்கிறது
+Answer: c
+
+54. What does NEFT, a payment system, stand for?
+ஒரு கட்டண முறையான NEFT என்பதன் விரிவாக்கம் என்ன?
+a) National Electronic Funds Transfer / தேசிய மின்னணு நிதிப் பரிமாற்றம்
+b) New Electronic Financial Transaction / புதிய மின்னணு நிதிப் பரிவர்த்தனை
+c) National E-cash Funds Transaction / தேசிய மின்-ரொக்க நிதி பரிவர்த்தனை
+d) Non-stop Electronic Funds Transfer / இடைவிடாத மின்னணு நிதிப் பரிமாற்றம்
+Answer: a
+
+55. Who was the longest-serving Governor of the RBI?
+ரிசர்வ் வங்கியின் மிக நீண்ட காலம் பணியாற்றிய ஆளுநர் யார்?
+a) C. D. Deshmukh / சி. டி. தேஷ்முக்
+b) L. K. Jha / எல். கே. ஜா
+c) Sir Benegal Rama Rau / சர் பெனகல் ராமா ராவ்
+d) I. G. Patel / ஐ. ஜி. படேல்
+Answer: c
+
+56. How does RBI manage the public debt of the Central Government?
+மத்திய அரசின் பொதுக் கடனை ரிசர்வ் வங்கி எவ்வாறு நிர்வகிக்கிறது?
+a) By printing new money / புதிய பணத்தை அச்சிடுவதன் மூலம்
+b) By issuing and managing government bonds and securities / அரசாங்கப் பத்திரங்கள் மற்றும் கடன் பத்திரங்களை வெளியிட்டு நிர்வகிப்பதன் மூலம்
+c) By taking loans from the World Bank / உலக வங்கியிலிருந்து கடன் பெறுவதன் மூலம்
+d) By increasing taxes on the public / பொதுமக்கள் மீதான வரிகளை அதிகரிப்பதன் மூலம்
+Answer: b
+
+57. At which of the following places are coins minted in India?
+இந்தியாவில் பின்வரும் எந்த இடத்தில் நாணயங்கள் அச்சடிக்கப்படுகின்றன?
+a) Nashik / நாசிக்
+b) Mysuru / மைசூரு
+c) Kolkata / கொல்கத்தா
+d) Dewas / தேவாஸ்
+Answer: c
+
+58. Which of the following is an initiative by RBI to promote financial inclusion?
+பின்வருவனவற்றில் நிதி உள்ளடக்கத்தை மேம்படுத்துவதற்கான ரிசர்வ் வங்கியின் முயற்சி எது?
+a) Setting up more stock exchanges / அதிக பங்குச் சந்தைகளை அமைத்தல்
+b) Encouraging high-value transactions only / அதிக மதிப்புள்ள பரிவர்த்தனைகளை மட்டும் ஊக்குவித்தல்
+c) Promoting Basic Savings Bank Deposit Accounts / அடிப்படை சேமிப்பு வங்கி வைப்பு கணக்குகளை ஊக்குவித்தல்
+d) Increasing the number of foreign banks / வெளிநாட்டு வங்கிகளின் எண்ணிக்கையை அதிகரித்தல்
+Answer: c
+
+59. Which of the following is a major annual publication of the RBI?
+பின்வருவனவற்றில் எது ரிசர்வ் வங்கியின் முக்கிய ஆண்டு வெளியீடு ஆகும்?
+a) Economic Survey / பொருளாதார ஆய்வறிக்கை
+b) Union Budget / மத்திய பட்ஜெட்
+c) Report on Currency and Finance / நாணயம் மற்றும் நிதி அறிக்கை
+d) National Accounts Statistics / தேசிய கணக்குகள் புள்ளிவிவரம்
+Answer: c
+
+60. RBI is the regulator for which of the following entities that maintain credit information of borrowers?
+கடன் வாங்குபவர்களின் கடன் தகவல்களைப் பராமரிக்கும் பின்வரும் எந்த நிறுவனங்களுக்கு ரிசர்வ் வங்கி ஒழுங்குமுறையாளராக உள்ளது?
+a) Stock Exchanges / பங்குச் சந்தைகள்
+b) Insurance Companies / காப்பீட்டு நிறுவனங்கள்
+c) Credit Information Companies (like CIBIL) / கடன் தகவல் நிறுவனங்கள் (சிபில் போன்றவை)
+d) Mutual Funds / பரஸ்பர நிதிகள்
+Answer: c

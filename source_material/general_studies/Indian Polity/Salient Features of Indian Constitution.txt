@@ -1,0 +1,905 @@
+Salient Features of Indian Constitution - MCQs
+இந்திய அரசியலமைப்பின் முக்கிய அம்சங்கள் - பலவுள் தெரிக வினாக்கள்
+---
+
+Identify the Wrongly Matched Pair Questions (தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியும் வினாக்கள்)
+
+1.  English: Identify the wrongly matched pair regarding the sources of the Indian Constitution:
+    a) Parliamentary government - UK
+    b) Fundamental Rights - USA
+    c) Directive Principles - Canada
+    d) Concurrent List - Australia
+    Tamil: இந்திய அரசியலமைப்பின் மூலங்கள் தொடர்பாக தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) நாடாளுமன்ற அரசாங்கம் - இங்கிலாந்து
+    b) அடிப்படை உரிமைகள் - அமெரிக்கா
+    c) வழிகாட்டு நெறிமுறைகள் - கனடா
+    d) பொதுப் பட்டியல் - ஆஸ்திரேலியா
+    Answer: c (Corrected match: Directive Principles - Ireland / வழிகாட்டு நெறிமுறைகள் - அயர்லாந்து)
+
+2.  English: Identify the wrongly matched pair concerning parts of the Indian Constitution:
+    a) Part III - Fundamental Rights
+    b) Part IV - Directive Principles of State Policy
+    c) Part IV-A - Fundamental Duties
+    d) Part V - The Union Executive and The States
+    Tamil: இந்திய அரசியலமைப்பின் பகுதிகள் தொடர்பாக தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) பகுதி III - அடிப்படை உரிமைகள்
+    b) பகுதி IV - மாநிலக் கொள்கையின் வழிகாட்டு நெறிமுறைகள்
+    c) பகுதி IV-A - அடிப்படைக் கடமைகள்
+    d) பகுதி V - மத்திய நிர்வாகம் மற்றும் மாநிலங்கள்
+    Answer: d (Corrected match: Part V - The Union; Part VI - The States / பகுதி V - ஒன்றியம்; பகுதி VI - மாநிலங்கள்)
+
+3.  English: Identify the wrongly matched pair regarding features and their nature:
+    a) Single Citizenship - Unitary feature
+    b) Written Constitution - Federal feature
+    c) Emergency Provisions - Unitary feature
+    d) Supremacy of Constitution - Unitary feature
+    Tamil: அம்சங்கள் மற்றும் அவற்றின் தன்மை தொடர்பாக தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) ஒற்றைக் குடியுரிமை - ஒற்றையாட்சி அம்சம்
+    b) எழுதப்பட்ட அரசியலமைப்பு - கூட்டாட்சி அம்சம்
+    c) அவசரகால விதிகள் - ஒற்றையாட்சி அம்சம்
+    d) அரசியலமைப்பின் மேலாதிக்கம் - ஒற்றையாட்சி அம்சம்
+    Answer: d (Corrected match: Supremacy of Constitution - Federal feature / அரசியலமைப்பின் மேலாதிக்கம் - கூட்டாட்சி அம்சம்)
+
+4.  English: Identify the wrongly matched pair concerning amendments to the Constitution:
+    a) Simple Majority - Admission of new states
+    b) Special Majority - Fundamental Rights amendment
+    c) Special Majority + Ratification by States - Election of President
+    d) Basic Structure - Can be amended by Parliament alone
+    Tamil: அரசியலமைப்புத் திருத்தங்கள் தொடர்பாக தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) எளிய பெரும்பான்மை - புதிய மாநிலங்களைச் சேர்த்தல்
+    b) சிறப்புப் பெரும்பான்மை - அடிப்படை உரிமைகள் திருத்தம்
+    c) சிறப்புப் பெரும்பான்மை + மாநிலங்களின் ஒப்புதல் - குடியரசுத் தலைவர் தேர்தல்
+    d) அடிப்படை கட்டமைப்பு - நாடாளுமன்றத்தால் மட்டுமே திருத்த முடியும்
+    Answer: d (Corrected match: Basic Structure - Cannot be destroyed by amendment / அடிப்படை கட்டமைப்பு - திருத்தத்தின் மூலம் அழிக்கப்பட முடியாது)
+
+5.  English: Identify the wrongly matched pair related to key terms in the Preamble:
+    a) Sovereign - Independent authority
+    b) Socialist - Commitment to democratic socialism
+    c) Secular - State patronizes one religion
+    d) Republic - Head of state is elected
+    Tamil: முகவுரையில் உள்ள முக்கிய சொற்கள் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) இறையாண்மை - சுதந்திரமான அதிகாரம்
+    b) சமதர்ம - ஜனநாயக சமதர்மத்திற்கான அர்ப்பணிப்பு
+    c) மதச்சார்பற்ற - அரசு ஒரு மதத்தை ஆதரிக்கிறது
+    d) குடியரசு - நாட்டுத் தலைவர் தேர்ந்தெடுக்கப்படுகிறார்
+    Answer: c (Corrected match: Secular - State is neutral towards all religions / மதச்சார்பற்ற - அரசு அனைத்து மதங்களுக்கும் நடுநிலையானது)
+
+6.  English: Identify the wrongly matched pair concerning different types of government institutions:
+    a) Lok Sabha - Lower House of Parliament
+    b) Rajya Sabha - Council of States
+    c) NITI Aayog - Constitutional Body
+    d) Election Commission - Independent Constitutional Body
+    Tamil: பல்வேறு வகையான அரசாங்க நிறுவனங்கள் தொடர்பாக தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) மக்களவை - நாடாளுமன்றத்தின் கீழவை
+    b) மாநிலங்களவை - மாநிலங்கள் அவை
+    c) நிதி ஆயோக் - அரசியலமைப்பு அமைப்பு
+    d) தேர்தல் ஆணையம் - சுதந்திரமான அரசியலமைப்பு அமைப்பு
+    Answer: c (Corrected match: NITI Aayog - Non-constitutional/Extra-constitutional body / நிதி ஆயோக் - அரசியலமைப்பு சாரா அமைப்பு)
+
+---
+Match the Following Questions (பொருத்துக வினாக்கள்)
+
+7.  English:
+    Match List-I with List-II:
+    List-I (Feature)
+    1.  Rule of Law
+    2.  Judicial Review
+    3.  Procedure Established by Law
+    4.  Suspension of Fundamental Rights during Emergency
+
+    List-II (Source Country)
+    a.  USA
+    b.  Japan
+    c.  Germany (Weimar Constitution)
+    d.  UK
+
+    Options:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-a, 4-b
+    D) 1-b, 2-a, 3-d, 4-c
+
+    Tamil:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (அம்சம்)
+    1.  சட்டத்தின் ஆட்சி
+    2.  நீதித்துறை ஆய்வு
+    3.  சட்டத்தால் நிறுவப்பட்ட நடைமுறை
+    4.  அவசரகாலத்தில் அடிப்படை உரிமைகளை நிறுத்தி வைத்தல்
+
+    பட்டியல்-II (மூல நாடு)
+    a.  அமெரிக்கா
+    b.  ஜப்பான்
+    c.  ஜெர்மனி (வெய்மர் அரசியலமைப்பு)
+    d.  இங்கிலாந்து
+
+    விருப்பங்கள்:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-a, 4-b
+    D) 1-b, 2-a, 3-d, 4-c
+    Answer: A
+
+8.  English:
+    Match List-I with List-II:
+    List-I (Part of Constitution)
+    1.  Part II
+    2.  Part IX
+    3.  Part XV
+    4.  Part XVIII
+
+    List-II (Subject Matter)
+    a.  Elections
+    b.  Emergency Provisions
+    c.  Citizenship
+    d.  The Panchayats
+
+    Options:
+    A) 1-c, 2-d, 3-a, 4-b
+    B) 1-d, 2-c, 3-b, 4-a
+    C) 1-c, 2-a, 3-d, 4-b
+    D) 1-a, 2-b, 3-c, 4-d
+
+    Tamil:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (அரசியலமைப்பின் பகுதி)
+    1.  பகுதி II
+    2.  பகுதி IX
+    3.  பகுதி XV
+    4.  பகுதி XVIII
+
+    பட்டியல்-II (பொருள்)
+    a.  தேர்தல்கள்
+    b.  அவசரகால விதிகள்
+    c.  குடியுரிமை
+    d.  பஞ்சாயத்துகள்
+
+    விருப்பங்கள்:
+    A) 1-c, 2-d, 3-a, 4-b
+    B) 1-d, 2-c, 3-b, 4-a
+    C) 1-c, 2-a, 3-d, 4-b
+    D) 1-a, 2-b, 3-c, 4-d
+    Answer: A
+
+9.  English:
+    Match List-I with List-II:
+    List-I (Constitutional Feature)
+    1.  Federalism
+    2.  Single Citizenship
+    3.  Fundamental Duties
+    4.  Amending Power of Parliament
+
+    List-II (Characteristic/Source)
+    a.  Unitary Feature
+    b.  Borrowed from USSR
+    c.  Article 368
+    d.  Division of Powers
+
+    Options:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-a, 2-b, 3-d, 4-c
+    C) 1-d, 2-c, 3-a, 4-b
+    D) 1-b, 2-d, 3-c, 4-a
+
+    Tamil:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (அரசியலமைப்பு அம்சம்)
+    1.  கூட்டாட்சி
+    2.  ஒற்றைக் குடியுரிமை
+    3.  அடிப்படைக் கடமைகள்
+    4.  நாடாளுமன்றத்தின் திருத்த அதிகாரம்
+
+    பட்டியல்-II (பண்பு/மூலம்)
+    a.  ஒற்றையாட்சி அம்சம்
+    b.  சோவியத் யூனியனிடமிருந்து பெறப்பட்டது
+    c.  சரத்து 368
+    d.  அதிகாரப் பகிர்வு
+
+    விருப்பங்கள்:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-a, 2-b, 3-d, 4-c
+    C) 1-d, 2-c, 3-a, 4-b
+    D) 1-b, 2-d, 3-c, 4-a
+    Answer: A
+
+10. English:
+    Match List-I with List-II:
+    List-I (Concept)
+    1.  Universal Adult Franchise
+    2.  Three-tier Government
+    3.  Secularism
+    4.  Parliamentary Sovereignty
+
+    List-II (Related Amendment/Feature)
+    a.  73rd & 74th Amendments
+    b.  No official state religion
+    c.  Feature of UK Constitution (partially adopted)
+    d.  Right to Vote (Art 326)
+
+    Options:
+    A) 1-c, 2-b, 3-a, 4-d
+    B) 1-d, 2-a, 3-b, 4-c
+    C) 1-a, 2-d, 3-c, 4-b
+    D) 1-b, 2-c, 3-d, 4-a
+
+    Tamil:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (கருத்து)
+    1.  வயது வந்தோர் வாக்குரிமை
+    2.  மூன்றடுக்கு அரசாங்கம்
+    3.  மதச்சார்பின்மை
+    4.  நாடாளுமன்ற இறையாண்மை
+
+    பட்டியல்-II (தொடர்புடைய திருத்தம்/அம்சம்)
+    a.  73வது & 74வது திருத்தங்கள்
+    b.  அதிகாரப்பூர்வ மாநில மதம் இல்லை
+    c.  இங்கிலாந்து அரசியலமைப்பின் அம்சம் (பகுதியாக ஏற்றுக்கொள்ளப்பட்டது)
+    d.  வாக்குரிமை (சரத்து 326)
+
+    விருப்பங்கள்:
+    A) 1-c, 2-b, 3-a, 4-d
+    B) 1-d, 2-a, 3-b, 4-c
+    C) 1-a, 2-d, 3-c, 4-b
+    D) 1-b, 2-c, 3-d, 4-a
+    Answer: B
+
+11. English:
+    Match List-I with List-II regarding types of Amendments:
+    List-I (Type of Amendment)
+    1.  Amendment by Simple Majority
+    2.  Amendment by Special Majority
+    3.  Amendment by Special Majority and Ratification by half of the states
+    4.  Unamendable part (Basic Structure)
+
+    List-II (Example Provision)
+    a.  Fundamental Rights
+    b.  Representation of states in Parliament
+    c.  Judicial Review (as part of Basic Structure)
+    d.  Formation of new states
+
+    Options:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-a, 4-b
+    D) 1-b, 2-a, 3-d, 4-c
+
+    Tamil:
+    திருத்தங்களின் வகைகள் தொடர்பான பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (திருத்த வகை)
+    1.  எளிய பெரும்பான்மையால் திருத்தம்
+    2.  சிறப்புப் பெரும்பான்மையால் திருத்தம்
+    3.  சிறப்புப் பெரும்பான்மை மற்றும் பாதி மாநிலங்களின் ஒப்புதலுடன் திருத்தம்
+    4.  திருத்த முடியாத பகுதி (அடிப்படை கட்டமைப்பு)
+
+    பட்டியல்-II (உதாரண விதி)
+    a.  அடிப்படை உரிமைகள்
+    b.  நாடாளுமன்றத்தில் மாநிலங்களின் பிரதிநிதித்துவம்
+    c.  நீதித்துறை ஆய்வு (அடிப்படை கட்டமைப்பின் பகுதியாக)
+    d.  புதிய மாநிலங்களை உருவாக்குதல்
+
+    விருப்பங்கள்:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-a, 4-b
+    D) 1-b, 2-a, 3-d, 4-c
+    Answer: A
+
+12. English:
+    Match List-I (Words in Preamble) with List-II (Their Meaning):
+    List-I
+    1.  Sovereign
+    2.  Socialist
+    3.  Secular
+    4.  Democratic
+
+    List-II
+    a.  Government by the people
+    b.  State has no religion of its own
+    c.  Wealth generated socially, shared equitably
+    d.  India is an independent state
+
+    Options:
+    A) 1-d, 2-c, 3-b, 4-a
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-a, 3-c, 4-b
+    D) 1-b, 2-d, 3-a, 4-c
+
+    Tamil:
+    பட்டியல்-I (முகவுரையில் உள்ள சொற்கள்) ஐ பட்டியல்-II (அவற்றின் பொருள்) உடன் பொருத்துக:
+    பட்டியல்-I
+    1.  இறையாண்மை
+    2.  சமதர்ம
+    3.  மதச்சார்பற்ற
+    4.  ஜனநாயக
+
+    பட்டியல்-II
+    a.  மக்களால் ஆன அரசாங்கம்
+    b.  அரசுக்கு தனக்கென மதம் இல்லை
+    c.  சமூக ரீதியாக உருவாக்கப்பட்டு, சமமாகப் பகிரப்படும் செல்வம்
+    d.  இந்தியா ஒரு சுதந்திரமான நாடு
+
+    விருப்பங்கள்:
+    A) 1-d, 2-c, 3-b, 4-a
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-a, 3-c, 4-b
+    D) 1-b, 2-d, 3-a, 4-c
+    Answer: A
+
+---
+Standard Multiple Choice Questions (சீரான பலவுள் தெரிக வினாக்கள்)
+
+13. English: The Indian Constitution is known as the lengthiest written constitution in the world primarily because:
+    a) It borrowed provisions from several countries.
+    b) It incorporates detailed administrative provisions.
+    c) It deals with the constitution of both the Centre and the states.
+    d) All of the above.
+    Tamil: இந்திய அரசியலமைப்பு உலகின் மிக நீண்ட எழுதப்பட்ட அரசியலமைப்பாக அறியப்படுகிறது, ஏனெனில்:
+    a) இது பல நாடுகளிலிருந்து விதிகளை கடன் வாங்கியுள்ளது.
+    b) இது விரிவான நிர்வாக விதிகளை உள்ளடக்கியது.
+    c) இது மையம் மற்றும் மாநிலங்கள் இரண்டின் அரசியலமைப்பையும் கையாள்கிறது.
+    d) மேற்கூறிய அனைத்தும்.
+    Answer: d
+
+14. English: The concept of 'Directive Principles of State Policy' in the Indian Constitution has been adopted from the Constitution of:
+    a) Ireland
+    b) USA
+    c) UK
+    d) Canada
+    Tamil: இந்திய அரசியலமைப்பில் உள்ள 'அரசின் வழிகாட்டு நெறிமுறைகள்' என்ற கருத்து எந்த நாட்டின் அரசியலமைப்பிலிருந்து ஏற்றுக்கொள்ளப்பட்டது?
+    a) அயர்லாந்து
+    b) அமெரிக்கா
+    c) இங்கிலாந்து
+    d) கனடா
+    Answer: a
+
+15. English: Which feature of the Indian Constitution signifies that it is a blend of rigidity and flexibility?
+    a) The process of amendment
+    b) The division of powers
+    c) The independent judiciary
+    d) The parliamentary system
+    Tamil: இந்திய அரசியலமைப்பின் எந்த அம்சம் அது கடினத்தன்மை மற்றும் நெகிழ்வுத்தன்மையின் கலவை என்பதைக் குறிக்கிறது?
+    a) திருத்தச் செயல்முறை
+    b) அதிகாரப் பகிர்வு
+    c) சுதந்திரமான நீதித்துறை
+    d) நாடாளுமன்ற அமைப்பு
+    Answer: a
+
+16. English: The Indian Constitution establishes a federal system with a strong unitary bias. Which of the following is a unitary feature?
+    a) Division of powers
+    b) Written Constitution
+    c) Single Citizenship
+    d) Independent Judiciary
+    Tamil: இந்திய அரசியலமைப்பு ஒரு வலுவான ஒற்றையாட்சி சார்புடன் கூடிய கூட்டாட்சி முறையை நிறுவுகிறது. பின்வருவனவற்றில் எது ஒற்றையாட்சி அம்சம்?
+    a) அதிகாரப் பகிர்வு
+    b) எழுதப்பட்ட அரசியலமைப்பு
+    c) ஒற்றைக் குடியுரிமை
+    d) சுதந்திரமான நீதித்துறை
+    Answer: c
+
+17. English: The Parliamentary form of government in India is characterized by:
+    a) Separation of powers between executive and legislature
+    b) Collective responsibility of the executive to the legislature
+    c) Presidential form of head of state
+    d) A directly elected executive
+    Tamil: இந்தியாவில் நாடாளுமன்ற முறை அரசாங்கம் எதனால் வகைப்படுத்தப்படுகிறது?
+    a) நிர்வாகத்துறைக்கும் சட்டமன்றத்திற்கும் இடையே அதிகாரப் பிரிவினை
+    b) சட்டமன்றத்திற்கு நிர்வாகத்துறையின் கூட்டுப் பொறுப்பு
+    c) குடியரசுத் தலைவர் முறையிலான நாட்டுத் தலைவர்
+    d) நேரடியாக தேர்ந்தெடுக்கப்பட்ட நிர்வாகத்துறை
+    Answer: b
+
+18. English: The Indian Constitution ensures an 'Integrated and Independent Judiciary'. What does 'Integrated Judiciary' mean?
+    a) Judiciary is free from executive and legislative control.
+    b) A single system of courts enforces both central and state laws.
+    c) Judges are appointed by the President.
+    d) The Supreme Court is the highest court of appeal.
+    Tamil: இந்திய அரசியலமைப்பு 'ஒருங்கிணைந்த மற்றும் சுதந்திரமான நீதித்துறையை' உறுதி செய்கிறது. 'ஒருங்கிணைந்த நீதித்துறை' என்பதன் பொருள் என்ன?
+    a) நீதித்துறை நிர்வாகம் மற்றும் சட்டமன்றக் கட்டுப்பாட்டிலிருந்து விடுபட்டது.
+    b) ஒற்றை நீதிமன்ற அமைப்பு மத்திய மற்றும் மாநில சட்டங்களை அமல்படுத்துகிறது.
+    c) நீதிபதிகள் குடியரசுத் தலைவரால் நியமிக்கப்படுகிறார்கள்.
+    d) உச்ச நீதிமன்றம் மேல்முறையீட்டுக்கான மிக உயர்ந்த நீதிமன்றமாகும்.
+    Answer: b
+
+19. English: Fundamental Rights in the Indian Constitution are enshrined in:
+    a) Part II
+    b) Part III
+    c) Part IV
+    d) Part IV-A
+    Tamil: இந்திய அரசியலமைப்பில் அடிப்படை உரிமைகள் எங்கு பொறிக்கப்பட்டுள்ளன?
+    a) பகுதி II
+    b) பகுதி III
+    c) பகுதி IV
+    d) பகுதி IV-A
+    Answer: b
+
+20. English: Which part of the Indian Constitution deals with Fundamental Duties?
+    a) Part III
+    b) Part IV
+    c) Part IV-A
+    d) Part V
+    Tamil: இந்திய அரசியலமைப்பின் எந்தப் பகுதி அடிப்படைக் கடமைகளைக் கையாள்கிறது?
+    a) பகுதி III
+    b) பகுதி IV
+    c) பகுதி IV-A
+    d) பகுதி V
+    Answer: c
+
+21. English: The Indian Constitution declares India as a 'Secular State'. This means:
+    a) The State has its own religion.
+    b) The State promotes one particular religion.
+    c) The State treats all religions equally and does not uphold any religion as state religion.
+    d) Religious practices are banned.
+    Tamil: இந்திய அரசியலமைப்பு இந்தியாவை 'மதச்சார்பற்ற அரசு' என்று அறிவிக்கிறது. இதன் பொருள்:
+    a) அரசுக்கு নিজস্ব மதம் உண்டு.
+    b) அரசு ஒரு குறிப்பிட்ட மதத்தை ஊக்குவிக்கிறது.
+    c) அரசு அனைத்து மதங்களையும் சமமாக நடத்துகிறது மற்றும் எந்த மதத்தையும் அரசு மதமாக ஏற்கவில்லை.
+    d) மத நடைமுறைகள் தடை செய்யப்பட்டுள்ளன.
+    Answer: c
+
+22. English: Universal Adult Franchise in India means that all adult citizens have the right to vote without any discrimination. The current voting age is:
+    a) 21 years
+    b) 18 years
+    c) 25 years
+    d) 16 years
+    Tamil: இந்தியாவில் வயது வந்தோர் வாக்குரிமை என்பது அனைத்து வயது வந்த குடிமக்களும் எந்த பாகுபாடுமின்றி வாக்களிக்கும் உரிமை உடையவர்கள் என்பதாகும். தற்போதைய வாக்களிக்கும் வயது:
+    a) 21 ஆண்டுகள்
+    b) 18 ஆண்டுகள்
+    c) 25 ஆண்டுகள்
+    d) 16 ஆண்டுகள்
+    Answer: b
+
+23. English: Single Citizenship, a feature of the Indian Constitution, means:
+    a) Citizens can only vote in their state of domicile.
+    b) All citizens enjoy the same political and civil rights throughout India.
+    c) Citizens cannot acquire citizenship of another country.
+    d) Only one member of a family can be a citizen.
+    Tamil: இந்திய அரசியலமைப்பின் ஒரு அம்சமான ஒற்றைக் குடியுரிமை என்பதன் பொருள்:
+    a) குடிமக்கள் தங்கள் வசிப்பிட மாநிலத்தில் மட்டுமே வாக்களிக்க முடியும்.
+    b) அனைத்து குடிமக்களும் இந்தியா முழுவதும் ஒரே அரசியல் மற்றும் குடிமை உரிமைகளைப் பெறுகிறார்கள்.
+    c) குடிமக்கள் மற்றொரு நாட்டின் குடியுரிமையைப் பெற முடியாது.
+    d) ஒரு குடும்பத்தில் ஒரு உறுப்பினர் மட்டுமே குடிமகனாக இருக்க முடியும்.
+    Answer: b
+
+24. English: Which Article of the Indian Constitution deals with Emergency Provisions related to National Emergency?
+    a) Article 352
+    b) Article 356
+    c) Article 360
+    d) Article 368
+    Tamil: இந்திய அரசியலமைப்பின் எந்த சரத்து தேசிய அவசரநிலை தொடர்பான அவசரகால விதிகளுடன் தொடர்புடையது?
+    a) சரத்து 352
+    b) சரத்து 356
+    c) சரத்து 360
+    d) சரத்து 368
+    Answer: a
+
+25. English: The 73rd and 74th Constitutional Amendment Acts added which feature to the Indian Constitution?
+    a) Fundamental Duties
+    b) Three-tier government (Panchayati Raj and Municipalities)
+    c) Cooperative Societies
+    d) Emergency Provisions
+    Tamil: 73வது மற்றும் 74வது அரசியலமைப்புத் திருத்தச் சட்டங்கள் இந்திய அரசியலமைப்பில் எந்த அம்சத்தைச் சேர்த்தன?
+    a) அடிப்படைக் கடமைகள்
+    b) மூன்றடுக்கு அரசாங்கம் (பஞ்சாயத்து ராஜ் மற்றும் நகராட்சிகள்)
+    c) கூட்டுறவு சங்கங்கள்
+    d) அவசரகால விதிகள்
+    Answer: b
+
+26. English: The concept of 'Cooperative Societies' was given constitutional status by which amendment?
+    a) 42nd Amendment
+    b) 44th Amendment
+    c) 97th Amendment
+    d) 73rd Amendment
+    Tamil: 'கூட்டுறவு சங்கங்கள்' என்ற கருத்து எந்தத் திருத்தத்தின் மூலம் அரசியலமைப்பு அந்தஸ்தைப் பெற்றது?
+    a) 42வது திருத்தம்
+    b) 44வது திருத்தம்
+    c) 97வது திருத்தம்
+    d) 73வது திருத்தம்
+    Answer: c
+
+27. English: Which of the following is NOT a salient feature of the Indian Constitution?
+    a) Presidential form of Government
+    b) Parliamentary form of Government
+    c) Federal system with unitary bias
+    d) Independent Judiciary
+    Tamil: பின்வருவனவற்றில் எது இந்திய அரசியலமைப்பின் முக்கிய அம்சம் அல்ல?
+    a) குடியரசுத் தலைவர் முறை அரசாங்கம்
+    b) நாடாளுமன்ற முறை அரசாங்கம்
+    c) ஒற்றையாட்சி சார்புடன் கூடிய கூட்டாட்சி அமைப்பு
+    d) சுதந்திரமான நீதித்துறை
+    Answer: a
+
+28. English: The Preamble to the Indian Constitution is based on the:
+    a) Government of India Act, 1935
+    b) Objectives Resolution moved by Jawaharlal Nehru
+    c) Mountbatten Plan
+    d) Simon Commission Report
+    Tamil: இந்திய அரசியலமைப்பின் முகவுரை எதன் அடிப்படையில் அமைந்துள்ளது?
+    a) இந்திய அரசுச் சட்டம், 1935
+    b) ஜவஹர்லால் நேருவால் முன்மொழியப்பட்ட குறிக்கோள்கள் தீர்மானம்
+    c) மவுண்ட்பேட்டன் திட்டம்
+    d) சைமன் ஆணைய அறிக்கை
+    Answer: b
+
+29. English: The term 'Socialist' was added to the Preamble of the Indian Constitution by which amendment?
+    a) 44th Amendment
+    b) 42nd Amendment
+    c) 24th Amendment
+    d) 1st Amendment
+    Tamil: 'சமதர்ம' என்ற சொல் இந்திய அரசியலமைப்பின் முகவுரையில் எந்தத் திருத்தத்தின் மூலம் சேர்க்கப்பட்டது?
+    a) 44வது திருத்தம்
+    b) 42வது திருத்தம்
+    c) 24வது திருத்தம்
+    d) 1வது திருத்தம்
+    Answer: b
+
+30. English: The Indian model of federalism is often described as:
+    a) Purely federal
+    b) Quasi-federal
+    c) Purely unitary
+    d) Confederation
+    Tamil: இந்திய கூட்டாட்சி மாதிரி பெரும்பாலும் எவ்வாறு விவரிக்கப்படுகிறது?
+    a) முற்றிலும் கூட்டாட்சி
+    b) அரை-கூட்டாட்சி (Quasi-federal)
+    c) முற்றிலும் ஒற்றையாட்சி
+    d) கூட்டமைப்பு (Confederation)
+    Answer: b
+
+31. English: The power of Judicial Review in India allows the judiciary to:
+    a) Review its own judgments.
+    b) Examine the constitutionality of legislative enactments and executive orders.
+    c) Advise the President on legal matters.
+    d) Control the lower courts.
+    Tamil: இந்தியாவில் நீதித்துறை ஆய்வின் அதிகாரம் நீதித்துறைக்கு எதை அனுமதிக்கிறது?
+    a) தனது சொந்த தீர்ப்புகளை மறுஆய்வு செய்ய.
+    b) சட்டமன்றச் சட்டங்கள் மற்றும் நிர்வாக உத்தரவுகளின் அரசியலமைப்புத் தன்மையை ஆய்வு செய்ய.
+    c) சட்ட விஷயங்களில் குடியரசுத் தலைவருக்கு ஆலோசனை வழங்க.
+    d) கீழ் நீதிமன்றங்களைக் கட்டுப்படுத்த.
+    Answer: b
+
+32. English: Fundamental Duties were incorporated into the Indian Constitution on the recommendation of:
+    a) Santhanam Committee
+    b) Swaran Singh Committee
+    c) Administrative Reforms Commission
+    d) Shah Commission
+    Tamil: யாருடைய பரிந்துரையின் பேரில் அடிப்படைக் கடமைகள் இந்திய அரசியலமைப்பில் இணைக்கப்பட்டன?
+    a) சந்தானம் குழு
+    b) ஸ்வரண் சிங் குழு
+    c) நிர்வாக சீர்திருத்த ஆணையம்
+    d) ஷா ஆணையம்
+    Answer: b
+
+33. English: The provision for 'Emergency' in the Indian Constitution reflects a:
+    a) Strong federal character
+    b) Strong unitary character during such times
+    c) Complete breakdown of constitutional machinery
+    d) Judicial takeover of administration
+    Tamil: இந்திய அரசியலமைப்பில் உள்ள 'அவசரகால' விதி எதைப் பிரதிபலிக்கிறது?
+    a) வலுவான கூட்டாட்சிப் பண்பு
+    b) அத்தகைய காலங்களில் வலுவான ஒற்றையாட்சிப் பண்பு
+    c) அரசியலமைப்பு இயந்திரத்தின் முழுமையான முறிவு
+    d) நிர்வாகத்தின் நீதித்துறை கையகப்படுத்தல்
+    Answer: b
+
+34. English: What makes the Indian Constitution a 'living document'?
+    a) Its length and detail.
+    b) The ability to amend it according to changing needs.
+    c) Its origin from various sources.
+    d) The presence of Fundamental Rights.
+    Tamil: இந்திய அரசியலமைப்பை 'வாழும் ஆவணம்' ஆக்குவது எது?
+    a) அதன் நீளம் மற்றும் விவரம்.
+    b) மாறும் தேவைகளுக்கு ஏற்ப அதைத் திருத்தும் திறன்.
+    c) பல்வேறு மூலங்களிலிருந்து அதன் தோற்றம்.
+    d) அடிப்படை உரிமைகள் இருப்பது.
+    Answer: b
+
+35. English: The feature of 'Parliamentary Sovereignty' in the Indian context is limited by:
+    a) The President's veto power
+    b) The power of Judicial Review
+    c) The federal structure
+    d) All of the above
+    Tamil: இந்திய சூழலில் 'நாடாளுமன்ற இறையாண்மை' என்ற அம்சம் எதனால் வரையறுக்கப்பட்டுள்ளது?
+    a) குடியரசுத் தலைவரின் வீட்டோ அதிகாரம்
+    b) நீதித்துறை ஆய்வின் அதிகாரம்
+    c) கூட்டாட்சி அமைப்பு
+    d) மேற்கூறிய அனைத்தும்
+    Answer: d
+
+36. English: Which of the following is a federal feature of the Indian Constitution?
+    a) All India Services
+    b) Emergency provisions
+    c) Bicameral legislature
+    d) Single Constitution for Union and States
+    Tamil: பின்வருவனவற்றில் எது இந்திய அரசியலமைப்பின் கூட்டாட்சி அம்சம்?
+    a) அகில இந்திய சேவைகள்
+    b) அவசரகால விதிகள்
+    c) ஈரவை சட்டமன்றம்
+    d) யூனியன் மற்றும் மாநிலங்களுக்கு ஒற்றை அரசியலமைப்பு
+    Answer: c
+
+37. English: The Directive Principles of State Policy are:
+    a) Justiciable in nature
+    b) Non-justiciable in nature
+    c) Partially justiciable
+    d) Enforceable by the Supreme Court directly
+    Tamil: மாநிலக் கொள்கையின் வழிகாட்டு நெறிமுறைகள்:
+    a) இயற்கையில் நீதிமன்றத்தால் செயல்படுத்தக்கூடியவை
+    b) இயற்கையில் நீதிமன்றத்தால் செயல்படுத்த முடியாதவை
+    c) பகுதியளவு நீதிமன்றத்தால் செயல்படுத்தக்கூடியவை
+    d) உச்ச நீதிமன்றத்தால் நேரடியாக அமல்படுத்தக்கூடியவை
+    Answer: b
+
+38. English: The idea of a 'Constituent Assembly' to frame the Constitution for India was first mooted by:
+    a) The Indian National Congress in 1934
+    b) M.N. Roy in 1934
+    c) The Muslim League in 1940
+    d) The Cripps Mission in 1942
+    Tamil: இந்தியாவிற்கான அரசியலமைப்பை உருவாக்க 'அரசியலமைப்பு நிர்ணய சபை' என்ற யோசனையை முதன்முதலில் முன்மொழிந்தவர்:
+    a) 1934ல் இந்திய தேசிய காங்கிரஸ்
+    b) 1934ல் எம்.என். ராய்
+    c) 1940ல் முஸ்லிம் லீக்
+    d) 1942ல் கிரிப்ஸ் தூதுக்குழு
+    Answer: b
+
+39. English: The Indian Constitution adopted the parliamentary system of government because:
+    a) It was familiar due to British rule.
+    b) It provides for greater accountability of the executive.
+    c) It avoids conflicts between the legislature and the executive.
+    d) All of the above.
+    Tamil: இந்திய அரசியலமைப்பு நாடாளுமன்ற முறை அரசாங்கத்தை ஏற்றுக்கொண்டது ஏனெனில்:
+    a) பிரிட்டிஷ் ஆட்சி காரணமாக அது பழக்கமானது.
+    b) இது நிர்வாகத்தின் அதிக பொறுப்புணர்வை வழங்குகிறது.
+    c) இது சட்டமன்றத்திற்கும் நிர்வாகத்திற்கும் இடையிலான மோதல்களைத் தவிர்க்கிறது.
+    d) மேற்கூறிய அனைத்தும்.
+    Answer: d
+
+40. English: Which schedule of the Indian Constitution deals with the division of powers between the Union and the States?
+    a) Fifth Schedule
+    b) Sixth Schedule
+    c) Seventh Schedule
+    d) Eighth Schedule
+    Tamil: இந்திய அரசியலமைப்பின் எந்த அட்டவணை யூனியனுக்கும் மாநிலங்களுக்கும் இடையிலான அதிகாரப் பகிர்வைக் கையாள்கிறது?
+    a) ஐந்தாவது அட்டவணை
+    b) ஆறாவது அட்டவணை
+    c) ஏழாவது அட்டவணை
+    d) எட்டாவது அட்டவணை
+    Answer: c
+
+41. English: The 'Basic Structure' doctrine of the Indian Constitution was propounded by the Supreme Court in which case?
+    a) Golaknath case
+    b) Kesavananda Bharati case
+    c) Minerva Mills case
+    d) S.R. Bommai case
+    Tamil: இந்திய அரசியலமைப்பின் 'அடிப்படை கட்டமைப்பு' கோட்பாடு எந்த வழக்கில் உச்ச நீதிமன்றத்தால் முன்மொழியப்பட்டது?
+    a) கோலக்நாத் வழக்கு
+    b) கேசவானந்த பாரதி வழக்கு
+    c) மினர்வா மில்ஸ் வழக்கு
+    d) எஸ்.ஆர். பொம்மை வழக்கு
+    Answer: b
+
+42. English: How many Fundamental Duties are mentioned in Part IV-A of the Indian Constitution currently?
+    a) 10
+    b) 11
+    c) 8
+    d) 12
+    Tamil: தற்போது இந்திய அரசியலமைப்பின் பகுதி IV-A இல் எத்தனை அடிப்படைக் கடமைகள் குறிப்பிடப்பட்டுள்ளன?
+    a) 10
+    b) 11
+    c) 8
+    d) 12
+    Answer: b
+
+43. English: The synthesis of Parliamentary Sovereignty and Judicial Supremacy is a unique feature of the Indian Constitution. Judicial Supremacy is reflected in:
+    a) Parliament's power to amend the Constitution.
+    b) The power of judicial review.
+    c) The Prime Minister being the real executive.
+    d) The President's power to promulgate ordinances.
+    Tamil: நாடாளுமன்ற இறையாண்மை மற்றும் நீதித்துறை மேலாதிக்கத்தின் தொகுப்பு இந்திய அரசியலமைப்பின் ஒரு தனித்துவமான அம்சமாகும். நீதித்துறை மேலாதிக்கம் எதில் பிரதிபலிக்கிறது?
+    a) அரசியலமைப்பைத் திருத்தும் நாடாளுமன்றத்தின் அதிகாரம்.
+    b) நீதித்துறை ஆய்வின் அதிகாரம்.
+    c) பிரதமர் உண்மையான நிர்வாகியாக இருப்பது.
+    d) அவசரச் சட்டங்களை பிறப்பிக்கும் குடியரசுத் தலைவரின் அதிகாரம்.
+    Answer: b
+
+44. English: The feature of 'Drawn from Various Sources' implies that the Indian Constitution is:
+    a) An original document with no external influence.
+    b) A patchwork of borrowed provisions without coherence.
+    c) A carefully drafted document adapting good provisions from other constitutions to Indian needs.
+    d) A replica of the Government of India Act, 1935.
+    Tamil: 'பல்வேறு மூலங்களிலிருந்து பெறப்பட்டது' என்ற அம்சம் இந்திய அரசியலமைப்பு என்பதைக் குறிக்கிறது:
+    a) வெளிப்புற செல்வாக்கு இல்லாத ஒரு அசல் ஆவணம்.
+    b) ஒத்திசைவு இல்லாத கடன் வாங்கப்பட்ட விதிகளின் ஒரு இணைப்பு.
+    c) இந்தியத் தேவைகளுக்கு ஏற்ப மற்ற அரசியலமைப்புகளிலிருந்து நல்ல விதிகளை மாற்றியமைத்து கவனமாக வடிவமைக்கப்பட்ட ஆவணம்.
+    d) இந்திய அரசுச் சட்டம், 1935 இன் பிரதி.
+    Answer: c
+
+45. English: The term 'Republic' in the Preamble of the Indian Constitution indicates:
+    a) India has a democratic form of government.
+    b) The head of the state is elected, not hereditary.
+    c) Political sovereignty rests with the people.
+    d) India is a secular state.
+    Tamil: இந்திய அரசியலமைப்பின் முகவுரையில் உள்ள 'குடியரசு' என்ற சொல் எதைக் குறிக்கிறது?
+    a) இந்தியா ஜனநாயக அரசாங்க வடிவத்தைக் கொண்டுள்ளது.
+    b) நாட்டுத் தலைவர் தேர்ந்தெடுக்கப்படுகிறார், பரம்பரையாக அல்ல.
+    c) அரசியல் இறையாண்மை மக்களிடம் உள்ளது.
+    d) இந்தியா ஒரு மதச்சார்பற்ற நாடு.
+    Answer: b
+
+46. English: Which of these is NOT a DPSP (Directive Principle of State Policy)?
+    a) To promote equal justice and to provide free legal aid.
+    b) To organize village panchayats.
+    c) To secure a uniform civil code.
+    d) To protect freedom of speech and expression.
+    Tamil: இவற்றில் எது மாநிலக் கொள்கையின் வழிகாட்டு நெறிமுறை (DPSP) அல்ல?
+    a) சம நீதியை ஊக்குவிக்கவும், இலவச சட்ட உதவி வழங்கவும்.
+    b) கிராம பஞ்சாயத்துக்களை அமைக்கவும்.
+    c) ஒரு சீரான குடிமைச் சட்டத்தைப் பாதுகாக்கவும்.
+    d) பேச்சு மற்றும் கருத்து சுதந்திரத்தைப் பாதுகாக்கவும்.
+    Answer: d (This is a Fundamental Right / இது ஒரு அடிப்படை உரிமை)
+
+47. English: The structural part of the Indian Constitution is, to a large extent, derived from:
+    a) The Constitution of the USA
+    b) The Constitution of Britain
+    c) The Government of India Act, 1935
+    d) The Constitution of Canada
+    Tamil: இந்திய அரசியலமைப்பின் கட்டமைப்புப் பகுதி பெரும்பாலும் எதிலிருந்து பெறப்பட்டது?
+    a) அமெரிக்க அரசியலமைப்பு
+    b) பிரிட்டன் அரசியலமைப்பு
+    c) இந்திய அரசுச் சட்டம், 1935
+    d) கனடா அரசியலமைப்பு
+    Answer: c
+
+48. English: The flexibility of the Indian Constitution is evident from:
+    a) The fact that some provisions can be amended by a simple majority of Parliament.
+    b) The rigid procedure for amending federal provisions.
+    c) The doctrine of basic structure.
+    d) The lengthy nature of the Constitution.
+    Tamil: இந்திய அரசியலமைப்பின் நெகிழ்வுத்தன்மை எதிலிருந்து தெளிவாகிறது?
+    a) சில விதிகளை நாடாளுமன்றத்தின் எளிய பெரும்பான்மையால் திருத்த முடியும் என்ற உண்மை.
+    b) கூட்டாட்சி விதிகளைத் திருத்துவதற்கான கடுமையான நடைமுறை.
+    c) அடிப்படை கட்டமைப்பு கோட்பாடு.
+    d) அரசியலமைப்பின் நீண்ட தன்மை.
+    Answer: a
+
+49. English: The inspiration for including Fundamental Duties in the Constitution came from the Constitution of:
+    a) USA
+    b) Former USSR
+    c) Ireland
+    d) Australia
+    Tamil: அரசியலமைப்பில் அடிப்படைக் கடமைகளைச் சேர்ப்பதற்கான உத்வேகம் எந்த நாட்டின் அரசியலமைப்பிலிருந்து வந்தது?
+    a) அமெரிக்கா
+    b) முன்னாள் சோவியத் யூனியன்
+    c) அயர்லாந்து
+    d) ஆஸ்திரேலியா
+    Answer: b
+
+50. English: Which feature ensures that the Indian state is impartial towards all religions?
+    a) Socialism
+    b) Secularism
+    c) Republicanism
+    d) Democracy
+    Tamil: இந்திய அரசு அனைத்து மதங்களுக்கும் பாரபட்சமற்றது என்பதை எந்த அம்சம் உறுதி செய்கிறது?
+    a) சமதர்மம்
+    b) மதச்சார்பின்மை
+    c) குடியரசுவாதம்
+    d) ஜனநாயகம்
+    Answer: b
+
+51. English: The provision of 'Single Citizenship' in India was adopted from the constitutional model of:
+    a) United States
+    b) United Kingdom
+    c) Canada
+    d) Australia
+    Tamil: இந்தியாவில் 'ஒற்றைக் குடியுரிமை' என்ற விதி எந்த நாட்டின் அரசியலமைப்பு மாதிரியிலிருந்து ஏற்றுக்கொள்ளப்பட்டது?
+    a) அமெரிக்கா
+    b) இங்கிலாந்து
+    c) கனடா
+    d) ஆஸ்திரேலியா
+    Answer: b
+
+52. English: The President of India is the nominal head, while the real executive power rests with the Prime Minister and Council of Ministers. This is a key aspect of:
+    a) Federal system
+    b) Parliamentary system
+    c) Presidential system
+    d) Unitary system
+    Tamil: இந்தியக் குடியரசுத் தலைவர் பெயரளவுத் தலைவராகவும், உண்மையான நிர்வாக அதிகாரம் பிரதமர் மற்றும் அமைச்சர்கள் குழுவிடம் உள்ளது. இது எதன் முக்கிய அம்சம்?
+    a) கூட்டாட்சி அமைப்பு
+    b) நாடாளுமன்ற அமைப்பு
+    c) குடியரசுத் தலைவர் அமைப்பு
+    d) ஒற்றையாட்சி அமைப்பு
+    Answer: b
+
+53. English: The Indian Constitution provides for an independent judiciary. Which of the following contributes to its independence?
+    a) Security of tenure for judges
+    b) Salaries of judges charged on the Consolidated Fund of India
+    c) Separation of judiciary from the executive
+    d) All of the above
+    Tamil: இந்திய அரசியலமைப்பு சுதந்திரமான நீதித்துறையை வழங்குகிறது. பின்வருவனவற்றில் எது அதன் சுதந்திரத்திற்கு பங்களிக்கிறது?
+    a) நீதிபதிகளுக்கான பதவிக் காலப் பாதுகாப்பு
+    b) நீதிபதிகளின் சம்பளம் இந்தியத் தொகுப்பு நிதியிலிருந்து வசூலிக்கப்படுதல்
+    c) நிர்வாகத்திலிருந்து நீதித்துறையைப் பிரித்தல்
+    d) மேற்கூறிய அனைத்தும்
+    Answer: d
+
+54. English: The concept of 'equality before law' is a feature borrowed primarily from:
+    a) American Constitution (Equal protection of laws)
+    b) British Constitution (Rule of Law)
+    c) Irish Constitution
+    d) Canadian Constitution
+    Tamil: 'சட்டத்தின் முன் சமத்துவம்' என்ற கருத்து முதன்மையாக எதிலிருந்து கடன் வாங்கப்பட்ட அம்சம்?
+    a) அமெரிக்க அரசியலமைப்பு (சட்டங்களின் சம பாதுகாப்பு)
+    b) பிரிட்டிஷ் அரசியலமைப்பு (சட்டத்தின் ஆட்சி)
+    c) ஐரிஷ் அரசியலமைப்பு
+    d) கனேடிய அரசியலமைப்பு
+    Answer: b
+
+55. English: Which Amendment Act is often called the 'Mini-Constitution' due to the large number of changes it brought to the Indian Constitution?
+    a) 24th Amendment
+    b) 42nd Amendment
+    c) 44th Amendment
+    d) 73rd Amendment
+    Tamil: இந்திய அரசியலமைப்பில் அது கொண்டு வந்த அதிக எண்ணிக்கையிலான மாற்றங்கள் காரணமாக எந்த திருத்தச் சட்டம் பெரும்பாலும் 'குட்டி-அரசியலமைப்பு' என்று அழைக்கப்படுகிறது?
+    a) 24வது திருத்தம்
+    b) 42வது திருத்தம்
+    c) 44வது திருத்தம்
+    d) 73வது திருத்தம்
+    Answer: b
+
+56. English: The power of the Parliament to amend the Constitution is laid down in:
+    a) Article 13
+    b) Article 32
+    c) Article 226
+    d) Article 368
+    Tamil: அரசியலமைப்பைத் திருத்தும் நாடாளுமன்றத்தின் அதிகாரம் எங்கு குறிப்பிடப்பட்டுள்ளது?
+    a) சரத்து 13
+    b) சரத்து 32
+    c) சரத்து 226
+    d) சரத்து 368
+    Answer: d
+
+57. English: The system of Panchayati Raj as a three-tier government aims at:
+    a) Strengthening federalism
+    b) Decentralization of power and democratic participation
+    c) Centralizing administrative control
+    d) Reducing the powers of the state government
+    Tamil: மூன்றடுக்கு அரசாங்கமாக பஞ்சாயத்து ராஜ் அமைப்பு எதை நோக்கமாகக் கொண்டுள்ளது?
+    a) கூட்டாட்சியை வலுப்படுத்துதல்
+    b) அதிகாரப் பரவலாக்கம் மற்றும் ஜனநாயகப் பங்களிப்பு
+    c) நிர்வாகக் கட்டுப்பாட்டை மையப்படுத்துதல்
+    d) மாநில அரசின் அதிகாரங்களைக் குறைத்தல்
+    Answer: b
+
+58. English: The members of the Constituent Assembly that drafted the Indian Constitution were:
+    a) Directly elected by the people of India.
+    b) Nominated by the British Government.
+    c) Elected by the members of the Provincial Legislative Assemblies.
+    d) Representatives of the princely states only.
+    Tamil: இந்திய அரசியலமைப்பை வரைந்த அரசியலமைப்பு நிர்ணய சபையின் உறுப்பினர்கள்:
+    a) இந்திய மக்களால் நேரடியாக தேர்ந்தெடுக்கப்பட்டனர்.
+    b) பிரிட்டிஷ் அரசாங்கத்தால் நியமிக்கப்பட்டனர்.
+    c) மாகாண சட்டமன்ற உறுப்பினர்களால் தேர்ந்தெடுக்கப்பட்டனர்.
+    d) சமஸ்தானங்களின் பிரதிநிதிகள் மட்டுமே.
+    Answer: c
+
+59. English: Which of the following is a characteristic of a rigid constitution?
+    a) Easy amendment process
+    b) Special procedure required for amendment
+    c) Unwritten constitution
+    d) Executive has the power to amend
+    Tamil: பின்வருவனவற்றில் எது ஒரு கடினமான அரசியலமைப்பின் பண்பு?
+    a) எளிதான திருத்த செயல்முறை
+    b) திருத்தத்திற்கு சிறப்பு நடைமுறை தேவை
+    c) எழுதப்படாத அரசியலமைப்பு
+    d) நிர்வாகத்திற்கு திருத்தும் அதிகாரம் உள்ளது
+    Answer: b
+
+60. English: The Indian Constitution establishes a 'Sovereign Socialist Secular Democratic Republic'. The word 'Sovereign' implies:
+    a) India is dependent on another country.
+    b) India can acquire foreign territories.
+    c) India is free to conduct its own internal and external affairs.
+    d) Both b and c.
+    Tamil: இந்திய அரசியலமைப்பு 'இறையாண்மை கொண்ட சமதர்ம மதச்சார்பற்ற ஜனநாயக குடியரசை' நிறுவுகிறது. 'இறையாண்மை' என்ற சொல் எதைக் குறிக்கிறது?
+    a) இந்தியா மற்றொரு நாட்டைச் சார்ந்துள்ளது.
+    b) இந்தியா வெளிநாட்டுப் பகுதிகளைக் கையகப்படுத்த முடியும்.
+    c) இந்தியா தனது சொந்த உள்நாட்டு மற்றும் வெளிநாட்டு விவகாரங்களை நடத்த சுதந்திரமானது.
+    d) b மற்றும் c இரண்டும்.
+    Answer: d

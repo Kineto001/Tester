@@ -1,0 +1,471 @@
+**TNPSC Group 4 - Magnetism MCQs**
+
+**Assertion and Reason (கூற்று மற்றும் காரணம்)**
+
+1.  **Assertion (A):** Magnetic field lines never intersect each other.
+    **Reason (R):** If they intersected, there would be two directions of the magnetic field at that point, which is not possible.
+    **கூற்று (A):** காந்தப்புலக் கோடுகள் ஒருபோதும் ஒன்றையொன்று வெட்டிக் கொள்வதில்லை.
+    **காரணம் (R):** அவை வெட்டிக்கொண்டால், அந்தப் புள்ளியில் காந்தப்புலத்திற்கு இரண்டு திசைகள் இருக்கும், அது சாத்தியமில்லை.
+    **Options:**
+    a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+    b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.)
+    c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+    d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+    e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+    **Answer: a**
+
+2.  **Assertion (A):** Soft iron is used to make the core of electromagnets.
+    **Reason (R):** Soft iron has high permeability and low retentivity.
+    **கூற்று (A):** மின்காந்தங்களின் உள்ளகத்தை உருவாக்க தேனிரும்பு பயன்படுத்தப்படுகிறது.
+    **காரணம் (R):** தேனிரும்பு அதிக காந்த ஏற்புத்திறனையும் குறைந்த காந்த நிலைத்தன்மையையும் கொண்டுள்ளது.
+    **Options:**
+    a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+    b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.)
+    c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+    d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+    e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+    **Answer: a**
+
+3.  **Assertion (A):** The Earth behaves as a huge bar magnet.
+    **Reason (R):** The Earth's magnetic field is due to the molten, iron-rich outer core.
+    **கூற்று (A):** பூமி ஒரு பெரிய சட்டகாந்தம் போல செயல்படுகிறது.
+    **காரணம் (R):** பூமியின் காந்தப்புலம், உருகிய, இரும்புச்சத்து நிறைந்த வெளிப்புற உள்ளகம் காரணமாகும்.
+    **Options:**
+    a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+    b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.)
+    c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+    d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+    e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+    **Answer: a**
+
+4.  **Assertion (A):** A freely suspended magnet always aligns itself in the North-South direction.
+    **Reason (R):** The Earth has its own magnetic field.
+    **கூற்று (A):** தன்னிச்சையாக தொங்கவிடப்பட்ட காந்தம் எப்போதும் வடக்கு-தெற்கு திசையில் தன்னை சீரமைத்துக் கொள்கிறது.
+    **காரணம் (R):** பூமிக்கு அதன் சொந்த காந்தப்புலம் உள்ளது.
+    **Options:**
+    a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+    b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.)
+    c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+    d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+    e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+    **Answer: a**
+
+5.  **Assertion (A):** Magnetic poles always exist in pairs.
+    **Reason (R):** It is impossible to isolate a single magnetic pole (monopole).
+    **கூற்று (A):** காந்த துருவங்கள் எப்போதும் இணைகளாகவே இருக்கும்.
+    **காரணம் (R):** ஒரு தனி காந்த துருவத்தை (ஒற்றை துருவம்) தனிமைப்படுத்துவது சாத்தியமில்லை.
+    **Options:**
+    a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+    b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.)
+    c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+    d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+    e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+    **Answer: a**
+
+6.  **Assertion (A):** Diamagnetic substances are repelled by magnets.
+    **Reason (R):** Diamagnetic substances have a small, negative magnetic susceptibility.
+    **கூற்று (A):** டயா காந்தப் பொருட்கள் காந்தங்களால் விரட்டப்படுகின்றன.
+    **காரணம் (R):** டயா காந்தப் பொருட்கள் சிறிய, எதிர்மறை காந்த ஏற்புத்திறனைக் கொண்டுள்ளன.
+    **Options:**
+    a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+    b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.)
+    c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+    d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+    e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+    **Answer: a**
+
+**Wrongly Matched Pairs (தவறாகப் பொருத்தப்பட்ட இணைகள்)**
+
+7.  Identify the wrongly matched pair:
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Ferromagnetic - Iron (ஃபெர்ரோகாந்தம் - இரும்பு)
+    b) Paramagnetic - Aluminium (பாரா காந்தம் - அலுமினியம்)
+    c) Diamagnetic - Copper (டயா காந்தம் - தாமிரம்)
+    d) Natural Magnet - Steel (இயற்கை காந்தம் - எஃகு)
+    **Answer: d** (Steel is used for artificial permanent magnets, Lodestone is a natural magnet / எஃகு செயற்கை நிலை காந்தங்களுக்குப் பயன்படுத்தப்படுகிறது, லோட்ஸ்டோன் ஒரு இயற்கை காந்தம்)
+
+8.  Identify the wrongly matched pair:
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Magnetic Field Strength - Tesla (காந்தப்புல வலிமை - டெஸ்லா)
+    b) Magnetic Flux - Weber (காந்தப்பாயம் - வெப்பர்)
+    c) Electromagnet - Temporary Magnet (மின்காந்தம் - தற்காலிக காந்தம்)
+    d) Magnetic Induction - Oersted (காந்தத் தூண்டல் - ஓர்ஸ்டெட்)
+    **Answer: d** (Oersted discovered magnetic effect of current, Faraday discovered electromagnetic induction / ஓர்ஸ்டெட் மின்னோட்டத்தின் காந்த விளைவைக் கண்டுபிடித்தார், ஃபாரடே மின்காந்தத் தூண்டலைக் கண்டுபிடித்தார்)
+
+9.  Identify the wrongly matched pair:
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Bar Magnet - Artificial Magnet (சட்டகாந்தம் - செயற்கை காந்தம்)
+    b) Magnetic Compass - Navigation (காந்த திசைகாட்டி - வழிசெலுத்தல்)
+    c) Repulsion - Sure test for magnetism (விலக்கு விசை - காந்தத்தன்மைக்கான உறுதியான சோதனை)
+    d) Magnetic Lines - Start from South pole (காந்தக் கோடுகள் - தென் துருவத்தில் இருந்து தொடங்கும்)
+    **Answer: d** (Magnetic lines start from North pole outside the magnet / காந்தக் கோடுகள் காந்தத்திற்கு வெளியே வட துருவத்தில் இருந்து தொடங்கும்)
+
+10. Identify the wrongly matched pair regarding magnetic materials:
+    காந்தப் பொருட்கள் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Cobalt - Ferromagnetic (கோபால்ட் - ஃபெர்ரோகாந்தம்)
+    b) Bismuth - Diamagnetic (பிஸ்மத் - டயா காந்தம்)
+    c) Platinum - Paramagnetic (பிளாட்டினம் - பாரா காந்தம்)
+    d) Wood - Ferromagnetic (மரம் - ஃபெர்ரோகாந்தம்)
+    **Answer: d** (Wood is non-magnetic / மரம் காந்தத்தன்மையற்றது)
+
+11. Identify the wrongly matched pair:
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Dynamo - Electromagnetic Induction (டைனமோ - மின்காந்தத் தூண்டல்)
+    b) Electric Motor - Converts Mechanical to Electrical energy (மின் மோட்டார் - இயந்திர ஆற்றலை மின் ஆற்றலாக மாற்றுகிறது)
+    c) Solenoid - Produces magnetic field ( வரிச்சுருள் - காந்தப்புலத்தை உருவாக்குகிறது)
+    d) MRI - Magnetic Resonance Imaging (எம்.ஆர்.ஐ - காந்த ஒத்ததிர்வு படமாக்கல்)
+    **Answer: b** (Electric Motor converts Electrical to Mechanical energy / மின் மோட்டார் மின் ஆற்றலை இயந்திர ஆற்றலாக மாற்றுகிறது)
+
+12. Identify the wrongly matched pair regarding units:
+    அலகுகள் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Magnetic field - Gauss (காந்தப்புலம் - காஸ்)
+    b) Magnetic permeability - Henry/meter (காந்த ஏற்புத்திறன் - ஹென்றி/மீட்டர்)
+    c) Magnetic susceptibility - Unitless (காந்த உணர்திறன் - அலகற்றது)
+    d) Magnetic moment - Weber-meter (காந்த திருப்புத்திறன் - வெப்பர்-மீட்டர்)
+    **Answer: d** (Magnetic moment unit is Ampere-meter² or Joule/Tesla / காந்த திருப்புத்திறன் அலகு ஆம்பியர்-மீட்டர்² அல்லது ஜூல்/டெஸ்லா)
+
+**Match the Following (பொருத்துக)**
+
+13. Match the following:
+    பொருத்துக:
+    1. Electromagnet (மின்காந்தம்)           a. Navigation (வழிசெலுத்தல்)
+    2. Permanent Magnet (நிலையான காந்தம்)   b. Soft Iron (தேனிரும்பு)
+    3. Magnetic Compass (காந்த திசைகாட்டி)    c. Steel (எஃகு)
+    4. Earth's Magnetism (பூமியின் காந்தவியல்) d. Magnetic Poles (காந்த துருவங்கள்)
+
+    Options:
+    A) 1-b, 2-c, 3-a, 4-d
+    B) 1-c, 2-b, 3-d, 4-a
+    C) 1-a, 2-d, 3-c, 4-b
+    D) 1-d, 2-a, 3-b, 4-c
+    **Answer: A**
+
+14. Match the following:
+    பொருத்துக:
+    1. Oersted (ஓர்ஸ்டெட்)                 a. Electromagnetic Induction (மின்காந்தத் தூண்டல்)
+    2. Faraday (ஃபாரடே)                 b. Magnetic effect of current (மின்னோட்டத்தின் காந்த விளைவு)
+    3. Lenz (லென்ஸ்)                    c. Direction of induced current (தூண்டப்பட்ட மின்னோட்டத்தின் திசை)
+    4. Maxwell (மேக்ஸ்வெல்)                d. Electromagnetic waves (மின்காந்த அலைகள்)
+
+    Options:
+    A) 1-b, 2-a, 3-c, 4-d
+    B) 1-a, 2-b, 3-d, 4-c
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-d, 2-c, 3-b, 4-a
+    **Answer: A**
+
+15. Match the following material types with their examples:
+    பின்வரும் பொருள் வகைகளை அவற்றின் எடுத்துக்காட்டுகளுடன் பொருத்துக:
+    1. Ferromagnetic (ஃபெர்ரோகாந்தம்)       a. Bismuth (பிஸ்மத்)
+    2. Paramagnetic (பாரா காந்தம்)         b. Nickel (நிக்கல்)
+    3. Diamagnetic (டயா காந்தம்)          c. Aluminium (அலுமினியம்)
+    4. Non-magnetic (காந்தமற்றது)       d. Wood (மரம்)
+
+    Options:
+    A) 1-b, 2-c, 3-a, 4-d
+    B) 1-c, 2-a, 3-b, 4-d
+    C) 1-a, 2-b, 3-d, 4-c
+    D) 1-d, 2-c, 3-a, 4-b
+    **Answer: A**
+
+16. Match the following quantities with their SI units:
+    பின்வரும் அளவுகளை அவற்றின் SI அலகுகளுடன் பொருத்துக:
+    1. Magnetic Flux (காந்தப்பாயம்)                 a. Ampere/meter (ஆம்பியர்/மீட்டர்)
+    2. Magnetic Field Strength (B) (காந்தப்புல வலிமை (B)) b. Weber (வெப்பர்)
+    3. Magnetic Permeability (μ) (காந்த ஏற்புத்திறன் (μ)) c. Tesla (டெஸ்லா)
+    4. Magnetizing Field (H) (காந்தமாக்கும் புலம் (H)) d. Henry/meter (ஹென்றி/மீட்டர்)
+
+    Options:
+    A) 1-b, 2-c, 3-d, 4-a
+    B) 1-c, 2-b, 3-a, 4-d
+    C) 1-d, 2-a, 3-c, 4-b
+    D) 1-a, 2-d, 3-b, 4-c
+    **Answer: A**
+
+17. Match the phenomena with the related rule/law:
+    நிகழ்வுகளை தொடர்புடைய விதி/சட்டத்துடன் பொருத்துக:
+    1. Force on current carrying conductor (மின்னோட்டம் பாயும் கடத்தியின் மீதான விசை) a. Faraday's Law (ஃபாரடே விதி)
+    2. Direction of induced EMF (தூண்டப்பட்ட மின்னியக்கு விசையின் திசை)      b. Oersted's Experiment (ஓர்ஸ்டெட் சோதனை)
+    3. Magnetic field due to current (மின்னோட்டத்தால் காந்தப்புலம்)            c. Lenz's Law (லென்ஸ் விதி)
+    4. Production of induced EMF (தூண்டப்பட்ட மின்னியக்கு விசை உருவாக்கம்)  d. Fleming's Left Hand Rule (ஃபிளெமிங்கின் இடது கை விதி)
+
+    Options:
+    A) 1-d, 2-c, 3-b, 4-a
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-b, 2-a, 3-d, 4-c
+    D) 1-c, 2-d, 3-a, 4-b
+    **Answer: A**
+
+18. Match the magnetic property with its description:
+    காந்தப் பண்பை அதன் விளக்கத்துடன் பொருத்துக:
+    1. Retentivity (காந்த நிலைத்தன்மை)     a. Ease with which a material can be magnetized (ஒரு பொருள் எவ்வளவு எளிதாக காந்தமாக்கப்படலாம்)
+    2. Coercivity (காந்த நீக்குத்திறன்)    b. Ability to retain magnetism after removing magnetizing field (காந்தமாக்கும் புலத்தை அகற்றிய பின் காந்தத்தன்மையை தக்கவைக்கும் திறன்)
+    3. Permeability (காந்த ஏற்புத்திறன்)  c. Repelled by a magnetic field (காந்தப்புலத்தால் விரட்டப்படுதல்)
+    4. Diamagnetism (டயா காந்தவியல்)     d. Resistance to demagnetization (காந்தநீக்கத்திற்கான எதிர்ப்பு)
+
+    Options:
+    A) 1-b, 2-d, 3-a, 4-c
+    B) 1-a, 2-c, 3-b, 4-d
+    C) 1-d, 2-a, 3-c, 4-b
+    D) 1-c, 2-b, 3-d, 4-a
+    **Answer: A**
+
+**Multiple Choice Questions (சரியான விடையைத் தேர்ந்தெடு)**
+
+19. Which of the following is a natural magnet?
+    பின்வருவனவற்றில் எது இயற்கை காந்தம்?
+    a) Bar magnet (சட்டகாந்தம்)
+    b) Horseshoe magnet (குதிரைலாட காந்தம்)
+    c) Lodestone (லோட்ஸ்டோன்)
+    d) Electromagnet (மின்காந்தம்)
+    **Answer: c**
+
+20. The surest test for magnetism is:
+    காந்தத்தன்மைக்கான மிக உறுதியான சோதனை:
+    a) Attraction (கவர்ச்சி)
+    b) Repulsion (விலக்கு விசை)
+    c) Both attraction and repulsion (கவர்ச்சி மற்றும் விலக்கு விசை இரண்டும்)
+    d) Neither attraction nor repulsion (கவர்ச்சியும் இல்லை, விலக்கு விசையும் இல்லை)
+    **Answer: b**
+
+21. Magnetic field lines originate from the:
+    காந்தப்புலக் கோடுகள் எதிலிருந்து உருவாகின்றன?
+    a) South pole (தென் துருவம்)
+    b) North pole (வட துருவம்)
+    c) Center of the magnet (காந்தத்தின் மையம்)
+    d) Both poles simultaneously (இரு துருவங்களிலிருந்தும் ஒரே நேரத்தில்)
+    **Answer: b** (outside the magnet / காந்தத்திற்கு வெளியே)
+
+22. Which material is most suitable for making permanent magnets?
+    நிலையான காந்தங்களை உருவாக்க மிகவும் பொருத்தமான பொருள் எது?
+    a) Soft iron (தேனிரும்பு)
+    b) Steel (எஃகு)
+    c) Copper (தாமிரம்)
+    d) Aluminium (அலுமினியம்)
+    **Answer: b**
+
+23. The SI unit of magnetic field strength is:
+    காந்தப்புல வலிமையின் SI அலகு:
+    a) Weber (வெப்பர்)
+    b) Tesla (டெஸ்லா)
+    c) Henry (ஹென்றி)
+    d) Gauss (காஸ்)
+    **Answer: b**
+
+24. An electric motor converts:
+    ஒரு மின் மோட்டார் மாற்றுவது:
+    a) Mechanical energy into electrical energy (இயந்திர ஆற்றலை மின் ஆற்றலாக)
+    b) Electrical energy into mechanical energy (மின் ஆற்றலை இயந்திர ஆற்றலாக)
+    c) Electrical energy into light energy (மின் ஆற்றலை ஒளி ஆற்றலாக)
+    d) Mechanical energy into heat energy (இயந்திர ஆற்றலை வெப்ப ஆற்றலாக)
+    **Answer: b**
+
+25. The phenomenon of producing an electric current by changing the magnetic field is called:
+    காந்தப்புலத்தை மாற்றுவதன் மூலம் மின்சாரத்தை உருவாக்கும் நிகழ்வு இவ்வாறு அழைக்கப்படுகிறது:
+    a) Magnetic effect of current (மின்னோட்டத்தின் காந்த விளைவு)
+    b) Electromagnetic induction (மின்காந்தத் தூண்டல்)
+    c) Heating effect of current (மின்னோட்டத்தின் வெப்ப விளைவு)
+    d) Chemical effect of current (மின்னோட்டத்தின் வேதியியல் விளைவு)
+    **Answer: b**
+
+26. Which rule is used to find the direction of the magnetic field around a straight current-carrying conductor?
+    ஒரு நேரான மின்னோட்டம் பாயும் கடத்தியைச் சுற்றியுள்ள காந்தப்புலத்தின் திசையைக் கண்டறிய எந்த விதி பயன்படுத்தப்படுகிறது?
+    a) Fleming's left-hand rule (ஃபிளெமிங்கின் இடது கை விதி)
+    b) Fleming's right-hand rule (ஃபிளெமிங்கின் வலது கை விதி)
+    c) Maxwell's right-hand corkscrew rule (மாக்ஸ்வெல்லின் வலது கை திருகு правило)
+    d) Lenz's law (லென்ஸ் விதி)
+    **Answer: c**
+
+27. The strength of an electromagnet can be increased by:
+    ஒரு மின்காந்தத்தின் வலிமையை அதிகரிக்கலாம்:
+    a) Decreasing the number of turns in the coil (சுருளில் உள்ள சுற்றுகளின் எண்ணிக்கையைக் குறைப்பதன் மூலம்)
+    b) Decreasing the current through the coil (சுருள் வழியாக பாயும் மின்னோட்டத்தைக் குறைப்பதன் மூலம்)
+    c) Using a core of steel (எஃகு உள்ளகத்தைப் பயன்படுத்துவதன் மூலம்)
+    d) Increasing the number of turns and the current (சுற்றுகளின் எண்ணிக்கையையும் மின்னோட்டத்தையும் அதிகரிப்பதன் மூலம்)
+    **Answer: d**
+
+28. Materials that are weakly attracted by a magnet are called:
+    காந்தத்தால் பலவீனமாக ஈர்க்கப்படும் பொருட்கள் இவ்வாறு அழைக்கப்படுகின்றன:
+    a) Ferromagnetic (ஃபெர்ரோகாந்தம்)
+    b) Paramagnetic (பாரா காந்தம்)
+    c) Diamagnetic (டயா காந்தம்)
+    d) Non-magnetic (காந்தமற்றது)
+    **Answer: b**
+
+29. Magnetic lines of force:
+    காந்த விசைக்கோடுகள்:
+    a) Intersect each other (ஒன்றையொன்று வெட்டிக்கொள்கின்றன)
+    b) Are crowded where the field is weak (புலம் பலவீனமாக இருக்கும் இடத்தில் கூட்டமாக இருக்கும்)
+    c) Form closed loops (மூடிய சுழல்களை உருவாக்குகின்றன)
+    d) Travel from South to North inside the magnet (காந்தத்தின் உள்ளே தெற்கிலிருந்து வடக்கே பயணிக்கின்றன)
+    **Answer: c** (They also travel from South to North inside the magnet, but forming closed loops is a more general and defining property.)
+    (அவை காந்தத்தின் உள்ளே தெற்கிலிருந்து வடக்காகவும் பயணிக்கின்றன, ஆனால் மூடிய சுழல்களை உருவாக்குவது ஒரு பொதுவான மற்றும் வரையறுக்கும் பண்பு.)
+
+30. The angle between the geographic meridian and the magnetic meridian at a place is called:
+    ஒரு இடத்தில் புவியியல் நெடுவரைக்கும் காந்த நெடுவரைக்கும் இடையிலான கோணம் இவ்வாறு அழைக்கப்படுகிறது:
+    a) Magnetic dip (காந்த சரிவு)
+    b) Magnetic declination (காந்த ஒதுக்கம்)
+    c) Magnetic inclination (காந்த சாய்வு)
+    d) Magnetic moment (காந்த திருப்புத்திறன்)
+    **Answer: b**
+
+31. A device that works on the principle of electromagnetic induction is:
+    மின்காந்தத் தூண்டல் கொள்கையின் அடிப்படையில் செயல்படும் ஒரு சாதனம்:
+    a) Electric bell (மின்சார மணி)
+    b) Electric motor (மின் மோட்டார்)
+    c) Electric generator (மின் ஜெனரேட்டர்)
+    d) Electromagnet (மின்காந்தம்)
+    **Answer: c**
+
+32. Which of the following is NOT a ferromagnetic material?
+    பின்வருவனவற்றில் எது ஃபெர்ரோகாந்தப் பொருள் அல்ல?
+    a) Iron (இரும்பு)
+    b) Nickel (நிக்கல்)
+    c) Cobalt (கோபால்ட்)
+    d) Aluminium (அலுமினியம்)
+    **Answer: d** (Aluminium is paramagnetic / அலுமினியம் பாரா காந்தப் பொருள்)
+
+33. The end of a freely suspended magnet that points towards the geographic North is called:
+    தன்னிச்சையாக தொங்கவிடப்பட்ட காந்தத்தின் புவியியல் வடக்கை நோக்கி இருக்கும் முனை இவ்வாறு அழைக்கப்படுகிறது:
+    a) South pole (தென் துருவம்)
+    b) North-seeking pole (வடக்கு நோக்கும் துருவம்)
+    c) Magnetic equator (காந்த பூமத்திய ரேகை)
+    d) True North (உண்மை வடக்கு)
+    **Answer: b**
+
+34. How can a magnet be demagnetized?
+    ஒரு காந்தத்தை எவ்வாறு காந்தத்தன்மை நீக்கம் செய்ய முடியும்?
+    a) By heating it strongly (அதை வலுவாக சூடாக்குவதன் மூலம்)
+    b) By hammering it repeatedly (அதை மீண்டும் மீண்டும் சுத்தியலால் அடிப்பதன் மூலம்)
+    c) By placing it in an alternating magnetic field of decreasing strength (குறைந்து வரும் வலிமையுள்ள மாற்று காந்தப்புலத்தில் வைப்பதன் மூலம்)
+    d) All of the above (மேற்கூறிய அனைத்தும்)
+    **Answer: d**
+
+35. Magnetic keepers are used to:
+    காந்தக் காப்பான்கள் எதற்காகப் பயன்படுத்தப்படுகின்றன?
+    a) Increase the strength of magnets (காந்தங்களின் வலிமையை அதிகரிக்க)
+    b) Prevent self-demagnetization (சுய-காந்தநீக்கத்தைத் தடுக்க)
+    c) Magnetize non-magnetic materials (காந்தமற்ற பொருட்களை காந்தமாக்க)
+    d) Store electric charge (மின்சார மின்னூட்டத்தைச் சேமிக்க)
+    **Answer: b**
+
+36. The space around a magnet where its influence can be detected is called:
+    ஒரு காந்தத்தைச் சுற்றியுள்ள அதன் செல்வாக்கைக் கண்டறியக்கூடிய இடம் இவ்வாறு அழைக்கப்படுகிறது:
+    a) Magnetic field (காந்தப்புலம்)
+    b) Electric field (மின்புலம்)
+    c) Gravitational field (ஈர்ப்புப் புலம்)
+    d) Magnetic domain (காந்தப் பகுதி)
+    **Answer: a**
+
+37. The SI unit of magnetic flux is:
+    காந்தப் பாயத்தின் SI அலகு:
+    a) Tesla (டெஸ்லா)
+    b) Weber (வெப்பர்)
+    c) Henry (ஹென்றி)
+    d) Oersted (ஓர்ஸ்டெட்)
+    **Answer: b**
+
+38. Fleming's Left-Hand Rule is used to determine the direction of:
+    ஃபிளெமிங்கின் இடது கை விதி எதன் திசையைக் கண்டறியப் பயன்படுகிறது?
+    a) Induced current (தூண்டப்பட்ட மின்னோட்டம்)
+    b) Magnetic field (காந்தப்புலம்)
+    c) Force on a current-carrying conductor in a magnetic field (காந்தப்புலத்தில் மின்னோட்டம் பாயும் கடத்தியின் மீதான விசை)
+    d) Current in a straight conductor (நேரான கடத்தியில் மின்னோட்டம்)
+    **Answer: c**
+
+39. Substances that are strongly attracted by magnets and can be magnetized are called:
+    காந்தங்களால் வலுவாக ஈர்க்கப்பட்டு காந்தமாக்கக்கூடிய பொருட்கள் இவ்வாறு அழைக்கப்படுகின்றன:
+    a) Diamagnetic (டயா காந்தம்)
+    b) Paramagnetic (பாரா காந்தம்)
+    c) Ferromagnetic (ஃபெர்ரோகாந்தம்)
+    d) Non-magnetic (காந்தமற்றது)
+    **Answer: c**
+
+40. The magnetic field is strongest:
+    காந்தப்புலம் மிகவும் வலிமையாக இருப்பது:
+    a) At the center of the magnet (காந்தத்தின் மையத்தில்)
+    b) At the poles of the magnet (காந்தத்தின் துருவங்களில்)
+    c) Midway between the center and poles (மையத்திற்கும் துருவங்களுக்கும் இடையில்)
+    d) Uniform throughout the magnet (காந்தம் முழுவதும் சீராக)
+    **Answer: b**
+
+41. Which law states that the direction of induced current is such that it opposes the change that produces it?
+    தூண்டப்பட்ட மின்னோட்டத்தின் திசை, அதை உருவாக்கும் மாற்றத்தை எதிர்க்கும் வகையில் இருக்கும் என்று எந்த விதி கூறுகிறது?
+    a) Faraday's law (ஃபாரடே விதி)
+    b) Lenz's law (லென்ஸ் விதி)
+    c) Ohm's law (ஓம் விதி)
+    d) Ampere's law (ஆம்பியர் விதி)
+    **Answer: b**
+
+42. A solenoid carrying current behaves like a:
+    மின்னோட்டம் பாயும் ஒரு வரிச்சுருள் எதைப் போல செயல்படுகிறது?
+    a) Bar magnet (சட்டகாந்தம்)
+    b) Electric dipole (மின் இருமுனை)
+    c) Resistor (மின்தடை)
+    d) Capacitor (மின்தேக்கி)
+    **Answer: a**
+
+43. The relative permeability of ferromagnetic materials is:
+    ஃபெர்ரோகாந்தப் பொருட்களின் ஒப்புமைக் காந்த ஏற்புத்திறன்:
+    a) Much less than 1 (1 ஐ விட மிகக் குறைவு)
+    b) Slightly greater than 1 (1 ஐ விட சற்று அதிகம்)
+    c) Equal to 1 (1 க்கு சமம்)
+    d) Much greater than 1 (1 ஐ விட மிக அதிகம்)
+    **Answer: d**
+
+44. One Tesla is equal to:
+    ஒரு டெஸ்லா இதற்குச் சமம்:
+    a) 1 Weber/m² (1 வெப்பர்/மீ²)
+    b) 1 Weber.m² (1 வெப்பர்.மீ²)
+    c) 1 Gauss (1 காஸ்)
+    d) 100 Gauss (100 காஸ்)
+    **Answer: a** (Also, 1 Tesla = 10,000 Gauss. Option 'a' is the direct definition.)
+    (மேலும், 1 டெஸ்லா = 10,000 காஸ். விருப்பம் 'a' நேரடி வரையறை.)
+
+45. Magnetic declination is zero at places where:
+    எந்த இடங்களில் காந்த ஒதுக்கம் பூஜ்ஜியமாக இருக்கும்:
+    a) Magnetic meridian coincides with geographic meridian (காந்த நெடுவரை புவியியல் நெடுவரையுடன் பொருந்தும்போது)
+    b) Angle of dip is 90° (சரிவு கோணம் 90° ஆக இருக்கும்போது)
+    c) Angle of dip is 0° (சரிவு கோணம் 0° ஆக இருக்கும்போது)
+    d) Earth's magnetic field is horizontal (பூமியின் காந்தப்புலம் கிடைமட்டமாக இருக்கும்போது)
+    **Answer: a**
+
+46. The core material for a transformer should have:
+    ஒரு மின்மாற்றியின் உள்ளகப் பொருள் கொண்டிருக்க வேண்டியது:
+    a) High permeability and high retentivity (அதிக காந்த ஏற்புத்திறன் மற்றும் அதிக காந்த நிலைத்தன்மை)
+    b) High permeability and low retentivity (அதிக காந்த ஏற்புத்திறன் மற்றும் குறைந்த காந்த நிலைத்தன்மை)
+    c) Low permeability and high retentivity (குறைந்த காந்த ஏற்புத்திறன் மற்றும் அதிக காந்த நிலைத்தன்மை)
+    d) Low permeability and low retentivity (குறைந்த காந்த ஏற்புத்திறன் மற்றும் குறைந்த காந்த நிலைத்தன்மை)
+    **Answer: b** (To minimize hysteresis loss / தேக்க இழப்பைக் குறைக்க)
+
+47. Which of the following is used in Magnetic Resonance Imaging (MRI)?
+    காந்த ஒத்ததிர்வு படமாக்கலில் (MRI) பின்வருவனவற்றில் எது பயன்படுத்தப்படுகிறது?
+    a) Weak magnetic fields (பலவீனமான காந்தப்புலங்கள்)
+    b) Strong magnetic fields (வலுவான காந்தப்புலங்கள்)
+    c) Electric fields only (மின்புலங்கள் மட்டும்)
+    d) Gamma rays (காமா கதிர்கள்)
+    **Answer: b**
+
+48. The magnetic property of a material is due to:
+    ஒரு பொருளின் காந்தப் பண்பு எதனால் ஏற்படுகிறது?
+    a) Only electron spin (எலக்ட்ரான் சுழற்சி மட்டும்)
+    b) Only electron orbital motion (எலக்ட்ரான் சுற்றுப்பாதை இயக்கம் மட்டும்)
+    c) Both electron spin and orbital motion (எலக்ட்ரான் சுழற்சி மற்றும் சுற்றுப்பாதை இயக்கம் இரண்டும்)
+    d) Only protons in the nucleus (கருவில் உள்ள புரோட்டான்கள் மட்டும்)
+    **Answer: c**
+
+49. Temporary magnets are usually made of:
+    தற்காலிக காந்தங்கள் பொதுவாக எதனால் செய்யப்படுகின்றன?
+    a) Steel (எஃகு)
+    b) Alnico (அல்னிகோ)
+    c) Soft iron (தேனிரும்பு)
+    d) Copper (தாமிரம்)
+    **Answer: c**
+
+50. If a bar magnet is cut into two pieces perpendicular to its length, then:
+    ஒரு சட்டகாந்தம் அதன் நீளத்திற்கு செங்குத்தாக இரண்டு துண்டுகளாக வெட்டப்பட்டால், பின்னர்:
+    a) Each piece becomes a non-magnet (ஒவ்வொரு துண்டும் காந்தமற்றதாக மாறும்)
+    b) Each piece has only one pole (ஒவ்வொரு துண்டிற்கும் ஒரே ஒரு துருவம் மட்டுமே இருக்கும்)
+    c) Each piece becomes a magnet with two poles (ஒவ்வொரு துண்டும் இரண்டு துருவங்களைக் கொண்ட காந்தமாக மாறும்)
+    d) The magnetic strength of each piece increases (ஒவ்வொரு துண்டின் காந்த வலிமையும் அதிகரிக்கும்)
+    **Answer: c**

@@ -1,0 +1,603 @@
+**Assertion and Reason Questions (1-6)**
+
+**1.**
+**Assertion (A):** Laterite soils are extensively used for making bricks.
+**Reason (R):** Laterite soils are formed in regions with high temperature and high rainfall with alternate wet and dry periods, leading to hardening when exposed to air.
+
+**கூற்று (A):** செங்கல் தயாரிப்பதற்கு சரளை மண் விரிவாகப் பயன்படுத்தப்படுகிறது.
+**காரணம் (R):** அதிக வெப்பநிலை மற்றும் அதிக மழைப்பொழிவு உள்ள பகுதிகளில், மாறி மாறி வரும் ஈரமான மற்றும் வறண்ட காலநிலைகளால் சரளை மண் உருவாகிறது, இது காற்றில் படும்போது கடினமாகிறது.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**Answer: a**
+**விடை: a**
+
+**2.**
+**Assertion (A):** Black soils are ideal for cotton cultivation.
+**Reason (R):** Black soils are rich in lime, iron, magnesia, and alumina and have high water retention capacity.
+
+**கூற்று (A):** கரிசல் மண் பருத்தி சாகுபடிக்கு மிகவும் ஏற்றது.
+**காரணம் (R):** கரிசல் மண்ணில் சுண்ணாம்பு, இரும்பு, மக்னீசியா மற்றும் அலுமினா அதிகளவில் உள்ளன மற்றும் அதிக நீர் தேக்கும் திறனைக் கொண்டுள்ளன.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**Answer: a**
+**விடை: a**
+
+**3.**
+**Assertion (A):** India is one of the largest producers and exporters of mica in the world.
+**Reason (R):** Mica is primarily used in the cement industry due to its high refractive index.
+
+**கூற்று (A):** உலகிலேயே மைக்காவை அதிகளவில் உற்பத்தி செய்து ஏற்றுமதி செய்யும் நாடுகளில் இந்தியாவும் ஒன்றாகும்.
+**காரணம் (R):** மைக்கா அதன் உயர் ஒளிவிலகல் எண்ணின் காரணமாக முதன்மையாக சிமெண்ட் தொழிலில் பயன்படுத்தப்படுகிறது.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false. (Mica is used in electrical industry)
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**Answer: c**
+**விடை: c**
+
+**4.**
+**Assertion (A):** Bauxite is the primary ore of aluminium.
+**Reason (R):** India has significant bauxite reserves, mainly found in the Amarkantak plateau, Maikal hills.
+
+**கூற்று (A):** பாக்சைட் அலுமினியத்தின் முதன்மைத் தாது ஆகும்.
+**காரணம் (R):** இந்தியாவில் குறிப்பிடத்தக்க பாக்சைட் இருப்புக்கள் உள்ளன, முக்கியமாக அமர்கண்டக் பீடபூமி, மைக்கல் மலைகளில் காணப்படுகின்றன.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**Answer: b** (Both are true statements, but R is a statement about reserves, not directly explaining *why* Bauxite is Al's ore.)
+**விடை: b**
+
+**5.**
+**Assertion (A):** Conservation of natural resources is essential for sustainable development.
+**Reason (R):** Over-exploitation of natural resources leads to environmental degradation and depletion for future generations.
+
+**கூற்று (A):** நிலையான வளர்ச்சிக்கு இயற்கை வளங்களைப் பாதுகாப்பது அவசியம்.
+**காரணம் (R):** இயற்கை வளங்களை மிதமிஞ்சி சுரண்டுவது சுற்றுச்சூழல் சீரழிவிற்கும், எதிர்கால சந்ததியினருக்கான பற்றாக்குறைக்கும் வழிவகுக்கிறது.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**Answer: a**
+**விடை: a**
+
+**6.**
+**Assertion (A):** Alluvial soils are very fertile.
+**Reason (R):** Alluvial soils are rich in humus and nitrogen.
+
+**கூற்று (A):** வண்டல் மண் மிகவும் வளமானவை.
+**காரணம் (R):** வண்டல் மண்ணில் மட்கிய சத்து மற்றும் நைட்ரஜன் அதிகளவில் உள்ளன.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false. (Alluvial soils are generally deficient in humus and nitrogen, but rich in potash and lime)
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**Answer: c**
+**விடை: c**
+
+---
+
+**Identify the Wrongly Matched Pair Questions (7-12)**
+
+**7.** Identify the wrongly matched pair regarding soil types and their characteristics.
+    தவறாகப் பொருத்தப்பட்ட இணையை மண் வகைகள் மற்றும் அவற்றின் பண்புகள் தொடர்பாக கண்டறியவும்.
+    a) Alluvial Soil - Rich in Potash / வண்டல் மண் - பொட்டாஷ் சத்து அதிகம்
+    b) Black Soil - High water retention capacity / கரிசல் மண் - அதிக நீர் தேக்கும் திறன்
+    c) Laterite Soil - Rich in humus / சரளை மண் - மட்கிய சத்து அதிகம்
+    d) Red Soil - Rich in Iron Oxide / செம்மண் - இரும்பு ஆக்சைடு அதிகம்
+
+**Answer: c** (Laterite soil is poor in humus)
+**விடை: c** (சரளை மண் மட்கிய சத்தில் குறைவாக இருக்கும்)
+
+**8.** Identify the wrongly matched pair regarding minerals and their major producing states in India.
+    இந்தியாவில் தாதுக்கள் மற்றும் அவற்றை அதிகளவில் உற்பத்தி செய்யும் மாநிலங்கள் தொடர்பாக தவறாகப் பொருத்தப்பட்ட இணையை கண்டறியவும்.
+    a) Iron Ore - Odisha / இரும்புத் தாது - ஒடிசா
+    b) Coal - Jharkhand / நிலக்கரி - ஜார்கண்ட்
+    c) Gold - Karnataka / தங்கம் - கர்நாடகா
+    d) Copper - Tamil Nadu / தாமிரம் - தமிழ்நாடு
+
+**Answer: d** (Major copper production is in Rajasthan, Madhya Pradesh, Jharkhand)
+**விடை: d** (பெரும்பாலான தாமிர உற்பத்தி ராஜஸ்தான், மத்தியப் பிரதேசம், ஜார்கண்டில் உள்ளது)
+
+**9.** Identify the wrongly matched pair regarding dams and rivers.
+    அணைகள் மற்றும் ஆறுகள் தொடர்பாக தவறாகப் பொருத்தப்பட்ட இணையை கண்டறியவும்.
+    a) Bhakra Nangal - Sutlej / பக்ரா நங்கல் - சட்லஜ்
+    b) Hirakud - Mahanadi / ஹிராகுட் - மகாநதி
+    c) Sardar Sarovar - Narmada / சர்தார் சரோவர் - நர்மதா
+    d) Nagarjuna Sagar - Godavari / நாகார்ஜுனா சாகர் - கோதாவரி
+
+**Answer: d** (Nagarjuna Sagar is on Krishna river)
+**விடை: d** (நாகார்ஜுனா சாகர் கிருஷ்ணா நதியில் உள்ளது)
+
+**10.** Identify the wrongly matched pair regarding types of resources.
+    வளங்களின் வகைகள் தொடர்பாக தவறாகப் பொருத்தப்பட்ட இணையை கண்டறியவும்.
+    a) Renewable Resource - Solar Energy / புதுப்பிக்கத்தக்க வளம் - சூரிய ஆற்றல்
+    b) Non-Renewable Resource - Coal / புதுப்பிக்க இயலாத வளம் - நிலக்கரி
+    c) Biotic Resource - Forests / உயிரியல் வளம் - காடுகள்
+    d) Abiotic Resource - Petroleum / உயிரற்ற வளம் - பெட்ரோலியம்
+
+**Answer: d** (Petroleum is an organic, non-renewable resource, derived from biotic sources but categorized as abiotic component of ecosystem in some contexts. However, in resource classification, it's primarily non-renewable. A better example for abiotic could be minerals, water, air. The intent here is often mineral resources as abiotic.) *(Rephrasing for clarity: Petroleum is formed from organic matter, so it's ultimately biotic origin, but non-renewable. 'Minerals' or 'Land' would be clearer abiotic. However, for TNPSC, often these lines blur slightly. Let's consider 'Petroleum' as non-renewable and from biotic origin, making the match with 'Abiotic resource' questionable for simple classification.)*
+If we must pick one *clearly* wrong: "Abiotic Resource - Petroleum". Petroleum is organic in origin. Air, water, land, minerals are abiotic.
+
+**Answer: d** (Petroleum is derived from organic matter, though it's a non-renewable resource. Clearer abiotic resources are minerals, land, water, air.)
+**விடை: d** (பெட்ரோலியம் கரிமப் பொருட்களிலிருந்து பெறப்படுகிறது, இது புதுப்பிக்க இயலாத வளம் என்றாலும். தெளிவான உயிரற்ற வளங்கள் கனிமங்கள், நிலம், நீர், காற்று.)
+
+**11.** Identify the wrongly matched pair regarding mining areas and minerals.
+    சுரங்கப் பகுதிகள் மற்றும் தாதுக்கள் தொடர்பாக தவறாகப் பொருத்தப்பட்ட இணையை கண்டறியவும்.
+    a) Khetri - Copper / கேத்ரி - தாமிரம்
+    b) Kolar - Gold / கோலார் - தங்கம்
+    c) Jharia - Coal / ஜாரியா - நிலக்கரி
+    d) Bailadila - Bauxite / பைலாடிலா - பாக்சைட்
+
+**Answer: d** (Bailadila is famous for Iron Ore)
+**விடை: d** (பைலாடிலா இரும்புத் தாதுவிற்கு பிரபலமானது)
+
+**12.** Identify the wrongly matched pair regarding soil conservation methods.
+    மண் பாதுகாப்பு முறைகள் தொடர்பாக தவறாகப் பொருத்தப்பட்ட இணையை கண்டறியவும்.
+    a) Afforestation - Planting trees / காடு வளர்ப்பு - மரங்களை நடுதல்
+    b) Contour Ploughing - Reducing soil erosion on slopes / சரிவுகளில் மண் அரிப்பைக் குறைத்தல் - சம உயர உழவு
+    c) Terrace Farming - Practiced in hilly regions / மலைப்பாங்கான பகுதிகளில் கடைபிடிக்கப்படுகிறது - மாடி விவசாயம்
+    d) Overgrazing - Method of soil conservation / அதிக மேய்ச்சல் - மண் பாதுகாப்பு முறை
+
+**Answer: d** (Overgrazing causes soil erosion, not conservation)
+**விடை: d** (அதிக மேய்ச்சல் மண் அரிப்பை ஏற்படுத்துகிறது, பாதுகாப்பை அல்ல)
+
+---
+
+**Match the Following Questions (13-18)**
+
+**13.** Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **List-I (Soil Type / மண் வகை)**       | **List-II (Characteristic / பண்பு)**
+    ------------------------------------|------------------------------------------
+    1. Alluvial Soil / வண்டல் மண்         | a. Formed by leaching / கசிவு நீக்கத்தால் உருவானது
+    2. Black Soil / கரிசல் மண்            | b. Rich in iron oxide / இரும்பு ஆக்சைடு அதிகம்
+    3. Red Soil / செம்மண்                 | c. Also known as Regur soil / ரேகூர் மண் என்றும் அழைக்கப்படுகிறது
+    4. Laterite Soil / சரளை மண்          | d. Formed by river deposits / ஆற்றுப் படிவுகளால் உருவானது
+
+    Options / தெரிவுகள்:
+    A) 1-d, 2-c, 3-b, 4-a
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-b, 2-a, 3-d, 4-c
+
+**Answer: A**
+**விடை: A**
+
+**14.** Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **List-I (Mineral / கனிமம்)**            | **List-II (Major Producing State / முக்கிய உற்பத்தி மாநிலம்)**
+    ------------------------------------|------------------------------------------
+    1. Iron Ore / இரும்புத் தாது           | a. Andhra Pradesh / ஆந்திரப் பிரதேசம்
+    2. Bauxite / பாக்சைட்                 | b. Odisha / ஒடிசா
+    3. Manganese / மாங்கனீசு             | c. Madhya Pradesh / மத்தியப் பிரதேசம் (Also Odisha)
+    4. Mica / மைக்கா                      | d. Odisha / ஒடிசா (Also Jharkhand, Gujarat)
+
+    *Note: Some states produce multiple minerals. Options guide the best fit.*
+    *குறிப்பு: சில மாநிலங்கள் பல கனிமங்களை உற்பத்தி செய்கின்றன. தெரிவுகள் சிறந்த பொருத்தத்தை வழிகாட்டுகின்றன.*
+
+    Options / தெரிவுகள்:
+    A) 1-b, 2-d, 3-c, 4-a
+    B) 1-a, 2-c, 3-b, 4-d
+    C) 1-d, 2-b, 3-a, 4-c
+    D) 1-c, 2-a, 3-d, 4-b
+
+**Answer: A** (Iron Ore - Odisha, Bauxite - Odisha, Manganese - Madhya Pradesh, Mica - Andhra Pradesh are prominent)
+**விடை: A** (இரும்புத் தாது - ஒடிசா, பாக்சைட் - ஒடிசா, மாங்கனீசு - மத்தியப் பிரதேசம், மைக்கா - ஆந்திரப் பிரதேசம் ஆகியவை முக்கியமானவை)
+
+**15.** Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **List-I (Type of Resource / வளத்தின் வகை)** | **List-II (Example / உதாரணம்)**
+    ------------------------------------|------------------------------------------
+    1. Renewable Resource / புதுப்பிக்கத்தக்க வளம் | a. Coal / நிலக்கரி
+    2. Non-renewable Resource / புதுப்பிக்க இயலாத வளம் | b. Forests / காடுகள்
+    3. Biotic Resource / உயிரியல் வளம்        | c. Water / நீர்
+    4. Abiotic Resource / உயிரற்ற வளம்        | d. Wind energy / காற்று ஆற்றல்
+
+    Options / தெரிவுகள்:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-a, 2-d, 3-c, 4-b
+    C) 1-c, 2-b, 3-a, 4-d
+    D) 1-b, 2-c, 3-d, 4-a
+
+**Answer: A**
+**விடை: A**
+
+**16.** Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **List-I (Soil Layer / மண் அடுக்கு)**     | **List-II (Description / விளக்கம்)**
+    ------------------------------------|------------------------------------------
+    1. O Horizon / O அடுக்கு              | a. Subsoil, accumulation of leached minerals / அடிமண், கசிந்த கனிமங்களின் குவிப்பு
+    2. A Horizon / A அடுக்கு              | b. Parent rock material / தாய் பாறைப் பொருள்
+    3. B Horizon / B அடுக்கு              | c. Organic matter layer / கரிமப் பொருள் அடுக்கு
+    4. C Horizon / C அடுக்கு              | d. Topsoil, rich in humus / மேல்மண், மட்கிய சத்து அதிகம்
+
+    Options / தெரிவுகள்:
+    A) 1-c, 2-d, 3-a, 4-b
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-b, 4-a
+    D) 1-b, 2-a, 3-d, 4-c
+
+**Answer: A**
+**விடை: A**
+
+**17.** Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **List-I (Mineral Type / கனிம வகை)** | **List-II (Example / உதாரணம்)**
+    ------------------------------------|------------------------------------------
+    1. Metallic Ferrous / உலோக இரும்பு சார்ந்தது | a. Mica / மைக்கா
+    2. Metallic Non-Ferrous / உலோக இரும்பு சாரா | b. Coal / நிலக்கரி
+    3. Non-Metallic Mineral / அலோக கனிமம் | c. Iron Ore / இரும்புத் தாது
+    4. Fuel Mineral / எரிபொருள் கனிமம்      | d. Copper / தாமிரம்
+
+    Options / தெரிவுகள்:
+    A) 1-c, 2-d, 3-a, 4-b
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-b, 4-a
+    D) 1-b, 2-a, 3-d, 4-c
+
+**Answer: A**
+**விடை: A**
+
+**18.** Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **List-I (National Park / தேசிய பூங்கா)** | **List-II (State / மாநிலம்)**
+    ------------------------------------|------------------------------------------
+    1. Kaziranga / காசிரங்கா              | a. Uttarakhand / உத்தராகண்ட்
+    2. Jim Corbett / ஜிம் கார்பெட்         | b. Gujarat / குஜராத்
+    3. Gir Forest / கிர் காடு             | c. Kerala / கேரளா
+    4. Periyar / பெரியார்                 | d. Assam / அசாம்
+
+    Options / தெரிவுகள்:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-a, 2-d, 3-c, 4-b
+    C) 1-c, 2-b, 3-a, 4-d
+    D) 1-b, 2-c, 3-d, 4-a
+
+**Answer: A**
+**விடை: A**
+
+---
+
+**Standard Multiple Choice Questions (19-50)**
+
+**19.** Which soil is most widespread in India?
+    இந்தியாவில் மிகவும் பரவலாகக் காணப்படும் மண் வகை எது?
+    a) Black Soil / கரிசல் மண்
+    b) Red Soil / செம்மண்
+    c) Alluvial Soil / வண்டல் மண்
+    d) Laterite Soil / சரளை மண்
+
+**Answer: c**
+**விடை: c**
+
+**20.** "Regur Soil" is another name for:
+    "ரேகூர் மண்" என்பது எதன் மற்றொரு பெயர்?
+    a) Alluvial Soil / வண்டல் மண்
+    b) Black Soil / கரிசல் மண்
+    c) Red Soil / செம்மண்
+    d) Laterite Soil / சரளை மண்
+
+**Answer: b**
+**விடை: b**
+
+**21.** Khadar and Bangar are types of which soil?
+    காதர் மற்றும் பாங்கர் எந்த மண் வகையைச் சேர்ந்தவை?
+    a) Black Soil / கரிசல் மண்
+    b) Alluvial Soil / வண்டல் மண்
+    c) Laterite Soil / சரளை மண்
+    d) Desert Soil / பாலைவன மண்
+
+**Answer: b**
+**விடை: b**
+
+**22.** Which soil is formed by intense leaching due to heavy rainfall?
+    அதிக மழைப்பொழிவினால் ஏற்படும் தீவிர கசிவு நீக்கத்தால் உருவாகும் மண் எது?
+    a) Alluvial Soil / வண்டல் மண்
+    b) Black Soil / கரிசல் மண்
+    c) Laterite Soil / சரளை மண்
+    d) Red Soil / செம்மண்
+
+**Answer: c**
+**விடை: c**
+
+**23.** Which one of the following minerals is known as 'brown diamond'?
+    பின்வரும் கனிமங்களில் எது 'பழுப்பு வைரம்' என்று அழைக்கப்படுகிறது?
+    a) Iron / இரும்பு
+    b) Lignite / பழுப்பு நிலக்கரி
+    c) Manganese / மாங்கனீசு
+    d) Mica / மைக்கா
+
+**Answer: b**
+**விடை: b**
+
+**24.** Khetri mines in Rajasthan are famous for:
+    ராஜஸ்தானில் உள்ள கேத்ரி சுரங்கங்கள் எதற்குப் பிரபலமானவை?
+    a) Gold / தங்கம்
+    b) Copper / தாமிரம்
+    c) Bauxite / பாக்சைட்
+    d) Iron Ore / இரும்புத் தாது
+
+**Answer: b**
+**விடை: b**
+
+**25.** Which state is the largest producer of Bauxite in India?
+    இந்தியாவில் பாக்சைட் உற்பத்தியில் முதலிடம் வகிக்கும் மாநிலம் எது?
+    a) Odisha / ஒடிசா
+    b) Jharkhand / ஜார்கண்ட்
+    c) Gujarat / குஜராத்
+    d) Maharashtra / மகாராஷ்டிரா
+
+**Answer: a**
+**விடை: a**
+
+**26.** Monazite sand found in Kerala is a source of which mineral?
+    கேரளாவில் காணப்படும் மோனசைட் மணல் எந்தக் கனிமத்தின் மூலமாகும்?
+    a) Uranium / யுரேனியம்
+    b) Thorium / தோரியம்
+    c) Coal / நிலக்கரி
+    d) Bauxite / பாக்சைட்
+
+**Answer: b**
+**விடை: b**
+
+**27.** Which of the following is a non-metallic mineral?
+    பின்வருவனவற்றில் எது அலோக கனிமம்?
+    a) Iron Ore / இரும்புத் தாது
+    b) Bauxite / பாக்சைட்
+    c) Mica / மைக்கா
+    d) Manganese / மாங்கனீசு
+
+**Answer: c**
+**விடை: c**
+
+**28.** The oldest oil field in India is:
+    இந்தியாவின் மிகப் பழமையான எண்ணெய் வயல் எது?
+    a) Mumbai High / மும்பை ஹை
+    b) Ankleshwar / அங்கலேஷ்வர்
+    c) Digboi / டிக்பாய்
+    d) Naharkatiya / நஹர்காட்டியா
+
+**Answer: c**
+**விடை: c**
+
+**29.** Which one of the following is a renewable resource?
+    பின்வருவனவற்றில் எது புதுப்பிக்கத்தக்க வளம்?
+    a) Coal / நிலக்கரி
+    b) Petroleum / பெட்ரோலியம்
+    c) Solar energy / சூரிய ஆற்றல்
+    d) Natural Gas / இயற்கை எரிவாயு
+
+**Answer: c**
+**விடை: c**
+
+**30.** Soil erosion can be prevented by:
+    மண் அரிப்பை எவ்வாறு தடுக்கலாம்?
+    a) Overgrazing / அதிக மேய்ச்சல்
+    b) Deforestation / காடழிப்பு
+    c) Afforestation / காடு வளர்ப்பு
+    d) Shifting cultivation / இடமாற்று விவசாயம்
+
+**Answer: c**
+**விடை: c**
+
+**31.** The red colour of red soil is due to the presence of:
+    செம்மண்ணின் சிவப்பு நிறத்திற்கு காரணம் என்ன?
+    a) Humus / மட்கிய சத்து
+    b) Iron oxide / இரும்பு ஆக்சைடு
+    c) Phosphates / பாஸ்பேட்டுகள்
+    d) Lime / சுண்ணாம்பு
+
+**Answer: b**
+**விடை: b**
+
+**32.** Neyveli in Tamil Nadu is famous for which type of mineral resource?
+    தமிழ்நாட்டில் உள்ள நெய்வேலி எந்த வகை கனிம வளத்திற்கு பிரபலமானது?
+    a) Iron Ore / இரும்புத் தாது
+    b) Bauxite / பாக்சைட்
+    c) Lignite Coal / பழுப்பு நிலக்கரி
+    d) Limestone / சுண்ணாம்புக்கல்
+
+**Answer: c**
+**விடை: c**
+
+**33.** Which of the following is a major cause of land degradation in India?
+    இந்தியாவில் நிலச் சீரழிவிற்கு முக்கிய காரணம் எது?
+    a) Afforestation / காடு வளர்ப்பு
+    b) Soil erosion / மண் அரிப்பு
+    c) Crop rotation / பயிர் சுழற்சி
+    d) Contour ploughing / சம உயர உழவு
+
+**Answer: b**
+**விடை: b**
+
+**34.** The term 'Sustainable Development' implies:
+    'நிலையான வளர்ச்சி' என்ற சொல் எதைக் குறிக்கிறது?
+    a) Development without harming the environment and conserving for future / சுற்றுச்சூழலுக்கு தீங்கு விளைவிக்காமல் மற்றும் எதிர்காலத்திற்காக பாதுகாத்து வளர்ச்சி அடைதல்
+    b) Rapid industrial development / விரைவான தொழில் வளர்ச்சி
+    c) Development only for the present generation / தற்போதைய தலைமுறைக்கு மட்டும் வளர்ச்சி
+    d) Stopping all developmental activities / அனைத்து வளர்ச்சி நடவடிக்கைகளையும் நிறுத்துதல்
+
+**Answer: a**
+**விடை: a**
+
+**35.** Which type of forest is most widespread in India?
+    இந்தியாவில் மிகவும் பரவலாகக் காணப்படும் காடுகளின் வகை எது?
+    a) Tropical Evergreen Forests / வெப்பமண்டல பசுமை மாறா காடுகள்
+    b) Tropical Deciduous Forests / வெப்பமண்டல இலையுதிர் காடுகள்
+    c) Mangrove Forests / சதுப்புநிலக் காடுகள்
+    d) Montane Forests / மலைக் காடுகள்
+
+**Answer: b**
+**விடை: b**
+
+**36.** The Chipko Movement is associated with:
+    சிப்கோ இயக்கம் எதனுடன் தொடர்புடையது?
+    a) Water conservation / நீர் பாதுகாப்பு
+    b) Forest conservation / வனப் பாதுகாப்பு
+    c) Soil conservation / மண் பாதுகாப்பு
+    d) Mineral conservation / கனிமப் பாதுகாப்பு
+
+**Answer: b**
+**விடை: b**
+
+**37.** Which of the following is an example of a biotic resource?
+    பின்வருவனவற்றில் எது உயிரியல் வளத்திற்கு உதாரணம்?
+    a) Water / நீர்
+    b) Minerals / கனிமங்கள்
+    c) Fish / மீன்
+    d) Sunlight / சூரிய ஒளி
+
+**Answer: c**
+**விடை: c**
+
+**38.** The Kudremukh mines are known for the mining of:
+    குத்ரேமுக் சுரங்கங்கள் எதன் சுரங்கப் பணிக்கு பெயர் பெற்றவை?
+    a) Coal / நிலக்கரி
+    b) Iron Ore / இரும்புத் தாது
+    c) Bauxite / பாக்சைட்
+    d) Mica / மைக்கா
+
+**Answer: b**
+**விடை: b**
+
+**39.** Which soil is generally deficient in nitrogen, phosphorus and humus?
+    பொதுவாக நைட்ரஜன், பாஸ்பரஸ் மற்றும் மட்கிய சத்து குறைவாக உள்ள மண் எது?
+    a) Black Soil / கரிசல் மண்
+    b) Alluvial Soil / வண்டல் மண் (often deficient in N, Humus)
+    c) Laterite Soil / சரளை மண்
+    d) Forest Soil / வன மண்
+
+**Answer: b** (While laterite is also poor, alluvial is a major soil type known for these deficiencies, needing NPK fertilizers)
+**விடை: b** (சரளை மண்ணும் சத்துக் குறைபாடு உடையது என்றாலும், வண்டல் மண் ஒரு முக்கிய மண் வகையாகும், இது இந்த குறைபாடுகளுக்கு பெயர் பெற்றது, NPK உரங்கள் தேவைப்படுகிறது)
+
+**40.** What is the main purpose of constructing check dams?
+    தடுப்பணைகள் கட்டுவதன் முக்கிய நோக்கம் என்ன?
+    a) Hydroelectric power generation / நீர்மின் உற்பத்தி
+    b) Navigation / கப்பல் போக்குவரத்து
+    c) Soil and water conservation / மண் மற்றும் நீர் பாதுகாப்பு
+    d) Industrial water supply / தொழில்துறை நீர் வழங்கல்
+
+**Answer: c**
+**விடை: c**
+
+**41.** Which mineral is abundantly found in the Salem district of Tamil Nadu?
+    தமிழ்நாட்டின் சேலம் மாவட்டத்தில் அதிக அளவில் காணப்படும் கனிமம் எது?
+    a) Gold / தங்கம்
+    b) Bauxite / பாக்சைட்
+    c) Iron Ore (Magnetite) / இரும்புத் தாது (மாக்னடைட்)
+    d) Copper / தாமிரம்
+
+**Answer: c**
+**விடை: c**
+
+**42.** Peaty soils are generally found in:
+    கரிம மண் (Peaty soil) பொதுவாக எங்கு காணப்படுகிறது?
+    a) Dry regions / வறண்ட பகுதிகள்
+    b) Humid regions with high organic matter accumulation / அதிக கரிமப் பொருட்கள் குவியும் ஈரப்பதமான பகுதிகள்
+    c) Desert margins / பாலைவன ஓரங்கள்
+    d) River deltas / ஆற்றுப் படுகைகள்
+
+**Answer: b**
+**விடை: b**
+
+**43.** The 'Silent Valley' in Kerala is preserved because:
+    கேரளாவில் உள்ள 'சைலண்ட் வேலி' பாதுகாக்கப்படுவதற்கான காரணம்:
+    a) It is rich in mineral resources / அது கனிம வளங்கள் நிறைந்தது
+    b) It has rare species of plants and animals / அது அரிய வகை தாவரங்கள் மற்றும் விலங்கினங்களைக் கொண்டுள்ளது
+    c) It is a major source of timber / அது மரக்கட்டைகளின் முக்கிய ஆதாரமாக உள்ளது
+    d) It has a large tribal population / அது அதிக பழங்குடி மக்களைக் கொண்டுள்ளது
+
+**Answer: b**
+**விடை: b**
+
+**44.** Which of the following is a conventional source of energy?
+    பின்வருவனவற்றில் எது மரபுசார் ஆற்றல் மூலம்?
+    a) Solar energy / சூரிய ஆற்றல்
+    b) Wind energy / காற்று ஆற்றல்
+    c) Coal / நிலக்கரி
+    d) Tidal energy / ஓத ஆற்றல்
+
+**Answer: c**
+**விடை: c**
+
+**45.** The Jaduguda mines in Jharkhand are famous for:
+    ஜார்கண்டில் உள்ள जादूगुडा (Jaduguda) சுரங்கங்கள் எதற்குப் பிரபலமானவை?
+    a) Iron Ore / இரும்புத் தாது
+    b) Coal / நிலக்கரி
+    c) Uranium / யுரேனியம்
+    d) Bauxite / பாக்சைட்
+
+**Answer: c**
+**விடை: c**
+
+**46.** Shelter belts are a method of soil conservation used primarily in:
+    பாதுகாப்பு பட்டைகள் (Shelter belts) என்ற மண் பாதுகாப்பு முறை முதன்மையாக எங்கு பயன்படுத்தப்படுகிறது?
+    a) Hilly regions / மலைப்பாங்கான பகுதிகள்
+    b) Coastal and arid regions / கடலோர மற்றும் வறண்ட பகுதிகள்
+    c) Riverine plains / ஆற்றுச் சமவெளிகள்
+    d) Marshy lands / சதுப்பு நிலங்கள்
+
+**Answer: b**
+**விடை: b**
+
+**47.** Which of the following is NOT a fossil fuel?
+    பின்வருவனவற்றில் எது புதைபடிவ எரிபொருள் அல்ல?
+    a) Coal / நிலக்கரி
+    b) Petroleum / பெட்ரோலியம்
+    c) Natural Gas / இயற்கை எரிவாயு
+    d) Uranium / யுரேனியம்
+
+**Answer: d**
+**விடை: d**
+
+**48.** The Sundarbans in West Bengal are famous for which type of forests?
+    மேற்கு வங்கத்தில் உள்ள சுந்தரவனக் காடுகள் எந்த வகை காடுகளுக்குப் பிரபலமானவை?
+    a) Tropical Evergreen Forests / வெப்பமண்டல பசுமை மாறா காடுகள்
+    b) Montane Forests / மலைக் காடுகள்
+    c) Mangrove Forests / சதுப்புநிலக் காடுகள்
+    d) Tropical Thorn Forests / வெப்பமண்டல முள் காடுகள்
+
+**Answer: c**
+**விடை: c**
+
+**49.** Which soil type is characterized by self-ploughing capacity?
+    எந்த மண் வகை தானாக உழும் தன்மையைக் கொண்டுள்ளது?
+    a) Red Soil / செம்மண்
+    b) Laterite Soil / சரளை மண்
+    c) Alluvial Soil / வண்டல் மண்
+    d) Black Soil / கரிசல் மண்
+
+**Answer: d**
+**விடை: d**
+
+**50.** What is 'Jhum cultivation'?
+    'ஜூம் சாகுபடி' என்றால் என்ன?
+    a) Terrace farming / மாடி விவசாயம்
+    b) Shifting cultivation / இடமாற்று விவசாயம்
+    c) Commercial farming / வணிக விவசாயம்
+    d) Plantation agriculture / தோட்ட விவசாயம்
+
+**Answer: b**
+**விடை: b**

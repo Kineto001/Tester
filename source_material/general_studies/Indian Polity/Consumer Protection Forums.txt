@@ -1,0 +1,842 @@
+1. The Consumer Protection Act, which established a three-tier quasi-judicial machinery, was first enacted in which year?
+    a) 1982
+    b) 1986
+    c) 1991
+    d) 2002
+
+1. மூன்று அடுக்கு அரை-நீதித்துறை அமைப்பை நிறுவிய நுகர்வோர் பாதுகாப்புச் சட்டம், முதன்முதலில் எந்த ஆண்டு இயற்றப்பட்டது?
+    a) 1982
+    b) 1986
+    c) 1991
+    d) 2002
+
+Answer: b
+---
+2. The Consumer Protection Act, 1986 was replaced by a new act in which year?
+    a) 2015
+    b) 2017
+    c) 2019
+    d) 2021
+
+2. நுகர்வோர் பாதுகாப்புச் சட்டம், 1986 எந்த ஆண்டில் புதிய சட்டத்தால் மாற்றப்பட்டது?
+    a) 2015
+    b) 2017
+    c) 2019
+    d) 2021
+
+Answer: c
+---
+3. What is the lowest level of the consumer dispute redressal machinery in India?
+    a) State Commission
+    b) National Commission
+    c) District Commission
+    d) Supreme Court
+
+3. இந்தியாவில் நுகர்வோர் குறைதீர் அமைப்பின் மிகக் கீழ்மட்ட அமைப்பு எது?
+    a) மாநில ஆணையம்
+    b) தேசிய ஆணையம்
+    c) மாவட்ட ஆணையம்
+    d) உச்ச நீதிமன்றம்
+
+Answer: c
+---
+4. National Consumer Day is celebrated in India on which date?
+    a) 15th March
+    b) 24th December
+    c) 26th January
+    d) 15th August
+
+4. இந்தியாவில் தேசிய நுகர்வோர் தினம் எந்தத் தேதியில் கொண்டாடப்படுகிறது?
+    a) மார்ச் 15
+    b) டிசம்பர் 24
+    c) ஜனவரி 26
+    d) ஆகஸ்ட் 15
+
+Answer: b
+---
+5. World Consumer Rights Day is observed every year on?
+    a) 15th March
+    b) 24th December
+    c) 1st May
+    d) 2nd October
+
+5. உலக நுகர்வோர் உரிமைகள் தினம் ஒவ்வொரு ஆண்டும் எப்போது அனுசரிக்கப்படுகிறது?
+    a) மார்ச் 15
+    b) டிசம்பர் 24
+    c) மே 1
+    d) அக்டோபர் 2
+
+Answer: a
+---
+6. According to the Consumer Protection Act, 2019, what is the pecuniary jurisdiction of the District Commission?
+    a) Up to ₹20 lakh
+    b) Up to ₹50 lakh
+    c) Up to ₹1 crore
+    d) Up to ₹2 crore
+
+6. நுகர்வோர் பாதுகாப்புச் சட்டம், 2019-ன்படி, மாவட்ட ஆணையத்தின் பண வரம்பு எவ்வளவு?
+    a) ₹20 லட்சம் வரை
+    b) ₹50 லட்சம் வரை
+    c) ₹1 கோடி வரை
+    d) ₹2 கோடி வரை
+
+Answer: b
+---
+7. Under the Consumer Protection Act, 2019, the pecuniary jurisdiction of the State Commission is for claims:
+    a) Up to ₹1 crore
+    b) Above ₹50 lakh and up to ₹2 crore
+    c) Above ₹1 crore and up to ₹10 crore
+    d) Above ₹2 crore
+
+7. நுகர்வோர் பாதுகாப்புச் சட்டம், 2019-ன் கீழ், மாநில ஆணையத்தின் பண வரம்பு எந்த மதிப்பிலான புகார்களுக்கு பொருந்தும்?
+    a) ₹1 கோடி வரை
+    b) ₹50 லட்சத்திற்கு மேல் ₹2 கோடி வரை
+    c) ₹1 கோடிக்கு மேல் ₹10 கோடி வரை
+    d) ₹2 கோடிக்கு மேல்
+
+Answer: b
+---
+8. What is the pecuniary jurisdiction of the National Consumer Disputes Redressal Commission (NCDRC) under the Act of 2019?
+    a) Above ₹1 crore
+    b) Above ₹5 crore
+    c) Above ₹2 crore
+    d) Above ₹10 crore
+
+8. 2019 சட்டத்தின் கீழ் தேசிய நுகர்வோர் குறைதீர் ஆணையத்தின் (NCDRC) பண வரம்பு என்ன?
+    a) ₹1 கோடிக்கு மேல்
+    b) ₹5 கோடிக்கு மேல்
+    c) ₹2 கோடிக்கு மேல்
+    d) ₹10 கோடிக்கு மேல்
+
+Answer: c
+---
+9. Who can be defined as a 'consumer' under the Consumer Protection Act?
+    a) A person who buys goods for commercial purpose
+    b) A person who buys goods and uses them for self-consumption
+    c) A person who obtains goods for free
+    d) A shopkeeper who buys goods for resale
+
+9. நுகர்வோர் பாதுகாப்புச் சட்டத்தின் கீழ் 'நுகர்வோர்' என யார் வரையறுக்கப்படுகிறார்?
+    a) வணிக நோக்கத்திற்காக பொருட்களை வாங்கும் நபர்
+    b) பொருட்களை வாங்கி சுய நுகர்வுக்காகப் பயன்படுத்தும் நபர்
+    c) பொருட்களை இலவசமாகப் பெறும் நபர்
+    d) மறுவிற்பனைக்காக பொருட்களை வாங்கும் கடைக்காரர்
+
+Answer: b
+---
+10. A complaint must be filed in a consumer forum within what period from the date the cause of action arose?
+    a) 1 year
+    b) 2 years
+    c) 3 years
+    d) 5 years
+
+10. ஒரு நுகர்வோர் மன்றத்தில், பிரச்சனைக்கான காரணம் ஏற்பட்ட நாளிலிருந்து எந்தக் காலத்திற்குள் புகார் அளிக்கப்பட வேண்டும்?
+    a) 1 ஆண்டு
+    b) 2 ஆண்டுகள்
+    c) 3 ஆண்டுகள்
+    d) 5 ஆண்டுகள்
+
+Answer: b
+---
+11. Which of the following is NOT a right of a consumer?
+    a) Right to Safety
+    b) Right to be Heard
+    c) Right to Bargain
+    d) Right to Choose
+
+11. பின்வருவனவற்றில் எது நுகர்வோரின் உரிமை அல்ல?
+    a) பாதுகாப்பு உரிமை
+    b) முறையிடும் உரிமை
+    c) பேரம் பேசும் உரிமை
+    d) தேர்ந்தெடுக்கும் உரிமை
+
+Answer: c
+---
+12. The President of a District Commission must be a person who is, or has been, or is qualified to be a:
+    a) High Court Judge
+    b) District Judge
+    c) Magistrate
+    d) Senior Advocate
+
+12. மாவட்ட ஆணையத்தின் தலைவர், ________ ஆக இருப்பவர், இருந்தவர் அல்லது தகுதி பெற்றவராக இருக்க வேண்டும்.
+    a) உயர் நீதிமன்ற நீதிபதி
+    b) மாவட்ட நீதிபதி
+    c) நடுவர் (Magistrate)
+    d) மூத்த வழக்கறிஞர்
+
+Answer: b
+---
+13. An appeal against the order of the District Commission can be filed in the:
+    a) National Commission
+    b) High Court
+    c) State Commission
+    d) Supreme Court
+
+13. மாவட்ட ஆணையத்தின் உத்தரவுக்கு எதிரான மேல்முறையீடு எங்கு தாக்கல் செய்யப்படலாம்?
+    a) தேசிய ஆணையம்
+    b) உயர் நீதிமன்றம்
+    c) மாநில ஆணையம்
+    d) உச்ச நீதிமன்றம்
+
+Answer: c
+---
+14. An appeal against the order of the State Commission can be filed in the:
+    a) High Court of the State
+    b) National Commission
+    c) Supreme Court
+    d) District Commission
+
+14. மாநில ஆணையத்தின் உத்தரவுக்கு எதிரான மேல்முறையீடு எங்கு தாக்கல் செய்யப்படலாம்?
+    a) மாநில உயர் நீதிமன்றம்
+    b) தேசிய ஆணையம்
+    c) உச்ச நீதிமன்றம்
+    d) மாவட்ட ஆணையம்
+
+Answer: b
+---
+15. An appeal against the order of the National Commission can be filed in the:
+    a) President of India
+    b) Prime Minister's Office
+    c) International Court of Justice
+    d) Supreme Court
+
+15. தேசிய ஆணையத்தின் உத்தரவுக்கு எதிரான மேல்முறையீடு எங்கு தாக்கல் செய்யப்படலாம்?
+    a) இந்தியக் குடியரசுத் தலைவர்
+    b) பிரதமர் அலுவலகம்
+    c) சர்வதேச நீதிமன்றம்
+    d) உச்ச நீதிமன்றம்
+
+Answer: d
+---
+16. What is the time limit for filing an appeal to the State Commission against the order of the District Commission?
+    a) 30 days
+    b) 45 days
+    c) 60 days
+    d) 90 days
+
+16. மாவட்ட ஆணையத்தின் உத்தரவுக்கு எதிராக மாநில ஆணையத்தில் மேல்முறையீடு செய்வதற்கான கால அவகாசம் என்ன?
+    a) 30 நாட்கள்
+    b) 45 நாட்கள்
+    c) 60 நாட்கள்
+    d) 90 நாட்கள்
+
+Answer: b
+---
+17. The President of the State Commission is appointed by the State Government in consultation with the:
+    a) Governor of the State
+    b) President of India
+    c) Chief Justice of the High Court
+    d) Chief Minister
+
+17. மாநில ஆணையத்தின் தலைவர், மாநில அரசால் யாருடைய ஆலோசனையின் பேரில் நியமிக்கப்படுகிறார்?
+    a) மாநில ஆளுநர்
+    b) இந்தியக் குடியரசுத் தலைவர்
+    c) உயர் நீதிமன்றத்தின் தலைமை நீதிபதி
+    d) முதலமைச்சர்
+
+Answer: c
+---
+18. Which new authority was established under the Consumer Protection Act, 2019 to protect the rights of consumers as a class?
+    a) Central Consumer Protection Authority (CCPA)
+    b) Consumer Welfare Fund
+    c) National Consumer Helpline
+    d) Directorate of Consumer Affairs
+
+18. நுகர்வோர் பாதுகாப்புச் சட்டம், 2019-ன் கீழ், ஒரு குழுவாக நுகர்வோரின் உரிமைகளைப் பாதுகாக்க நிறுவப்பட்ட புதிய ஆணையம் எது?
+    a) மத்திய நுகர்வோர் பாதுகாப்பு ஆணையம் (CCPA)
+    b) நுகர்வோர் நல நிதி
+    c) தேசிய நுகர்வோர் உதவி எண்
+    d) நுகர்வோர் விவகாரங்கள் இயக்குநரகம்
+
+Answer: a
+---
+19. The concept of 'Product Liability' was introduced for the first time in which Act?
+    a) The Sale of Goods Act, 1930
+    b) The Consumer Protection Act, 1986
+    c) The Competition Act, 2002
+    d) The Consumer Protection Act, 2019
+
+19. 'தயாரிப்புப் பொறுப்பு' (Product Liability) என்ற கருத்து முதன்முதலில் எந்தச் சட்டத்தில் அறிமுகப்படுத்தப்பட்டது?
+    a) சரக்கு விற்பனைச் சட்டம், 1930
+    b) நுகர்வோர் பாதுகாப்புச் சட்டம், 1986
+    c) போட்டிச் சட்டம், 2002
+    d) நுகர்வோர் பாதுகாப்புச் சட்டம், 2019
+
+Answer: d
+---
+20. For the purpose of exercising its powers, a Consumer Commission has the same powers as that of a:
+    a) Criminal Court
+    b) Civil Court
+    c) Revenue Court
+    d) Military Court
+
+20. தனது அதிகாரங்களைப் பயன்படுத்துவதற்காக, ஒரு நுகர்வோர் ஆணையம் எந்த நீதிமன்றத்தின் அதிகாரங்களைக் கொண்டுள்ளது?
+    a) குற்றவியல் நீதிமன்றம்
+    b) உரிமையியல் நீதிமன்றம்
+    c) வருவாய் நீதிமன்றம்
+    d) இராணுவ நீதிமன்றம்
+
+Answer: b
+---
+21. Which Latin phrase means "Let the buyer beware"?
+    a) Caveat emptor
+    b) Res ipsa loquitur
+    c) Ad valorem
+    d) Quid pro quo
+
+21. "வாங்குபவர் எச்சரிக்கையாக இருக்கட்டும்" என்று பொருள்படும் லத்தீன் சொற்றொடர் எது?
+    a) கேவியட் எம்ட்டர் (Caveat emptor)
+    b) ரெஸ் இப்சா லோக்விடூர் (Res ipsa loquitur)
+    c) அட் வலோரம் (Ad valorem)
+    d) குயிட் ப்ரோ குவோ (Quid pro quo)
+
+Answer: a
+---
+22. The Consumer Protection Act, 2019 specifically includes provisions to regulate:
+    a) Print media advertising
+    b) E-commerce transactions
+    c) Barter system
+    d) Agricultural produce markets
+
+22. நுகர்வோர் பாதுகாப்புச் சட்டம், 2019 எதை ஒழுங்குபடுத்துவதற்கான விதிகளை குறிப்பாகக் கொண்டுள்ளது?
+    a) அச்சு ஊடக விளம்பரம்
+    b) மின்-வணிகப் பரிவர்த்தனைகள்
+    c) பண்டமாற்று முறை
+    d) விவசாய விளைபொருள் சந்தைகள்
+
+Answer: b
+---
+23. The provision for 'Mediation' as an Alternate Dispute Resolution mechanism was introduced in:
+    a) Consumer Protection Act, 1986
+    b) Consumer Protection Act, 2019
+    c) The Arbitration and Conciliation Act, 1996
+    d) The Legal Services Authorities Act, 1987
+
+23. மாற்றுத் தகராறு தீர்வு முறையாக 'மத்தியஸ்தம்' (Mediation) செய்வதற்கான வழிவகை எந்தச் சட்டத்தில் அறிமுகப்படுத்தப்பட்டது?
+    a) நுகர்வோர் பாதுகாப்புச் சட்டம், 1986
+    b) நுகர்வோர் பாதுகாப்புச் சட்டம், 2019
+    c) நடுவர் மற்றும் சமரசச் சட்டம், 1996
+    d) சட்ட சேவைகள் அதிகாரசபைச் சட்டம், 1987
+
+Answer: b
+---
+24. Who among the following cannot file a complaint in a consumer forum?
+    a) A consumer
+    b) A registered voluntary consumer association
+    c) The Central or State Government
+    d) A person who bought goods for resale
+
+24. பின்வருபவர்களில் யார் நுகர்வோர் மன்றத்தில் புகார் அளிக்க முடியாது?
+    a) ஒரு நுகர்வோர்
+    b) பதிவுசெய்யப்பட்ட தன்னார்வ நுகர்வோர் சங்கம்
+    c) மத்திய அல்லது மாநில அரசு
+    d) மறுவிற்பனைக்காக பொருட்களை வாங்கிய ஒரு நபர்
+
+Answer: d
+---
+25. Misleading advertisement is considered an offence under which Act?
+    a) The Press Council Act, 1978
+    b) The Information Technology Act, 2000
+    c) The Consumer Protection Act, 2019
+    d) The Indian Penal Code, 1860
+
+25. தவறான விளம்பரம் எந்தச் சட்டத்தின் கீழ் ஒரு குற்றமாகக் கருதப்படுகிறது?
+    a) பத்திரிக்கை மன்றச் சட்டம், 1978
+    b) தகவல் தொழில்நுட்பச் சட்டம், 2000
+    c) நுகர்வோர் பாதுகாப்புச் சட்டம், 2019
+    d) இந்திய தண்டனைச் சட்டம், 1860
+
+Answer: c
+---
+26. The members of the District, State, and National Commissions hold office for a term of:
+    a) 3 years or up to the age of 65 years, whichever is earlier
+    b) 5 years or up to the age of 65 years, whichever is earlier
+    c) 4 years or up to the age of 67 years, whichever is earlier
+    d) 5 years or up to the age of 70 years, whichever is earlier
+
+26. மாவட்ட, மாநில மற்றும் தேசிய ஆணையங்களின் உறுப்பினர்கள் பதவியில் இருக்கும் காலம்:
+    a) 3 ஆண்டுகள் அல்லது 65 வயது வரை, எது முந்தியதோ அது
+    b) 5 ஆண்டுகள் அல்லது 65 வயது வரை, எது முந்தியதோ அது
+    c) 4 ஆண்டுகள் அல்லது 67 வயது வரை, எது முந்தியதோ அது
+    d) 5 ஆண்டுகள் அல்லது 70 வயது வரை, எது முந்தியதோ அது
+
+Answer: c
+---
+*Note: The tenure was changed by Consumer Protection (Qualification for appointment, method of recruitment, procedure of appointment, term of office, resignation and removal of the President and members of the State Commission and District Commission) Rules, 2020. It's now 4 years or 65/67/70 years depending on the forum.*
+
+27. What is the fee for filing a case in a District Commission where the value of goods or services is up to ₹5 lakh?
+    a) ₹100
+    b) ₹500
+    c) ₹1000
+    d) No fee
+
+27. மாவட்ட ஆணையத்தில் ₹5 லட்சம் வரையிலான பொருட்கள் அல்லது சேவைகளின் மதிப்புக்கு வழக்குத் தாக்கல் செய்ய கட்டணம் எவ்வளவு?
+    a) ₹100
+    b) ₹500
+    c) ₹1000
+    d) கட்டணம் இல்லை
+
+Answer: d
+---
+28. 'Unfair trade practice' means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or deceptive practice. This is defined in:
+    a) The Competition Act
+    b) The Consumer Protection Act
+    c) The Sale of Goods Act
+    d) The Indian Contract Act
+
+28. 'நியாயமற்ற வர்த்தக நடைமுறை' என்பது எந்தவொரு பொருளின் விற்பனை, பயன்பாடு அல்லது விநியோகத்தை ஊக்குவிக்கும் நோக்கத்திற்காக அல்லது எந்தவொரு சேவையை வழங்குவதற்காக, எந்தவொரு நியாயமற்ற முறையையும் அல்லது ஏமாற்றும் நடைமுறையையும் பின்பற்றும் ஒரு வர்த்தக நடைமுறையாகும். இது எந்தச் சட்டத்தில் வரையறுக்கப்பட்டுள்ளது?
+    a) போட்டிச் சட்டம்
+    b) நுகர்வோர் பாதுகாப்புச் சட்டம்
+    c) சரக்கு விற்பனைச் சட்டம்
+    d) இந்திய ஒப்பந்தச் சட்டம்
+
+Answer: b
+---
+29. The Central Consumer Protection Council is chaired by:
+    a) The President of India
+    b) The Prime Minister
+    c) The Union Minister in charge of Consumer Affairs
+    d) The Chief Justice of India
+
+29. மத்திய நுகர்வோர் பாதுகாப்புக் குழுவின் தலைவர் யார்?
+    a) இந்தியக் குடியரசுத் தலைவர்
+    b) பிரதமர்
+    c) நுகர்வோர் விவகாரங்களுக்குப் பொறுப்பான மத்திய அமைச்சர்
+    d) இந்தியத் தலைமை நீதிபதி
+
+Answer: c
+---
+30. The objective of the Consumer Protection Act is to provide ________ protection to the consumers.
+    a) Better
+    b) Limited
+    c) Absolute
+    d) Conditional
+
+30. நுகர்வோர் பாதுகாப்புச் சட்டத்தின் நோக்கம் நுகர்வோருக்கு ________ பாதுகாப்பை வழங்குவதாகும்.
+    a) சிறந்த
+    b) வரம்புக்குட்பட்ட
+    c) முழுமையான
+    d) நிபந்தனைக்குட்பட்ட
+
+Answer: a
+---
+31. The headquarters of the National Consumer Disputes Redressal Commission (NCDRC) is located in:
+    a) Mumbai
+    b) Chennai
+    c) Kolkata
+    d) New Delhi
+
+31. தேசிய நுகர்வோர் குறைதீர் ஆணையத்தின் (NCDRC) தலைமையகம் எங்கு அமைந்துள்ளது?
+    a) மும்பை
+    b) சென்னை
+    c) கொல்கத்தா
+    d) புது தில்லி
+
+Answer: d
+---
+32. Which of the following services is exempted from the Consumer Protection Act?
+    a) Banking services
+    b) Medical services
+    c) Services rendered free of charge
+    d) Transport services
+
+32. பின்வரும் சேவைகளில் எது நுகர்வோர் பாதுகாப்புச் சட்டத்திலிருந்து விலக்கு அளிக்கப்பட்டுள்ளது?
+    a) வங்கி சேவைகள்
+    b) மருத்துவ சேவைகள்
+    c) இலவசமாக வழங்கப்படும் சேவைகள்
+    d) போக்குவரத்து சேவைகள்
+
+Answer: c
+---
+33. The slogan "Jago Grahak Jago" is associated with:
+    a) Environmental Awareness
+    b) Consumer Awareness
+    c) Health Awareness
+    d) Financial Literacy
+
+33. "ஜாகோ க்ராஹக் ஜாகோ" (விழித்திடு நுகர்வோரே விழித்திடு) என்ற முழக்கம் எதனுடன் தொடர்புடையது?
+    a) சுற்றுச்சூழல் விழிப்புணர்வு
+    b) நுகர்வோர் விழிப்புணர்வு
+    c) சுகாதார விழிப்புணர்வு
+    d) நிதிசார் கல்வி
+
+Answer: b
+---
+34. A complaint filed in a consumer forum can be related to:
+    a) A defective product
+    b) Deficiency in service
+    c) Overcharging
+    d) All of the above
+
+34. ஒரு நுகர்வோர் மன்றத்தில் தாக்கல் செய்யப்படும் புகார் எதனுடன் தொடர்புடையதாக இருக்கலாம்?
+    a) ஒரு குறைபாடுள்ள தயாரிப்பு
+    b) சேவையில் குறைபாடு
+    c) அதிக கட்டணம் வசூலித்தல்
+    d) மேலே உள்ள அனைத்தும்
+
+Answer: d
+---
+35. The Consumer Protection Act, 2019, allows consumers to file complaints in a commission located where the:
+    a) Complainant resides or works
+    b) Opposite party resides or works
+    c) Cause of action arose
+    d) Any of the above
+
+35. நுகர்வோர் பாதுகாப்புச் சட்டம், 2019, நுகர்வோரை எங்கு அமைந்துள்ள ஆணையத்தில் புகார்களைத் தாக்கல் செய்ய அனுமதிக்கிறது?
+    a) புகார்தாரர் வசிக்கும் அல்லது பணிபுரியும் இடம்
+    b) எதிர் தரப்பினர் வசிக்கும் அல்லது பணிபுரியும் இடம்
+    c) பிரச்சனைக்கான காரணம் எழுந்த இடம்
+    d) மேலே உள்ளவற்றில் ஏதேனும் ஒன்று
+
+Answer: a
+---
+36. Who appoints the President of the National Consumer Disputes Redressal Commission?
+    a) The President of India
+    b) The Chief Justice of India
+    c) The Central Government
+    d) A collegium of Supreme Court judges
+
+36. தேசிய நுகர்வோர் குறைதீர் ஆணையத்தின் தலைவரை நியமிப்பவர் யார்?
+    a) இந்தியக் குடியரசுத் தலைவர்
+    b) இந்தியத் தலைமை நீதிபதி
+    c) மத்திய அரசு
+    d) உச்ச நீதிமன்ற நீதிபதிகள் கொண்ட குழு (Collegium)
+
+Answer: c
+---
+37. The 'Right to be Informed' for a consumer means the right to be informed about the:
+    a) Quality, quantity, and price of goods
+    b) Profit margin of the seller
+    c) Manufacturing cost of the product
+    d) Seller's personal details
+
+37. ஒரு நுகர்வோருக்கான 'தகவல் பெறும் உரிமை' என்பது எதைப் பற்றித் தெரிவிக்கப்படும் உரிமை ஆகும்?
+    a) பொருட்களின் தரம், அளவு மற்றும் விலை
+    b) விற்பனையாளரின் லாப வரம்பு
+    c) பொருளின் உற்பத்திச் செலவு
+    d) விற்பனையாளரின் தனிப்பட்ட விவரங்கள்
+
+Answer: a
+---
+38. If a person does not comply with an order made by a Consumer Commission, they can be punished with imprisonment for a term:
+    a) Not less than one month but which may extend to three years
+    b) Up to one year
+    c) Up to six months
+    d) For a fixed term of two years
+
+38. ஒரு நபர் நுகர்வோர் ஆணையம் பிறப்பித்த உத்தரவுக்கு இணங்கவில்லை என்றால், அவருக்கு ________ காலத்திற்கு சிறைத்தண்டனை விதிக்கப்படலாம்.
+    a) ஒரு மாதத்திற்குக் குறையாமல் ஆனால் மூன்று ஆண்டுகள் வரை நீட்டிக்கப்படலாம்
+    b) ஒரு வருடம் வரை
+    c) ஆறு மாதங்கள் வரை
+    d) இரண்டு ஆண்டுகள் என்ற நிலையான காலத்திற்கு
+
+Answer: a
+---
+39. The Consumer Protection Act is applicable to:
+    a) All goods and services
+    b) Only goods
+    c) Only services
+    d) All goods and services unless specifically exempted by the Central Government
+
+39. நுகர்வோர் பாதுகாப்புச் சட்டம் எதற்குப் பொருந்தும்?
+    a) அனைத்துப் பொருட்கள் மற்றும் சேவைகள்
+    b) பொருட்கள் மட்டும்
+    c) சேவைகள் மட்டும்
+    d) மத்திய அரசால் குறிப்பாக விலக்கு அளிக்கப்பட்டவை தவிர மற்ற அனைத்துப் பொருட்கள் மற்றும் சேவைகள்
+
+Answer: d
+---
+40. The Consumer Protection Councils are ________ in nature.
+    a) Judicial
+    b) Quasi-judicial
+    c) Advisory
+    d) Executive
+
+40. நுகர்வோர் பாதுகாப்புக் குழுக்கள் ________ தன்மை கொண்டவை.
+    a) நீதித்துறை சார்ந்த
+    b) அரை-நீதித்துறை சார்ந்த
+    c) ஆலோசனை வழங்கும்
+    d) நிர்வாகம் சார்ந்த
+
+Answer: c
+---
+41. Which consumer right is violated if a seller forces a buyer to purchase a specific brand?
+    a) Right to Safety
+    b) Right to Choose
+    c) Right to be Heard
+    d) Right to Information
+
+41. ஒரு விற்பனையாளர் ஒரு குறிப்பிட்ட பிராண்டை வாங்கும்படி வாங்குபவரை வற்புறுத்தினால், எந்த நுகர்வோர் உரிமை மீறப்படுகிறது?
+    a) பாதுகாப்பு உரிமை
+    b) தேர்ந்தெடுக்கும் உரிமை
+    c) முறையிடும் உரிமை
+    d) தகவல் அறியும் உரிமை
+
+Answer: b
+---
+42. A State Government can establish more than one District Commission in a district if it deems fit.
+    a) True
+    b) False
+    c) Only with Central Government approval
+    d) Only for metropolitan cities
+
+42. ஒரு மாநில அரசு, பொருத்தமெனக் கருதினால், ஒரு மாவட்டத்தில் ஒன்றுக்கு மேற்பட்ட மாவட்ட ஆணையங்களை நிறுவலாம்.
+    a) சரி
+    b) தவறு
+    c) மத்திய அரசின் அனுமதியுடன் மட்டுமே
+    d) பெருநகரங்களுக்கு மட்டும்
+
+Answer: a
+---
+43. Under the 2019 Act, "deficiency" means any fault, imperfection, or shortcoming in the quality, nature or manner of performance of a:
+    a) Service
+    b) Good
+    c) Person
+    d) Contract
+
+43. 2019 சட்டத்தின் கீழ், "குறைபாடு" (deficiency) என்பது ஒரு ________ தரம், தன்மை அல்லது செயல்திறன் விதத்தில் உள்ள எந்தவொரு தவறு, முழுமையின்மை அல்லது பற்றாக்குறையைக் குறிக்கிறது.
+    a) சேவை
+    b) பொருள்
+    c) நபர்
+    d) ஒப்பந்தம்
+
+Answer: a
+---
+44. Who is the head of the Central Consumer Protection Authority (CCPA)?
+    a) A retired Supreme Court Judge
+    b) The Chief Commissioner
+    c) The Union Minister of Commerce
+    d) The Cabinet Secretary
+
+44. மத்திய நுகர்வோர் பாதுகாப்பு ஆணையத்தின் (CCPA) தலைவர் யார்?
+    a) ஓய்வு பெற்ற உச்ச நீதிமன்ற நீதிபதி
+    b) தலைமை ஆணையர்
+    c) மத்திய வர்த்தக அமைச்சர்
+    d) அமைச்சரவைச் செயலாளர்
+
+Answer: b
+---
+45. A complaint relating to a contract for service where the consideration was paid or promised is maintainable.
+    a) False, only fully paid contracts are considered.
+    b) True
+    c) Only if the service is a public utility.
+    d) Only if the contract is in writing.
+
+45. ஒரு சேவைக்கான ஒப்பந்தம் தொடர்பான புகார், அதற்கான பிரதிபலன் செலுத்தப்பட்டிருந்தாலோ அல்லது செலுத்த உறுதியளிக்கப்பட்டிருந்தாலோ, அது ஏற்றுக்கொள்ளத்தக்கது.
+    a) தவறு, முழுமையாக பணம் செலுத்திய ஒப்பந்தங்கள் மட்டுமே கருதப்படும்.
+    b) சரி
+    c) அந்த சேவை பொதுப் பயன்பாட்டு சேவையாக இருந்தால் மட்டுமே.
+    d) ஒப்பந்தம் எழுத்துப்பூர்வமாக இருந்தால் மட்டுமே.
+
+Answer: b
+---
+46. The President of the National Commission must be a person who is or has been a judge of the:
+    a) High Court
+    b) District Court
+    c) Supreme Court
+    d) Any Tribunal
+
+46. தேசிய ஆணையத்தின் தலைவர், ________ நீதிமன்றத்தின் நீதிபதியாக இருப்பவர் அல்லது இருந்தவராக இருக்க வேண்டும்.
+    a) உயர் நீதிமன்றம்
+    b) மாவட்ட நீதிமன்றம்
+    c) உச்ச நீதிமன்றம்
+    d) எந்தவொரு தீர்ப்பாயம்
+
+Answer: c
+---
+47. The Consumer Protection Act of 2019 gives power to the Commissions to review their own orders.
+    a) False, they cannot review their own orders.
+    b) True, they have the power of review.
+    c) Only the National Commission can review.
+    d) Only if new evidence is found.
+
+47. நுகர்வோர் பாதுகாப்புச் சட்டம் 2019, ஆணையங்கள் தங்கள் சொந்த உத்தரவுகளை மறுஆய்வு செய்ய அதிகாரம் அளிக்கிறது.
+    a) தவறு, அவை தங்கள் சொந்த உத்தரவுகளை மறுஆய்வு செய்ய முடியாது.
+    b) சரி, அவற்றுக்கு மறுஆய்வு அதிகாரம் உள்ளது.
+    c) தேசிய ஆணையம் மட்டுமே மறுஆய்வு செய்ய முடியும்.
+    d) புதிய சான்றுகள் கிடைத்தால்தான்.
+
+Answer: b
+---
+48. Who among the following is considered a "complainant"?
+    a) A consumer
+    b) Legal heir of a deceased consumer
+    c) Central or State Government
+    d) All of the above
+
+48. பின்வருபவர்களில் யார் "புகார்தாரர்" என்று கருதப்படுகிறார்?
+    a) ஒரு நுகர்வோர்
+    b) இறந்த நுகர்வோரின் சட்டப்பூர்வ வாரிசு
+    c) மத்திய அல்லது மாநில அரசு
+    d) மேலே உள்ள அனைவரும்
+
+Answer: d
+---
+49. The consumer movement in India as a 'social force' originated with the necessity of protecting and promoting the interests of consumers against:
+    a) Ethical and fair trade practices
+    b) Unethical and unfair trade practices
+    c) Government regulations
+    d) Foreign competition
+
+49. இந்தியாவில் ஒரு 'சமூக சக்தியாக' நுகர்வோர் இயக்கம், யாருக்கு எதிராக நுகர்வோரின் நலன்களைப் பாதுகாத்து மேம்படுத்தும் தேவையுடன் உருவானது?
+    a) நெறிமுறை மற்றும் நியாயமான வர்த்தக நடைமுறைகள்
+    b) நெறிமுறையற்ற மற்றும் நியாயமற்ற வர்த்தக நடைமுறைகள்
+    c) அரசாங்க விதிமுறைகள்
+    d) வெளிநாட்டுப் போட்டி
+
+Answer: b
+---
+50. What does the 'Right to Consumer Education' imply?
+    a) The right to acquire the knowledge and skill to be an informed consumer
+    b) The right to receive free education
+    c) The right to educate the seller
+    d) The right to formal university education on consumerism
+
+50. 'நுகர்வோர் கல்விக்கான உரிமை' என்பது எதைக் குறிக்கிறது?
+    a) தகவலறிந்த நுகர்வோராக இருப்பதற்கான அறிவையும் திறமையையும் பெறும் உரிமை
+    b) இலவசக் கல்வி பெறும் உரிமை
+    c) விற்பனையாளருக்குக் கல்வி கற்பிக்கும் உரிமை
+    d) நுகர்வோரியல் பற்றிய முறையான பல்கலைக்கழகக் கல்விக்கான உரிமை
+
+Answer: a
+---
+51. What is the time limit for the opposite party to give their version of the case in a consumer forum?
+    a) 15 days
+    b) 30 days
+    c) 60 days
+    d) 90 days
+
+51. நுகர்வோர் மன்றத்தில் ஒரு வழக்கில் எதிர் தரப்பினர் தங்கள் தரப்பு வாதத்தை அளிக்க கால அவகாசம் என்ன?
+    a) 15 நாட்கள்
+    b) 30 நாட்கள்
+    c) 60 நாட்கள்
+    d) 90 நாட்கள்
+
+Answer: b
+---
+52. Which ministry in the Government of India deals with Consumer Affairs?
+    a) Ministry of Finance
+    b) Ministry of Commerce and Industry
+    c) Ministry of Consumer Affairs, Food and Public Distribution
+    d) Ministry of Home Affairs
+
+52. இந்திய அரசாங்கத்தில் எந்த அமைச்சகம் நுகர்வோர் விவகாரங்களைக் கையாள்கிறது?
+    a) நிதி அமைச்சகம்
+    b) வர்த்தகம் மற்றும் தொழில் அமைச்சகம்
+    c) நுகர்வோர் விவகாரங்கள், உணவு மற்றும் பொது விநியோக அமைச்சகம்
+    d) உள்துறை அமைச்சகம்
+
+Answer: c
+---
+53. The Consumer Protection Act, 2019 covers transactions through all modes including:
+    a) Offline only
+    b) Online only
+    c) Offline, online, teleshopping, direct selling, multi-level marketing
+    d) Barter only
+
+53. நுகர்வோர் பாதுகாப்புச் சட்டம், 2019, எந்தெந்த முறைகள் உட்பட அனைத்து முறைகள் மூலமான பரிவர்த்தனைகளையும் உள்ளடக்கியது?
+    a) ஆஃப்லைன் மட்டும்
+    b) ஆன்லைன் மட்டும்
+    c) ஆஃப்லைன், ஆன்லைன், தொலைபேசி வணிகம், நேரடி விற்பனை, பல அடுக்கு சந்தைப்படுத்தல்
+    d) பண்டமாற்று மட்டும்
+
+Answer: c
+---
+54. Can a consumer file a complaint for a medical service where negligence is alleged?
+    a) No, it is outside the scope of the Act.
+    b) Yes, medical services are covered under the Act.
+    c) Only in government hospitals.
+    d) Only if the doctor is not qualified.
+
+54. அலட்சியம் இருப்பதாகக் கூறப்படும் ஒரு மருத்துவ சேவைக்காக நுகர்வோர் புகார் அளிக்க முடியுமா?
+    a) இல்லை, இது சட்டத்தின் எல்லைக்கு அப்பாற்பட்டது.
+    b) ஆம், மருத்துவ சேவைகள் சட்டத்தின் கீழ் வருகின்றன.
+    c) அரசு மருத்துவமனைகளில் மட்டும்.
+    d) மருத்துவர் தகுதி பெறாதவராக இருந்தால் மட்டுமே.
+
+Answer: b
+---
+55. An appeal to the Supreme Court from the National Commission's order must be filed within:
+    a) 30 days
+    b) 45 days
+    c) 60 days
+    d) 90 days
+
+55. தேசிய ஆணையத்தின் உத்தரவிலிருந்து உச்ச நீதிமன்றத்திற்கு மேல்முறையீடு ________ நாட்களுக்குள் தாக்கல் செய்யப்பட வேண்டும்.
+    a) 30 நாட்கள்
+    b) 45 நாட்கள்
+    c) 60 நாட்கள்
+    d) 90 நாட்கள்
+
+Answer: a
+---
+56. Which of the following is an example of 'restrictive trade practice'?
+    a) Offering discounts on products
+    b) Delaying the provision of goods or services to raise prices
+    c) Providing after-sales service
+    d) Advertising the product
+
+56. பின்வருவனவற்றில் எது 'கட்டுப்பாடான வர்த்தக நடைமுறைக்கு' ஒரு எடுத்துக்காட்டு?
+    a) பொருட்களுக்கு தள்ளுபடி வழங்குதல்
+    b) விலையை உயர்த்துவதற்காக பொருட்கள் அல்லது சேவைகளை வழங்குவதில் தாமதம் செய்தல்
+    c) விற்பனைக்குப் பிந்தைய சேவையை வழங்குதல்
+    d) பொருளை விளம்பரப்படுத்துதல்
+
+Answer: b
+---
+57. The main role of the Central Consumer Protection Authority (CCPA) is:
+    a) To hear individual complaints
+    b) To promote, protect and enforce the rights of consumers as a class
+    c) To set prices for essential commodities
+    d) To license new businesses
+
+57. மத்திய நுகர்வோர் பாதுகாப்பு ஆணையத்தின் (CCPA) முக்கியப் பங்கு என்ன?
+    a) தனிப்பட்ட புகார்களை விசாரிப்பது
+    b) ஒரு குழுவாக நுகர்வோரின் உரிமைகளை ஊக்குவித்தல், பாதுகாத்தல் மற்றும் அமல்படுத்துதல்
+    c) அத்தியாவசியப் பொருட்களுக்கு விலை நிர்ணயம் செய்வது
+    d) புதிய வணிகங்களுக்கு உரிமம் வழங்குவது
+
+Answer: b
+---
+58. A consumer complaint can be filed electronically (e-filing).
+    a) True, this was introduced in the 2019 Act.
+    b) False, complaints must be filed physically.
+    c) Only at the National Commission level.
+    d) Only for high-value cases.
+
+58. ஒரு நுகர்வோர் புகாரை மின்னணு முறையில் (e-filing) தாக்கல் செய்யலாம்.
+    a) சரி, இது 2019 சட்டத்தில் அறிமுகப்படுத்தப்பட்டது.
+    b) தவறு, புகார்கள் நேரடியாகத் தாக்கல் செய்யப்பட வேண்டும்.
+    c) தேசிய ஆணைய அளவில் மட்டுமே.
+    d) அதிக மதிப்புள்ள வழக்குகளுக்கு மட்டுமே.
+
+Answer: a
+---
+59. If the Consumer Commission is satisfied that the goods complained against suffer from any of the defects specified, it can issue an order to:
+    a) Remove the defect from the goods
+    b) Replace the goods with new goods of similar description
+    c) Return the price to the complainant
+    d) Any of the above
+
+59. புகார் செய்யப்பட்ட பொருட்களில் குறிப்பிட்ட குறைபாடுகள் ஏதேனும் இருப்பதாக நுகர்வோர் ஆணையம் திருப்தி அடைந்தால், அது ________ உத்தரவைப் பிறப்பிக்கலாம்.
+    a) பொருட்களில் உள்ள குறைபாட்டை நீக்க
+    b) பொருட்களை அதே போன்ற புதிய பொருட்களுடன் மாற்ற
+    c) புகார்தாரருக்கு விலையைத் திருப்பித் தர
+    d) மேலே உள்ளவற்றில் ஏதேனும் ஒன்று
+
+Answer: d
+---
+60. The Consumer Protection Act, 1986 is also known as:
+    a) The Magna Carta of Indian Consumers
+    b) The Consumer's Bible
+    c) The Shield Act
+    d) The Trade Act
+
+60. நுகர்வோர் பாதுகாப்புச் சட்டம், 1986 வேறு எவ்வாறு அழைக்கப்படுகிறது?
+    a) இந்திய நுகர்வோரின் மகாசாசனம்
+    b) நுகர்வோரின் பைபிள்
+    c) கேடயச் சட்டம்
+    d) வர்த்தகச் சட்டம்
+
+Answer: a
+---

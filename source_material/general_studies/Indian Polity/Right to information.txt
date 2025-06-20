@@ -1,0 +1,664 @@
+Right to Information Act - 60 MCQs for TNPSC Group 4
+தகவல் அறியும் உரிமைச் சட்டம் - TNPSC குரூப் 4 தேர்விற்கான 60 கொள்குறி வகை வினாக்கள்
+
+---
+
+1.
+**English:** When was the Right to Information Act enacted by the Parliament of India?
+**Tamil:** இந்திய நாடாளுமன்றத்தால் தகவல் அறியும் உரிமைச் சட்டம் எப்போது இயற்றப்பட்டது?
+a) 15th June 2005 / 2005 ஜூன் 15
+b) 12th October 2005 / 2005 அக்டோபர் 12
+c) 26th January 2005 / 2005 ஜனவரி 26
+d) 15th August 2005 / 2005 ஆகஸ்ட் 15
+**Answer: a**
+
+---
+
+2.
+**English:** When did the Right to Information Act, 2005 fully come into force?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டம், 2005 எப்போது முழுமையாக நடைமுறைக்கு வந்தது?
+a) 15th June 2005 / 2005 ஜூன் 15
+b) 12th October 2005 / 2005 அக்டோபர் 12
+c) 2nd October 2005 / 2005 அக்டோபர் 2
+d) 1st April 2006 / 2006 ஏப்ரல் 1
+**Answer: b**
+
+---
+
+3.
+**English:** The Right to Information Act, 2005 replaced which previous Act?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டம், 2005 எந்த முந்தைய சட்டத்திற்குப் பதிலாகக் கொண்டுவரப்பட்டது?
+a) Freedom of Information Act, 2002 / தகவல் சுதந்திரச் சட்டம், 2002
+b) Official Secrets Act, 1923 / அதிகாரப்பூர்வ இரகசியங்கள் சட்டம், 1923
+c) Information Technology Act, 2000 / தகவல் தொழில்நுட்பச் சட்டம், 2000
+d) Public Records Act, 1993 / பொது ஆவணங்கள் சட்டம், 1993
+**Answer: a**
+
+---
+
+4.
+**English:** Who is eligible to seek information under the RTI Act, 2005?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டம், 2005-ன் கீழ் தகவல்களைக் கோர தகுதியுடையவர் யார்?
+a) Only Indian citizens / இந்திய குடிமக்கள் மட்டுமே
+b) Any person, including foreigners / வெளிநாட்டினர் உட்பட எந்தவொரு நபரும்
+c) Only government employees / அரசு ஊழியர்கள் மட்டுமே
+d) Only registered NGOs / பதிவுசெய்யப்பட்ட அரசு சாரா நிறுவனங்கள் மட்டுமே
+**Answer: a**
+
+---
+
+5.
+**English:** What is the maximum time limit for a Public Information Officer (PIO) to provide information under the RTI Act?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் கீழ், ஒரு பொதுத் தகவல் அதிகாரி (PIO) தகவல்களை வழங்குவதற்கான அதிகபட்ச கால வரம்பு என்ன?
+a) 15 days / 15 நாட்கள்
+b) 30 days / 30 நாட்கள்
+c) 45 days / 45 நாட்கள்
+d) 60 days / 60 நாட்கள்
+**Answer: b**
+
+---
+
+6.
+**English:** What is the time limit for providing information concerning the life and liberty of a person?
+**Tamil:** ஒரு நபரின் வாழ்க்கை மற்றும் சுதந்திரம் தொடர்பான தகவல்களை வழங்குவதற்கான கால வரம்பு என்ன?
+a) 24 hours / 24 மணி நேரம்
+b) 48 hours / 48 மணி நேரம்
+c) 72 hours / 72 மணி நேரம்
+d) 7 days / 7 நாட்கள்
+**Answer: b**
+
+---
+
+7.
+**English:** What is the prescribed application fee for filing an RTI request to a central government public authority?
+**Tamil:** மத்திய அரசு பொது அதிகார அமைப்பிற்கு தகவல் அறியும் உரிமை விண்ணப்பம் செய்ய நிர்ணயிக்கப்பட்ட கட்டணம் எவ்வளவு?
+a) ₹ 10
+b) ₹ 20
+c) ₹ 50
+d) No fee / கட்டணம் இல்லை
+**Answer: a**
+
+---
+
+8.
+**English:** What does 'PIO' stand for in the context of the RTI Act?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின்படி 'PIO' என்பதன் விரிவாக்கம் என்ன?
+a) Public Inquiry Officer / பொது விசாரணை அதிகாரி
+b) Primary Information Officer / முதன்மைத் தகவல் அதிகாரி
+c) Public Information Officer / பொதுத் தகவல் அதிகாரி
+d) Principal Information Officer / முதல்வர் தகவல் அதிகாரி
+**Answer: c**
+
+---
+
+9.
+**English:** If the information sought is held by another public authority, the PIO should transfer the application within how many days?
+**Tamil:** கோரப்பட்ட தகவல் மற்றொரு பொது அதிகார அமைப்பிடம் இருந்தால், பொதுத் தகவல் அதிகாரி அந்த விண்ணப்பத்தை எத்தனை நாட்களுக்குள் மாற்ற வேண்டும்?
+a) 5 days / 5 நாட்கள்
+b) 10 days / 10 நாட்கள்
+c) 15 days / 15 நாட்கள்
+d) 30 days / 30 நாட்கள்
+**Answer: a**
+
+---
+
+10.
+**English:** Under which section of the RTI Act can information be exempted from disclosure?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் எந்தப் பிரிவின் கீழ் தகவல்களை வெளியிடுவதிலிருந்து விலக்கு அளிக்க முடியும்?
+a) Section 6 / பிரிவு 6
+b) Section 8 / பிரிவு 8
+c) Section 10 / பிரிவு 10
+d) Section 19 / பிரிவு 19
+**Answer: b**
+
+---
+
+11.
+**English:** A first appeal against the decision of a PIO can be filed within how many days?
+**Tamil:** ஒரு பொதுத் தகவல் அதிகாரியின் முடிவிற்கு எதிராக முதல் மேல்முறையீடு எத்தனை நாட்களுக்குள் செய்யப்பட வேண்டும்?
+a) 15 days / 15 நாட்கள்
+b) 30 days / 30 நாட்கள்
+c) 45 days / 45 நாட்கள்
+d) 90 days / 90 நாட்கள்
+**Answer: b**
+
+---
+
+12.
+**English:** To whom is the first appeal filed under the RTI Act?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் கீழ் முதல் மேல்முறையீடு யாரிடம் செய்யப்படுகிறது?
+a) The PIO himself / பொதுத் தகவல் அதிகாரியிடமே
+b) The State Information Commission / மாநில தகவல் ஆணையம்
+c) An officer senior in rank to the PIO (First Appellate Authority) / பொதுத் தகவல் அதிகாரியை விட உயர் பதவியில் உள்ள அதிகாரி (முதல் மேல்முறையீட்டு அதிகாரி)
+d) The Head of the Department / துறைத் தலைவர்
+**Answer: c**
+
+---
+
+13.
+**English:** What is the time limit for filing a second appeal with the Information Commission?
+**Tamil:** தகவல் ஆணையத்தில் இரண்டாவது மேல்முறையீடு செய்வதற்கான கால வரம்பு என்ன?
+a) 30 days / 30 நாட்கள்
+b) 45 days / 45 நாட்கள்
+c) 60 days / 60 நாட்கள்
+d) 90 days / 90 நாட்கள்
+**Answer: d**
+
+---
+
+14.
+**English:** Which of the following is NOT considered a "public authority" under the RTI Act?
+**Tamil:** பின்வருவனவற்றில் எது தகவல் அறியும் உரிமைச் சட்டத்தின் கீழ் "பொது அதிகார அமைப்பு" என்று கருதப்படுவதில்லை?
+a) A company owned by the government / அரசாங்கத்திற்குச் சொந்தமான ஒரு நிறுவனம்
+b) A private limited company not financed by the government / அரசாங்கத்தால் நிதியளிக்கப்படாத ஒரு தனியார் வரையறுக்கப்பட்ட நிறுவனம்
+c) A university established by law / சட்டத்தால் நிறுவப்பட்ட ஒரு பல்கலைக்கழகம்
+d) The Prime Minister's Office / பிரதமர் அலுவலகம்
+**Answer: b**
+
+---
+
+15.
+**English:** The penalty for a PIO for delaying information without reasonable cause is:
+**Tamil:** நியாயமான காரணமின்றி தகவல்களைத் தாமதப்படுத்தும் ஒரு பொதுத் தகவல் அதிகாரிக்கான அபராதம்:
+a) ₹ 100 per day / ஒரு நாளைக்கு ₹ 100
+b) ₹ 250 per day / ஒரு நாளைக்கு ₹ 250
+c) ₹ 500 per day / ஒரு நாளைக்கு ₹ 500
+d) A fixed amount of ₹ 1000 / ₹ 1000 என்ற நிலையான தொகை
+**Answer: b**
+
+---
+
+16.
+**English:** What is the maximum total penalty that can be imposed on a PIO?
+**Tamil:** ஒரு பொதுத் தகவல் அதிகாரி மீது விதிக்கப்படக்கூடிய அதிகபட்ச மொத்த அபராதம் எவ்வளவு?
+a) ₹ 10,000
+b) ₹ 15,000
+c) ₹ 25,000
+d) ₹ 50,000
+**Answer: c**
+
+---
+
+17.
+**English:** Which article of the Indian Constitution is the RTI Act said to be derived from?
+**Tamil:** இந்திய அரசியலமைப்பின் எந்தப் பிரிவிலிருந்து தகவல் அறியும் உரிமைச் சட்டம் பெறப்பட்டதாகக் கூறப்படுகிறது?
+a) Article 14 / பிரிவு 14
+b) Article 19(1)(a) / பிரிவு 19(1)(a)
+c) Article 21 / பிரிவு 21
+d) Article 32 / பிரிவு 32
+**Answer: b**
+
+---
+
+18.
+**English:** What does the term "Third Party" mean in the context of the RTI Act?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின்படி "மூன்றாம் தரப்பினர்" என்ற சொல்லின் பொருள் என்ன?
+a) The Information Commission / தகவல் ஆணையம்
+b) A citizen other than the applicant, including a public authority / விண்ணப்பதாரரைத் தவிர வேறு ஒரு குடிமகன், பொது அதிகார அமைப்பு உட்பட
+c) The PIO's senior officer / பொதுத் தகவல் அதிகாரியின் உயர் அதிகாரி
+d) A foreign national / ஒரு வெளிநாட்டு குடிமகன்
+**Answer: b**
+
+---
+
+19.
+**English:** Which schedule of the RTI Act lists the intelligence and security organisations exempted from the Act?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் எந்த அட்டவணை, சட்டத்திலிருந்து விலக்கு அளிக்கப்பட்ட புலனாய்வு மற்றும் பாதுகாப்பு அமைப்புகளைப் பட்டியலிடுகிறது?
+a) First Schedule / முதல் அட்டவணை
+b) Second Schedule / இரண்டாம் அட்டவணை
+c) Third Schedule / மூன்றாம் அட்டவணை
+d) Fourth Schedule / நான்காம் அட்டவணை
+**Answer: b**
+
+---
+
+20.
+**English:** Even for exempted organisations, information pertaining to what must be disclosed?
+**Tamil:** விலக்கு அளிக்கப்பட்ட அமைப்புகளுக்குக் கூட, எதைப் பற்றிய தகவல்கள் வெளியிடப்பட வேண்டும்?
+a) Corruption and Human Rights Violations / ஊழல் மற்றும் மனித உரிமை மீறல்கள்
+b) Internal promotions / உள் பதவி உயர்வுகள்
+c) Foreign collaborations / வெளிநாட்டு ஒத்துழைப்புகள்
+d) Budget allocation / பட்ஜெட் ஒதுக்கீடு
+**Answer: a**
+
+---
+
+21.
+**English:** The Central Information Commission (CIC) submits its annual report to:
+**Tamil:** மத்திய தகவல் ஆணையம் (CIC) தனது ஆண்டு அறிக்கையை யாரிடம் சமர்ப்பிக்கிறது?
+a) The President of India / இந்தியக் குடியரசுத் தலைவர்
+b) The Parliament of India / இந்திய நாடாளுமன்றம்
+c) The Prime Minister of India / இந்தியப் பிரதமர்
+d) The Supreme Court of India / இந்திய உச்ச நீதிமன்றம்
+**Answer: b**
+
+---
+
+22.
+**English:** Who appoints the Central Chief Information Commissioner?
+**Tamil:** மத்திய தலைமைத் தகவல் ஆணையரை நியமிப்பவர் யார்?
+a) The Chief Justice of India / இந்தியத் தலைமை நீதிபதி
+b) The Prime Minister / பிரதமர்
+c) The President of India / இந்தியக் குடியரசுத் தலைவர்
+d) The Speaker of Lok Sabha / மக்களவைத் தலைவர்
+**Answer: c**
+
+---
+
+23.
+**English:** The decision of the Central or State Information Commission is:
+**Tamil:** மத்திய அல்லது மாநில தகவல் ஆணையத்தின் முடிவு:
+a) Binding / கட்டுப்படுத்தும்
+b) Advisory / அறிவுரை வழங்கும்
+c) Can be appealed in a High Court / உயர் நீதிமன்றத்தில் மேல்முறையீடு செய்யலாம்
+d) Only a recommendation / ஒரு பரிந்துரை மட்டுமே
+**Answer: a**
+
+---
+
+24.
+**English:** The concept of "severability" under Section 10 of the RTI Act means:
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் பிரிவு 10-ன் கீழ் "பிரித்தளித்தல்" என்ற கருத்துருவின் பொருள் என்ன?
+a) Separating the application into multiple parts / விண்ணப்பத்தை பல பகுதிகளாகப் பிரிப்பது
+b) Providing partial information that is not exempt / விலக்கு அளிக்கப்படாத பகுதித் தகவல்களை வழங்குவது
+c) Rejecting the entire application if one part is exempt / ஒரு பகுதி விலக்கு அளிக்கப்பட்டால் முழு விண்ணப்பத்தையும் நிராகரிப்பது
+d) Transferring the application to another PIO / விண்ணப்பத்தை மற்றொரு பொதுத் தகவல் அதிகாரிக்கு மாற்றுவது
+**Answer: b**
+
+---
+
+25.
+**English:** If the PIO fails to give a decision within the specified time, it is considered as:
+**Tamil:** பொதுத் தகவல் அதிகாரி குறிப்பிட்ட காலத்திற்குள் ஒரு முடிவை வழங்கத் தவறினால், அது எவ்வாறு கருதப்படுகிறது?
+a) Approved request / அங்கீகரிக்கப்பட்ட கோரிக்கை
+b) Deemed refusal / மறுக்கப்பட்டதாகக் கருதுதல்
+c) Incomplete application / முழுமையற்ற விண்ணப்பம்
+d) Transferred request / மாற்றப்பட்ட கோரிக்கை
+**Answer: b**
+
+---
+
+26.
+**English:** Information can be sought under RTI Act in which language?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் கீழ் எந்த மொழியில் தகவல் கோரலாம்?
+a) Only in English / ஆங்கிலத்தில் மட்டுமே
+b) Only in Hindi / இந்தியில் மட்டுமே
+c) English, Hindi, or the official language of the area / ஆங்கிலம், இந்தி அல்லது அந்தப் பகுதியின் அலுவல் மொழி
+d) Any of the 22 scheduled languages / 22 அட்டவணைப்படுத்தப்பட்ட மொழிகளில் ஏதேனும் ஒன்று
+**Answer: c**
+
+---
+
+27.
+**English:** The RTI Act, 2005 is not applicable to which state/UT of India?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டம், 2005 இந்தியாவின் எந்த மாநிலம்/யூனியன் பிரதேசத்திற்குப் பொருந்தாது?
+a) Jammu and Kashmir / ஜம்மு மற்றும் காஷ்மீர்
+b) Nagaland / நாகாலாந்து
+c) Lakshadweep / லட்சத்தீவு
+d) It is applicable to all states and UTs / இது அனைத்து மாநிலங்கள் மற்றும் யூனியன் பிரதேசங்களுக்கும் பொருந்தும்
+**Answer: d**
+
+---
+
+28.
+**English:** Who heads the State Information Commission?
+**Tamil:** மாநில தகவல் ஆணையத்திற்குத் தலைமை தாங்குபவர் யார்?
+a) The Governor / ஆளுநர்
+b) The Chief Minister / முதலமைச்சர்
+c) The State Chief Information Commissioner / மாநிலத் தலைமைத் தகவல் ஆணையர்
+d) The Chief Secretary of the State / மாநிலத் தலைமைச் செயலாளர்
+**Answer: c**
+
+---
+
+29.
+**English:** What is the main objective of the Right to Information Act?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் முக்கிய நோக்கம் என்ன?
+a) To provide a new fundamental right / ஒரு புதிய அடிப்படை உரிமையை வழங்குவது
+b) To promote transparency and accountability in governance / நிர்வாகத்தில் வெளிப்படைத்தன்மை மற்றும் பொறுப்புணர்வை ஊக்குவிப்பது
+c) To reduce corruption in the judiciary / நீதித்துறையில் ஊழலைக் குறைப்பது
+d) To computerize all government records / அனைத்து அரசாங்க பதிவுகளையும் கணினிமயமாக்குவது
+**Answer: b**
+
+---
+
+30.
+**English:** As per the RTI Act, 'information' includes:
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின்படி, 'தகவல்' என்பது உள்ளடக்கியது:
+a) Records, documents, emails, and opinions / பதிவேடுகள், ஆவணங்கள், மின்னஞ்சல்கள் மற்றும் கருத்துக்கள்
+b) Only official gazettes / அதிகாரப்பூர்வ அரசிதழ்கள் மட்டுமே
+c) Only file notings / கோப்புக் குறிப்புகள் மட்டுமே
+d) Only government orders / அரசாணைகள் மட்டுமே
+**Answer: a**
+
+---
+
+31.
+**English:** An RTI applicant is required to give a reason for seeking information.
+**Tamil:** தகவல் அறியும் உரிமை விண்ணப்பதாரர் தகவல்களைக் கோருவதற்கான காரணத்தைக் கூற வேண்டும்.
+a) True / சரி
+b) False / தவறு
+c) Only for sensitive information / முக்கியமான தகவல்களுக்கு மட்டும்
+d) Only if the PIO asks / பொதுத் தகவல் அதிகாரி கேட்டால் மட்டும்
+**Answer: b**
+
+---
+
+32.
+**English:** For people Below Poverty Line (BPL), the application fee for RTI is:
+**Tamil:** வறுமைக் கோட்டிற்குக் கீழ் உள்ளவர்களுக்கு (BPL), தகவல் அறியும் உரிமைக்கான விண்ணப்பக் கட்டணம்:
+a) ₹ 10
+b) ₹ 5
+c) No fee / கட்டணம் இல்லை
+d) Half of the normal fee / சாதாரணக் கட்டணத்தில் பாதி
+**Answer: c**
+
+---
+
+33.
+**English:** Who is the final appellate authority under the RTI Act?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் கீழ் இறுதி மேல்முறையீட்டு அதிகாரம் யாரிடம் உள்ளது?
+a) The High Court / உயர் நீதிமன்றம்
+b) The Supreme Court / உச்ச நீதிமன்றம்
+c) The Head of the Public Authority / பொது அதிகார அமைப்பின் தலைவர்
+d) The Central or State Information Commission / மத்திய அல்லது மாநில தகவல் ஆணையம்
+**Answer: d**
+
+---
+
+34.
+**English:** Section 4 of the RTI Act deals with:
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் பிரிவு 4 எதைக் கையாள்கிறது?
+a) Exemptions from disclosure / வெளியிடுவதிலிருந்து விலக்குகள்
+b) Suo motu disclosure of information by public authorities / பொது அதிகார அமைப்புகள் தாமாக முன்வந்து தகவல்களை வெளியிடுதல்
+c) The constitution of the Central Information Commission / மத்திய தகவல் ஆணையத்தின் அமைப்பு
+d) Penalties / அபராதங்கள்
+**Answer: b**
+
+---
+
+35.
+**English:** If information is provided on a CD/Floppy, what can a PIO charge?
+**Tamil:** சிடி/ஃப்ளாப்பியில் தகவல் வழங்கப்பட்டால், ஒரு பொதுத் தகவல் அதிகாரி என்ன கட்டணம் வசூலிக்கலாம்?
+a) No extra charge / கூடுதல் கட்டணம் இல்லை
+b) The actual cost price of the medium / அந்த ஊடகத்தின் உண்மையான அடக்க விலை
+c) A fixed charge of ₹ 100 / ₹ 100 என்ற நிலையான கட்டணம்
+d) ₹ 2 per page equivalent / ஒரு பக்கத்திற்கு ₹ 2 க்கு சமமான கட்டணம்
+**Answer: b**
+
+---
+
+36.
+**English:** The tenure of the Central Chief Information Commissioner is as prescribed by the:
+**Tamil:** மத்திய தலைமைத் தகவல் ஆணையரின் பதவிக்காலம் யாரால் பரிந்துரைக்கப்படுகிறதோ அதுவாக இருக்கும்:
+a) President / குடியரசுத் தலைவர்
+b) Parliament / நாடாளுமன்றம்
+c) Central Government / மத்திய அரசு
+d) Constitution of India / இந்திய அரசியலமைப்பு
+**Answer: c**
+
+---
+
+37.
+**English:** Which of the following information is exempt from disclosure under Section 8(1)(i)?
+**Tamil:** பின்வரும் எந்தத் தகவல் பிரிவு 8(1)(i) இன் கீழ் வெளியிடுவதிலிருந்து விலக்கு அளிக்கப்பட்டுள்ளது?
+a) Information about scientific research / அறிவியல் ஆராய்ச்சி பற்றிய தகவல்
+b) Cabinet papers including records of deliberations / அமைச்சரவைக் கூட்டத்தின் பதிவுகள் உள்ளிட்ட அமைச்சரவைக் கோப்புகள்
+c) Trade secrets / வர்த்தக இரகசியங்கள்
+d) Information received in confidence from a foreign government / ஒரு வெளிநாட்டு அரசாங்கத்திடமிருந்து நம்பிக்கையின் பேரில் பெறப்பட்ட தகவல்
+**Answer: b**
+
+---
+
+38.
+**English:** The powers of the Information Commissions are similar to those of a:
+**Tamil:** தகவல் ஆணையங்களின் அதிகாரங்கள் எதற்கு ஒப்பானவை?
+a) High Court / உயர் நீதிமன்றம்
+b) Criminal Court / குற்றவியல் நீதிமன்றம்
+c) Civil Court / உரிமையியல் நீதிமன்றம்
+d) Administrative Tribunal / நிர்வாகத் தீர்ப்பாயம்
+**Answer: c**
+
+---
+
+39.
+**English:** The RTI (Amendment) Act of which year changed the tenure and status of Information Commissioners?
+**Tamil:** எந்த ஆண்டு கொண்டுவரப்பட்ட தகவல் அறியும் உரிமை (திருத்த) சட்டம், தகவல் ஆணையர்களின் பதவிக்காலம் மற்றும் அந்தஸ்தை மாற்றியது?
+a) 2013
+b) 2015
+c) 2019
+d) 2021
+**Answer: c**
+
+---
+
+40.
+**English:** Who is responsible for providing information under the RTI Act in a public authority?
+**Tamil:** ஒரு பொது அதிகார அமைப்பில் தகவல் அறியும் உரிமைச் சட்டத்தின் கீழ் தகவல்களை வழங்குவதற்குப் பொறுப்பானவர் யார்?
+a) The Head of the Department / துறைத் தலைவர்
+b) The Public Information Officer (PIO) / பொதுத் தகவல் அதிகாரி (PIO)
+c) The First Appellate Authority / முதல் மேல்முறையீட்டு அதிகாரி
+d) Any designated employee / நியமிக்கப்பட்ட எந்த ஊழியரும்
+**Answer: b**
+
+---
+
+41.
+**English:** The term of office for the State Chief Information Commissioner is determined by:
+**Tamil:** மாநிலத் தலைமைத் தகவல் ஆணையரின் பதவிக்காலம் யாரால் தீர்மானிக்கப்படுகிறது?
+a) The State Legislature / மாநிலச் சட்டமன்றம்
+b) The Governor / ஆளுநர்
+c) The Central Government / மத்திய அரசு
+d) The State Government / மாநில அரசு
+**Answer: c**
+
+---
+
+42.
+**English:** Section 22 of the RTI Act gives it an overriding effect. What does this mean?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் பிரிவு 22 அதற்கு ஒரு மேலோங்கும் விளைவைக் கொடுக்கிறது. இதன் பொருள் என்ன?
+a) It overrides the Constitution of India / இது இந்திய அரசியலமைப்பை மீறுகிறது
+b) It can be overridden by any other law / வேறு எந்த சட்டத்தாலும் இதை மீற முடியும்
+c) Its provisions will prevail over any other conflicting law, including the Official Secrets Act / அதிகாரப்பூர்வ இரகசியங்கள் சட்டம் உட்பட வேறு எந்த முரண்பட்ட சட்டத்தையும் விட இதன் விதிகள் மேலோங்கி நிற்கும்
+d) It is applicable only when no other law exists / வேறு எந்தச் சட்டமும் இல்லாதபோது மட்டுமே இது பொருந்தும்
+**Answer: c**
+
+---
+
+43.
+**English:** An APIO has to forward an RTI application to the PIO within:
+**Tamil:** ஒரு உதவிப் பொதுத் தகவல் அதிகாரி (APIO) தகவல் அறியும் உரிமை விண்ணப்பத்தை பொதுத் தகவல் அதிகாரிக்கு எத்தனை நாட்களுக்குள் அனுப்ப வேண்டும்?
+a) 2 days / 2 நாட்கள்
+b) 5 days / 5 நாட்கள்
+c) 7 days / 7 நாட்கள்
+d) 10 days / 10 நாட்கள்
+**Answer: b**
+
+---
+
+44.
+**English:** Can a PIO deny information that is more than 20 years old?
+**Tamil:** 20 வருடங்களுக்கும் பழமையான தகவல்களை ஒரு பொதுத் தகவல் அதிகாரி மறுக்க முடியுமா?
+a) Yes, always / ஆம், எப்போதும்
+b) No, it must be provided subject to certain clauses of Section 8 / இல்லை, பிரிவு 8-இன் சில உட்பிரிவுகளுக்கு உட்பட்டு அது வழங்கப்பட வேண்டும்
+c) Only if it is handwritten / அது கையால் எழுதப்பட்டிருந்தால் மட்டும்
+d) Yes, if it is difficult to find / அதைக் கண்டுபிடிப்பது கடினமாக இருந்தால் ஆம்
+**Answer: b**
+
+---
+
+45.
+**English:** The body which is responsible for the appointment of the State Chief Information Commissioner is headed by the:
+**Tamil:** மாநிலத் தலைமைத் தகவல் ஆணையரை நியமிப்பதற்கான பொறுப்புள்ள குழுவிற்குத் தலைமை தாங்குபவர்:
+a) Governor / ஆளுநர்
+b) Chief Minister / முதலமைச்சர்
+c) Chief Justice of the High Court / உயர் நீதிமன்றத் தலைமை நீதிபதி
+d) Speaker of the Legislative Assembly / சட்டமன்ற சபாநாயகர்
+**Answer: b**
+
+---
+
+46.
+**English:** How many chapters are there in the RTI Act, 2005?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டம், 2005-ல் எத்தனை அத்தியாயங்கள் உள்ளன?
+a) 5
+b) 6
+c) 7
+d) 8
+**Answer: b**
+
+---
+
+47.
+**English:** How many sections are there in the RTI Act, 2005?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டம், 2005-ல் எத்தனை பிரிவுகள் உள்ளன?
+a) 28
+b) 31
+c) 35
+d) 40
+**Answer: b**
+
+---
+
+48.
+**English:** Information disclosure is the norm, and exemption is the exception. This principle is central to:
+**Tamil:** தகவலை வெளியிடுவது விதி, விலக்கு அளிப்பது விதிவிலக்கு. இந்தக் கொள்கை எதற்கு மையமானது?
+a) The Official Secrets Act / அதிகாரப்பூர்வ இரகசியங்கள் சட்டம்
+b) The Indian Evidence Act / இந்திய சாட்சிய சட்டம்
+c) The Right to Information Act / தகவல் அறியும் உரிமைச் சட்டம்
+d) The Code of Civil Procedure / உரிமையியல் நடைமுறைச் சட்டம்
+**Answer: c**
+
+---
+
+49.
+**English:** If an applicant is not satisfied with the decision of the First Appellate Authority, he/she can appeal to:
+**Tamil:** முதல் மேல்முறையீட்டு அதிகாரியின் முடிவில் விண்ணப்பதாரர் திருப்தி அடையவில்லை என்றால், அவர் யாரிடம் மேல்முறையீடு செய்யலாம்?
+a) The Head of the Department / துறைத் தலைவர்
+b) The High Court / உயர் நீதிமன்றம்
+c) The concerned State or Central Information Commission / சம்பந்தப்பட்ட மாநில அல்லது மத்திய தகவல் ஆணையம்
+d) The President or Governor / குடியரசுத் தலைவர் அல்லது ஆளுநர்
+**Answer: c**
+
+---
+
+50.
+**English:** Which section of the RTI Act defines a "Public Authority"?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் எந்தப் பிரிவு "பொது அதிகார அமைப்பு" என்பதை வரையறுக்கிறது?
+a) Section 2(a)
+b) Section 2(f)
+c) Section 2(h)
+d) Section 2(j)
+**Answer: c**
+
+---
+
+51.
+**English:** An RTI application must be disposed of within 35 days if:
+**Tamil:** தகவல் அறியும் உரிமை விண்ணப்பம் 35 நாட்களுக்குள் முடிக்கப்பட வேண்டும், எப்போது?
+a) The applicant is a senior citizen / விண்ணப்பதாரர் ஒரு மூத்த குடிமகனாக இருந்தால்
+b) The application is transferred from an APIO / விண்ணப்பம் ஒரு உதவிப் பொதுத் தகவல் அதிகாரியிடமிருந்து மாற்றப்பட்டால்
+c) The information concerns a third party / தகவல் ஒரு மூன்றாம் தரப்பினரைப் பற்றியதாக இருந்தால்
+d) The information is very old / தகவல் மிகவும் பழமையானதாக இருந்தால்
+**Answer: b**
+
+---
+
+52.
+**English:** The appointment committee for the Central Chief Information Commissioner does NOT include:
+**Tamil:** மத்திய தலைமைத் தகவல் ஆணையருக்கான நியமனக் குழுவில் யார் இடம்பெற மாட்டார்?
+a) The Prime Minister / பிரதமர்
+b) The Leader of the Opposition in the Lok Sabha / மக்களவையின் எதிர்க்கட்சித் தலைவர்
+c) A Union Cabinet Minister nominated by the Prime Minister / பிரதமரால் பரிந்துரைக்கப்பட்ட ஒரு மத்திய அமைச்சரவை அமைச்சர்
+d) The Chief Justice of India / இந்தியத் தலைமை நீதிபதி
+**Answer: d**
+
+---
+
+53.
+**English:** Information about an event that happened 25 years ago cannot be denied under the RTI Act, unless it is covered by exemptions under which clauses of Section 8(1)?
+**Tamil:** 25 ஆண்டுகளுக்கு முன்பு நடந்த ஒரு நிகழ்வைப் பற்றிய தகவலை தகவல் அறியும் உரிமைச் சட்டத்தின் கீழ் மறுக்க முடியாது, அது பிரிவு 8(1)-ன் எந்த உட்பிரிவுகளின் கீழ் விலக்கு அளிக்கப்பட்டிருந்தால் தவிர?
+a) (b), (d) and (e)
+b) (a), (c) and (i)
+c) (f), (g) and (h)
+d) (j) only / (j) மட்டும்
+**Answer: b**
+
+---
+
+54.
+**English:** Who can impose penalties on a delinquent Public Information Officer?
+**Tamil:** கடமை தவறிய பொதுத் தகவல் அதிகாரி மீது யார் அபராதம் விதிக்க முடியும்?
+a) The Head of the Department / துறைத் தலைவர்
+b) The First Appellate Authority / முதல் மேல்முறையீட்டு அதிகாரி
+c) The Central or State Information Commission / மத்திய அல்லது மாநில தகவல் ஆணையம்
+d) A Civil Court / ஒரு உரிமையியல் நீதிமன்றம்
+**Answer: c**
+
+---
+
+55.
+**English:** The jurisdiction of the Central Information Commission extends to public authorities under the:
+**Tamil:** மத்திய தகவல் ஆணையத்தின் அதிகார வரம்பு எந்தப் பொது அதிகார அமைப்புகள் வரை நீண்டுள்ளது?
+a) Central Government and Union Territories / மத்திய அரசு மற்றும் யூனியன் பிரதேசங்கள்
+b) State Governments only / மாநில அரசுகள் மட்டும்
+c) Both Central and State Governments / மத்திய மற்றும் மாநில அரசுகள் இரண்டும்
+d) Only Parliament / நாடாளுமன்றம் மட்டும்
+**Answer: a**
+
+---
+
+56.
+**English:** As per Section 7(6) of the RTI Act, if information is not provided within the prescribed time, it must be provided:
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டம் பிரிவு 7(6)-ன் படி, நிர்ணயிக்கப்பட்ட காலத்திற்குள் தகவல் வழங்கப்படாவிட்டால், அது எவ்வாறு வழங்கப்பட வேண்டும்?
+a) With a written apology / ஒரு எழுத்துப்பூர்வ மன்னிப்புடன்
+b) Free of charge / கட்டணமின்றி
+c) With a 50% discount on the fee / கட்டணத்தில் 50% தள்ளுபடியுடன்
+d) Only after a new application is filed / ஒரு புதிய விண்ணப்பம் தாக்கல் செய்யப்பட்ட பின்னரே
+**Answer: b**
+
+---
+
+57.
+**English:** Information which cannot be denied to the Parliament or a State Legislature shall not be denied to any person. This is stated in:
+**Tamil:** நாடாளுமன்றத்திற்கோ அல்லது மாநில சட்டமன்றத்திற்கோ மறுக்க முடியாத தகவல்கள் எந்தவொரு நபருக்கும் மறுக்கப்படக்கூடாது. இது எங்கு கூறப்பட்டுள்ளது?
+a) Preamble of the Act / சட்டத்தின் முன்னுரை
+b) Section 8(1) proviso / பிரிவு 8(1)-ன் வரம்புரை
+c) Section 10(2)
+d) Section 24(1)
+**Answer: b**
+
+---
+
+58.
+**English:** What is the fee for the first appeal under the RTI Act?
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் கீழ் முதல் மேல்முறையீட்டிற்கான கட்டணம் என்ன?
+a) ₹ 10
+b) ₹ 20
+c) ₹ 50
+d) There is no prescribed fee for appeal / மேல்முறையீட்டிற்கு நிர்ணயிக்கப்பட்ட கட்டணம் எதுவும் இல்லை
+**Answer: d**
+
+---
+
+59.
+**English:** The RTI logo was designed by:
+**Tamil:** தகவல் அறியும் உரிமைச் சட்டத்தின் சின்னத்தை வடிவமைத்தவர்:
+a) National Institute of Design (NID) / தேசிய வடிவமைப்பு நிறுவனம் (NID)
+b) Students of IIT Bombay / ஐஐடி பம்பாய் மாணவர்கள்
+c) An open competition winner, Shri Pranab Mukherjee / ஒரு திறந்த போட்டி வெற்றியாளர், திரு. பிரணாப் முகர்ஜி
+d) An open competition winner, Shri Bhimrao Ramchandra Ambedkar (not the historical figure) / ஒரு திறந்த போட்டி வெற்றியாளர், திரு. பீம்ராவ் ராம்சந்திர அம்பேத்கார் (வரலாற்று நபர் அல்ல)
+**Answer: d**
+
+---
+
+60.
+**English:** If the interests of a third party are involved in an RTI request, how much time does the PIO have to make a decision?
+**Tamil:** ஒரு தகவல் அறியும் உரிமை கோரிக்கையில் மூன்றாம் தரப்பினரின் நலன்கள் சம்பந்தப்பட்டிருந்தால், ஒரு முடிவை எடுக்க பொதுத் தகவல் அதிகாரிக்கு எவ்வளவு காலம் உள்ளது?
+a) 30 days / 30 நாட்கள்
+b) 35 days / 35 நாட்கள்
+c) 40 days / 40 நாட்கள்
+d) 45 days / 45 நாட்கள்
+**Answer: c**
+
+---

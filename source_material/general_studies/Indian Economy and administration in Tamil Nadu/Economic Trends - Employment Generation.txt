@@ -1,0 +1,840 @@
+1. What is the primary objective of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)?
+a) To provide urban employment
+b) To guarantee 100 days of wage employment in a financial year to a rural household
+c) To provide skill training
+d) To promote small industries
+
+1. மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதிச் சட்டத்தின் (MGNREGA) முதன்மை நோக்கம் என்ன?
+a) நகர்ப்புற வேலைவாய்ப்பை வழங்குதல்
+b) ஒரு நிதியாண்டில் கிராமப்புற குடும்பத்திற்கு 100 நாட்கள் ஊதியத்துடன் கூடிய வேலைவாய்ப்புக்கு உத்தரவாதம் அளித்தல்
+c) திறன் பயிற்சி அளித்தல்
+d) சிறு தொழில்களை ஊக்குவித்தல்
+
+Answer: b
+---
+2. Which type of unemployment is most prominent in the Indian agricultural sector?
+a) Frictional unemployment
+b) Cyclical unemployment
+c) Disguised unemployment
+d) Structural unemployment
+
+2. இந்திய வேளாண் துறையில் முக்கியமாகக் காணப்படும் வேலையின்மை வகை எது?
+a) உராய்வு வேலையின்மை
+b) சுழற்சி வேலையின்மை
+c) மறைமுக வேலையின்மை
+d) கட்டமைப்பு வேலையின்மை
+
+Answer: c
+---
+3. The "Make in India" initiative was launched primarily to boost employment in which sector?
+a) Agricultural Sector
+b) Service Sector
+c) Manufacturing Sector
+d) Tourism Sector
+
+3. "மேக் இன் இந்தியா" திட்டம் முதன்மையாக எந்தத் துறையில் வேலைவாய்ப்பை அதிகரிக்க தொடங்கப்பட்டது?
+a) வேளாண் துறை
+b) சேவைத் துறை
+c) உற்பத்தித் துறை
+d) சுற்றுலாத் துறை
+
+Answer: c
+---
+4. Pradhan Mantri Kaushal Vikas Yojana (PMKVY) is a flagship scheme for:
+a) Rural housing
+b) Skill Development
+c) Financial inclusion
+d) Health insurance
+
+4. பிரதான் மந்திரி கௌஷல் விகாஸ் யோஜனா (PMKVY) என்பது எதற்கான முதன்மைத் திட்டமாகும்?
+a) கிராமப்புற வீட்டுவசதி
+b) திறன் மேம்பாடு
+c) நிதி உள்ளடக்கம்
+d) சுகாதார காப்பீடு
+
+Answer: b
+---
+5. Which organization in India is responsible for releasing the Periodic Labour Force Survey (PLFS) data?
+a) NITI Aayog
+b) Ministry of Finance
+c) National Statistical Office (NSO)
+d) Reserve Bank of India (RBI)
+
+5. இந்தியாவில் காலமுறை தொழிலாளர் சக்தி கணக்கெடுப்பு (PLFS) தரவுகளை வெளியிடும் அமைப்பு எது?
+a) நிதி ஆயோக்
+b) நிதி அமைச்சகம்
+c) தேசிய புள்ளியியல் அலுவலகம் (NSO)
+d) இந்திய ரிசர்வ் வங்கி (RBI)
+
+Answer: c
+---
+6. In the context of the Indian economy, what does 'LFPR' stand for?
+a) Labour Force Productivity Rate
+b) Labour Force Participation Rate
+c) Local Force Participation Rate
+d) Low Frequency Payment Ratio
+
+6. இந்தியப் பொருளாதாரத்தின் சூழலில், 'LFPR' என்பதன் விரிவாக்கம் என்ன?
+a) தொழிலாளர் சக்தி உற்பத்தித்திறன் விகிதம்
+b) தொழிலாளர் பங்களிப்பு விகிதம்
+c) உள்ளூர் சக்தி பங்களிப்பு விகிதம்
+d) குறைந்த அதிர்வெண் செலுத்தும் விகிதம்
+
+Answer: b
+---
+7. The services sector in India is also known as the:
+a) Primary Sector
+b) Secondary Sector
+c) Tertiary Sector
+d) Unorganized Sector
+
+7. இந்தியாவில் சேவைத் துறை இவ்வாறு அழைக்கப்படுகிறது:
+a) முதன்மைத் துறை
+b) இரண்டாம் நிலைத் துறை
+c) மூன்றாம் நிலைத் துறை
+d) அமைப்புசாராத் துறை
+
+Answer: c
+---
+8. 'Disguised Unemployment' means:
+a) People are not willing to work
+b) More people are employed in a job than actually needed
+c) Unemployment among educated people
+d) Temporary unemployment between jobs
+
+8. 'மறைமுக வேலையின்மை' என்பதன் பொருள்:
+a) மக்கள் வேலை செய்ய விரும்பவில்லை
+b) ஒரு வேலையில் தேவைக்கு அதிகமானோர் பணியமர்த்தப்படுதல்
+c) படித்தவர்களிடையே வேலையின்மை
+d) வேலைகளுக்கு இடையில் தற்காலிக வேலையின்மை
+
+Answer: b
+---
+9. The Stand-Up India scheme aims to promote entrepreneurship among:
+a) Senior citizens
+b) All rural households
+c) Women and SC/ST communities
+d) Urban youth
+
+9. ஸ்டாண்ட்-அப் இந்தியா திட்டம் யாரிடையே தொழில்முனைவோரை ஊக்குவிப்பதை நோக்கமாகக் கொண்டுள்ளது?
+a) மூத்த குடிமக்கள்
+b) அனைத்து கிராமப்புற குடும்பங்கள்
+c) பெண்கள் மற்றும் SC/ST சமூகத்தினர்
+d) நகர்ப்புற இளைஞர்கள்
+
+Answer: c
+---
+10. Which sector is the largest employer in the Indian economy?
+a) Manufacturing
+b) Agriculture
+c) Services
+d) Information Technology
+
+10. இந்தியப் பொருளாதாரத்தில் மிகப்பெரிய வேலைவாய்ப்பை வழங்கும் துறை எது?
+a) உற்பத்தி
+b) வேளாண்மை
+c) சேவைகள்
+d) தகவல் தொழில்நுட்பம்
+
+Answer: b
+---
+11. The Pradhan Mantri MUDRA Yojana (PMMY) provides loans to:
+a) Large corporate houses
+b) Non-corporate, non-farm small/micro-enterprises
+c) Only agricultural activities
+d) Public sector undertakings
+
+11. பிரதான் மந்திரி முத்ரா யோஜனா (PMMY) யாருக்கு கடன் வழங்குகிறது?
+a) பெரிய கார்ப்பரேட் நிறுவனங்கள்
+b) கார்ப்பரேட் அல்லாத, பண்ணை அல்லாத சிறு/குறு நிறுவனங்கள்
+c) விவசாய நடவடிக்கைகளுக்கு மட்டும்
+d) பொதுத்துறை நிறுவனங்கள்
+
+Answer: b
+---
+12. Unemployment that occurs due to a mismatch between the skills of the unemployed and the skills required for available jobs is called:
+a) Frictional unemployment
+b) Cyclical unemployment
+c) Seasonal unemployment
+d) Structural unemployment
+
+12. வேலையற்றோரின் திறன்களுக்கும், தற்போதுள்ள வேலைகளுக்குத் தேவைப்படும் திறன்களுக்கும் இடையிலான பொருத்தமின்மையால் ஏற்படும் வேலையின்மை இவ்வாறு அழைக்கப்படுகிறது:
+a) உராய்வு வேலையின்மை
+b) சுழற்சி வேலையின்மை
+c) பருவகால வேலையின்மை
+d) கட்டமைப்பு வேலையின்மை
+
+Answer: d
+---
+13. The Deen Dayal Upadhyaya-Grameen Kaushalya Yojana (DDU-GKY) focuses on:
+a) Providing financial aid to farmers
+b) Skilling rural youth and providing them with jobs
+c) Building rural roads
+d) Providing sanitation facilities in villages
+
+13. தீன் தயாள் உபாத்யாய-கிராமீன் கௌஷல்யா யோஜனா (DDU-GKY) எதில் கவனம் செலுத்துகிறது?
+a) விவசாயிகளுக்கு நிதியுதவி வழங்குதல்
+b) கிராமப்புற இளைஞர்களுக்கு திறன் பயிற்சி அளித்து அவர்களுக்கு வேலை வழங்குதல்
+c) கிராமப்புற சாலைகள் அமைத்தல்
+d) கிராமங்களில் சுகாதார வசதிகளை ஏற்படுத்துதல்
+
+Answer: b
+---
+14. An economy where a large portion of the workforce is in the informal sector is characterized by:
+a) High job security and social benefits
+b) Low job security and lack of social benefits
+c) High tax collection
+d) Strong trade unions
+
+14. ஒரு பொருளாதாரத்தில் பெரும்பான்மையான தொழிலாளர்கள் அமைப்புசாராத் துறையில் இருந்தால், அதன் பண்பு:
+a) உயர் வேலை பாதுகாப்பு மற்றும் சமூக நன்மைகள்
+b) குறைந்த வேலை பாதுகாப்பு மற்றும் சமூக நன்மைகள் இல்லாமை
+c) அதிக வரி வசூல்
+d) வலுவான தொழிற்சங்கங்கள்
+
+Answer: b
+---
+15. What does the term 'gig economy' refer to?
+a) A labour market with permanent jobs
+b) A labour market characterized by short-term contracts or freelance work
+c) An economy dominated by large factories
+d) An economy based on agriculture
+
+15. 'கிக் பொருளாதாரம்' என்ற சொல் எதைக் குறிக்கிறது?
+a) நிரந்தர வேலைகளுடன் கூடிய தொழிலாளர் சந்தை
+b) குறுகிய கால ஒப்பந்தங்கள் அல்லது தனிப்பட்ட ஒப்பந்த வேலைகளால் வகைப்படுத்தப்படும் தொழிலாளர் சந்தை
+c) பெரிய தொழிற்சாலைகள் ஆதிக்கம் செலுத்தும் பொருளாதாரம்
+d) விவசாயத்தை அடிப்படையாகக் கொண்ட பொருளாதாரம்
+
+Answer: b
+---
+16. The National Career Service (NCS) portal was launched by which ministry?
+a) Ministry of Finance
+b) Ministry of Human Resource Development
+c) Ministry of Labour and Employment
+d) Ministry of Skill Development and Entrepreneurship
+
+16. தேசிய தொழில் வழிகாட்டல் சேவை (NCS) இணையதளத்தை எந்த அமைச்சகம் запустиியது?
+a) நிதி அமைச்சகம்
+b) மனிதவள மேம்பாட்டு அமைச்சகம்
+c) தொழிலாளர் மற்றும் வேலைவாய்ப்பு அமைச்சகம்
+d) திறன் மேம்பாடு மற்றும் தொழில்முனைவோர் அமைச்சகம்
+
+Answer: c
+---
+17. Frictional unemployment is best described as:
+a) Unemployment during a recession
+b) Unemployment due to seasonal changes
+c) Temporary unemployment when a person is moving between jobs
+d) Unemployment due to lack of skills
+
+17. உராய்வு வேலையின்மை என்பதை சிறந்த முறையில் விவரிப்பது:
+a) பொருளாதார மந்தநிலையின் போது ஏற்படும் வேலையின்மை
+b) பருவகால மாற்றங்களால் ஏற்படும் வேலையின்மை
+c) ஒருவர் ஒரு வேலையிலிருந்து மற்றொரு வேலைக்கு மாறும்போது ஏற்படும் தற்காலிக வேலையின்மை
+d) திறன் பற்றாக்குறையால் ஏற்படும் வேலையின்மை
+
+Answer: c
+---
+18. The Atal Pension Yojana (APY) is aimed at providing social security to workers in which sector?
+a) Organized sector
+b) Unorganized sector
+c) Public sector
+d) IT sector
+
+18. அடல் ஓய்வூதியத் திட்டம் (APY) எந்தத் துறையில் உள்ள தொழிலாளர்களுக்கு சமூகப் பாதுகாப்பை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது?
+a) அமைப்புசார்ந்த துறை
+b) அமைப்புசாராத் துறை
+c) பொதுத் துறை
+d) தகவல் தொழில்நுட்பத் துறை
+
+Answer: b
+---
+19. Which of the following is considered part of the labour force?
+a) People below 15 years of age
+b) Students not seeking work
+c) Employed and unemployed persons seeking jobs
+d) Retired persons
+
+19. பின்வருவனவற்றில் தொழிலாளர் சக்தியின் ஒரு பகுதியாகக் கருதப்படுவது எது?
+a) 15 வயதுக்குட்பட்டவர்கள்
+b) வேலை தேடாத மாணவர்கள்
+c) பணியில் உள்ளவர்கள் மற்றும் வேலை தேடும் வேலையற்றோர்
+d) ஓய்வு பெற்றவர்கள்
+
+Answer: c
+---
+20. The 'Shram Suvidha Portal' was launched to:
+a) Provide skill training to youth
+b) Simplify business regulations and facilitate reporting for establishments
+c) Offer loans to street vendors
+d) Create a database of migrant workers
+
+20. 'ஷ்ரம் சுவிதா போர்ட்டல்' இதற்காக தொடங்கப்பட்டது:
+a) இளைஞர்களுக்கு திறன் பயிற்சி அளிக்க
+b) வணிக விதிமுறைகளை எளிதாக்குவதற்கும், நிறுவனங்களுக்கான அறிக்கையிடலை எளிதாக்குவதற்கும்
+c) தெருவோர வியாபாரிகளுக்கு கடன் வழங்க
+d) புலம்பெயர் தொழிலாளர்களின் தரவுத்தளத்தை உருவாக்க
+
+Answer: b
+---
+21. A sudden fall in demand for goods and services in an economy may lead to:
+a) Structural unemployment
+b) Frictional unemployment
+c) Cyclical unemployment
+d) Disguised unemployment
+
+21. ஒரு பொருளாதாரத்தில் பொருட்கள் மற்றும் சேவைகளுக்கான தேவையில் திடீர் வீழ்ச்சி எதற்கு வழிவகுக்கும்?
+a) கட்டமைப்பு வேலையின்மை
+b) உராய்வு வேலையின்மை
+c) சுழற்சி வேலையின்மை
+d) மறைமுக வேலையின்மை
+
+Answer: c
+---
+22. Which committee was constituted to review the MSME (Micro, Small and Medium Enterprises) sector in India?
+a) C. Rangarajan Committee
+b) U.K. Sinha Committee
+c) Bimal Jalan Committee
+d) Nachiket Mor Committee
+
+22. இந்தியாவில் MSME (குறு, சிறு மற்றும் நடுத்தர நிறுவனங்கள்) துறையை ஆய்வு செய்ய அமைக்கப்பட்ட குழு எது?
+a) சி. ரங்கராஜன் குழு
+b) யு.கே. சின்ஹா குழு
+c) பிமல் ஜாலன் குழு
+d) நசிகேத் மோர் குழு
+
+Answer: b
+---
+23. The term 'jobless growth' refers to a situation where:
+a) The economy grows without generating significant employment
+b) The economy shrinks, causing job losses
+c) Only the agricultural sector grows
+d) Employment grows faster than the economy
+
+23. 'வேலையில்லா வளர்ச்சி' என்ற சொல் எந்தச் சூழலைக் குறிக்கிறது?
+a) பொருளாதாரம் குறிப்பிடத்தக்க வேலைவாய்ப்பை உருவாக்காமல் வளர்தல்
+b) பொருளாதாரம் சுருங்கி, வேலை இழப்புகளை ஏற்படுத்துதல்
+c) விவசாயத் துறை மட்டும் வளர்தல்
+d) வேலைவாய்ப்பு பொருளாதாரத்தை விட வேகமாக வளர்தல்
+
+Answer: a
+---
+24. Under MGNREGA, what percentage of beneficiaries must be women?
+a) 10%
+b) 25%
+c) 33% (one-third)
+d) 50%
+
+24. MGNREGA திட்டத்தின் கீழ், பயனாளிகளில் எத்தனை சதவீதம் பேர் பெண்களாக இருக்க வேண்டும்?
+a) 10%
+b) 25%
+c) 33% (மூன்றில் ஒரு பங்கு)
+d) 50%
+
+Answer: c
+---
+25. The Pradhan Mantri Rojgar Protsahan Yojana (PMRPY) was designed to:
+a) Encourage employers to hire more unemployed persons
+b) Provide direct cash transfers to the unemployed
+c) Build rural infrastructure
+d) Promote self-help groups
+
+25. பிரதான் மந்திரி ரோஜ்கார் புரோட்சாஹன் யோஜனா (PMRPY) இதற்காக வடிவமைக்கப்பட்டது:
+a) வேலையற்றோரை அதிகமாகப் பணியமர்த்த முதலாளிகளை ஊக்குவிக்க
+b) வேலையற்றோருக்கு நேரடி பணப் பரிமாற்றம் வழங்க
+c) கிராமப்புற உள்கட்டமைப்பை உருவாக்க
+d) சுய உதவிக் குழுக்களை ஊக்குவிக்க
+
+Answer: a
+---
+26. Seasonal unemployment is commonly found in which sector?
+a) Information Technology
+b) Manufacturing
+c) Agriculture and Tourism
+d) Banking
+
+26. பருவகால வேலையின்மை பொதுவாக எந்தத் துறையில் காணப்படுகிறது?
+a) தகவல் தொழில்நுட்பம்
+b) உற்பத்தி
+c) வேளாண்மை மற்றும் சுற்றுலா
+d) வங்கி
+
+Answer: c
+---
+27. The Worker Population Ratio (WPR) is defined as:
+a) The number of unemployed persons per 1000 persons
+b) The number of employed persons per 1000 persons
+c) The number of persons in the labour force per 1000 persons
+d) The number of female workers per 1000 male workers
+
+27. தொழிலாளர் மக்கள் தொகை விகிதம் (WPR) இவ்வாறு வரையறுக்கப்படுகிறது:
+a) 1000 நபர்களுக்கு வேலையற்றோரின் எண்ணிக்கை
+b) 1000 நபர்களுக்கு வேலையில் உள்ளோரின் எண்ணிக்கை
+c) 1000 நபர்களுக்கு தொழிலாளர் சக்தியில் உள்ளோரின் எண்ணிக்கை
+d) 1000 ஆண் தொழிலாளர்களுக்கு பெண் தொழிலாளர்களின் எண்ணிக்கை
+
+Answer: b
+---
+28. 'Start-up India' initiative aims to:
+a) Build a strong ecosystem for nurturing innovation and Start-ups
+b) Provide free internet in rural areas
+c) Nationalize all start-up companies
+d) Provide jobs only in the public sector
+
+28. 'ஸ்டார்ட்-அப் இந்தியா' திட்டம் எதை நோக்கமாகக் கொண்டுள்ளது?
+a) புத்தாக்கம் மற்றும் ஸ்டார்ட்-அப் நிறுவனங்களை வளர்ப்பதற்கான ஒரு வலுவான சூழலை உருவாக்குதல்
+b) கிராமப்புறங்களில் இலவச இணையம் வழங்குதல்
+c) அனைத்து ஸ்டார்ட்-அப் நிறுவனங்களையும் தேசியமயமாக்குதல்
+d) பொதுத்துறையில் மட்டும் வேலை வழங்குதல்
+
+Answer: a
+---
+29. Which sector's contribution to India's GDP is the highest, but its share in employment is not the highest?
+a) Agriculture Sector
+b) Manufacturing Sector
+c) Service Sector
+d) Mining Sector
+
+29. இந்தியாவின் மொத்த உள்நாட்டு உற்பத்தியில் எந்தத் துறையின் பங்களிப்பு மிக அதிகமாக உள்ளது, ஆனால் வேலைவாய்ப்பில் அதன் பங்கு மிக அதிகமாக இல்லை?
+a) வேளாண் துறை
+b) உற்பத்தித் துறை
+c) சேவைத் துறை
+d) சுரங்கத் துறை
+
+Answer: c
+---
+30. The term 'Underemployment' refers to a situation where a person is:
+a) Working fewer hours than they would like
+b) Employed in a job that does not utilize their skills fully
+c) Both a and b
+d) Not employed at all
+
+30. 'குறை-வேலைவாய்ப்பு' என்ற சொல் எந்தச் சூழலைக் குறிக்கிறது?
+a) ஒருவர் விரும்பும் நேரத்தை விட குறைவான மணிநேரம் வேலை செய்வது
+b) ஒருவரின் திறன்களை முழுமையாகப் பயன்படுத்தாத வேலையில் இருப்பது
+c) a மற்றும் b இரண்டும்
+d) வேலையே இல்லாமல் இருப்பது
+
+Answer: c
+---
+31. The MGNREGA scheme provides a legal guarantee for employment, making it a:
+a) Demand-driven scheme
+b) Supply-driven scheme
+c) Skill-based scheme
+d) Urban-focused scheme
+
+31. MGNREGA திட்டம் வேலைவாய்ப்புக்கு சட்டப்பூர்வ உத்தரவாதத்தை வழங்குகிறது, இது ஒரு:
+a) தேவை-சார்ந்த திட்டம்
+b) அளிப்பு-சார்ந்த திட்டம்
+c) திறன்-அடிப்படையிலான திட்டம்
+d) நகர்ப்புறம்-சார்ந்த திட்டம்
+
+Answer: a
+---
+32. The main challenge associated with India's "demographic dividend" is:
+a) An aging population
+b) A declining birth rate
+c) Creating enough jobs for the large young workforce
+d) High literacy rates
+
+32. இந்தியாவின் "மக்கள் தொகை ஈவுத்தொகை" உடன் தொடர்புடைய முக்கிய சவால்:
+a) வயதான மக்கள் தொகை
+b) குறைந்து வரும் பிறப்பு விகிதம்
+c) பெரிய இளம் தொழிலாளர் சக்திக்கு போதுமான வேலைகளை உருவாக்குதல்
+d) அதிக எழுத்தறிவு விகிதங்கள்
+
+Answer: c
+---
+33. The 'e-SHRAM' portal has been developed to create a national database for:
+a) Organized sector workers
+b) Unorganized sector workers
+c) Government employees
+d) All university students
+
+33. 'e-SHRAM' போர்டல் யாருக்கான தேசிய தரவுத்தளத்தை உருவாக்க உருவாக்கப்பட்டுள்ளது?
+a) அமைப்புசார்ந்த துறை தொழிலாளர்கள்
+b) அமைப்புசாராத் துறை தொழிலாளர்கள்
+c) அரசு ஊழியர்கள்
+d) அனைத்து பல்கலைக்கழக மாணவர்கள்
+
+Answer: b
+---
+34. The increase in the share of the tertiary sector in total employment is an indicator of:
+a) Economic backwardness
+b) Economic development
+c) Stagnation
+d) High inflation
+
+34. மொத்த வேலைவாய்ப்பில் மூன்றாம் நிலைத் துறையின் பங்கு அதிகரிப்பது எதன் அறிகுறியாகும்?
+a) பொருளாதார பின்தங்கிய நிலை
+b) பொருளாதார வளர்ச்சி
+c) தேக்கநிலை
+d) அதிக பணவீக்கம்
+
+Answer: b
+---
+35. The 'Prime Minister's Employment Generation Programme' (PMEGP) is implemented by which ministry?
+a) Ministry of Labour and Employment
+b) Ministry of Micro, Small and Medium Enterprises (MSME)
+c) Ministry of Rural Development
+d) Ministry of Finance
+
+35. 'பிரதம மந்திரியின் வேலைவாய்ப்பு உருவாக்கும் திட்டம்' (PMEGP) எந்த அமைச்சகத்தால் செயல்படுத்தப்படுகிறது?
+a) தொழிலாளர் மற்றும் வேலைவாய்ப்பு அமைச்சகம்
+b) குறு, சிறு மற்றும் நடுத்தர நிறுவனங்கள் அமைச்சகம் (MSME)
+c) ஊரக வளர்ச்சி அமைச்சகம்
+d) நிதி அமைச்சகம்
+
+Answer: b
+---
+36. A key reason for the low Female Labour Force Participation Rate (FLFPR) in India is:
+a) High female literacy
+b) Social norms and domestic responsibilities
+c) Abundance of job opportunities for women
+d) Government policies discouraging women from working
+
+36. இந்தியாவில் குறைந்த பெண் தொழிலாளர் பங்களிப்பு விகிதத்திற்கான (FLFPR) ஒரு முக்கிய காரணம்:
+a) அதிக பெண் எழுத்தறிவு
+b) சமூக நெறிகள் மற்றும் வீட்டுப் பொறுப்புகள்
+c) பெண்களுக்கான வேலை வாய்ப்புகளின் பெருக்கம்
+d) பெண்கள் வேலைக்குச் செல்வதை ஊக்கப்படுத்தாத அரசாங்கக் கொள்கைகள்
+
+Answer: b
+---
+37. What is 'technological unemployment'?
+a) Unemployment caused by a lack of technology
+b) Unemployment caused by technological changes and automation
+c) Unemployment among IT professionals
+d) Unemployment in the technology sector
+
+37. 'தொழில்நுட்ப வேலையின்மை' என்றால் என்ன?
+a) தொழில்நுட்ப பற்றாக்குறையால் ஏற்படும் வேலையின்மை
+b) தொழில்நுட்ப மாற்றங்கள் மற்றும் ஆட்டோமேஷன் காரணமாக ஏற்படும் வேலையின்மை
+c) தகவல் தொழில்நுட்ப நிபுணர்களிடையே வேலையின்மை
+d) தொழில்நுட்பத் துறையில் வேலையின்மை
+
+Answer: b
+---
+38. Which five-year plan in India first recognized the need for specific employment generation programs?
+a) First Five-Year Plan
+b) Third Five-Year Plan
+c) Fifth Five-Year Plan
+d) Tenth Five-Year Plan
+
+38. இந்தியாவில் எந்த ஐந்தாண்டுத் திட்டம் முதன்முதலில் குறிப்பிட்ட வேலைவாய்ப்பு உருவாக்கும் திட்டங்களின் தேவையை அங்கீகரித்தது?
+a) முதல் ஐந்தாண்டுத் திட்டம்
+b) மூன்றாவது ஐந்தாண்டுத் திட்டம்
+c) ஐந்தாவது ஐந்தாண்டுத் திட்டம்
+d) பத்தாவது ஐந்தாண்டுத் திட்டம்
+
+Answer: c
+---
+39. The MSME sector is crucial for employment generation in India because it is:
+a) Capital intensive
+b) Labour intensive
+c) Entirely export-oriented
+d) A part of the public sector
+
+39. MSME துறை இந்தியாவில் வேலைவாய்ப்பை உருவாக்குவதில் முக்கியமானது, ஏனெனில் அது:
+a) மூலதனம் செறிந்தது
+b) உழைப்பு செறிந்தது
+c) முற்றிலும் ஏற்றுமதி சார்ந்தது
+d) பொதுத்துறையின் ஒரு பகுதி
+
+Answer: b
+---
+40. The social audit mechanism is a key feature of which employment scheme?
+a) PMKVY
+b) Start-up India
+c) MGNREGA
+d) MUDRA Yojana
+
+40. சமூக தணிக்கை பொறிமுறை எந்த வேலைவாய்ப்புத் திட்டத்தின் முக்கிய அம்சமாகும்?
+a) PMKVY
+b) ஸ்டார்ட்-அப் இந்தியா
+c) MGNREGA
+d) முத்ரா யோஜனா
+
+Answer: c
+---
+41. An unemployment rate is calculated as:
+a) (Number of Employed / Labour Force) x 100
+b) (Number of Unemployed / Total Population) x 100
+c) (Number of Unemployed / Labour Force) x 100
+d) (Labour Force / Total Population) x 100
+
+41. வேலையின்மை விகிதம் எவ்வாறு கணக்கிடப்படுகிறது:
+a) (வேலையில் உள்ளோர் எண்ணிக்கை / தொழிலாளர் சக்தி) x 100
+b) (வேலையற்றோர் எண்ணிக்கை / மொத்த மக்கள் தொகை) x 100
+c) (வேலையற்றோர் எண்ணிக்கை / தொழிலாளர் சக்தி) x 100
+d) (தொழிலாளர் சக்தி / மொத்த மக்கள் தொகை) x 100
+
+Answer: c
+---
+42. The National Skill Development Corporation (NSDC) was set up to:
+a) Regulate universities
+b) Promote public-private partnerships in skill development
+c) Provide housing loans
+d) Conduct national level examinations
+
+42. தேசிய திறன் மேம்பாட்டுக் கழகம் (NSDC) இதற்காக அமைக்கப்பட்டது:
+a) பல்கலைக்கழகங்களை ஒழுங்குபடுத்த
+b) திறன் மேம்பாட்டில் பொது-தனியார் கூட்டாண்மையை ஊக்குவிக்க
+c) வீட்டுக் கடன்களை வழங்க
+d) தேசிய அளவிலான தேர்வுகளை நடத்த
+
+Answer: b
+---
+43. The secondary sector of the economy includes:
+a) Agriculture and fishing
+b) Manufacturing, construction, and utilities
+c) Banking and communication
+d) Education and health
+
+43. பொருளாதாரத்தின் இரண்டாம் நிலைத் துறையில் அடங்குபவை:
+a) வேளாண்மை மற்றும் மீன்பிடித்தல்
+b) உற்பத்தி, கட்டுமானம் மற்றும் பயன்பாடுகள்
+c) வங்கி மற்றும் தகவல் தொடர்பு
+d) கல்வி மற்றும் சுகாதாரம்
+
+Answer: b
+---
+44. The 'Garib Kalyan Rojgar Abhiyaan' was launched to provide employment opportunities to:
+a) Urban poor
+b) Returnee migrant workers
+c) Educated youth in cities
+d) Self-help groups
+
+44. 'கரிப் கல்யாண் ரோஜ்கார் அபியான்' யாருக்கு வேலை வாய்ப்புகளை வழங்க தொடங்கப்பட்டது?
+a) நகர்ப்புற ஏழைகள்
+b) திரும்பி வந்த புலம்பெயர் தொழிலாளர்கள்
+c) நகரங்களில் உள்ள படித்த இளைஞர்கள்
+d) சுய உதவிக் குழுக்கள்
+
+Answer: b
+---
+45. A person who is working but their contribution to production is zero or negligible is said to be:
+a) Seasonally unemployed
+b) Structurally unemployed
+c) Frictionally unemployed
+d) Disguisedly unemployed
+
+45. ஒருவர் வேலை செய்கிறார், ஆனால் உற்பத்தியில் அவரது பங்களிப்பு பூஜ்ஜியம் அல்லது மிகக் குறைவாக இருந்தால், அவர் இவ்வாறு கருதப்படுவார்:
+a) பருவகால வேலையற்றவர்
+b) கட்டமைப்பு வேலையற்றவர்
+c) உராய்வு வேலையற்றவர்
+d) மறைமுக வேலையற்றவர்
+
+Answer: d
+---
+46. Which of the following is a major characteristic of the informal or unorganized sector in India?
+a) Strong trade unions
+b) High wages and salaries
+c) Absence of social security benefits like pension and paid leave
+d) Permanent and secure jobs
+
+46. இந்தியாவில் அமைப்புசாராத் துறையின் முக்கிய பண்பு பின்வருவனவற்றில் எது?
+a) வலுவான தொழிற்சங்கங்கள்
+b) அதிக ஊதியம் மற்றும் சம்பளம்
+c) ஓய்வூதியம் மற்றும் ஊதியத்துடன் கூடிய விடுப்பு போன்ற சமூகப் பாதுகாப்புப் பலன்கள் இல்லாமை
+d) நிரந்தர மற்றும் பாதுகாப்பான வேலைகள்
+
+Answer: c
+---
+47. The Mahatma Gandhi National Fellowship program is associated with:
+a) Rural employment
+b) Skill development and district-level administration
+c) Medical education
+d) Primary education
+
+47. மகாத்மா காந்தி தேசிய பெல்லோஷிப் திட்டம் எதனுடன் தொடர்புடையது?
+a) கிராமப்புற வேலைவாய்ப்பு
+b) திறன் மேம்பாடு மற்றும் மாவட்ட அளவிலான நிர்வாகம்
+c) மருத்துவக் கல்வி
+d) ஆரம்பக் கல்வி
+
+Answer: b
+---
+48. The transition of the workforce from the agricultural sector to the industrial and service sectors is known as:
+a) Structural transformation
+b) Economic recession
+c) Demographic transition
+d) Agricultural revolution
+
+48. தொழிலாளர் சக்தியானது விவசாயத் துறையிலிருந்து தொழில் மற்றும் சேவைத் துறைகளுக்கு மாறுவது இவ்வாறு அறியப்படுகிறது:
+a) கட்டமைப்பு மாற்றம்
+b) பொருளாதார மந்தநிலை
+c) மக்கள் தொகை மாற்றம்
+d) விவசாயப் புரட்சி
+
+Answer: a
+---
+49. The 'Atmanirbhar Bharat Rojgar Yojana' (ABRY) was launched to:
+a) Promote self-employment in rural areas
+b) Boost creation of new jobs in the formal sector during the COVID-19 recovery phase
+c) Provide food security
+d) Build national highways
+
+49. 'ஆத்மநிர்பார் பாரத் ரோஜ்கார் யோஜனா' (ABRY) இதற்காக தொடங்கப்பட்டது:
+a) கிராமப்புறங்களில் சுயதொழிலை ஊக்குவிக்க
+b) கோவிட்-19 மீட்பு கட்டத்தின் போது அமைப்புசார்ந்த துறையில் புதிய வேலைகளை உருவாக்குவதை அதிகரிக்க
+c) உணவுப் பாதுகாப்பை வழங்க
+d) தேசிய நெடுஞ்சாலைகளை அமைக்க
+
+Answer: b
+---
+50. What is the main objective of the 'Skill India Mission'?
+a) To provide formal education to all
+b) To train over 40 crore people in India in different skills by 2022
+c) To ensure 100% literacy
+d) To provide loans for higher education
+
+50. 'திறன் இந்தியா இயக்கத்தின்' முக்கிய நோக்கம் என்ன?
+a) அனைவருக்கும் முறையான கல்வியை வழங்குதல்
+b) 2022-க்குள் இந்தியாவில் 40 கோடிக்கும் அதிகமான மக்களுக்கு பல்வேறு திறன்களில் பயிற்சி அளித்தல்
+c) 100% எழுத்தறிவை உறுதி செய்தல்
+d) உயர் கல்விக்கு கடன் வழங்குதல்
+
+Answer: b
+---
+51. What does the term "formalization of the economy" mean in the context of employment?
+a) Increasing the number of government jobs
+b) Shifting workers from the informal sector to the formal sector
+c) Making all jobs contract-based
+d) Decreasing the retirement age
+
+51. வேலைவாய்ப்பு சூழலில் "பொருளாதாரத்தை முறைப்படுத்துதல்" என்பதன் பொருள் என்ன?
+a) அரசுப் பணிகளின் எண்ணிக்கையை அதிகரித்தல்
+b) தொழிலாளர்களை அமைப்புசாராத் துறையிலிருந்து அமைப்புசார்ந்த துறைக்கு மாற்றுதல்
+c) அனைத்து வேலைகளையும் ஒப்பந்த அடிப்படையிலானதாக மாற்றுதல்
+d) ஓய்வு பெறும் வயதைக் குறைத்தல்
+
+Answer: b
+---
+52. The 'National Apprenticeship Promotion Scheme' (NAPS) aims to:
+a) Increase the number of apprentices hired by employers
+b) Provide pensions to all citizens
+c) Construct new training institutes
+d) Fund start-up companies
+
+52. 'தேசிய தொழிற்பழகுநர் ஊக்குவிப்புத் திட்டம்' (NAPS) எதை நோக்கமாகக் கொண்டுள்ளது?
+a) முதலாளிகளால் பணியமர்த்தப்படும் தொழிற்பழகுநர்களின் எண்ணிக்கையை அதிகரித்தல்
+b) அனைத்து குடிமக்களுக்கும் ஓய்வூதியம் வழங்குதல்
+c) புதிய பயிற்சி நிறுவனங்களை உருவாக்குதல்
+d) ஸ்டார்ட்-அப் நிறுவனங்களுக்கு நிதியளித்தல்
+
+Answer: a
+---
+53. The Labour Codes recently passed by the Indian Parliament aim to:
+a) Complicate labour laws
+b) Consolidate and simplify numerous central labour laws
+c) Abolish trade unions
+d) Increase the number of public holidays
+
+53. இந்திய நாடாளுமன்றத்தால் சமீபத்தில் நிறைவேற்றப்பட்ட தொழிலாளர் சட்டங்கள் எதை நோக்கமாகக் கொண்டுள்ளன?
+a) தொழிலாளர் சட்டங்களை சிக்கலாக்குதல்
+b) பல மத்திய தொழிலாளர் சட்டங்களை ஒருங்கிணைத்து எளிமைப்படுத்துதல்
+c) தொழிற்சங்கங்களை ஒழித்தல்
+d) பொது விடுமுறை நாட்களின் எண்ணிக்கையை அதிகரித்தல்
+
+Answer: b
+---
+54. The concept of 'demographic dividend' refers to the potential economic growth resulting from:
+a) An increase in the share of the elderly population
+b) A decrease in the total population
+c) An increase in the share of the working-age population
+d) A stable population with no growth
+
+54. 'மக்கள் தொகை ஈவுத்தொகை' என்ற கருத்து எதனால் ஏற்படும் சாத்தியமான பொருளாதார வளர்ச்சியைக் குறிக்கிறது?
+a) முதியோர்களின் பங்கில் அதிகரிப்பு
+b) மொத்த மக்கள் தொகையில் குறைவு
+c) வேலை செய்யும் வயதுடைய மக்களின் பங்கில் அதிகரிப்பு
+d) வளர்ச்சியற்ற நிலையான மக்கள் தொகை
+
+Answer: c
+---
+55. PM-SVANidhi scheme was launched to provide affordable working capital loans to whom?
+a) Farmers
+b) Street Vendors
+c) Small industrialists
+d) Unemployed graduates
+
+55. PM-SVANidhi திட்டம் யாருக்கு மலிவு விலையில் நடைமுறை மூலதனக் கடன்களை வழங்க தொடங்கப்பட்டது?
+a) விவசாயிகள்
+b) தெருவோர வியாபாரிகள்
+c) சிறு தொழில்முனைவோர்
+d) வேலையற்ற பட்டதாரிகள்
+
+Answer: b
+---
+56. Which of the following is an example of a primary sector activity?
+a) Software development
+b) Car manufacturing
+c) Banking
+d) Mining
+
+56. பின்வருவனவற்றில் முதன்மைத் துறை நடவடிக்கைக்கு ஒரு உதாரணம் எது?
+a) மென்பொருள் உருவாக்கம்
+b) கார் உற்பத்தி
+c) வங்கிப்பணி
+d) சுரங்கத் தொழில்
+
+Answer: d
+---
+57. Cyclical unemployment is associated with:
+a) The changing seasons of the year
+b) The business cycle of an economy (recessions and expansions)
+c) People moving between jobs
+d) Technological advancements
+
+57. சுழற்சி வேலையின்மை எதனுடன் தொடர்புடையது?
+a) ஆண்டின் மாறும் பருவங்கள்
+b) ஒரு பொருளாதாரத்தின் வணிகச் சுழற்சி (மந்தநிலைகள் மற்றும் விரிவாக்கங்கள்)
+c) மக்கள் வேலைகளுக்கு இடையில் மாறுவது
+d) தொழில்நுட்ப முன்னேற்றங்கள்
+
+Answer: b
+---
+58. The 'SANKALP' scheme, launched by the Ministry of Skill Development, stands for:
+a) Skills Acquisition and Knowledge Awareness for Livelihood Promotion
+b) Social Action for National Knowledge and Livelihood
+c) Skilled Action and Knowledge for Livelihood Potential
+d) Social Awareness and Knowledge for Livelihood Promotion
+
+58. திறன் மேம்பாட்டு அமைச்சகத்தால் தொடங்கப்பட்ட 'SANKALP' திட்டத்தின் விரிவாக்கம்:
+a) Skills Acquisition and Knowledge Awareness for Livelihood Promotion (வாழ்வாதார மேம்பாட்டிற்கான திறன்கள் பெறுதல் மற்றும் அறிவு விழிப்புணர்வு)
+b) Social Action for National Knowledge and Livelihood
+c) Skilled Action and Knowledge for Livelihood Potential
+d) Social Awareness and Knowledge for Livelihood Promotion
+
+Answer: a
+---
+59. The period in India known for "jobless growth" was prominently seen during the:
+a) 1950s-1960s
+b) 1970s-1980s
+c) Post-2000s high growth phase
+d) Pre-independence era
+
+59. இந்தியாவில் "வேலையில்லா வளர்ச்சி" என்று அறியப்பட்ட காலம் முக்கியமாக எப்போது காணப்பட்டது?
+a) 1950-1960கள்
+b) 1970-1980கள்
+c) 2000-களுக்குப் பிறகான உயர் வளர்ச்சிக் கட்டம்
+d) சுதந்திரத்திற்கு முந்தைய காலம்
+
+Answer: c
+---
+60. In MGNREGA, if employment is not provided within 15 days of demand, the applicant is entitled to:
+a) A higher priority in the next month
+b) An unemployment allowance
+c) A loan from the government
+d) A skill training certificate
+
+60. MGNREGA திட்டத்தில், வேலை கோரிய 15 நாட்களுக்குள் வேலை வழங்கப்படாவிட்டால், விண்ணப்பதாரர் எதைப் பெற தகுதியுடையவர்?
+a) அடுத்த மாதத்தில் உயர் முன்னுரிமை
+b) வேலையின்மை உதவித்தொகை
+c) அரசிடமிருந்து கடன்
+d) திறன் பயிற்சி சான்றிதழ்
+
+Answer: b
+---

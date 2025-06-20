@@ -1,0 +1,1074 @@
+---
+**Overall Topic for Question Generation: Characteristics of Indian Culture**
+---
+
+**I. Identify the Wrongly Matched Pair Questions (10 questions)**
+---
+
+1.  Identify the wrongly matched pair regarding festivals and their primary state of celebration.
+    a) Pongal - Tamil Nadu
+    b) Bihu - Assam
+    c) Onam - Kerala
+    d) Lohri - West Bengal
+    ---
+    பண்டிகைகள் மற்றும் அவை கொண்டாடப்படும் முதன்மை மாநிலம் குறித்த தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்.
+    a) பொங்கல் - தமிழ்நாடு
+    b) பிகு - அசாம்
+    c) ஓணம் - கேரளா
+    d) லோஹ்ரி - மேற்கு வங்கம்
+    Answer: d (Lohri - Punjab)
+    விடை: d (லோஹ்ரி - பஞ்சாப்)
+
+2.  Identify the wrongly matched pair regarding classical dances and their state of origin.
+    a) Bharatanatyam - Tamil Nadu
+    b) Kathak - Uttar Pradesh
+    c) Kuchipudi - Andhra Pradesh
+    d) Mohiniyattam - Odisha
+    ---
+    பாரம்பரிய நடனங்கள் மற்றும் அவற்றின் உதயமான மாநிலம் குறித்த தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்.
+    a) பரதநாட்டியம் - தமிழ்நாடு
+    b) கதக் - உத்தரப் பிரதேசம்
+    c) குச்சிப்புடி - ஆந்திரப் பிரதேசம்
+    d) மோகினியாட்டம் - ஒடிசா
+    Answer: d (Mohiniyattam - Kerala)
+    விடை: d (மோகினியாட்டம் - கேரளா)
+
+3.  Identify the wrongly matched pair regarding ancient texts and their language.
+    a) Ramayana - Sanskrit
+    b) Tirukkural - Tamil
+    c) Arthashastra - Pali
+    d) Mahabharata - Sanskrit
+    ---
+    பண்டைய நூல்கள் மற்றும் அவற்றின் மொழி குறித்த தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்.
+    a) ராமாயணம் - சமஸ்கிருதம்
+    b) திருக்குறள் - தமிழ்
+    c) அர்த்தசாஸ்திரம் - பாலி
+    d) மகாபாரதம் - சமஸ்கிருதம்
+    Answer: c (Arthashastra - Sanskrit)
+    விடை: c (அர்த்தசாஸ்திரம் - சமஸ்கிருதம்)
+
+4.  Identify the wrongly matched pair regarding philosophical schools and their proponents/founders.
+    a) Advaita Vedanta - Adi Shankaracharya
+    b) Nyaya - Gautama Maharishi
+    c) Yoga - Patanjali
+    d) Buddhism - Mahavira
+    ---
+    தத்துவப் பள்ளிகள் மற்றும் அவற்றை முன்மொழிந்தவர்கள்/நிறுவியவர்கள் குறித்த தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்.
+    a) அத்வைத வேதாந்தம் - ஆதி சங்கராச்சாரியார்
+    b) நியாயம் - கௌதம மகரிஷி
+    c) யோகா - பதஞ்சலி
+    d) பௌத்தம் - மகாவீரர்
+    Answer: d (Buddhism - Siddhartha Gautama; Mahavira - Jainism)
+    விடை: d (பௌத்தம் - சித்தார்த்த கௌதமர்; மகாவீரர் - ஜைனம்)
+
+5.  Identify the wrongly matched pair regarding art forms and their region of origin.
+    a) Madhubani Painting - Bihar
+    b) Warli Painting - Maharashtra
+    c) Kalamkari Art - Andhra Pradesh
+    d) Tanjore Painting - Kerala
+    ---
+    கலை வடிவங்கள் மற்றும் அவை தோன்றிய பிராந்தியம் குறித்த தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்.
+    a) மதுபனி ஓவியம் - பீகார்
+    b) வார்லி ஓவியம் - மகாராஷ்டிரா
+    c) கலம்காரி கலை - ஆந்திரப் பிரதேசம்
+    d) தஞ்சாவூர் ஓவியம் - கேரளா
+    Answer: d (Tanjore Painting - Tamil Nadu)
+    விடை: d (தஞ்சாவூர் ஓவியம் - தமிழ்நாடு)
+
+6.  Identify the wrongly matched pair regarding traditional attire and its associated state.
+    a) Pheran - Kashmir
+    b) Mekhela Chador - Assam
+    c) Phulkari - Haryana
+    d) Mundu - Kerala
+    ---
+    பாரம்பரிய உடை மற்றும் அது தொடர்புடைய மாநிலம் குறித்த தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்.
+    a) பெரான் - காஷ்மீர்
+    b) மேகலா சடோர் - அசாம்
+    c) புல்காரி - ஹரியானா
+    d) முண்டு - கேரளா
+    Answer: c (Phulkari - Punjab)
+    விடை: c (புல்காரி - பஞ்சாப்)
+
+7.  Identify the wrongly matched pair regarding musical instruments and their famous exponents.
+    a) Sitar - Pandit Ravi Shankar
+    b) Tabla - Zakir Hussain
+    c) Flute (Bansuri) - Hariprasad Chaurasia
+    d) Sarod - Bismillah Khan
+    ---
+    இசைக்கருவிகள் மற்றும் அவற்றின் புகழ்பெற்ற கலைஞர்கள் குறித்த தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்.
+    a) சித்தார் - பண்டிட் ரவி சங்கர்
+    b) தபேலா - ஜாகிர் உசேன்
+    c) புல்லாங்குழல் (பன்சூரி) - ஹரிபிரசாத் சௌராசியா
+    d) சரோட் - பிஸ்மில்லா கான்
+    Answer: d (Bismillah Khan - Shehnai; Sarod - Amjad Ali Khan)
+    விடை: d (பிஸ்மில்லா கான் - ஷெனாய்; சரோட் - அம்ஜத் அலி கான்)
+
+8.  Identify the wrongly matched pair regarding temple architecture styles and their features.
+    a) Dravidian Style - Vimana
+    b) Nagara Style - Shikhara
+    c) Vesara Style - Combination of Nagara and Dravida
+    d) Nagara Style - Large temple tanks
+    ---
+    கோவில் கட்டிடக்கலை பாணிகள் மற்றும் அவற்றின் அம்சங்கள் குறித்த தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்.
+    a) திராவிட பாணி - விமானம்
+    b) நாகரா பாணி - சிகரம்
+    c) வேசர பாணி - நாகரா மற்றும் திராவிட கலவை
+    d) நாகரா பாணி - பெரிய கோவில் குளங்கள்
+    Answer: d (Large temple tanks are more characteristic of Dravidian temple complexes)
+    விடை: d (பெரிய கோவில் குளங்கள் திராவிட கோவில் வளாகங்களின் சிறப்பம்சமாகும்)
+
+9.  Identify the wrongly matched pair regarding important pilgrim sites and their associated religion.
+    a) Varanasi - Hinduism
+    b) Bodh Gaya - Buddhism
+    c) Golden Temple (Amritsar) - Sikhism
+    d) Ajmer Sharif Dargah - Jainism
+    ---
+    முக்கிய யாத்திரை தலங்கள் மற்றும் அவற்றுடன் தொடர்புடைய மதம் குறித்த தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்.
+    a) வாரணாசி - இந்து மதம்
+    b) புத்த கயா - பௌத்தம்
+    c) பொற்கோயில் (அமிர்தசரஸ்) - சீக்கிய மதம்
+    d) அஜ்மீர் ஷெரீப் தர்கா - ஜைன மதம்
+    Answer: d (Ajmer Sharif Dargah - Islam/Sufism)
+    விடை: d (அஜ்மீர் ஷெரீப் தர்கா - இஸ்லாம்/சூஃபித்துவம்)
+
+10. Identify the wrongly matched pair regarding cultural terms and their meanings.
+    a) Namaste - Greeting
+    b) Ahimsa - Non-violence
+    c) Karma - Action/Deed
+    d) Moksha - Reincarnation
+    ---
+    கலாச்சார சொற்கள் மற்றும் அவற்றின் பொருள்கள் குறித்த தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்.
+    a) நமஸ்தே - வணக்கம்
+    b) அகிம்சை - வன்முறையற்ற தன்மை
+    c) கர்மா - செயல்/வினை
+    d) மோட்சம் - மறுபிறவி
+    Answer: d (Moksha - Liberation/Salvation; Reincarnation is Samsara)
+    விடை: d (மோட்சம் - விடுதலை/முக்தி; மறுபிறவி என்பது சம்சாரம்)
+
+---
+**II. Match the Following Questions (10 questions)**
+---
+
+11. Match List-I (Festivals) with List-II (Primary Associated State).
+    List-I                 List-II
+    1. Ganesh Chaturthi    a. West Bengal
+    2. Durga Puja          b. Maharashtra
+    3. Hornbill Festival   c. Punjab
+    4. Baisakhi            d. Nagaland
+    ---
+    பட்டியல்-I (பண்டிகைகள்) உடன் பட்டியல்-II (முதன்மை தொடர்புடைய மாநிலம்) பொருத்துக.
+    பட்டியல்-I                 பட்டியல்-II
+    1. விநாயகர் சதுர்த்தி    a. மேற்கு வங்கம்
+    2. துர்கா பூஜை          b. மகாராஷ்டிரா
+    3. ஹார்ன்பில் விழா     c. பஞ்சாப்
+    4. பைசாகி              d. நாகாலாந்து
+
+    Options:
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-b, 4-a
+    D) 1-c, 2-d, 3-a, 4-b
+    Answer: A
+    விடை: A
+
+12. Match List-I (Literary Works) with List-II (Authors).
+    List-I                 List-II
+    1. Meghaduta           a. Tulsidas
+    2. Ramcharitmanas      b. Kalidasa
+    3. Gita Govinda        c. Kambar
+    4. Kamba Ramayanam     d. Jayadeva
+    ---
+    பட்டியல்-I (இலக்கியப் படைப்புகள்) உடன் பட்டியல்-II (ஆசிரியர்கள்) பொருத்துக.
+    பட்டியல்-I                 பட்டியல்-II
+    1. மேகதூதம்             a. துளசிதாசர்
+    2. ராமசரிதமானஸ்         b. காளிதாசர்
+    3. கீத கோவிந்தம்        c. கம்பர்
+    4. கம்ப ராமாயணம்        d. ஜெயதேவர்
+
+    Options:
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-a, 4-b
+    D) 1-c, 2-d, 3-b, 4-a
+    Answer: A
+    விடை: A
+
+13. Match List-I (Folk Dances) with List-II (State of Origin).
+    List-I             List-II
+    1. Garba           a. Punjab
+    2. Bhangra         b. Rajasthan
+    3. Ghoomar         c. Assam
+    4. Bihu            d. Gujarat
+    ---
+    பட்டியல்-I (நாட்டுப்புற நடனங்கள்) உடன் பட்டியல்-II (தோன்றிய மாநிலம்) பொருத்துக.
+    பட்டியல்-I             பட்டியல்-II
+    1. கர்பா             a. பஞ்சாப்
+    2. பாங்க்ரா           b. ராஜஸ்தான்
+    3. கூமர்             c. அசாம்
+    4. பிகு              d. குஜராத்
+
+    Options:
+    A) 1-a, 2-b, 3-d, 4-c
+    B) 1-d, 2-a, 3-b, 4-c
+    C) 1-b, 2-d, 3-c, 4-a
+    D) 1-c, 2-a, 3-b, 4-d
+    Answer: B
+    விடை: B
+
+14. Match List-I (Philosophical Concepts) with List-II (Associated Religion/School).
+    List-I                List-II
+    1. Nirvana            a. Jainism
+    2. Kaivalya           b. Hinduism (Vedanta)
+    3. Brahman            c. Sikhism
+    4. Ek Onkar           d. Buddhism
+    ---
+    பட்டியல்-I (தத்துவக் கருத்துக்கள்) உடன் பட்டியல்-II (தொடர்புடைய மதம்/பள்ளி) பொருத்துக.
+    பட்டியல்-I                பட்டியல்-II
+    1. நிர்வாணம்            a. ஜைனம்
+    2. கைவல்யம்            b. இந்து மதம் (வேதாந்தம்)
+    3. பிரம்மன்             c. சீக்கிய மதம்
+    4. ஏக் ஓங்கார்           d. பௌத்தம்
+
+    Options:
+    A) 1-a, 2-b, 3-d, 4-c
+    B) 1-b, 2-c, 3-a, 4-d
+    C) 1-d, 2-a, 3-b, 4-c
+    D) 1-c, 2-d, 3-b, 4-a
+    Answer: C
+    விடை: C
+
+15. Match List-I (Historical Monuments) with List-II (Location).
+    List-I                 List-II
+    1. Taj Mahal           a. Delhi
+    2. Red Fort            b. Hyderabad
+    3. Charminar           c. Agra
+    4. Victoria Memorial   d. Kolkata
+    ---
+    பட்டியல்-I (வரலாற்று நினைவுச்சின்னங்கள்) உடன் பட்டியல்-II (அமைவிடம்) பொருத்துக.
+    பட்டியல்-I                 பட்டியல்-II
+    1. தாஜ்மஹால்            a. டெல்லி
+    2. செங்கோட்டை           b. ஹைதராபாத்
+    3. சார்மினார்            c. ஆக்ரா
+    4. விக்டோரியா நினைவிடம் d. கொல்கத்தா
+
+    Options:
+    A) 1-a, 2-b, 3-c, 4-d
+    B) 1-b, 2-c, 3-d, 4-a
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-c, 2-a, 3-b, 4-d
+    Answer: D
+    விடை: D
+
+16. Match List-I (Types of Indian Music) with List-II (Primary Region of Prominence).
+    List-I                     List-II
+    1. Carnatic Music          a. North India
+    2. Hindustani Music        b. West India (Maharashtra for Lavani)
+    3. Rabindra Sangeet        c. South India
+    4. Lavani                  d. Bengal
+    ---
+    பட்டியல்-I (இந்திய இசை வகைகள்) உடன் பட்டியல்-II (முதன்மைப் பிரபல்யப் பகுதி) பொருத்துக.
+    பட்டியல்-I                     பட்டியல்-II
+    1. கர்நாடக இசை           a. வட இந்தியா
+    2. இந்துஸ்தானி இசை       b. மேற்கு இந்தியா (லாவணிக்கு மகாராஷ்டிரா)
+    3. ரவீந்திர சங்கீதம்       c. தென் இந்தியா
+    4. லாவணி                  d. வங்கம்
+
+    Options:
+    A) 1-c, 2-a, 3-d, 4-b
+    B) 1-a, 2-c, 3-b, 4-d
+    C) 1-d, 2-b, 3-a, 4-c
+    D) 1-b, 2-d, 3-c, 4-a
+    Answer: A
+    விடை: A
+
+17. Match List-I (Traditional Textiles/Crafts) with List-II (State of Origin).
+    List-I                 List-II
+    1. Kanjeevaram Silk    a. Odisha
+    2. Patola Saree        b. Tamil Nadu
+    3. Ikat (Bandha)       c. Uttar Pradesh
+    4. Chikankari          d. Gujarat
+    ---
+    பட்டியல்-I (பாரம்பரிய ஜவுளி/கைவினைப்பொருட்கள்) உடன் பட்டியல்-II (தோன்றிய மாநிலம்) பொருத்துக.
+    பட்டியல்-I                 பட்டியல்-II
+    1. காஞ்சிபுரம் பட்டு     a. ஒடிசா
+    2. படோலா சேலை         b. தமிழ்நாடு
+    3. இகாட் (பந்தா)        c. உத்தரப் பிரதேசம்
+    4. சிக்கன்காரி          d. குஜராத்
+
+    Options:
+    A) 1-a, 2-c, 3-d, 4-b
+    B) 1-b, 2-d, 3-a, 4-c
+    C) 1-d, 2-a, 3-b, 4-c
+    D) 1-c, 2-b, 3-d, 4-a
+    Answer: B
+    விடை: B
+
+18. Match List-I (Elements of Indian Culture) with List-II (Description/Association).
+    List-I                     List-II
+    1. Joint Family System     a. Form of traditional martial art
+    2. Guru-Shishya Parampara  b. Traditional system of Indian medicine
+    3. Ayurveda                c. Teacher-disciple tradition
+    4. Kalaripayattu           d. Extended family living together
+    ---
+    பட்டியல்-I (இந்திய கலாச்சார கூறுகள்) உடன் பட்டியல்-II (விளக்கம்/தொடர்பு) பொருத்துக.
+    பட்டியல்-I                            பட்டியல்-II
+    1. கூட்டு குடும்ப முறை             a. பாரம்பரிய தற்காப்புக் கலை வடிவம்
+    2. குரு-சிஷ்ய பரம்பரை             b. பாரம்பரிய இந்திய மருத்துவ முறை
+    3. ஆயுர்வேதம்                      c. ஆசிரியர்-மாணவர் பாரம்பரியம்
+    4. களரிப்பயிற்று                  d. விரிந்த குடும்பம் ஒன்றாக வாழ்வது
+
+    Options:
+    A) 1-d, 2-c, 3-b, 4-a
+    B) 1-c, 2-d, 3-a, 4-b
+    C) 1-b, 2-a, 3-c, 4-d
+    D) 1-a, 2-b, 3-d, 4-c
+    Answer: A
+    விடை: A
+
+19. Match List-I (Sacred Texts) with List-II (Associated Religion).
+    List-I                 List-II
+    1. Guru Granth Sahib   a. Jainism
+    2. Tripitaka           b. Sikhism
+    3. Vedas               c. Buddhism
+    4. Agamas              d. Hinduism
+    ---
+    பட்டியல்-I (புனித நூல்கள்) உடன் பட்டியல்-II (தொடர்புடைய மதம்) பொருத்துக.
+    பட்டியல்-I                 பட்டியல்-II
+    1. குரு கிரந்த் சாஹிப்   a. ஜைனம்
+    2. திரிபிடகம்            b. சீக்கிய மதம்
+    3. வேதங்கள்              c. பௌத்தம்
+    4. ஆகமங்கள்             d. இந்து மதம்
+
+    Options:
+    A) 1-b, 2-c, 3-d, 4-a
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-a, 3-c, 4-b
+    D) 1-c, 2-d, 3-b, 4-a
+    Answer: A
+    விடை: A
+
+20. Match List-I (Cultural Concepts - Purusharthas) with List-II (Meaning).
+    List-I         List-II
+    1. Dharma      a. Liberation
+    2. Artha       b. Pleasure/Desire
+    3. Kama        c. Duty/Righteousness
+    4. Moksha      d. Wealth/Prosperity
+    ---
+    பட்டியல்-I (கலாச்சாரக் கருத்துக்கள் - புருஷார்த்தங்கள்) உடன் பட்டியல்-II (பொருள்) பொருத்துக.
+    பட்டியல்-I         பட்டியல்-II
+    1. தர்மம்       a. விடுதலை
+    2. அர்த்தம்      b. இன்பம்/விருப்பம்
+    3. காமம்        c. கடமை/நீதி
+    4. மோட்சம்      d. செல்வம்/செழிப்பு
+
+    Options:
+    A) 1-a, 2-b, 3-d, 4-c
+    B) 1-d, 2-c, 3-a, 4-b
+    C) 1-c, 2-d, 3-b, 4-a
+    D) 1-b, 2-a, 3-c, 4-d
+    Answer: C
+    விடை: C
+
+---
+**III. Standard Multiple Choice Questions (50 questions)**
+---
+
+21. The concept of "Unity in Diversity" in Indian culture primarily signifies:
+    a) Uniformity in all cultural practices
+    b) Underlying oneness despite various external differences
+    c) Absence of any cultural conflicts
+    d) A single dominant culture
+    ---
+    இந்திய கலாச்சாரத்தில் "வேற்றுமையில் ஒற்றுமை" என்ற கருத்து முதன்மையாக எதைக் குறிக்கிறது?
+    a) அனைத்து கலாச்சார நடைமுறைகளிலும் единообразие
+    b) பல்வேறு வெளிப்புற வேறுபாடுகள் இருந்தபோதிலும் உள்ளார்ந்த ஒற்றுமை
+    c) எந்த கலாச்சார மோதல்களும் இல்லாதது
+    d) ஒரு ஒற்றை ஆதிக்க கலாச்சாரம்
+    Answer: b
+    விடை: b
+
+22. Which of the following is a key characteristic of the traditional Indian joint family system?
+    a) Emphasis on individualism
+    b) Nuclear family structure
+    c) Shared residence, kitchen, and property
+    d) Frequent migration of family members
+    ---
+    பாரம்பரிய இந்திய கூட்டு குடும்ப முறையின் முக்கிய பண்பு எது?
+    a) தனிநபர்வாதத்திற்கு முக்கியத்துவம்
+    b) தனிக்குடும்ப அமைப்பு
+    c) பகிரப்பட்ட வசிப்பிடம், சமையலறை மற்றும் சொத்து
+    d) குடும்ப உறுப்பினர்களின் அடிக்கடி இடம்பெயர்வு
+    Answer: c
+    விடை: c
+
+23. The term 'Ashrama' in ancient Indian culture refers to:
+    a) A place of worship
+    b) Stages of life
+    c) A type of meditation
+    d) A social caste
+    ---
+    பண்டைய இந்திய கலாச்சாரத்தில் 'ஆசிரமம்' என்ற சொல் எதைக் குறிக்கிறது?
+    a) வழிபாட்டுத் தலம்
+    b) வாழ்க்கையின் நிலைகள்
+    c) ஒரு வகை தியானம்
+    d) ஒரு சமூக சாதி
+    Answer: b
+    விடை: b
+
+24. Which of the following is NOT one of the four Vedas?
+    a) Rigveda
+    b) Ayurveda
+    c) Samaveda
+    d) Atharvaveda
+    ---
+    பின்வருவனவற்றில் எது நான்கு வேதங்களில் ஒன்றல்ல?
+    a) ரிக்வேதம்
+    b) ஆயுர்வேதம்
+    c) சாமவேதம்
+    d) அதர்வணவேதம்
+    Answer: b (Ayurveda is an Upaveda related to health)
+    விடை: b (ஆயுர்வேதம் என்பது உடல்நலம் தொடர்பான ஒரு உபவேதம்)
+
+25. The principle of 'Ahimsa' (non-violence) is a central tenet in which of these Indian religions?
+    a) Hinduism, Jainism, and Buddhism
+    b) Islam and Christianity
+    c) Sikhism and Zoroastrianism
+    d) Only Jainism
+    ---
+    'அகிம்சை' (வன்முறையின்மை) கொள்கை இந்த இந்திய மதங்களில் எதில் ஒரு மையக் கோட்பாடாக உள்ளது?
+    a) இந்து மதம், ஜைன மதம் மற்றும் பௌத்தம்
+    b) இஸ்லாம் மற்றும் கிறிஸ்தவம்
+    c) சீக்கியம் மற்றும் ஜோராஸ்ட்ரியனிசம்
+    d) ஜைன மதம் மட்டும்
+    Answer: a
+    விடை: a
+
+26. The 'Sangam literature' is predominantly associated with which ancient Indian language and region?
+    a) Sanskrit, North India
+    b) Pali, Eastern India
+    c) Tamil, South India
+    d) Prakrit, Western India
+    ---
+    'சங்க இலக்கியம்' முக்கியமாக எந்த பண்டைய இந்திய மொழி மற்றும் பிராந்தியத்துடன் தொடர்புடையது?
+    a) சமஸ்கிருதம், வட இந்தியா
+    b) பாலி, கிழக்கு இந்தியா
+    c) தமிழ், தென் இந்தியா
+    d) பிராகிருதம், மேற்கு இந்தியா
+    Answer: c
+    விடை: c
+
+27. The 'Gopuram' is a prominent architectural feature of which style of Indian temples?
+    a) Nagara style
+    b) Dravidian style
+    c) Vesara style
+    d) Kalinga style
+    ---
+    'கோபுரம்' என்பது எந்த பாணியிலான இந்திய கோவில்களின் ஒரு முக்கிய கட்டிடக்கலை அம்சமாகும்?
+    a) நாகரா பாணி
+    b) திராவிட பாணி
+    c) வேசர பாணி
+    d) கலிங்க பாணி
+    Answer: b
+    விடை: b
+
+28. Kathakali is a classical dance form originating from which Indian state?
+    a) Tamil Nadu
+    b) Kerala
+    c) Karnataka
+    d) Andhra Pradesh
+    ---
+    கதகளி எந்த இந்திய மாநிலத்திலிருந்து உருவான ஒரு பாரம்பரிய நடன வடிவமாகும்?
+    a) தமிழ்நாடு
+    b) கேரளா
+    c) கர்நாடகா
+    d) ஆந்திரப் பிரதேசம்
+    Answer: b
+    விடை: b
+
+29. The festival of Diwali is also known as:
+    a) Festival of Colors
+    b) Festival of Lights
+    c) Harvest Festival
+    d) New Year Festival
+    ---
+    தீபாவளி பண்டிகை வேறு எவ்வாறு அழைக்கப்படுகிறது?
+    a) வண்ணங்களின் திருவிழா
+    b) விளக்குகளின் திருவிழா
+    c) அறுவடை திருவிழா
+    d) புத்தாண்டு விழா
+    Answer: b
+    விடை: b
+
+30. The concept of 'Karma' in Indian philosophy broadly means:
+    a) Destiny or fate
+    b) The principle of cause and effect of actions
+    c) Ritual worship
+    d) Liberation from the cycle of rebirth
+    ---
+    இந்திய தத்துவத்தில் 'கர்மா' என்ற கருத்து பரந்த অর্থে எதைக் குறிக்கிறது?
+    a) விதி அல்லது தலைவிதி
+    b) செயல்களின் காரணம் மற்றும் விளைவு கொள்கை
+    c) சடங்கு வழிபாடு
+    d) மறுபிறவி சுழற்சியிலிருந்து விடுதலை
+    Answer: b
+    விடை: b
+
+31. 'Atithi Devo Bhava' (Guest is God) is a concept emphasizing which Indian cultural value?
+    a) Respect for elders
+    b) Hospitality
+    c) Punctuality
+    d) Non-violence
+    ---
+    'அதிதி தேவோ பவ' (விருந்தினர் கடவுள்) என்ற கருத்து எந்த இந்திய கலாச்சார மதிப்பை வலியுறுத்துகிறது?
+    a) பெரியவர்களுக்கு மரியாதை
+    b) விருந்தோம்பல்
+    c) நேரந்தவறாமை
+    d) அகிம்சை
+    Answer: b
+    விடை: b
+
+32. The Indus Valley Civilization is known for its:
+    a) Nomadic lifestyle
+    b) Advanced urban planning and drainage systems
+    c) Iron tools and weaponry
+    d) Large rock-cut temples
+    ---
+    சிந்து சமவெளி நாகரிகம் எதற்காக அறியப்படுகிறது?
+    a) நாடோடி வாழ்க்கை முறை
+    b) மேம்பட்ட நகர்ப்புற திட்டமிடல் மற்றும் வடிகால் அமைப்புகள்
+    c) இரும்புக் கருவிகள் மற்றும் ஆயுதங்கள்
+    d) பெரிய பாறை வெட்டு கோவில்கள்
+    Answer: b
+    விடை: b
+
+33. Which of the following is a prominent feature of Mughal architecture in India?
+    a) Use of Shikhara
+    b) Intricate carvings of deities
+    c) Domes, minarets, and pietra dura inlay work
+    d) Absence of courtyards
+    ---
+    இந்தியாவில் முகலாய கட்டிடக்கலையின் முக்கிய அம்சம் எது?
+    a) சிகரத்தின் பயன்பாடு
+    b) தெய்வங்களின் நுணுக்கமான சிற்பங்கள்
+    c) குவிமாடங்கள், மினாரெட்டுகள் மற்றும் பியட்ரா டுரா உட்பொதிப்பு வேலைப்பாடுகள்
+    d) முற்றங்கள் இல்லாதது
+    Answer: c
+    விடை: c
+
+34. The 'Guru-Shishya Parampara' refers to:
+    a) A system of arranged marriage
+    b) The tradition of teacher-disciple relationship
+    c) A folk music tradition
+    d) A specific type of cuisine
+    ---
+    'குரு-சிஷ்ய பரம்பரை' எதைக் குறிக்கிறது?
+    a) நிச்சயிக்கப்பட்ட திருமண முறை
+    b) ஆசிரியர்-மாணவர் உறவின் பாரம்பரியம்
+    c) ஒரு நாட்டுப்புற இசை பாரம்பரியம்
+    d) ஒரு குறிப்பிட்ட வகை உணவு
+    Answer: b
+    விடை: b
+
+35. The philosophy of Advaita Vedanta, emphasizing non-dualism, was prominently propagated by:
+    a) Gautama Buddha
+    b) Mahavira
+    c) Adi Shankaracharya
+    d) Guru Nanak
+    ---
+    அத்வைத வேதாந்த தத்துவம், இருமையற்ற தன்மையை வலியுறுத்துகிறது, யாரால் முக்கியமாக பரப்பப்பட்டது?
+    a) கௌதம புத்தர்
+    b) மகாவீரர்
+    c) ஆதி சங்கராச்சாரியார்
+    d) குரு நானக்
+    Answer: c
+    விடை: c
+
+36. 'Rangoli' or 'Kolam' is a traditional Indian art form primarily created:
+    a) On walls using paints
+    b) On floors using colored powders or rice flour
+    c) Through fabric weaving
+    d) Using metal sculpting
+    ---
+    'ரங்கோலி' அல்லது 'கோலம்' என்பது ஒரு பாரம்பரிய இந்திய கலை வடிவம், இது முதன்மையாக எவ்வாறு உருவாக்கப்படுகிறது?
+    a) சுவர்களில் வண்ணப்பூச்சுகளைப் பயன்படுத்தி
+    b) தரையில் வண்ணப் பொடிகள் அல்லது அரிசி மாவைப் பயன்படுத்தி
+    c) துணி நெசவு மூலம்
+    d) உலோக சிற்பங்களைப் பயன்படுத்தி
+    Answer: b
+    விடை: b
+
+37. The term 'Vasudhaiva Kutumbakam' from Indian scriptures means:
+    a) Truth alone triumphs
+    b) The world is one family
+    c) Knowledge is power
+    d) Work is worship
+    ---
+    இந்திய வேதங்களில் இருந்து 'வசுதைவ कुटुंबகம்' என்ற சொல்லின் பொருள் என்ன?
+    a) வாய்மையே வெல்லும்
+    b) உலகம் ஒரு குடும்பம்
+    c) அறிவே ஆற்றல்
+    d) வேலையே வழிபாடு
+    Answer: b
+    விடை: b
+
+38. Which of these is a martial art form that originated in Kerala?
+    a) Gatka
+    b) Kalaripayattu
+    c) Thang-Ta
+    d) Silambam
+    ---
+    இவற்றில் கேரளாவில் தோன்றிய தற்காப்புக் கலை வடிவம் எது?
+    a) கட்கா
+    b) களரிப்பயிற்று
+    c) தாங்-டா
+    d) சிலம்பம்
+    Answer: b
+    விடை: b
+
+39. The Indian Constitution recognizes how many official languages in its Eighth Schedule?
+    a) 18
+    b) 22
+    c) 24
+    d) 14
+    ---
+    இந்திய அரசியலமைப்பு அதன் எட்டாவது அட்டவணையில் எத்தனை அதிகாரப்பூர்வ மொழிகளை அங்கீகரிக்கிறது?
+    a) 18
+    b) 22
+    c) 24
+    d) 14
+    Answer: b
+    விடை: b
+
+40. The 'Chauth' and 'Sardeshmukhi' were taxes associated with which Indian power?
+    a) Mughals
+    b) Marathas
+    c) Vijayanagara Empire
+    d) Mauryas
+    ---
+    'சௌத்' மற்றும் 'சர்தேஷ்முகி' வரிகள் எந்த இந்திய சக்தியுடன் தொடர்புடையவை? (This is more history, but can relate to socio-cultural economic structure)
+    a) முகலாயர்கள்
+    b) மராத்தியர்கள்
+    c) விஜயநகரப் பேரரசு
+    d) மௌரியர்கள்
+    Answer: b (Slightly more history, but these taxes shaped socio-economic aspects of the culture influenced by Marathas)
+    விடை: b (சற்று வரலாறு சார்ந்தது, ஆனால் இந்த வரிகள் மராத்தியர்களால் பாதிக்கப்பட்ட கலாச்சாரத்தின் சமூக-பொருளாதார அம்சங்களை வடிவமைத்தன)
+
+41. The tradition of 'Langar' (community kitchen) is a significant aspect of which religion?
+    a) Buddhism
+    b) Jainism
+    c) Sikhism
+    d) Hinduism
+    ---
+    'லங்கர்' (சமூக சமையலறை) பாரம்பரியம் எந்த மதத்தின் ஒரு குறிப்பிடத்தக்க அம்சமாகும்?
+    a) பௌத்தம்
+    b) ஜைனம்
+    c) சீக்கியம்
+    d) இந்து மதம்
+    Answer: c
+    விடை: c
+
+42. The Ajanta and Ellora caves, famous for their murals and sculptures, are located in which Indian state?
+    a) Madhya Pradesh
+    b) Maharashtra
+    c) Karnataka
+    d) Bihar
+    ---
+    சுவரோவியங்கள் மற்றும் சிற்பங்களுக்குப் புகழ்பெற்ற அஜந்தா மற்றும் எல்லோரா குகைகள் எந்த இந்திய மாநிலத்தில் அமைந்துள்ளன?
+    a) மத்தியப் பிரதேசம்
+    b) மகாராஷ்டிரா
+    c) கர்நாடகா
+    d) பீகார்
+    Answer: b
+    விடை: b
+
+43. The concept of 'Dharma Chakra Pravartana' (Turning the Wheel of Law) is associated with an important event in the life of:
+    a) Mahavira
+    b) Adi Shankaracharya
+    c) Gautama Buddha
+    d) Guru Gobind Singh
+    ---
+    'தர்ம சக்கர பிரவர்த்தனம்' (சட்டத்தின் சக்கரத்தைத் திருப்புதல்) என்ற கருத்து யாருடைய வாழ்க்கையில் ஒரு முக்கியமான நிகழ்வோடு தொடர்புடையது?
+    a) மகாவீரர்
+    b) ஆதி சங்கராச்சாரியார்
+    c) கௌதம புத்தர்
+    d) குரு கோவிந்த் சிங்
+    Answer: c (Buddha's first sermon)
+    விடை: c (புத்தரின் முதல் பிரசங்கம்)
+
+44. 'Panchayati Raj' system in India reflects which cultural aspect at the grassroots level?
+    a) Centralized authority
+    b) Hierarchical religious structure
+    c) Community participation and local self-governance
+    d) Economic individualism
+    ---
+    இந்தியாவில் 'பஞ்சாயத்து ராஜ்' அமைப்பு அடிமட்ட அளவில் எந்த கலாச்சார அம்சத்தை பிரதிபலிக்கிறது?
+    a) மையப்படுத்தப்பட்ட அதிகாரம்
+    b) படிநிலை மத அமைப்பு
+    c) சமூகப் பங்கேற்பு மற்றும் உள்ளூர் tự-ஆட்சி
+    d) பொருளாதாரத் தனிநபர்வாதம்
+    Answer: c
+    விடை: c
+
+45. Which of the following is NOT a classical language of India as officially recognized?
+    a) Tamil
+    b) Sanskrit
+    c) Telugu
+    d) Hindi
+    ---
+    பின்வருவனவற்றில் எது அதிகாரப்பூர்வமாக அங்கீகரிக்கப்பட்ட இந்தியாவின் செம்மொழி அல்ல?
+    a) தமிழ்
+    b) சமஸ்கிருதம்
+    c) தெலுங்கு
+    d) இந்தி
+    Answer: d (Hindi is an official language, but not classified as 'Classical Language' in the same list as Tamil, Sanskrit, Telugu, Kannada, Malayalam, Odia)
+    விடை: d (இந்தி ஒரு அலுவல் மொழி, ஆனால் தமிழ், சமஸ்கிருதம், தெலுங்கு, கன்னடம், மலையாளம், ஒடியா போன்ற 'செம்மொழி' பட்டியலில் வகைப்படுத்தப்படவில்லை)
+
+46. The 'Sari', a traditional Indian garment for women, varies in style and weaving technique across different regions. The 'Paithani' sari is famous from which state?
+    a) Tamil Nadu
+    b) West Bengal
+    c) Maharashtra
+    d) Gujarat
+    ---
+    பெண்களுக்கான பாரம்பரிய இந்திய ஆடையான 'சேலை', பல்வேறு பிராந்தியங்களில் பாணி மற்றும் நெசவு நுட்பத்தில் வேறுபடுகிறது. 'பைதானி' சேலை எந்த மாநிலத்திலிருந்து பிரபலமானது?
+    a) தமிழ்நாடு
+    b) மேற்கு வங்கம்
+    c) மகாராஷ்டிரா
+    d) குஜராத்
+    Answer: c
+    விடை: c
+
+47. The philosophy of 'Syadvada' or Anekantavada (theory of manifoldness) is a core principle of:
+    a) Buddhism
+    b) Jainism
+    c) Vedanta
+    d) Sikhism
+    ---
+    'சியாத்வாதம்' அல்லது அனேகாந்தவாதம் (பன்முகத்தன்மை கோட்பாடு) தத்துவம் எதன் முக்கியக் கோட்பாடு?
+    a) பௌத்தம்
+    b) ஜைனம்
+    c) வேதாந்தம்
+    d) சீக்கியம்
+    Answer: b
+    விடை: b
+
+48. The 'Varna system' in ancient Indian society was primarily based on:
+    a) Wealth
+    b) Occupation and societal functions
+    c) Region of birth
+    d) Physical strength
+    ---
+    பண்டைய இந்திய சமுதாயத்தில் 'வர்ண முறை' முதன்மையாக எதன் அடிப்படையில் இருந்தது?
+    a) செல்வம்
+    b) தொழில் மற்றும் சமூக செயல்பாடுகள்
+    c) பிறந்த பிராந்தியம்
+    d) உடல் வலிமை
+    Answer: b (Theoretically, though it became hereditary later)
+    விடை: b (கோட்பாட்டளவில், பின்னர் அது பரம்பரையானது)
+
+49. The 'Thirukkural', an ancient Tamil text, primarily deals with:
+    a) Epic battles and royal genealogies
+    b) Ethics, governance, and love
+    c) Rituals and sacrifices
+    d) Astronomical calculations
+    ---
+    பண்டைய தமிழ் நூலான 'திருக்குறள்' முதன்மையாக எதைப் பற்றி பேசுகிறது?
+    a) காவியப் போர்கள் மற்றும் அரச பரம்பரைகள்
+    b) அறநெறி, ஆட்சிமுறை மற்றும் காதல்
+    c) சடங்குகள் மற்றும் யாகங்கள்
+    d) வானியல் கணக்கீடுகள்
+    Answer: b
+    விடை: b
+
+50. The celebration of 'Ugadi' or 'Gudi Padwa' marks the New Year in which parts of India?
+    a) Primarily in Southern states like Karnataka, Andhra Pradesh, Telangana and Maharashtra
+    b) Primarily in Northern states like Punjab and Haryana
+    c) Primarily in Eastern states like West Bengal and Odisha
+    d) Primarily in North-Eastern states
+    ---
+    'யுகாதி' அல்லது 'குடி பட்வா' கொண்டாட்டம் இந்தியாவின் எந்தப் பகுதிகளில் புத்தாண்டைக் குறிக்கிறது?
+    a) முக்கியமாக கர்நாடகா, ஆந்திரப் பிரதேசம், தெலுங்கானா மற்றும் மகாராஷ்டிரா போன்ற தென் மாநிலங்களில்
+    b) முக்கியமாக பஞ்சாப் மற்றும் ஹரியானா போன்ற வட மாநிலங்களில்
+    c) முக்கியமாக மேற்கு வங்கம் மற்றும் ஒடிசா போன்ற கிழக்கு மாநிலங்களில்
+    d) முக்கியமாக வடகிழக்கு மாநிலங்களில்
+    Answer: a
+    விடை: a
+
+51. 'Satyameva Jayate' (Truth Alone Triumphs), the national motto of India, is taken from which ancient scripture?
+    a) Bhagavad Gita
+    b) Ramayana
+    c) Mundaka Upanishad
+    d) Arthashastra
+    ---
+    இந்தியாவின் தேசிய குறிக்கோளான 'சத்யமேவ ஜெயதே' (வாய்மையே வெல்லும்) எந்த பண்டைய நூலிலிருந்து எடுக்கப்பட்டது?
+    a) பகவத் கீதை
+    b) ராமாயணம்
+    c) முண்டக உபநிடதம்
+    d) அர்த்தசாஸ்திரம்
+    Answer: c
+    விடை: c
+
+52. The practice of 'Yoga' as a physical, mental, and spiritual discipline originated in:
+    a) Ancient Greece
+    b) Ancient China
+    c) Ancient India
+    d) Ancient Egypt
+    ---
+    உடல், மன மற்றும் ஆன்மீக ஒழுக்கமாக 'யோகா' பயிற்சி எங்கு உருவானது?
+    a) பண்டைய கிரேக்கம்
+    b) பண்டைய சீனா
+    c) பண்டைய இந்தியா
+    d) பண்டைய எகிப்து
+    Answer: c
+    விடை: c
+
+53. Which of these musical instruments is primarily associated with Carnatic music?
+    a) Sitar
+    b) Sarod
+    c) Veena
+    d) Tabla
+    ---
+    இந்த இசைக்கருவிகளில் எது முதன்மையாக கர்நாடக இசையுடன் தொடர்புடையது?
+    a) சித்தார்
+    b) சரோட்
+    c) வீணை
+    d) தபேலா
+    Answer: c
+    விடை: c
+
+54. The concept of 'Purusharthas' in Hinduism refers to the four proper aims or goals of human life. Which of the following is NOT one of them?
+    a) Dharma (righteousness)
+    b) Artha (wealth)
+    c) Jnana (knowledge)
+    d) Moksha (liberation)
+    ---
+    இந்து மதத்தில் 'புருஷார்த்தங்கள்' என்ற கருத்து மனித வாழ்வின் நான்கு சரியான நோக்கங்கள் அல்லது இலக்குகளைக் குறிக்கிறது. பின்வருவனவற்றில் எது அவற்றில் ஒன்றல்ல?
+    a) தர்மம் (நீதி)
+    b) அர்த்தம் (செல்வம்)
+    c) ஞானம் (அறிவு)
+    d) மோட்சம் (விடுதலை)
+    Answer: c (The four are Dharma, Artha, Kama, Moksha. Jnana is a path to Moksha)
+    விடை: c (நான்கு தர்மம், அர்த்தம், காமம், மோட்சம். ஞானம் மோட்சத்திற்கான ஒரு வழி)
+
+55. The 'Qawwali' is a form of Sufi devotional music popular in South Asia, particularly associated with:
+    a) Buddhist monasteries
+    b) Sikh Gurdwaras
+    c) Hindu temples
+    d) Islamic shrines (Dargahs)
+    ---
+    'கவ்வாலி' என்பது தெற்காசியாவில் பிரபலமான சூஃபி பக்தி இசையின் ஒரு வடிவமாகும், இது குறிப்பாக எதனுடன் தொடர்புடையது?
+    a) பௌத்த மடாலயங்கள்
+    b) சீக்கிய குருத்வாராக்கள்
+    c) இந்து கோவில்கள்
+    d) இஸ்லாமிய வழிபாட்டுத் தலங்கள் (தர்காக்கள்)
+    Answer: d
+    விடை: d
+
+56. The traditional 'Panchangam' or Indian almanac is primarily based on:
+    a) Gregorian calendar system
+    b) Lunar and solar cycles
+    c) Julian calendar system
+    d) Weather patterns only
+    ---
+    பாரம்பரிய 'பஞ்சாங்கம்' அல்லது இந்திய நாட்காட்டி முதன்மையாக எதன் அடிப்படையில் அமைந்துள்ளது?
+    a) கிரிகோரியன் நாட்காட்டி முறை
+    b) சந்திரன் மற்றும் சூரிய சுழற்சிகள்
+    c) ஜூலியன் நாட்காட்டி முறை
+    d) வானிலை முறைகள் மட்டும்
+    Answer: b
+    விடை: b
+
+57. The 'Chhau' dance is a semi-classical Indian dance with martial, tribal, and folk origins, popular in which region?
+    a) Western India (Gujarat, Rajasthan)
+    b) Southern India (Kerala, Tamil Nadu)
+    c) Eastern India (Odisha, West Bengal, Jharkhand)
+    d) Northern India (Punjab, Uttar Pradesh)
+    ---
+    'சாவ்' நடனம் என்பது தற்காப்பு, பழங்குடி மற்றும் நாட்டுப்புற தோற்றம் கொண்ட ஒரு அரை-பாரம்பரிய இந்திய நடனம், இது எந்த பிராந்தியத்தில் பிரபலமானது?
+    a) மேற்கு இந்தியா (குஜராத், ராஜஸ்தான்)
+    b) தென் இந்தியா (கேரளா, தமிழ்நாடு)
+    c) கிழக்கு இந்தியா (ஒடிசா, மேற்கு வங்கம், ஜார்கண்ட்)
+    d) வட இந்தியா (பஞ்சாப், உத்தரப் பிரதேசம்)
+    Answer: c
+    விடை: c
+
+58. The Indian epic 'Mahabharata' is traditionally attributed to which sage?
+    a) Valmiki
+    b) Vyasa
+    c) Kalidasa
+    d) Tulsidas
+    ---
+    இந்திய இதிகாசமான 'மகாபாரதம்' பாரம்பரியமாக எந்த முனிவருடன் தொடர்புடையது?
+    a) வால்மீகி
+    b) வியாசர்
+    c) காளிதாசர்
+    d) துளசிதாசர்
+    Answer: b
+    விடை: b
+
+59. The practice of 'Santhara' or 'Sallekhana', a voluntary fast unto death, is associated with which Indian religion?
+    a) Buddhism
+    b) Jainism
+    c) Sikhism
+    d) Hinduism
+    ---
+    'சந்தாரா' அல்லது 'சல்லேகனா', அதாவது தன்னிச்சையாக மரணம் வரை உண்ணாவிரதம் இருக்கும் வழக்கம், எந்த இந்திய மதத்துடன் தொடர்புடையது?
+    a) பௌத்தம்
+    b) ஜைனம்
+    c) சீக்கியம்
+    d) இந்து மதம்
+    Answer: b
+    விடை: b
+
+60. The 'Stupa' is a characteristic architectural form in which religious tradition?
+    a) Hinduism
+    b) Jainism
+    c) Buddhism
+    d) Sikhism
+    ---
+    'ஸ்தூபி' என்பது எந்த மத பாரம்பரியத்தின் ஒரு சிறப்பியல்பு கட்டிடக்கலை வடிவமாகும்?
+    a) இந்து மதம்
+    b) ஜைனம்
+    c) பௌத்தம்
+    d) சீக்கியம்
+    Answer: c
+    விடை: c
+
+61. "Respect for elders" is a deeply ingrained value in Indian culture. Which of the following practices best exemplifies this?
+    a) Challenging their opinions publicly
+    b) Touching their feet as a sign of respect
+    c) Addressing them by their first name
+    d) Living separately from them as soon as possible
+    ---
+    "பெரியவர்களுக்கு மரியாதை" என்பது இந்திய கலாச்சாரத்தில் ஆழமாக வேரூன்றிய ஒரு மதிப்பு. பின்வரும் நடைமுறைகளில் எது இதை சிறப்பாக எடுத்துக்காட்டுகிறது?
+    a) அவர்களின் கருத்துக்களை பொதுவில் சவால் விடுவது
+    b) மரியாதையின் அடையாளமாக அவர்களின் பாதங்களைத் தொடுவது
+    c) அவர்களை முதல் பெயரால் அழைப்பது
+    d) கூடிய விரைவில் அவர்களிடமிருந்து தனித்து வாழ்வது
+    Answer: b
+    விடை: b
+
+62. The influence of Persian culture is most evident in which aspect of North Indian culture?
+    a) Classical dance forms like Bharatanatyam
+    b) Temple architecture of the Cholas
+    c) Language (Urdu), cuisine, and courtly manners during the Mughal era
+    d) Vedic rituals and philosophies
+    ---
+    பாரசீக கலாச்சாரத்தின் தாக்கம் வட இந்திய கலாச்சாரத்தின் எந்த அம்சத்தில் மிகவும் தெளிவாகத் தெரிகிறது?
+    a) பரதநாட்டியம் போன்ற பாரம்பரிய நடன வடிவங்கள்
+    b) சோழர்களின் கோவில் கட்டிடக்கலை
+    c) முகலாயர் காலத்தில் மொழி (உருது), உணவுமுறை மற்றும் அரசவை நாகரிகங்கள்
+    d) வேதகால சடங்குகள் மற்றும் தத்துவங்கள்
+    Answer: c
+    விடை: c
+
+63. The concept of 'Vasudeva Kutumbakam' (the world is one family) promotes:
+    a) Regionalism
+    b) Universal brotherhood and tolerance
+    c) Strict adherence to one's own community
+    d) Isolation from other cultures
+    ---
+    'வசுதைவ कुटुंबகம்' (உலகம் ஒரு குடும்பம்) என்ற கருத்து எதை ஊக்குவிக்கிறது?
+    a) பிராந்தியவாதம்
+    b) உலகளாவிய சகோதரத்துவம் மற்றும் சகிப்புத்தன்மை
+    c) ஒருவரின் சொந்த சமூகத்திற்கு கண்டிப்பான பற்றுறுதி
+    d) மற்ற கலாச்சாரங்களிலிருந்து தனிமைப்படுத்தல்
+    Answer: b
+    விடை: b
+
+64. Which one of the following is a significant characteristic of Indian cuisine?
+    a) Minimal use of spices
+    b) Predominance of bland flavors
+    c) Extensive use of diverse spices and regional variations
+    d) Uniformity in cooking methods across the country
+    ---
+    பின்வருவனவற்றில் எது இந்திய உணவு வகைகளின் ஒரு குறிப்பிடத்தக்க பண்பு?
+    a) மசாலாப் பொருட்களின் குறைந்தபட்ச பயன்பாடு
+    b) சுவையற்ற சுவைகளின் ஆதிக்கம்
+    c) பல்வேறு மசாலாப் பொருட்கள் மற்றும் பிராந்திய மாறுபாடுகளின் விரிவான பயன்பாடு
+    d) நாடு முழுவதும் சமையல் முறைகளில் единообразие
+    Answer: c
+    விடை: c
+
+65. The 'bindi' worn by many Indian women on their forehead is traditionally considered:
+    a) Merely a fashion accessory
+    b) A symbol of marital status for some, and an auspicious mark
+    c) A requirement for all women
+    d) A mark of rebellion
+    ---
+    பல இந்தியப் பெண்கள் நெற்றியில் அணியும் 'பொட்டு' பாரம்பரியமாக எவ்வாறு கருதப்படுகிறது?
+    a) வெறும் ஒரு நாகரீக அணிகலன்
+    b) சிலருக்கு திருமண நிலையின் சின்னம், மற்றும் ஒரு மங்களகரமான குறி
+    c) அனைத்து பெண்களுக்கும் ஒரு தேவை
+    d) ஒரு கிளர்ச்சியின் குறி
+    Answer: b
+    விடை: b
+
+66. The Indian calendar system has numerous regional New Year festivals. 'Vishu' is celebrated as New Year in which state?
+    a) Punjab
+    b) Kerala
+    c) Assam
+    d) West Bengal
+    ---
+    இந்திய நாட்காட்டி அமைப்பில் எண்ணற்ற பிராந்திய புத்தாண்டு விழாக்கள் உள்ளன. 'விஷு' எந்த மாநிலத்தில் புத்தாண்டாக கொண்டாடப்படுகிறது?
+    a) பஞ்சாப்
+    b) கேரளா
+    c) அசாம்
+    d) மேற்கு வங்கம்
+    Answer: b
+    விடை: b
+
+67. The cultural diversity of India is LEAST reflected in:
+    a) Languages spoken
+    b) Food habits
+    c) A single, uniform religious belief system
+    d) Traditional attire
+    ---
+    இந்தியாவின் கலாச்சார பன்முகத்தன்மை எதில் குறைவாக பிரதிபலிக்கிறது?
+    a) பேசப்படும் மொழிகள்
+    b) உணவுப் பழக்கவழக்கங்கள்
+    c) ஒரு ஒற்றை, சீரான மத நம்பிக்கை அமைப்பு
+    d) பாரம்பரிய உடை
+    Answer: c (India is known for religious diversity, not a single uniform belief system)
+    விடை: c (இந்தியா மத பன்முகத்தன்மைக்கு பெயர் பெற்றது, ஒற்றை சீரான நம்பிக்கை அமைப்புக்கு அல்ல)
+
+68. The 'Namaste' or 'Vanakkam' greeting in Indian culture, involving joining palms, signifies:
+    a) A challenge or confrontation
+    b) Respect, politeness, and the divine in the other person
+    c) Submission and fear
+    d) Indifference
+    ---
+    இந்திய கலாச்சாரத்தில் உள்ளங்கைகளை இணைத்து செய்யப்படும் 'நமஸ்தே' அல்லது 'வணக்கம்' வாழ்த்து எதைக் குறிக்கிறது?
+    a) ஒரு சவால் அல்லது மோதல்
+    b) மரியாதை, பணிவு மற்றும் மற்ற நபரில் உள்ள தெய்வீகம்
+    c) அடிபணிதல் மற்றும் பயம்
+    d) அலட்சியம்
+    Answer: b
+    விடை: b
+
+69. Traditional Indian systems of medicine like Ayurveda and Siddha emphasize:
+    a) Sole reliance on synthetic drugs
+    b) Holistic well-being and balance of body energies
+    c) Quick fixes for symptoms only
+    d) Invasive surgical procedures as the first line of treatment
+    ---
+    ஆயுர்வேதம் மற்றும் சித்தா போன்ற பாரம்பரிய இந்திய மருத்துவ முறைகள் எதை வலியுறுத்துகின்றன?
+    a) செயற்கை மருந்துகளை மட்டுமே நம்பியிருத்தல்
+    b) முழுமையான நல்வாழ்வு மற்றும் உடல் ஆற்றல்களின் சமநிலை
+    c) அறிகுறிகளுக்கு மட்டும் விரைவான தீர்வுகள்
+    d) முதல் கட்ட சிகிச்சையாக ஆக்கிரமிப்பு அறுவை சிகிச்சை முறைகள்
+    Answer: b
+    விடை: b
+
+70. The influence of globalization on Indian culture has led to:
+    a) Complete erosion of traditional values
+    b) A blend of traditional and modern practices, sometimes leading to cultural hybridization
+    c) Total rejection of Western influences
+    d) Stagnation of cultural development
+    ---
+    இந்திய கலாச்சாரத்தின் மீது உலகமயமாக்கலின் தாக்கம் எதற்கு வழிவகுத்துள்ளது?
+    a) பாரம்பரிய மதிப்புகளின் முழுமையான அரிப்பு
+    b) பாரம்பரிய மற்றும் நவீன நடைமுறைகளின் கலவை, சில சமயங்களில் கலாச்சார கலப்பினத்திற்கு வழிவகுக்கிறது
+    c) மேற்கத்திய தாக்கங்களின் முழுமையான நிராகரிப்பு
+    d) கலாச்சார வளர்ச்சியின் தேக்கம்
+    Answer: b
+    விடை: b

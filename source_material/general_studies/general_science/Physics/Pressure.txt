@@ -1,0 +1,361 @@
+Topic: Pressure - TNPSC Group 4 MCQs
+
+1. What is the SI unit of pressure?
+A) Newton
+B) Watt
+C) Pascal
+D) Joule
+1. அழுத்தத்தின் SI அலகு என்ன?
+அ) நியூட்டன்
+ஆ) வாட்
+இ) பாஸ்கல்
+ஈ) ஜூல்
+Answer: C
+
+2. Pressure is defined as:
+A) Force x Area
+B) Force / Area
+C) Area / Force
+D) Mass x Acceleration
+2. அழுத்தம் இவ்வாறு வரையறுக்கப்படுகிறது:
+அ) விசை x பரப்பளவு
+ஆ) விசை / பரப்பளவு
+இ) பரப்பளவு / விசை
+ஈ) நிறை x முடுக்கம்
+Answer: B
+
+3. Which instrument is used to measure atmospheric pressure?
+A) Manometer
+B) Thermometer
+C) Barometer
+D) Ammeter
+3. வளிமண்டல அழுத்தத்தை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?
+அ) மானோமீட்டர்
+ஆ) தெர்மோமீட்டர்
+இ) பாரோமீட்டர்
+ஈ) அம்மீட்டர்
+Answer: C
+
+4. The pressure exerted by a liquid _________ with depth.
+A) Decreases
+B) Increases
+C) Remains constant
+D) First increases then decreases
+4. ஒரு திரவத்தால் செலுத்தப்படும் அழுத்தம் ஆழம் அதிகரிக்கும்போது _________.
+அ) குறைகிறது
+ஆ) அதிகரிக்கிறது
+இ) மாறாமல் இருக்கும்
+ஈ) முதலில் அதிகரித்து பின்னர் குறைகிறது
+Answer: B
+
+5. Pascal's law is related to:
+A) Fluid friction
+B) Pressure in fluids
+C) Surface tension
+D) Viscosity
+5. பாஸ்கல் விதி எதனுடன் தொடர்புடையது?
+அ) திரவ உராய்வு
+ஆ) திரவங்களில் அழுத்தம்
+இ) பரப்பு இழுவிசை
+ஈ) பாகுநிலை
+Answer: B
+
+6. If the area of contact is decreased, while keeping the force constant, the pressure will:
+A) Decrease
+B) Increase
+C) Remain the same
+D) Become zero
+6. விசையை மாறிலியாக வைத்து, தொடும் பரப்பளவு குறைக்கப்பட்டால், அழுத்தம்:
+அ) குறையும்
+ஆ) அதிகரிக்கும்
+இ) அப்படியே இருக்கும்
+ஈ) பூஜ்ஜியமாகும்
+Answer: B
+
+7. The unit 'bar' is used to measure:
+A) Temperature
+B) Pressure
+C) Volume
+D) Density
+7. 'பார்' என்ற அலகு எதை அளவிட பயன்படுகிறது?
+அ) வெப்பநிலை
+ஆ) அழுத்தம்
+இ) கனஅளவு
+ஈ) அடர்த்தி
+Answer: B
+
+8. Hydraulic brakes in automobiles work on the principle of:
+A) Archimedes' Principle
+B) Bernoulli's Principle
+C) Pascal's Law
+D) Newton's Law of Motion
+8. தானியங்கி வாகனங்களில் உள்ள ஹைட்ராலிக் பிரேக்குகள் எந்த தத்துவத்தின் அடிப்படையில் செயல்படுகின்றன?
+அ) ஆர்க்கிமிடிஸ் தத்துவம்
+ஆ) பெர்னூலியின் தத்துவம்
+இ) பாஸ்கல் விதி
+ஈ) நியூட்டனின் இயக்க விதி
+Answer: C
+
+9. Why are the straps of school bags made wide?
+A) To increase the pressure on shoulders
+B) To decrease the pressure on shoulders
+C) To make the bag look good
+D) To reduce the weight of the bag
+9. பள்ளிப் பைகளின் பட்டைகள் ஏன் அகலமாக செய்யப்படுகின்றன?
+அ) தோள்களில் அழுத்தத்தை அதிகரிக்க
+ஆ) தோள்களில் அழுத்தத்தைக் குறைக்க
+இ) பையை அழகாக காட்ட
+ஈ) பையின் எடையைக் குறைக்க
+Answer: B
+
+10. At sea level, the atmospheric pressure is approximately:
+A) 10 Pa
+B) 100 Pa
+C) 1000 Pa
+D) 101325 Pa (or 1 atm)
+10. கடல் மட்டத்தில், வளிமண்டல அழுத்தம் தோராயமாக:
+அ) 10 பாஸ்கல்
+ஆ) 100 பாஸ்கல்
+இ) 1000 பாஸ்கல்
+ஈ) 101325 பாஸ்கல் (அல்லது 1 atm)
+Answer: D
+
+11. The pressure at a point inside a liquid does NOT depend on:
+A) Depth of the point
+B) Density of the liquid
+C) Acceleration due to gravity
+D) Shape of the container
+11. ஒரு திரவத்தின் உள்ளே ஒரு புள்ளியில் உள்ள அழுத்தம் எதைச் சார்ந்து இருக்காது?
+அ) புள்ளியின் ஆழம்
+ஆ) திரவத்தின் அடர்த்தி
+இ) புவியீர்ப்பு முடுக்கம்
+ஈ) கொள்கலனின் வடிவம்
+Answer: D
+
+12. A force of 100 N is applied over an area of 2 m². What is the pressure?
+A) 50 Pa
+B) 200 Pa
+C) 0.02 Pa
+D) 102 Pa
+12. 2 மீ² பரப்பளவில் 100 N விசை செலுத்தப்பட்டால், அழுத்தம் என்ன?
+அ) 50 பாஸ்கல்
+ஆ) 200 பாஸ்கல்
+இ) 0.02 பாஸ்கல்
+ஈ) 102 பாஸ்கல்
+Answer: A
+
+13. As we go to higher altitudes, atmospheric pressure:
+A) Increases
+B) Decreases
+C) Remains constant
+D) Becomes zero
+13. நாம் உயரமான இடங்களுக்குச் செல்லும்போது, வளிமண்டல அழுத்தம்:
+அ) அதிகரிக்கிறது
+ஆ) குறைகிறது
+இ) மாறாமல் இருக்கும்
+ஈ) பூஜ்ஜியமாகிறது
+Answer: B
+
+14. Which of the following is NOT a unit of pressure?
+A) Torr
+B) mm of Hg
+C) Newton
+D) Atmosphere (atm)
+14. பின்வருவனவற்றில் எது அழுத்தத்தின் அலகு அல்ல?
+அ) டார்
+ஆ) மிமீ பாதரசம் (mm of Hg)
+இ) நியூட்டன்
+ஈ) அட்மாஸ்பியர் (atm)
+Answer: C
+
+15. A blunt knife requires more force to cut an object because:
+A) It applies less pressure
+B) It applies more pressure
+C) It has less area of contact
+D) It has more area of contact, thus reducing pressure
+15. ஒரு மழுங்கிய கத்தி ஒரு பொருளை வெட்ட அதிக விசை தேவைப்படுகிறது, ஏனென்றால்:
+அ) அது குறைந்த அழுத்தத்தைச் செலுத்துகிறது
+ஆ) அது அதிக அழுத்தத்தைச் செலுத்துகிறது
+இ) அது குறைந்த தொடு பரப்பளவைக் கொண்டுள்ளது
+ஈ) அது அதிக தொடு பரப்பளவைக் கொண்டுள்ளது, இதனால் அழுத்தம் குறைகிறது
+Answer: D (Explanation: More area means less pressure for a given force. So, to get the required cutting pressure, you need more force with a blunt knife.)
+
+16. The pressure exerted by a fluid at rest is known as:
+A) Dynamic pressure
+B) Hydrostatic pressure
+C) Kinetic pressure
+D) Potential pressure
+16. ஓய்வில் உள்ள ஒரு திரவத்தால் செலுத்தப்படும் அழுத்தம் இவ்வாறு அழைக்கப்படுகிறது:
+அ) இயக்க அழுத்தம்
+ஆ) நீர்நிலை அழுத்தம்
+இ) இயக்கவியல் அழுத்தம்
+ஈ) நிலை அழுத்தம்
+Answer: B
+
+17. One Pascal is equal to:
+A) 1 N/m
+B) 1 N/m²
+C) 1 kg/m²
+D) 1 J/m²
+17. ஒரு பாஸ்கல் இதற்கு சமம்:
+அ) 1 N/m
+ஆ) 1 N/m²
+இ) 1 kg/m²
+ஈ) 1 J/m²
+Answer: B
+
+18. The concept that pressure applied to an enclosed fluid is transmitted undiminished to every point in the fluid and to the walls of the container is:
+A) Archimedes' Principle
+B) Bernoulli's Principle
+C) Pascal's Law
+D) Hooke's Law
+18. மூடப்பட்ட திரவத்தில் செலுத்தப்படும் அழுத்தம், திரவத்தின் ஒவ்வொரு புள்ளிக்கும் மற்றும் கொள்கலனின் சுவர்களுக்கும் குறையாமல் கடத்தப்படுகிறது என்ற கருத்து:
+அ) ஆர்க்கிமிடிஸ் தத்துவம்
+ஆ) பெர்னூலியின் தத்துவம்
+இ) பாஸ்கல் விதி
+ஈ) ஹூக் விதி
+Answer: C
+
+19. Why is it easier to walk on sand with flat shoes than with high-heeled shoes?
+A) Flat shoes exert more pressure
+B) Flat shoes exert less pressure
+C) High-heeled shoes are heavier
+D) Flat shoes are lighter
+19. உயரமான குதிகால் காலணிகளை விட தட்டையான காலணிகளுடன் மணலில் நடப்பது ஏன் எளிது?
+அ) தட்டையான காலணிகள் அதிக அழுத்தத்தைச் செலுத்துகின்றன
+ஆ) தட்டையான காலணிகள் குறைந்த அழுத்தத்தைச் செலுத்துகின்றன
+இ) உயரமான குதிகால் காலணிகள் கனமானவை
+ஈ) தட்டையான காலணிகள் இலகுவானவை
+Answer: B
+
+20. The pressure inside a liquid column is given by the formula P = ρgh. Here 'ρ' represents:
+A) Pressure
+B) Depth
+C) Density of the liquid
+D) Acceleration due to gravity
+20. ஒரு திரவத் தம்பத்தின் உள்ளே உள்ள அழுத்தம் P = ρgh என்ற சூத்திரத்தால் வழங்கப்படுகிறது. இங்கே 'ρ' என்பது:
+அ) அழுத்தம்
+ஆ) ஆழம்
+இ) திரவத்தின் அடர்த்தி
+ஈ) புவியீர்ப்பு முடுக்கம்
+Answer: C
+
+21. A device used to measure the pressure of a gas enclosed in a vessel is:
+A) Barometer
+B) Lactometer
+C) Manometer
+D) Hydrometer
+21. ஒரு பாத்திரத்தில் அடைக்கப்பட்டுள்ள வாயுவின் அழுத்தத்தை அளவிடப் பயன்படும் கருவி:
+அ) பாரோமீட்டர்
+ஆ) லாக்டோமீட்டர்
+இ) மானோமீட்டர்
+ஈ) ஹைட்ரோமீட்டர்
+Answer: C
+
+22. What happens to the boiling point of water at high altitudes where atmospheric pressure is low?
+A) Increases
+B) Decreases
+C) Remains the same
+D) Becomes zero
+22. வளிமண்டல அழுத்தம் குறைவாக உள்ள உயரமான இடங்களில் நீரின் கொதிநிலை என்னவாகும்?
+அ) அதிகரிக்கிறது
+ஆ) குறைகிறது
+இ) அப்படியே இருக்கும்
+ஈ) பூஜ்ஜியமாகிறது
+Answer: B
+
+23. The force acting perpendicularly on a unit area of a surface is called:
+A) Thrust
+B) Pressure
+C) Work
+D) Energy
+23. ஒரு பரப்பின் ஓரலகு பரப்பளவில் செங்குத்தாக செயல்படும் விசை இவ்வாறு அழைக்கப்படுகிறது:
+அ) உந்து விசை
+ஆ) அழுத்தம்
+இ) வேலை
+ஈ) ஆற்றல்
+Answer: B (Note: Thrust is the total perpendicular force. Pressure is thrust per unit area.)
+
+24. Which of the following statements is true about pressure in liquids?
+A) Pressure at a certain depth is different in different directions.
+B) Pressure at a certain depth is the same in all directions.
+C) Pressure decreases with depth.
+D) Pressure is independent of the density of the liquid.
+24. திரவங்களில் அழுத்தம் குறித்த பின்வரும் கூற்றுகளில் எது சரியானது?
+அ) ஒரு குறிப்பிட்ட ஆழத்தில் அழுத்தம் வெவ்வேறு திசைகளில் வேறுபடும்.
+ஆ) ஒரு குறிப்பிட்ட ஆழத்தில் அழுத்தம் எல்லா திசைகளிலும் ஒரே மாதிரியாக இருக்கும்.
+இ) ஆழம் அதிகரிக்கும்போது அழுத்தம் குறைகிறது.
+ஈ) அழுத்தம் திரவத்தின் அடர்த்தியைச் சார்ந்து இருக்காது.
+Answer: B
+
+25. Gauge pressure is:
+A) Absolute pressure + Atmospheric pressure
+B) Absolute pressure - Atmospheric pressure
+C) Atmospheric pressure - Absolute pressure
+D) Always equal to atmospheric pressure
+25. கேஜ் அழுத்தம் என்பது:
+அ) தனி அழுத்தம் + வளிமண்டல அழுத்தம்
+ஆ) தனி அழுத்தம் - வளிமண்டல அழுத்தம்
+இ) வளிமண்டல அழுத்தம் - தனி அழுத்தம்
+ஈ) எப்போதும் வளிமண்டல அழுத்தத்திற்கு சமம்
+Answer: B
+
+26. Camels can walk easily in deserts because:
+A) They have small feet, increasing pressure
+B) They have broad feet, decreasing pressure
+C) They are light in weight
+D) Deserts have hard surfaces
+26. ஒட்டகங்கள் பாலைவனங்களில் எளிதாக நடக்கக் காரணம்:
+அ) அவற்றுக்கு சிறிய பாதங்கள் இருப்பதால், அழுத்தம் அதிகரிக்கிறது
+ஆ) அவற்றுக்கு அகன்ற பாதங்கள் இருப்பதால், அழுத்தம் குறைகிறது
+இ) அவை எடை குறைந்தவை
+ஈ) பாலைவனங்கள் கடினமான மேற்பரப்புகளைக் கொண்டுள்ளன
+Answer: B
+
+27. The pressure exerted by air around us is known as:
+A) Fluid pressure
+B) Hydrostatic pressure
+C) Atmospheric pressure
+D) Absolute pressure
+27. நம்மைச் சுற்றியுள்ள காற்றினால் செலுத்தப்படும் அழுத்தம் இவ்வாறு அழைக்கப்படுகிறது:
+அ) திரவ அழுத்தம்
+ஆ) நீர்நிலை அழுத்தம்
+இ) வளிமண்டல அழுத்தம்
+ஈ) தனி அழுத்தம்
+Answer: C
+
+28. If the force applied to a surface is doubled and the area is halved, the new pressure will be:
+A) Same as original
+B) Double the original
+C) Half the original
+D) Four times the original
+28. ஒரு பரப்பில் செலுத்தப்படும் விசை இரட்டிப்பாக்கப்பட்டு, பரப்பளவு பாதியாகக் குறைக்கப்பட்டால், புதிய அழுத்தம்:
+அ) முந்தையதைப் போலவே இருக்கும்
+ஆ) முந்தையதை விட இருமடங்காகும்
+இ) முந்தையதில் பாதியாகும்
+ஈ) முந்தையதை விட நான்கு மடங்காகும்
+Answer: D (P = F/A. New P' = (2F)/(A/2) = 4(F/A) = 4P)
+
+29. A diver experiences greater pressure:
+A) At the surface of the water
+B) Deep inside the water
+C) When floating
+D) Pressure is same everywhere in water
+29. ஒரு நீச்சல் வீரர் அதிக அழுத்தத்தை உணருவது:
+அ) நீரின் மேற்பரப்பில்
+ஆ) நீரின் ஆழத்தில்
+இ) மிதக்கும்போது
+ஈ) நீரில் எல்லா இடங்களிலும் அழுத்தம் ஒன்றுதான்
+Answer: B
+
+30. The property of a fluid to exert an upward force on an object immersed in it is related to:
+A) Viscosity
+B) Surface tension
+C) Pressure difference (leading to Buoyancy)
+D) Capillarity
+30. ஒரு திரவத்தில் மூழ்கியுள்ள பொருளின் மீது மேல்நோக்கிய விசையைச் செலுத்தும் திரவத்தின் பண்பு எதனுடன் தொடர்புடையது:
+அ) பாகுநிலை
+ஆ) பரப்பு இழுவிசை
+இ) அழுத்த வேறுபாடு (மிதப்பு விசைக்கு வழிவகுக்கும்)
+ஈ) நுண்புழை ஏற்றம்
+Answer: C

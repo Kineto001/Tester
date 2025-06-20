@@ -1,0 +1,871 @@
+Overall Topic for Question Generation: Agricultural pattern India
+
+**1. Assertion and Reason Questions (6 questions):**
+
+1.
+**Assertion (A):** The Green Revolution in India primarily benefited wheat and rice cultivation.
+**Reason (R):** The Green Revolution package included High Yielding Variety (HYV) seeds, chemical fertilizers, and assured irrigation, which were more suitable for wheat and rice crops.
+
+**கூற்று (A):** இந்தியாவில் பசுமைப் புரட்சி முதன்மையாக கோதுமை மற்றும் அரிசி சாகுபடிக்கு பயனளித்தது.
+**காரணம் (R):** பசுமைப் புரட்சித் தொகுப்பில் உயர் விளைச்சல் தரும் (HYV) விதைகள், இரசாயன உரங்கள் மற்றும் உறுதிசெய்யப்பட்ட நீர்ப்பாசனம் ஆகியவை அடங்கும், அவை கோதுமை மற்றும் அரிசி பயிர்களுக்கு மிகவும் பொருத்தமானவை.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+விருப்பங்கள்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: a
+
+2.
+**Assertion (A):** Shifting cultivation is considered an ecologically sustainable agricultural practice in the long run.
+**Reason (R):** It involves clearing forest land by cutting and burning vegetation, which leads to soil erosion and loss of biodiversity.
+
+**கூற்று (A):** இடப்பெயர்வு வேளாண்மை நீண்ட காலத்திற்கு சுற்றுச்சூழல் ரீதியாக நிலையான விவசாய நடைமுறையாகக் கருதப்படுகிறது.
+**காரணம் (R):** இது காடுகளை வெட்டி எரிப்பதன் மூலம் காலி செய்து விவசாயம் செய்வதை உள்ளடக்கியது, இது மண் அரிப்பு மற்றும் பல்லுயிர் இழப்புக்கு வழிவகுக்கிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+விருப்பங்கள்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: d
+
+3.
+**Assertion (A):** Rabi crops in India are typically sown in winter (October-December) and harvested in summer (April-June).
+**Reason (R):** These crops require a cool climate during their growing period and a warm climate for the ripening of grains.
+
+**கூற்று (A):** இந்தியாவில் ராபி பயிர்கள் பொதுவாக குளிர்காலத்தில் (அக்டோபர்-டிசம்பர்) விதைக்கப்பட்டு கோடையில் (ஏப்ரல்-ஜூன்) அறுவடை செய்யப்படுகின்றன.
+**காரணம் (R):** இந்தப் பயிர்களுக்கு அவற்றின் வளர்ச்சிப் பருவத்தில் குளிர்ச்சியான காலநிலையும், தானியங்கள் பழுக்க வெப்பமான காலநிலையும் தேவை.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+விருப்பங்கள்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: a
+
+4.
+**Assertion (A):** Plantation agriculture is characterized by the cultivation of a single cash crop on large estates primarily for export.
+**Reason (R):** It is a form of subsistence farming aimed at fulfilling the needs of the farmer's family.
+
+**கூற்று (A):** தோட்டக்கலை விவசாயம் என்பது பெரிய தோட்டங்களில் ஏற்றுமதிக்காக முதன்மையாக ஒற்றை பணப்பயிரை சாகுபடி செய்வதன் மூலம் வகைப்படுத்தப்படுகிறது.
+**காரணம் (R):** இது விவசாயியின் குடும்பத் தேவைகளைப் பூர்த்தி செய்வதை நோக்கமாகக் கொண்ட ஒரு தன்னிறைவு விவசாய முறையாகும்.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+விருப்பங்கள்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: c
+
+5.
+**Assertion (A):** India's net sown area is relatively high, but the per capita availability of cultivated land is low.
+**Reason (R):** This is primarily due to the large and rapidly growing population dependent on agriculture.
+
+**கூற்று (A):** இந்தியாவின் நிகர விதைப்புப் பரப்பு ஒப்பீட்டளவில் அதிகமாக உள்ளது, ஆனால் தனிநபர் சாகுபடி நிலத்தின் கிடைக்கும் அளவு குறைவாக உள்ளது.
+**காரணம் (R):** இது முதன்மையாக விவசாயத்தைச் சார்ந்திருக்கும் பெரிய மற்றும் வேகமாக வளர்ந்து வரும் மக்கள்தொகை காரணமாகும்.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+விருப்பங்கள்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: a
+
+6.
+**Assertion (A):** Dryland farming is extensively practiced in regions of India receiving an annual rainfall of less than 75 cm.
+**Reason (R):** These regions predominantly cultivate drought-resistant crops such as millets, gram, and pulses.
+
+**கூற்று (A):** இந்தியாவில் ஆண்டுக்கு 75 செ.மீ.க்கும் குறைவான மழைப்பொழிவைப் பெறும் பகுதிகளில் வறண்ட நில வேளாண்மை விரிவாகப் பின்பற்றப்படுகிறது.
+**காரணம் (R):** இந்தப் பகுதிகள் முக்கியமாக தினை, கொண்டைக்கடலை மற்றும் பருப்பு வகைகள் போன்ற வறட்சியைத் தாங்கும் பயிர்களை சாகுபடி செய்கின்றன.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+விருப்பங்கள்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: a
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions):**
+
+7.
+Identify the wrongly matched pair:
+a) Kharif Crop - Rice
+b) Rabi Crop - Wheat
+c) Zaid Crop - Cotton
+d) Cash Crop - Sugarcane
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) காரீஃப் பயிர் - அரிசி
+b) ராபி பயிர் - கோதுமை
+c) சையது பயிர் - பருத்தி
+d) பணப்பயிர் - கரும்பு
+
+Answer: c (Zaid Crop - Cucumber/Watermelon; Cotton is a Kharif crop)
+(சையது பயிர் - வெள்ளரி/தர்பூசணி; பருத்தி ஒரு காரீஃப் பயிர்)
+
+8.
+Identify the wrongly matched pair regarding agricultural revolutions:
+a) Green Revolution - Food Grains
+b) White Revolution - Milk
+c) Blue Revolution - Fisheries
+d) Yellow Revolution - Jute
+
+விவசாயப் புரட்சிகள் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) பசுமைப் புரட்சி - உணவு தானியங்கள்
+b) வெண்மைப் புரட்சி - பால்
+c) நீலப் புரட்சி - மீன்வளம்
+d) மஞ்சள் புரட்சி - சணல்
+
+Answer: d (Yellow Revolution - Oilseeds; Jute is related to Golden Fibre Revolution)
+(மஞ்சள் புரட்சி - எண்ணெய் வித்துக்கள்; சணல் பொன் இழைப் புரட்சியுடன் தொடர்புடையது)
+
+9.
+Identify the wrongly matched pair regarding types of farming:
+a) Shifting Cultivation - Jhum (North-East India)
+b) Intensive Subsistence Farming - High population density areas
+c) Commercial Farming - Use of HYV seeds and fertilizers
+d) Primitive Subsistence Farming - Large land holdings
+
+வேளாண்மை வகைகள் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) இடப்பெயர்வு வேளாண்மை - ஜூம் (வடகிழக்கு இந்தியா)
+b) தீவிர தன்னிறைவு வேளாண்மை - அதிக மக்கள்தொகை அடர்த்தி கொண்ட பகுதிகள்
+c) வணிக வேளாண்மை - HYV விதைகள் மற்றும் உரங்களின் பயன்பாடு
+d) பழமையான தன்னிறைவு வேளாண்மை - பெரிய நில உடைமைகள்
+
+Answer: d (Primitive Subsistence Farming - Small, scattered land holdings)
+(பழமையான தன்னிறைவு வேளாண்மை - சிறிய, சிதறிய நில உடைமைகள்)
+
+10.
+Identify the wrongly matched pair:
+a) Terrace Cultivation - Hilly regions
+b) Crop Rotation - Maintaining soil fertility
+c) Multiple Cropping - Growing two or more crops on the same land in different seasons within a year
+d) Fallow Land - Land continuously under cultivation
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) மாடிப்படி சாகுபடி - மலைப்பாங்கான பகுதிகள்
+b) பயிர் சுழற்சி - மண் வளத்தைப் பேணுதல்
+c) பன்முகப் பயிரிடுதல் - ஒரே நிலத்தில் ஒரு வருடத்தில் வெவ்வேறு பருவங்களில் இரண்டு அல்லது அதற்கு மேற்பட்ட பயிர்களை வளர்ப்பது
+d) தரிசு நிலம் - தொடர்ந்து சாகுபடியில் உள்ள நிலம்
+
+Answer: d (Fallow Land - Land left uncultivated for a period to regain fertility)
+(தரிசு நிலம் - வளத்தை மீண்டும் பெற ஒரு காலத்திற்கு சாகுபடி செய்யப்படாமல் விடப்பட்ட நிலம்)
+
+11.
+Identify the wrongly matched pair of state and its leading agricultural produce:
+a) Punjab - Wheat
+b) West Bengal - Rice
+c) Gujarat - Cotton
+d) Kerala - Sugarcane
+
+மாநிலம் மற்றும் அதன் முன்னணி விவசாய உற்பத்திப் பொருள் தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) பஞ்சாப் - கோதுமை
+b) மேற்கு வங்கம் - அரிசி
+c) குஜராத் - பருத்தி
+d) கேரளா - கரும்பு
+
+Answer: d (Kerala - Spices/Rubber; Sugarcane - Uttar Pradesh/Maharashtra)
+(கேரளா - மசாலாப் பொருட்கள்/ரப்பர்; கரும்பு - உத்தரப் பிரதேசம்/மகாராஷ்டிரா)
+
+12.
+Identify the wrongly matched pair of agricultural institution and its primary function:
+a) NABARD - Agricultural finance and rural development
+b) FCI (Food Corporation of India) - Food grain procurement and distribution
+c) ICAR (Indian Council of Agricultural Research) - Agricultural research and education
+d) APMC (Agricultural Produce Market Committee) - Providing soil testing services
+
+விவசாய நிறுவனம் மற்றும் அதன் முதன்மைச் செயல்பாடு தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) நபார்டு - விவசாய நிதி மற்றும் கிராமப்புற மேம்பாடு
+b) FCI (இந்திய உணவுக் கழகம்) - உணவு தானியக் கொள்முதல் மற்றும் விநியோகம்
+c) ICAR (இந்திய வேளாண் ஆராய்ச்சி மன்றம்) - விவசாய ஆராய்ச்சி மற்றும் கல்வி
+d) APMC (வேளாண் விளைபொருள் சந்தைக் குழு) - மண் பரிசோதனை சேவைகளை வழங்குதல்
+
+Answer: d (APMC - Regulation of agricultural markets/marketing of produce)
+(APMC - விவசாய சந்தைகளை ஒழுங்குபடுத்துதல்/விளைபொருட்களை சந்தைப்படுத்துதல்)
+
+---
+
+**3. Match the Following Questions (6 questions):**
+
+13.
+Match List-I with List-II:
+List-I (Crop)             List-II (Type of Crop)
+1. Rice                   a. Plantation crop
+2. Tea                    b. Rabi crop
+3. Wheat                  c. Kharif crop
+4. Cotton                 d. Fibre crop
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (பயிர்)         பட்டியல்-II (பயிர் வகை)
+1. அரிசி                   a. தோட்டப்பயிர்
+2. தேயிலை                 b. ராபி பயிர்
+3. கோதுமை                 c. காரீஃப் பயிர்
+4. பருத்தி                  d. நார் பயிர்
+
+Options:
+A) 1-c, 2-a, 3-b, 4-d
+B) 1-a, 2-c, 3-d, 4-b
+C) 1-c, 2-b, 3-a, 4-d
+D) 1-d, 2-a, 3-c, 4-b
+
+விருப்பங்கள்:
+A) 1-c, 2-a, 3-b, 4-d
+B) 1-a, 2-c, 3-d, 4-b
+C) 1-c, 2-b, 3-a, 4-d
+D) 1-d, 2-a, 3-c, 4-b
+
+Answer: A
+
+14.
+Match List-I with List-II:
+List-I (Agricultural Revolution) List-II (Associated Product)
+1. Green Revolution             a. Milk
+2. White Revolution             b. Fish
+3. Blue Revolution              c. Oilseeds
+4. Yellow Revolution            d. Food grains
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (வேளாண் புரட்சி)   பட்டியல்-II (தொடர்புடைய உற்பத்திப் பொருள்)
+1. பசுமைப் புரட்சி              a. பால்
+2. வெண்மைப் புரட்சி            b. மீன்
+3. நீலப் புரட்சி                 c. எண்ணெய் வித்துக்கள்
+4. மஞ்சள் புரட்சி              d. உணவு தானியங்கள்
+
+Options:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-d, 2-a, 3-b, 4-c
+C) 1-b, 2-c, 3-d, 4-a
+D) 1-c, 2-d, 3-a, 4-b
+
+விருப்பங்கள்:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-d, 2-a, 3-b, 4-c
+C) 1-b, 2-c, 3-d, 4-a
+D) 1-c, 2-d, 3-a, 4-b
+
+Answer: B
+
+15.
+Match List-I with List-II:
+List-I (Type of Farming)    List-II (Characteristic)
+1. Shifting Agriculture     a. High capital investment, single crop focus
+2. Subsistence Farming      b. Primarily for family consumption
+3. Commercial Farming       c. Slash and burn method
+4. Plantation Farming       d. Production for market sale
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (வேளாண்மை வகை) பட்டியல்-II (பண்பு)
+1. இடப்பெயர்வு வேளாண்மை   a. அதிக மூலதன முதலீடு, ஒற்றைப் பயிர் கவனம்
+2. தன்னிறைவு வேளாண்மை    b. முதன்மையாக குடும்ப நுகர்வுக்காக
+3. வணிக வேளாண்மை          c. வெட்டி எரித்தல் முறை
+4. தோட்ட வேளாண்மை         d. சந்தை விற்பனைக்கான உற்பத்தி
+
+Options:
+A) 1-c, 2-b, 3-d, 4-a
+B) 1-a, 2-d, 3-b, 4-c
+C) 1-b, 2-a, 3-c, 4-d
+D) 1-d, 2-c, 3-a, 4-b
+
+விருப்பங்கள்:
+A) 1-c, 2-b, 3-d, 4-a
+B) 1-a, 2-d, 3-b, 4-c
+C) 1-b, 2-a, 3-c, 4-d
+D) 1-d, 2-c, 3-a, 4-b
+
+Answer: A
+
+16.
+Match List-I with List-II:
+List-I (Agricultural Term) List-II (Meaning)
+1. Zaid season             a. Growing different crops in pre-planned succession on the same land
+2. Crop rotation           b. Short cropping season between Rabi and Kharif
+3. Mixed farming           c. Rearing of animals along with crop cultivation
+4. Horticulture            d. Cultivation of fruits, vegetables, and flowers
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (வேளாண் சொல்)  பட்டியல்-II (பொருள்)
+1. சையது பருவம்            a. ஒரே நிலத்தில் முன்கூட்டியே திட்டமிடப்பட்ட வரிசையில் வெவ்வேறு பயிர்களை வளர்ப்பது
+2. பயிர் சுழற்சி             b. ராபி மற்றும் காரீஃப் பருவங்களுக்கு இடையிலான குறுகிய பயிர் பருவம்
+3. கலப்பு விவசாயம்          c. பயிர் சாகுபடியுடன் விலங்குகளை வளர்ப்பது
+4. தோட்டக்கலை             d. பழங்கள், காய்கறிகள் மற்றும் பூக்கள் சாகுபடி
+
+Options:
+A) 1-d, 2-c, 3-b, 4-a
+B) 1-c, 2-d, 3-a, 4-b
+C) 1-b, 2-a, 3-c, 4-d
+D) 1-a, 2-b, 3-d, 4-c
+
+விருப்பங்கள்:
+A) 1-d, 2-c, 3-b, 4-a
+B) 1-c, 2-d, 3-a, 4-b
+C) 1-b, 2-a, 3-c, 4-d
+D) 1-a, 2-b, 3-d, 4-c
+
+Answer: C
+
+17.
+Match List-I with List-II:
+List-I (State)            List-II (Major Crop Produced)
+1. Assam                  a. Wheat
+2. Uttar Pradesh          b. Coffee
+3. Karnataka              c. Tea
+4. Punjab                 d. Sugarcane
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (மாநிலம்)        பட்டியல்-II (முக்கிய பயிர் உற்பத்தி)
+1. அசாம்                  a. கோதுமை
+2. உத்தரப் பிரதேசம்         b. காபி
+3. கர்நாடகா               c. தேயிலை
+4. பஞ்சாப்                 d. கரும்பு
+
+Options:
+A) 1-c, 2-d, 3-b, 4-a
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-d, 2-c, 3-a, 4-b
+D) 1-a, 2-b, 3-c, 4-d
+
+விருப்பங்கள்:
+A) 1-c, 2-d, 3-b, 4-a
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-d, 2-c, 3-a, 4-b
+D) 1-a, 2-b, 3-c, 4-d
+
+Answer: A
+
+18.
+Match List-I with List-II:
+List-I (Soil Type)        List-II (Suitable Crop)
+1. Alluvial Soil          a. Cotton
+2. Black Soil (Regur)     b. Tea, Coffee, Cashew
+3. Laterite Soil          c. Millets, Groundnut
+4. Red Soil               d. Rice, Wheat, Sugarcane
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (மண் வகை)      பட்டியல்-II (பொருத்தமான பயிர்)
+1. வண்டல் மண்             a. பருத்தி
+2. கரிசல் மண் (ரேகூர்)    b. தேயிலை, காபி, முந்திரி
+3. சரளை மண்              c. தினை, நிலக்கடலை
+4. செம்மண்                d. அரிசி, கோதுமை, கரும்பு
+
+Options:
+A) 1-a, 2-d, 3-c, 4-b
+B) 1-d, 2-a, 3-b, 4-c
+C) 1-c, 2-b, 3-d, 4-a
+D) 1-b, 2-c, 3-a, 4-d
+
+விருப்பங்கள்:
+A) 1-a, 2-d, 3-c, 4-b
+B) 1-d, 2-a, 3-b, 4-c
+C) 1-c, 2-b, 3-d, 4-a
+D) 1-b, 2-c, 3-a, 4-d
+
+Answer: B
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions):**
+
+19. Which of the following is the main food crop of the Kharif season in India?
+a) Wheat
+b) Barley
+c) Rice
+d) Gram
+
+இந்தியாவில் காரீஃப் பருவத்தின் முக்கிய உணவுப் பயிர் எது?
+a) கோதுமை
+b) பார்லி
+c) அரிசி
+d) கொண்டைக்கடலை
+
+Answer: c
+
+20. "Operation Flood" is related to:
+a) Flood control
+b) Milk production
+c) Fish production
+d) Irrigation projects
+
+"ஆபரேஷன் ஃப்ளட்" என்பது எதனுடன் தொடர்புடையது?
+a) வெள்ளக் கட்டுப்பாடு
+b) பால் உற்பத்தி
+c) மீன் உற்பத்தி
+d) நீர்ப்பாசனத் திட்டங்கள்
+
+Answer: b
+
+21. Which of the following is predominantly a Rabi crop in India?
+a) Jowar
+b) Bajra
+c) Maize
+d) Mustard
+
+பின்வருவனவற்றில் இந்தியாவில் முக்கியமாக ராபி பயிர் எது?
+a) சோளம்
+b) கம்பு
+c) மக்காச்சோளம்
+d) கடுகு
+
+Answer: d
+
+22. Jhum cultivation, a type of shifting agriculture, is predominantly practiced in:
+a) Punjab plains
+b) Coastal regions of Tamil Nadu
+c) North-Eastern states of India
+d) Desert regions of Rajasthan
+
+இடமாற்று வேளாண்மையின் ஒரு வகையான ஜூம் சாகுபடி, முக்கியமாக எங்கு நடைமுறையில் உள்ளது?
+a) பஞ்சாப் சமவெளிகள்
+b) தமிழ்நாட்டின் கடலோரப் பகுதிகள்
+c) இந்தியாவின் வடகிழக்கு மாநிலங்கள்
+d) ராஜஸ்தானின் பாலைவனப் பகுதிகள்
+
+Answer: c
+
+23. Which Indian state is the largest producer of sugarcane?
+a) Maharashtra
+b) Uttar Pradesh
+c) Tamil Nadu
+d) Karnataka
+
+எந்த இந்திய மாநிலம் கரும்பு உற்பத்தியில் முதலிடம் வகிக்கிறது?
+a) மகாராஷ்டிரா
+b) உத்தரப் பிரதேசம்
+c) தமிழ்நாடு
+d) கர்நாடகா
+
+Answer: b
+
+24. The Green Revolution in India led to a significant increase in the production of:
+a) Pulses and Millets
+b) Wheat and Rice
+c) Oilseeds and Cotton
+d) Fruits and Vegetables
+
+இந்தியாவில் பசுமைப் புரட்சி எந்த உற்பத்தியில் குறிப்பிடத்தக்க அதிகரிப்புக்கு வழிவகுத்தது?
+a) பருப்பு வகைகள் மற்றும் தினை வகைகள்
+b) கோதுமை மற்றும் அரிசி
+c) எண்ணெய் வித்துக்கள் மற்றும் பருத்தி
+d) பழங்கள் மற்றும் காய்கறிகள்
+
+Answer: b
+
+25. The type of farming where farmers grow crops and rear livestock simultaneously on the same farm is known as:
+a) Plantation farming
+b) Mixed farming
+c) Cooperative farming
+d) Shifting agriculture
+
+விவசாயிகள் ஒரே பண்ணையில் ஒரே நேரத்தில் பயிர்களை வளர்த்து கால்நடைகளை வளர்க்கும் விவசாய முறை இவ்வாறு அழைக்கப்படுகிறது:
+a) தோட்ட விவசாயம்
+b) கலப்பு விவசாயம்
+c) கூட்டுறவு விவசாயம்
+d) இடப்பெயர்வு வேளாண்மை
+
+Answer: b
+
+26. Which of the following is NOT a characteristic of plantation agriculture in India?
+a) Large farm size
+b) Capital intensive
+c) Single crop specialisation
+d) Production primarily for local consumption
+
+பின்வருவனவற்றில் இந்தியாவில் தோட்ட விவசாயத்தின் பண்பு அல்லாதது எது?
+a) பெரிய பண்ணை அளவு
+b) மூலதனம் செறிவானது
+c) ஒற்றைப் பயிர் நிபுணத்துவம்
+d) முதன்மையாக உள்ளூர் நுகர்வுக்கான உற்பத்தி
+
+Answer: d
+
+27. What type of soil is considered most ideal for growing cotton in India?
+a) Alluvial soil
+b) Red soil
+c) Laterite soil
+d) Black soil (Regur soil)
+
+இந்தியாவில் பருத்தி வளர்ப்பதற்கு மிகவும் ஏற்றதாகக் கருதப்படும் மண் வகை எது?
+a) வண்டல் மண்
+b) செம்மண்
+c) சரளை மண்
+d) கரிசல் மண் (ரேகூர் மண்)
+
+Answer: d
+
+28. Which of the following agricultural products is often referred to as the "Golden Fibre" of India?
+a) Cotton
+b) Silk
+c) Jute
+d) Wool
+
+பின்வரும் எந்த விவசாயப் பொருள் இந்தியாவின் "தங்க இழை" என்று அடிக்கடி குறிப்பிடப்படுகிறது?
+a) பருத்தி
+b) பட்டு
+c) சணல்
+d) கம்பளி
+
+Answer: c
+
+29. The short agricultural season in India between the Rabi and the Kharif seasons is known as:
+a) Barani
+b) Zaid
+c) Sali
+d) Aus
+
+இந்தியாவில் ராபி மற்றும் காரீஃப் பருவங்களுக்கு இடையிலான குறுகிய விவசாயப் பருவம் இவ்வாறு அழைக்கப்படுகிறது:
+a) பரணி
+b) சையது
+c) சாலி
+d) ஆஸ்
+
+Answer: b
+
+30. "Sericulture" is the science of rearing:
+a) Honey bees
+b) Fish
+c) Silkworms
+d) Sheep for wool
+
+"செரிகல்ச்சர்" என்பது எதை வளர்க்கும் அறிவியல்?
+a) தேனீக்கள்
+b) மீன்கள்
+c) பட்டுப்புழுக்கள்
+d) கம்பளிக்காக செம்மறி ஆடுகள்
+
+Answer: c
+
+31. Which state is the leading producer of coffee in India?
+a) Kerala
+b) Tamil Nadu
+c) Karnataka
+d) Andhra Pradesh
+
+இந்தியாவில் காபி உற்பத்தியில் முன்னணி மாநிலம் எது?
+a) கேரளா
+b) தமிழ்நாடு
+c) கர்நாடகா
+d) ஆந்திரப் பிரதேசம்
+
+Answer: c
+
+32. Which of the following is a major challenge faced by Indian agriculture?
+a) Surplus land availability
+b) Large and consolidated landholdings
+c) Dependence on monsoon and climate change
+d) Low population pressure on land
+
+இந்திய விவசாயம் எதிர்கொள்ளும் ஒரு பெரிய சவால் எது?
+a) உபரி நிலம் கிடைப்பது
+b) பெரிய மற்றும் ஒருங்கிணைந்த நில உடைமைகள்
+c) பருவமழை மற்றும் காலநிலை மாற்றத்தைச் சார்ந்திருத்தல்
+d) நிலத்தின் மீதான குறைந்த மக்கள்தொகை அழுத்தம்
+
+Answer: c
+
+33. The practice of growing two or more crops simultaneously on the same piece of land in a definite pattern is called:
+a) Crop rotation
+b) Intercropping
+c) Monoculture
+d) Fallowing
+
+ஒரே நிலத்தில் ஒரே நேரத்தில் இரண்டு அல்லது அதற்கு மேற்பட்ட பயிர்களை ஒரு திட்டவட்டமான வடிவத்தில் வளர்க்கும் முறை இவ்வாறு அழைக்கப்படுகிறது:
+a) பயிர் சுழற்சி
+b) ஊடுபயிர்
+c) ஒற்றைப்பயிர் சாகுபடி
+d) தரிசு போடுதல்
+
+Answer: b
+
+34. The Yellow Revolution in India is associated with the increased production of:
+a) Eggs
+b) Pulses
+c) Oilseeds
+d) Fruits
+
+இந்தியாவில் மஞ்சள் புரட்சி எதன் அதிகரித்த உற்பத்தியுடன் தொடர்புடையது?
+a) முட்டைகள்
+b) பருப்பு வகைகள்
+c) எண்ணெய் வித்துக்கள்
+d) பழங்கள்
+
+Answer: c
+
+35. Pradhan Mantri Fasal Bima Yojana (PMFBY) is a government scheme related to:
+a) Soil health improvement
+b) Irrigation facilities
+c) Crop insurance
+d) Agricultural marketing
+
+பிரதம மந்திரி ஃபசல் பீமா யோஜனா (PMFBY) என்பது எதனுடன் தொடர்புடைய அரசாங்கத் திட்டம்?
+a) மண்வள மேம்பாடு
+b) நீர்ப்பாசன வசதிகள்
+c) பயிர் காப்பீடு
+d) விவசாய சந்தைப்படுத்தல்
+
+Answer: c
+
+36. Which of the following crops are often grown in crop rotation to enhance soil fertility due to their nitrogen-fixing ability?
+a) Cereals like wheat and rice
+b) Leguminous crops like pulses
+c) Oilseeds like mustard
+d) Cash crops like sugarcane
+
+நைட்ரஜனை நிலைநிறுத்தும் திறனின் காரணமாக மண் வளத்தை மேம்படுத்த பயிர் சுழற்சியில் அடிக்கடி வளர்க்கப்படும் பயிர்கள் யாவை?
+a) கோதுமை மற்றும் அரிசி போன்ற தானியங்கள்
+b) பருப்பு வகைகள் போன்ற அவரைவகை பயிர்கள்
+c) கடுகு போன்ற எண்ணெய் வித்துக்கள்
+d) கரும்பு போன்ற பணப்பயிர்கள்
+
+Answer: b
+
+37. Terrace cultivation is a common agricultural practice in which type of geographical regions?
+a) Desert areas
+b) Coastal plains
+c) Hilly and mountainous areas
+d) River deltas
+
+மாடிப்படி சாகுபடி எந்த வகையான புவியியல் பகுதிகளில் ஒரு பொதுவான விவசாய நடைமுறையாகும்?
+a) பாலைவனப் பகுதிகள்
+b) கடலோர சமவெளிகள்
+c) மலைப்பாங்கான மற்றும் பர்வதப் பகுதிகள்
+d) ஆற்றுப் படுகைகள்
+
+Answer: c
+
+38. In the context of the Green Revolution in India, what does "HYV" stand for?
+a) High Yielding Varieties
+b) Heavy Yielding Varieties
+c) Hybrid Yielding Varieties
+d) Healthy Yielding Varieties
+
+இந்தியாவில் பசுமைப் புரட்சியின் பின்னணியில், "HYV" என்பதன் விரிவாக்கம் என்ன?
+a) உயர் விளைச்சல் தரும் வகைகள் (High Yielding Varieties)
+b) அதிக எடை விளைச்சல் தரும் வகைகள் (Heavy Yielding Varieties)
+c) கலப்பின விளைச்சல் தரும் வகைகள் (Hybrid Yielding Varieties)
+d) ஆரோக்கியமான விளைச்சல் தரும் வகைகள் (Healthy Yielding Varieties)
+
+Answer: a
+
+39. Which organization in India is primarily responsible for the procurement, storage, and distribution of food grains to ensure food security?
+a) NABARD
+b) Food Corporation of India (FCI)
+c) NAFED
+d) Ministry of Agriculture
+
+இந்தியாவில் உணவுப் பாதுகாப்பை உறுதி செய்வதற்காக உணவு தானியங்களை கொள்முதல் செய்தல், சேமித்தல் மற்றும் விநியோகித்தல் ஆகியவற்றிற்கு முதன்மையாகப் பொறுப்பான அமைப்பு எது?
+a) நபார்டு
+b) இந்திய உணவுக் கழகம் (FCI)
+c) நாஃபெட்
+d) வேளாண் அமைச்சகம்
+
+Answer: b
+
+40. What is the main objective of the "Kisan Credit Card" (KCC) scheme introduced for farmers in India?
+a) To provide housing loans to farmers
+b) To offer subsidies on agricultural equipment
+c) To provide adequate and timely credit for agricultural needs
+d) To promote organic farming practices
+
+இந்தியாவில் விவசாயிகளுக்காக அறிமுகப்படுத்தப்பட்ட "கிசான் கிரெடிட் கார்டு" (KCC) திட்டத்தின் முக்கிய நோக்கம் என்ன?
+a) விவசாயிகளுக்கு வீட்டுக் கடன் வழங்குதல்
+b) விவசாய உபகரணங்களுக்கு மானியம் வழங்குதல்
+c) விவசாயத் தேவைகளுக்கு போதுமான மற்றும் சரியான நேரத்தில் கடன் வழங்குதல்
+d) இயற்கை விவசாய முறைகளை ஊக்குவித்தல்
+
+Answer: c
+
+41. Which of the following crops is generally well-suited for cultivation in laterite soils, which are often acidic and poor in nutrients?
+a) Wheat
+b) Rice
+c) Cashew nuts
+d) Sugarcane
+
+பொதுவாக அமிலத்தன்மை கொண்ட மற்றும் ஊட்டச்சத்துக்கள் குறைவாக உள்ள சரளை மண்ணில் சாகுபடிக்கு நன்கு பொருத்தமான பயிர் எது?
+a) கோதுமை
+b) அரிசி
+c) முந்திரிப் பருப்பு
+d) கரும்பு
+
+Answer: c
+
+42. "Dryland Farming" in India is typically practiced in areas that receive an annual rainfall of:
+a) More than 200 cm
+b) Between 100 cm and 150 cm
+c) Less than 75 cm
+d) Between 75 cm and 100 cm
+
+இந்தியாவில் "வறண்ட நில வேளாண்மை" பொதுவாக எவ்வளவு ஆண்டு மழைப்பொழிவைப் பெறும் பகுதிகளில் நடைமுறைப்படுத்தப்படுகிறது?
+a) 200 செ.மீ.க்கு மேல்
+b) 100 செ.மீ. முதல் 150 செ.மீ. வரை
+c) 75 செ.மீ.க்கும் குறைவாக
+d) 75 செ.மீ. முதல் 100 செ.மீ. வரை
+
+Answer: c
+
+43. Which state in India is popularly known as the "Spice Garden of India"?
+a) Karnataka
+b) Tamil Nadu
+c) Kerala
+d) Andhra Pradesh
+
+இந்தியாவின் எந்த மாநிலம் "இந்தியாவின் மசாலாத் தோட்டம்" என்று பிரபலமாக அறியப்படுகிறது?
+a) கர்நாடகா
+b) தமிழ்நாடு
+c) கேரளா
+d) ஆந்திரப் பிரதேசம்
+
+Answer: c
+
+44. The Blue Revolution in India is primarily associated with the development of:
+a) Poultry farming
+b) Dairy industry
+c) Fisheries and aquaculture
+d) Horticulture
+
+இந்தியாவில் நீலப் புரட்சி முதன்மையாக எதன் வளர்ச்சியுடன் தொடர்புடையது?
+a) கோழி வளர்ப்பு
+b) பால் தொழில்
+c) மீன்வளம் மற்றும் நீர்வாழ் உயிரின வளர்ப்பு
+d) தோட்டக்கலை
+
+Answer: c
+
+45. Which of the following is an example of a Kharif pulse crop grown in India?
+a) Gram (Chana)
+b) Lentil (Masur)
+c) Arhar (Tur)
+d) Pea (Matar)
+
+இந்தியாவில் பயிரிடப்படும் காரீஃப் பருப்பு வகைப் பயிருக்கு உதாரணம் எது?
+a) கொண்டைக்கடலை (சனா)
+b) மைசூர் பருப்பு (மசூர்)
+c) துவரை (தூர்)
+d) பட்டாணி (மட்டர்)
+
+Answer: c
+
+46. What is the primary characteristic of intensive subsistence farming, commonly found in densely populated regions of India?
+a) Large land holdings and extensive use of machinery
+b) Low labour input and low yield per hectare
+c) High output per unit of land due to high inputs of labour and fertilizers
+d) Focus on growing crops for export markets
+
+இந்தியாவின் அதிக மக்கள்தொகை கொண்ட பகுதிகளில் பொதுவாகக் காணப்படும் தீவிர தன்னிறைவு விவசாயத்தின் முதன்மைப் பண்பு என்ன?
+a) பெரிய நில உடைமைகள் மற்றும் இயந்திரங்களின் விரிவான பயன்பாடு
+b) குறைந்த தொழிலாளர் உள்ளீடு மற்றும் ஹெக்டேருக்கு குறைந்த விளைச்சல்
+c) அதிக தொழிலாளர் மற்றும் உர உள்ளீடுகள் காரணமாக ஒரு அலகு நிலத்திற்கு அதிக உற்பத்தி
+d) ஏற்றுமதி சந்தைகளுக்கான பயிர்களை வளர்ப்பதில் கவனம்
+
+Answer: c
+
+47. The practice of leaving agricultural land uncultivated for one or more seasons to allow it to regain its natural fertility is known as:
+a) Intercropping
+b) Fallowing
+c) Monocropping
+d) Mulching
+
+வேளாண் நிலத்தை அதன் இயற்கை வளத்தை மீண்டும் பெற ஒன்று அல்லது அதற்கு மேற்பட்ட பருவங்களுக்கு சாகுபடி செய்யாமல் விடும் பழக்கம் இவ்வாறு அழைக்கப்படுகிறது:
+a) ஊடுபயிர்
+b) தரிசு போடுதல்
+c) ஒற்றைப்பயிர் சாகுபடி
+d) மூடாக்கு போடுதல்
+
+Answer: b
+
+48. Who is widely regarded as the "Father of the Green Revolution in India"?
+a) Verghese Kurien
+b) C. Subramaniam
+c) M.S. Swaminathan
+d) Norman Borlaug
+
+"இந்தியாவில் பசுமைப் புரட்சியின் தந்தை" என்று பரவலாகக் கருதப்படுபவர் யார்?
+a) வர்கீஸ் குரியன்
+b) சி. சுப்பிரமணியம்
+c) எம்.எஸ். சுவாமிநாதன்
+d) நார்மன் போர்லாக்
+
+Answer: c
+
+49. Which of the following is the most dominant source of irrigation in India, accounting for the largest share of irrigated area?
+a) Canals
+b) Tanks
+c) Tube wells and other wells
+d) Drip irrigation
+
+இந்தியாவில் பாசனத்தின் மிக முக்கியமான ஆதாரமாக, பாசனப் பரப்பளவில் மிகப்பெரிய பங்கைக் கொண்டுள்ளது எது?
+a) கால்வாய்கள்
+b) குளங்கள்
+c) ஆழ்துளைக் கிணறுகள் மற்றும் பிற கிணறுகள்
+d) சொட்டு நீர்ப்பாசனம்
+
+Answer: c
+
+50. What is the primary aim of "Organic Farming"?
+a) To maximize the use of chemical fertilizers and pesticides
+b) To produce food using genetically modified organisms (GMOs)
+c) To cultivate crops in a soilless medium
+d) To produce food using natural methods without synthetic chemicals, promoting ecological balance
+
+"இயற்கை வேளாண்மையின்" முதன்மை நோக்கம் என்ன?
+a) இரசாயன உரங்கள் மற்றும் பூச்சிக்கொல்லிகளின் பயன்பாட்டை அதிகப்படுத்துதல்
+b) மரபணு மாற்றப்பட்ட உயிரினங்களைப் (GMOs) பயன்படுத்தி உணவு உற்பத்தி செய்தல்
+c) மண் இல்லாத ஊடகத்தில் பயிர்களை சாகுபடி செய்தல்
+d) செயற்கை இரசாயனங்கள் இல்லாமல் இயற்கை முறைகளைப் பயன்படுத்தி உணவு உற்பத்தி செய்தல், சுற்றுச்சூழல் சமநிலையை ஊக்குவித்தல்
+
+Answer: d

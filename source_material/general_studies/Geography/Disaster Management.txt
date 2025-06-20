@@ -1,0 +1,890 @@
+**Disaster Management MCQs for TNPSC Group 4**
+**பேரிடர் மேலாண்மை - TNPSC குரூப் 4 க்கான பலவுள் தெரிவு வினாக்கள்**
+
+---
+**1. Assertion and Reason Questions (6 questions)**
+**1. கூற்று மற்றும் காரணம் வகை வினாக்கள் (6 வினாக்கள்)**
+---
+
+1.
+**Assertion (A):** The Disaster Management Act was enacted in India in 2005.
+**Reason (R):** This Act provides for the effective management of disasters and for matters connected therewith or incidental thereto.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** இந்தியாவில் பேரிடர் மேலாண்மைச் சட்டம் 2005 இல் இயற்றப்பட்டது.
+**காரணம் (R):** இந்தச் சட்டம் பேரிடர்களை திறம்பட நிர்வகிப்பதற்கும் அதனுடன் தொடர்புடைய அல்லது இடைப்பட்ட விஷயங்களுக்கும் வழிவகை செய்கிறது.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: a**
+
+2.
+**Assertion (A):** Community participation is crucial for effective disaster preparedness.
+**Reason (R):** Local communities are the first responders in any disaster situation.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** பேரிடர் தயார்நிலைக்கு சமூக பங்களிப்பு மிகவும் முக்கியமானது.
+**காரணம் (R):** எந்தவொரு பேரிடர் சூழ்நிலையிலும் உள்ளூர் சமூகத்தினரே முதல் பதிலளிப்பாளர்கள்.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: a**
+
+3.
+**Assertion (A):** Mitigation measures aim to reduce the impact of disasters.
+**Reason (R):** Mitigation is undertaken only after a disaster has occurred.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** தணிப்பு நடவடிக்கைகள் பேரிடர்களின் தாக்கத்தை குறைப்பதை நோக்கமாகக் கொண்டுள்ளன.
+**காரணம் (R):** ஒரு பேரிடர் நிகழ்ந்த பின்னரே தணிப்பு நடவடிக்கைகள் மேற்கொள்ளப்படுகின்றன.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: c** (Reason is false; mitigation is done before a disaster as well)
+
+4.
+**Assertion (A):** The National Disaster Management Authority (NDMA) is headed by the Home Minister of India.
+**Reason (R):** NDMA is the apex body for Disaster Management in India.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** தேசிய பேரிடர் மேலாண்மை ஆணையத்தின் (NDMA) தலைவர் இந்திய உள்துறை அமைச்சர் ஆவார்.
+**காரணம் (R):** NDMA என்பது இந்தியாவில் பேரிடர் மேலாண்மைக்கான உச்ச அமைப்பு ஆகும்.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: d** (Assertion is false; NDMA is headed by the Prime Minister)
+
+5.
+**Assertion (A):** Early warning systems can help in reducing the loss of life and property during cyclones.
+**Reason (R):** Early warning systems provide accurate information about the intensity and path of cyclones well in advance.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** புயல்களின் போது உயிர் மற்றும் உடைமை இழப்பைக் குறைக்க முன் எச்சரிக்கை அமைப்புகள் உதவும்.
+**காரணம் (R):** முன் எச்சரிக்கை அமைப்புகள் புயல்களின் தீவிரம் மற்றும் பாதை பற்றிய துல்லியமான தகவல்களை முன்கூட்டியே வழங்குகின்றன.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: a**
+
+6.
+**Assertion (A):** Vulnerability refers to the conditions determined by physical, social, economic, and environmental factors which increase the susceptibility of a community to the impact of hazards.
+**Reason (R):** High population density in coastal areas reduces vulnerability to tsunamis.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** பாதிப்பு என்பது பௌதீக, சமூக, பொருளாதார மற்றும் சுற்றுச்சூழல் காரணிகளால் தீர்மானிக்கப்படும் நிலைமைகளைக் குறிக்கிறது, இது ஒரு சமூகத்தின் அபாயங்களின் தாக்கத்திற்கு ஆளாகும் தன்மையை அதிகரிக்கிறது.
+**காரணம் (R):** கடலோரப் பகுதிகளில் அதிக மக்கள் அடர்த்தி சுனாமிகளால் ஏற்படும் பாதிப்பைக் குறைக்கிறது.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: c** (Reason is false; high population density increases vulnerability)
+
+---
+**2. Identify the Wrongly Matched Pair Questions (6 questions)**
+**2. தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியும் வினாக்கள் (6 வினாக்கள்)**
+---
+
+7. Identify the wrongly matched pair:
+    a) Earthquake - Seismic waves
+    b) Cyclone - Low-pressure system
+    c) Flood - Lack of rainfall
+    d) Tsunami - Underwater earthquake
+
+   தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) நிலநடுக்கம் - நில அதிர்வு அலைகள்
+    b) புயல் - குறைந்த காற்றழுத்த மண்டலம்
+    c) வெள்ளம் - மழைப்பொழிவு இல்லாமை
+    d) சுனாமி - கடலுக்கடியில் நிலநடுக்கம்
+
+**Answer: c** (Corrected match: Flood - Excessive rainfall)
+**(சரியான பொருத்தம்: வெள்ளம் - அதிக மழைப்பொழிவு)**
+
+8. Identify the wrongly matched pair:
+    a) NDMA - National Level
+    b) SDMA - State Level
+    c) DDMA - District Level
+    d) NDRF - Village Level
+
+   தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) NDMA - தேசிய நிலை
+    b) SDMA - மாநில நிலை
+    c) DDMA - மாவட்ட நிலை
+    d) NDRF - கிராம நிலை
+
+**Answer: d** (Corrected match: NDRF - National Level specialized force)
+**(சரியான பொருத்தம்: NDRF - தேசிய அளவிலான சிறப்புப் படை)**
+
+9. Identify the wrongly matched pair regarding disaster management cycle:
+    a) Mitigation - Building cyclone shelters
+    b) Preparedness - Conducting mock drills
+    c) Response - Providing immediate relief
+    d) Recovery - Issuing early warnings
+
+   பேரிடர் மேலாண்மை சுழற்சி தொடர்பாக தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) தணிப்பு - புயல் பாதுகாப்பு மையங்கள் கட்டுதல்
+    b) தயார்நிலை - மாதிரிப் பயிற்சிகள் நடத்துதல்
+    c) மீட்பு நடவடிக்கை - உடனடி நிவாரணம் வழங்குதல்
+    d) மீளமைப்பு - முன் எச்சரிக்கைகள் வெளியிடுதல்
+
+**Answer: d** (Corrected match: Recovery - Long-term reconstruction / Early warnings are part of Preparedness/Response)
+**(சரியான பொருத்தம்: மீளமைப்பு - நீண்டகால மறுகட்டமைப்பு / முன் எச்சரிக்கைகள் தயார்நிலை/மீட்பு நடவடிக்கையின் ஒரு பகுதி)**
+
+10. Identify the wrongly matched pair:
+    a) Hazard - A dangerous phenomenon
+    b) Vulnerability - Susceptibility to damage
+    c) Risk - Probability of harmful consequences
+    d) Capacity - Lack of resources
+
+   தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) அபாயம் - ஒரு ஆபத்தான நிகழ்வு
+    b) பாதிப்பு - சேதத்திற்கு ஆளாகும் தன்மை
+    c) இடர் - தீங்கு விளைவிக்கும் விளைவுகளின் நிகழ்தகவு
+    d) திறன் - வளங்கள் இல்லாமை
+
+**Answer: d** (Corrected match: Capacity - Strengths and resources available)
+**(சரியான பொருத்தம்: திறன் - கிடைக்கக்கூடிய பலங்கள் மற்றும் வளங்கள்)**
+
+11. Identify the wrongly matched pair:
+    a) Sendai Framework - Disaster Risk Reduction
+    b) Richter Scale - Measures cyclone intensity
+    c) Tsunami Warning Centre - INCOIS, Hyderabad
+    d) National Crisis Management Committee (NCMC) - Headed by Cabinet Secretary
+
+   தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) செண்டாய் கட்டமைப்பு - பேரிடர் இடர் குறைப்பு
+    b) ரிக்டர் அளவு - புயல் தீவிரத்தை அளவிடும்
+    c) சுனாமி எச்சரிக்கை மையம் - INCOIS, ஹைதராபாத்
+    d) தேசிய நெருக்கடி மேலாண்மைக் குழு (NCMC) - கேபினட் செயலாளர் தலைமையில்
+
+**Answer: b** (Corrected match: Richter Scale - Measures earthquake magnitude)
+**(சரியான பொருத்தம்: ரிக்டர் அளவு - நிலநடுக்கத்தின் அளவை அளவிடும்)**
+
+12. Identify the wrongly matched pair:
+    a) Landslide - Movement of rock, debris or earth down a slope
+    b) Drought - Prolonged period of abnormally low rainfall
+    c) Epidemic - Widespread occurrence of an infectious disease in a community at a particular time
+    d) Avalanche - Sudden flow of a large amount of water
+
+   தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) நிலச்சரிவு - பாறை, குப்பைகள் அல்லது மண் ஒரு சரிவில் கீழ்நோக்கி நகர்தல்
+    b) வறட்சி - நீண்ட காலத்திற்கு வழக்கத்திற்கு மாறாக குறைந்த மழைப்பொழிவு
+    c) கொள்ளைநோய் - ஒரு குறிப்பிட்ட நேரத்தில் ஒரு சமூகத்தில் ஒரு தொற்று நோயின் பரவலான நிகழ்வு
+    d) பனிச்சரிவு - அதிக அளவு நீரின் திடீர் ஓட்டம்
+
+**Answer: d** (Corrected match: Avalanche - Sudden flow of a large mass of snow or ice down a slope / Sudden flow of water is flash flood)
+**(சரியான பொருத்தம்: பனிச்சரிவு - பனி அல்லது பனிக்கட்டியின் பெரும் பகுதி திடீரென சரிவில் கீழ்நோக்கி பாய்தல் / அதிக அளவு நீரின் திடீர் ஓட்டம் என்பது திடீர் வெள்ளம்)**
+
+---
+**3. Match the Following Questions (6 questions)**
+**3. பொருத்துக வகை வினாக்கள் (6 வினாக்கள்)**
+---
+
+13. Match List-I with List-II:
+    **List-I (Disaster Type)**       | **List-II (Primary Cause/Nature)**
+    ---------------------------------|------------------------------------
+    1. Earthquake                    | a. Meteorological
+    2. Cyclone                       | b. Geological
+    3. Drought                       | c. Hydrological
+    4. Flood                         | d. Climatological
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **பட்டியல்-I (பேரிடர் வகை)**      | **பட்டியல்-II (முதன்மை காரணம்/தன்மை)**
+    ---------------------------------|------------------------------------
+    1. நிலநடுக்கம்                     | a. வானிலை ஆய்வு संबंधी
+    2. புயல்                          | b. புவியியல் संबंधी
+    3. வறட்சி                         | c. நீர்நிலை ஆய்வு संबंधी
+    4. வெள்ளம்                        | d. காலநிலை संबंधी
+
+    Options:
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-b, 4-a
+    D) 1-c, 2-d, 3-a, 4-b
+
+    **Answer: A**
+
+14. Match List-I with List-II:
+    **List-I (Terminology)**         | **List-II (Meaning)**
+    ---------------------------------|------------------------------------
+    1. Mitigation                    | a. Actions taken during a disaster
+    2. Preparedness                  | b. Long-term measures to reduce risk
+    3. Response                      | c. Restoring normal life
+    4. Recovery                      | d. Planning and training before a disaster
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **பட்டியல்-I (கலைச்சொல்)**       | **பட்டியல்-II (பொருள்)**
+    ---------------------------------|------------------------------------
+    1. தணிப்பு                       | a. ஒரு பேரிடரின் போது எடுக்கப்படும் நடவடிக்கைகள்
+    2. தயார்நிலை                     | b. இடரைக் குறைக்க நீண்டகால நடவடிக்கைகள்
+    3. மீட்பு நடவடிக்கை               | c. இயல்பு வாழ்க்கையை மீட்டெடுத்தல்
+    4. மீளமைப்பு                     | d. ஒரு பேரிடருக்கு முன் திட்டமிடல் மற்றும் பயிற்சி
+
+    Options:
+    A) 1-d, 2-b, 3-a, 4-c
+    B) 1-b, 2-d, 3-a, 4-c
+    C) 1-a, 2-c, 3-d, 4-b
+    D) 1-c, 2-a, 3-b, 4-d
+
+    **Answer: B**
+
+15. Match List-I with List-II:
+    **List-I (Agency)**              | **List-II (Level of Operation)**
+    ---------------------------------|------------------------------------
+    1. NDMA                          | a. District
+    2. SDRF                          | b. National
+    3. DDMA                          | c. International
+    4. UNISDR (now UNDRR)            | d. State
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **பட்டியல்-I (நிறுவனம்)**       | **பட்டியல்-II (செயல்பாட்டு நிலை)**
+    ---------------------------------|------------------------------------
+    1. NDMA                          | a. மாவட்டம்
+    2. SDRF                          | b. தேசியம்
+    3. DDMA                          | c. சர்வதேசம்
+    4. UNISDR (தற்போது UNDRR)       | d. மாநிலம்
+
+    Options:
+    A) 1-b, 2-d, 3-a, 4-c
+    B) 1-a, 2-b, 3-d, 4-c
+    C) 1-c, 2-a, 3-b, 4-d
+    D) 1-d, 2-c, 3-a, 4-b
+
+    **Answer: A**
+
+16. Match List-I with List-II:
+    **List-I (Disaster Management Action)** | **List-II (Phase of DM Cycle)**
+    --------------------------------------|------------------------------------
+    1. Evacuation                         | a. Mitigation
+    2. Building codes                     | b. Preparedness
+    3. Search and Rescue                  | c. Response
+    4. Mock drills                        | d. Recovery (part of long-term rebuilding)
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **பட்டியல்-I (பேரிடர் மேலாண்மை நடவடிக்கை)** | **பட்டியல்-II (பேரிடர் மேலாண்மை சுழற்சியின் கட்டம்)**
+    -----------------------------------------|------------------------------------
+    1. வெளியேற்றம்                            | a. தணிப்பு
+    2. கட்டிட விதிகள்                         | b. தயார்நிலை
+    3. தேடுதல் மற்றும் மீட்பு                  | c. மீட்பு நடவடிக்கை
+    4. மாதிரிப் பயிற்சிகள்                     | d. மீளமைப்பு (நீண்டகால மறுகட்டமைப்பின் பகுதி)
+
+    Options:
+    A) 1-c, 2-a, 3-c, 4-b  (Note: Search and Rescue is Response, Evacuation can be preparedness or response)
+    *Let's rephrase to make it clearer:*
+    1. Evacuation drills                  | a. Mitigation
+    2. Retrofitting buildings             | b. Preparedness
+    3. Providing first aid                | c. Response
+    4. Livelihood restoration             | d. Recovery
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **பட்டியல்-I (பேரிடர் மேலாண்மை நடவடிக்கை)** | **பட்டியல்-II (பேரிடர் மேலாண்மை சுழற்சியின் கட்டம்)**
+    -----------------------------------------|------------------------------------
+    1. வெளியேற்றப் பயிற்சிகள்                | a. தணிப்பு
+    2. கட்டிடங்களை வலுவூட்டல்               | b. தயார்நிலை
+    3. முதலுதவி அளித்தல்                    | c. மீட்பு நடவடிக்கை
+    4. வாழ்வாதாரத்தை மீட்டெடுத்தல்           | d. மீளமைப்பு
+
+    Options:
+    A) 1-b, 2-a, 3-c, 4-d
+    B) 1-a, 2-b, 3-d, 4-c
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-d, 2-c, 3-b, 4-a
+
+    **Answer: A**
+
+17. Match List-I with List-II:
+    **List-I (Color Code Alert - IMD)** | **List-II (Indication)**
+    ------------------------------------|------------------------------------
+    1. Green                             | a. Be prepared
+    2. Yellow                            | b. Take action
+    3. Orange (Amber)                    | c. No warning
+    4. Red                               | d. Be aware / Watch
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **பட்டியல்-I (வண்ணக் குறியீடு எச்சரிக்கை - IMD)** | **பட்டியல்-II (குறிப்பு)**
+    -----------------------------------------|------------------------------------
+    1. பச்சை                               | a. தயாராக இருங்கள்
+    2. மஞ்சள்                              | b. நடவடிக்கை எடுங்கள்
+    3. ஆரஞ்சு (அம்பர்)                       | c. எச்சரிக்கை இல்லை
+    4. சிவப்பு                               | d. விழிப்புடன் இருங்கள் / கவனியுங்கள்
+
+    Options:
+    A) 1-c, 2-d, 3-a, 4-b
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-b, 4-a
+    D) 1-c, 2-a, 3-d, 4-b  *(Correction: Yellow is Watch/Be Aware, Orange is Be Prepared, Red is Take Action)*
+
+    Let's re-evaluate standard IMD color codes.
+    Green: All is well / No advisory
+    Yellow: Be aware / Watch
+    Orange: Be prepared / Alert
+    Red: Take action / Warning
+
+    Corrected Match:
+    **List-I (Color Code Alert - IMD)** | **List-II (Indication)**
+    ------------------------------------|------------------------------------
+    1. Green                             | a. Be prepared / Alert
+    2. Yellow                            | b. Take action / Warning
+    3. Orange (Amber)                    | c. All is well / No advisory
+    4. Red                               | d. Be aware / Watch
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **பட்டியல்-I (வண்ணக் குறியீடு எச்சரிக்கை - IMD)** | **பட்டியல்-II (குறிப்பு)**
+    -----------------------------------------|------------------------------------
+    1. பச்சை                               | a. தயாராக இருங்கள் / எச்சரிக்கை
+    2. மஞ்சள்                              | b. நடவடிக்கை எடுங்கள் / எச்சரிக்கை மணி
+    3. ஆரஞ்சு (அம்பர்)                       | c. எல்லாம் சரி / அறிவுரை இல்லை
+    4. சிவப்பு                               | d. விழிப்புடன் இருங்கள் / கவனியுங்கள்
+
+    Options:
+    A) 1-c, 2-d, 3-a, 4-b
+    B) 1-a, 2-b, 3-d, 4-c
+    C) 1-d, 2-a, 3-b, 4-c
+    D) 1-c, 2-d, 3-b, 4-a (*This is wrong based on above. Rechecking the options with Green-c, Yellow-d, Orange-a, Red-b*)
+
+    **Answer: A** (1-c, 2-d, 3-a, 4-b)
+
+18. Match List-I with List-II:
+    **List-I (Equipment/Technique)**    | **List-II (Used for/in)**
+    ------------------------------------|------------------------------------
+    1. Seismograph                       | a. Measuring wind speed
+    2. Anemometer                        | b. Detecting underwater objects (used in SAR for Tsunami)
+    3. Doppler Radar                     | c. Recording earthquake waves
+    4. SONAR                             | d. Tracking cyclones/rainfall
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **பட்டியல்-I (கருவி/தொழில்நுட்பம்)** | **பட்டியல்-II (பயன்படுத்தப்படுவது)**
+    ------------------------------------|------------------------------------
+    1. நில அதிர்வு அளவி                  | a. காற்றின் வேகத்தை அளவிட
+    2. காற்றுமானி                       | b. நீருக்கடியில் பொருட்களைக் கண்டறிய (சுனாமி SAR இல் பயன்படுகிறது)
+    3. டாப்ளர் ரேடார்                     | c. நிலநடுக்க அலைகளைப் பதிவு செய்ய
+    4. சோனார்                            | d. புயல்கள்/மழைப்பொழிவைக் கண்காணிக்க
+
+    Options:
+    A) 1-c, 2-a, 3-d, 4-b
+    B) 1-a, 2-c, 3-b, 4-d
+    C) 1-d, 2-b, 3-a, 4-c
+    D) 1-b, 2-d, 3-c, 4-a
+
+    **Answer: A**
+
+---
+**4. Standard Multiple Choice Questions (32 questions)**
+**4. நியம பலவுள் தெரிவு வினாக்கள் (32 வினாக்கள்)**
+---
+
+19. Who is the ex-officio Chairperson of the National Disaster Management Authority (NDMA)?
+    a) President of India
+    b) Prime Minister of India
+    c) Home Minister of India
+    d) Cabinet Secretary
+
+    தேசிய பேரிடர் மேலாண்மை ஆணையத்தின் (NDMA) பதவி வழித் தலைவர் யார்?
+    a) இந்தியக் குடியரசுத் தலைவர்
+    b) இந்தியப் பிரதமர்
+    c) இந்திய உள்துறை அமைச்சர்
+    d) கேபினட் செயலாளர்
+
+    **Answer: b**
+
+20. The Disaster Management Act was enacted in which year?
+    a) 2004
+    b) 2005
+    c) 2006
+    d) 2007
+
+    பேரிடர் மேலாண்மைச் சட்டம் எந்த ஆண்டு இயற்றப்பட்டது?
+    a) 2004
+    b) 2005
+    c) 2006
+    d) 2007
+
+    **Answer: b**
+
+21. Which of the following is a man-made disaster?
+    a) Earthquake
+    b) Tsunami
+    c) Industrial accident
+    d) Cyclone
+
+    பின்வருவனவற்றில் மனிதனால் உருவாக்கப்பட்ட பேரிடர் எது?
+    a) நிலநடுக்கம்
+    b) சுனாமி
+    c) தொழிற்சாலை விபத்து
+    d) புயல்
+
+    **Answer: c**
+
+22. The State Disaster Management Authority (SDMA) is headed by:
+    a) Governor of the State
+    b) Chief Minister of the State
+    c) Chief Secretary of the State
+    d) Home Minister of the State
+
+    மாநில பேரிடர் மேலாண்மை ஆணையத்தின் (SDMA) தலைவர்:
+    a) மாநில ஆளுநர்
+    b) மாநில முதலமைச்சர்
+    c) மாநில தலைமைச் செயலாளர்
+    d) மாநில உள்துறை அமைச்சர்
+
+    **Answer: b**
+
+23. What does 'NDRF' stand for?
+    a) National Disaster Relief Fund
+    b) National Disaster Response Force
+    c) National Disaster Recovery Force
+    d) National Disease Response Forum
+
+    'NDRF' என்பதன் விரிவாக்கம் என்ன?
+    a) தேசிய பேரிடர் நிவாரண நிதி
+    b) தேசிய பேரிடர் மீட்புப் படை
+    c) தேசிய பேரிடர் மீட்புப் படை (மீளமைப்பு)
+    d) தேசிய நோய் தடுப்பு மன்றம்
+
+    **Answer: b**
+
+24. The Indian Tsunami Early Warning Centre (ITEWC) is located at:
+    a) Chennai
+    b) Hyderabad
+    c) Port Blair
+    d) Visakhapatnam
+
+    இந்திய சுனாமி முன் எச்சரிக்கை மையம் (ITEWC) எங்கு அமைந்துள்ளது?
+    a) சென்னை
+    b) ஹைதராபாத்
+    c) போர்ட் பிளேர்
+    d) விசாகப்பட்டினம்
+
+    **Answer: b** (Operated by INCOIS, Hyderabad)
+
+25. Which phase of disaster management aims to reduce the risk of disasters?
+    a) Response
+    b) Recovery
+    c) Mitigation
+    d) Preparedness
+
+    பேரிடர் மேலாண்மையின் எந்தக் கட்டம் பேரிடர்களின் இடரைக் குறைப்பதை நோக்கமாகக் கொண்டுள்ளது?
+    a) மீட்பு நடவடிக்கை
+    b) மீளமைப்பு
+    c) தணிப்பு
+    d) தயார்நிலை
+
+    **Answer: c**
+
+26. The term 'Tsunami' originated from which language?
+    a) Chinese
+    b) Japanese
+    c) Korean
+    d) Indonesian
+
+    'சுனாமி' என்ற சொல் எந்த மொழியிலிருந்து உருவானது?
+    a) சீன மொழி
+    b) ஜப்பானிய மொழி
+    c) கொரிய மொழி
+    d) இந்தோனேசிய மொழி
+
+    **Answer: b**
+
+27. The intensity of an earthquake is measured by:
+    a) Richter Scale
+    b) Beaufort Scale
+    c) Celsius Scale
+    d) Barometer
+
+    நிலநடுக்கத்தின் தீவிரம் எதனால் அளவிடப்படுகிறது? (Note: Intensity - Modified Mercalli, Magnitude - Richter. For Group 4, Richter is common.)
+    a) ரிக்டர் அளவு (Magnitude is more common for Richter)
+    b) பியூஃபோர்ட் அளவு
+    c) செல்சியஸ் அளவு
+    d) பாரமானி
+    *(TNPSC often uses "intensity" for Richter scale colloquially. Magnitude is technically correct for Richter. Modified Mercalli Scale for intensity.)*
+    *Let's go with common usage for this level.*
+
+    நிலநடுக்கத்தின் அதிர்வெண்/அளவு எதனால் அளவிடப்படுகிறது?
+    a) ரிக்டர் அளவு
+    b) பியூஃபோர்ட் அளவு
+    c) செல்சியஸ் அளவு
+    d) பாரமானி
+
+    **Answer: a**
+
+28. Which of the following is NOT a natural disaster?
+    a) Flood
+    b) Drought
+    c) Chemical spill
+    d) Landslide
+
+    பின்வருவனவற்றில் இயற்கை பேரிடர் அல்லாதது எது?
+    a) வெள்ளம்
+    b) வறட்சி
+    c) ரசாயனக் கசிவு
+    d) நிலச்சரிவு
+
+    **Answer: c**
+
+29. The nodal agency at the district level for disaster management is:
+    a) District Collectorate
+    b) District Disaster Management Authority (DDMA)
+    c) Superintendent of Police office
+    d) Zila Parishad
+
+    மாவட்ட அளவில் பேரிடர் மேலாண்மைக்கான மைய நிறுவனம்:
+    a) மாவட்ட ஆட்சியரகம்
+    b) மாவட்ட பேரிடர் மேலாண்மை ஆணையம் (DDMA)
+    c) மாவட்ட காவல் கண்காணிப்பாளர் அலுவலகம்
+    d) ஜில்லா பரிஷத்
+
+    **Answer: b**
+
+30. Who heads the District Disaster Management Authority (DDMA)?
+    a) District Collector/District Magistrate
+    b) Superintendent of Police
+    c) Chief Medical Officer
+    d) Member of Parliament of the district
+
+    மாவட்ட பேரிடர் மேலாண்மை ஆணையத்தின் (DDMA) தலைவர் யார்?
+    a) மாவட்ட ஆட்சியர்/மாவட்ட மாஜிஸ்திரேட்
+    b) மாவட்ட காவல் கண்காணிப்பாளர்
+    c) தலைமை மருத்துவ அதிகாரி
+    d) மாவட்ட நாடாளுமன்ற உறுப்பினர்
+
+    **Answer: a**
+
+31. "Mock Drills" are associated with which phase of disaster management?
+    a) Mitigation
+    b) Preparedness
+    c) Response
+    d) Recovery
+
+    "மாதிரிப் பயிற்சிகள்" பேரிடர் மேலாண்மையின் எந்தக் கட்டத்துடன் தொடர்புடையது?
+    a) தணிப்பு
+    b) தயார்நிலை
+    c) மீட்பு நடவடிக்கை
+    d) மீளமைப்பு
+
+    **Answer: b**
+
+32. The primary objective of the "Response" phase in disaster management is:
+    a) Long-term rebuilding
+    b) Preventing the disaster
+    c) Saving lives and meeting immediate needs
+    d) Developing early warning systems
+
+    பேரிடர் மேலாண்மையில் "மீட்பு நடவடிக்கை" கட்டத்தின் முதன்மை நோக்கம்:
+    a) நீண்டகால மறுகட்டமைப்பு
+    b) பேரிடரைத் தடுத்தல்
+    c) உயிர்களைக் காப்பாற்றுதல் மற்றும் உடனடித் தேவைகளைப் பூர்த்தி செய்தல்
+    d) முன் எச்சரிக்கை அமைப்புகளை உருவாக்குதல்
+
+    **Answer: c**
+
+33. Which international framework provides guidelines for Disaster Risk Reduction (DRR)?
+    a) Kyoto Protocol
+    b) Paris Agreement
+    c) Sendai Framework
+    d) Rio Declaration
+
+    பேரிடர் இடர் குறைப்புக்கான (DRR) வழிகாட்டுதல்களை வழங்கும் சர்வதேச கட்டமைப்பு எது?
+    a) கியோட்டோ நெறிமுறை
+    b) பாரிஸ் ஒப்பந்தம்
+    c) செண்டாய் கட்டமைப்பு
+    d) ரியோ பிரகடனம்
+
+    **Answer: c**
+
+34. The Bhopal Gas Tragedy (1984) is an example of:
+    a) Natural disaster
+    b) Industrial disaster (Man-made)
+    c) Meteorological disaster
+    d) Geological disaster
+
+    போபால் விஷவாயு துயரம் (1984) எதற்கு ஒரு எடுத்துக்காட்டு:
+    a) இயற்கை பேரிடர்
+    b) தொழிற்சாலை பேரிடர் (மனிதனால் உருவாக்கப்பட்ட)
+    c) வானிலை ஆய்வு संबंधी பேரிடர்
+    d) புவியியல் संबंधी பேரிடர்
+
+    **Answer: b**
+
+35. In India, cyclones are named by:
+    a) A committee of World Meteorological Organization (WMO)
+    b) Indian Meteorological Department (IMD) based on a rotational list by member countries
+    c) National Disaster Management Authority (NDMA)
+    d) Ministry of Earth Sciences
+
+    இந்தியாவில், புயல்களுக்கு பெயரிடுவது:
+    a) உலக வானிலை ஆய்வு அமைப்பின் (WMO) ஒரு குழு
+    b) உறுப்பு நாடுகளின் சுழற்சி பட்டியலின் அடிப்படையில் இந்திய வானிலை ஆய்வுத் துறை (IMD)
+    c) தேசிய பேரிடர் மேலாண்மை ஆணையம் (NDMA)
+    d) புவி அறிவியல் அமைச்சகம்
+
+    **Answer: b**
+
+36. What is the full form of SDRF?
+    a) State Disaster Relief Fund
+    b) State Disaster Response Force
+    c) State Disaster Recovery Force
+    d) Special Disaster Response Force
+
+    SDRF என்பதன் முழு வடிவம் என்ன?
+    a) மாநில பேரிடர் நிவாரண நிதி
+    b) மாநில பேரிடர் மீட்புப் படை
+    c) மாநில பேரிடர் மீட்புப் படை (மீளமைப்பு)
+    d) சிறப்பு பேரிடர் மீட்புப் படை
+
+    **Answer: b**
+
+37. An area prone to frequent earthquakes is said to have high:
+    a) Climatic vulnerability
+    b) Seismic vulnerability
+    c) Hydrological vulnerability
+    d) Industrial vulnerability
+
+    அடிக்கடி நிலநடுக்கங்களுக்கு ஆளாகும் பகுதி அதிக அளவில் எதைக் கொண்டுள்ளது எனக் கூறப்படுகிறது:
+    a) காலநிலை பாதிப்பு
+    b) நில அதிர்வு பாதிப்பு
+    c) நீர்நிலை ஆய்வு संबंधी பாதிப்பு
+    d) தொழிற்சாலை பாதிப்பு
+
+    **Answer: b**
+
+38. The 'Golden Hour' in medical terms, often crucial after a disaster, refers to:
+    a) The first hour after sunset
+    b) The first hour after a traumatic injury, when emergency treatment is most likely to be successful
+    c) The best time for evacuation
+    d) The hour when most aid arrives
+
+    மருத்துவ ரீதியாக 'பொன்னான நேரம்', பேரிடருக்குப் பிறகு பெரும்பாலும் முக்கியமானது, எதைக் குறிக்கிறது:
+    a) சூரிய அஸ்தமனத்திற்குப் பிறகு முதல் மணி நேரம்
+    b) ஒரு அதிர்ச்சிகரமான காயத்திற்குப் பிறகு முதல் மணி நேரம், அப்போது அவசர சிகிச்சை மிகவும் வெற்றிகரமாக இருக்கும்
+    c) வெளியேற்றத்திற்கான சிறந்த நேரம்
+    d) பெரும்பாலான உதவிகள் வந்து சேரும் நேரம்
+
+    **Answer: b**
+
+39. Which of these is a key component of community-based disaster management (CBDM)?
+    a) Dependence on external aid only
+    b) Top-down decision making
+    c) Local participation and empowerment
+    d) Ignoring traditional knowledge
+
+    சமூக அடிப்படையிலான பேரிடர் மேலாண்மையின் (CBDM) முக்கிய கூறு எது?
+    a) வெளி உதவியை மட்டுமே சார்ந்திருத்தல்
+    b) மேலிருந்து கீழ் முடிவெடுத்தல்
+    c) உள்ளூர் பங்களிப்பு மற்றும் அதிகாரமளித்தல்
+    d) பாரம்பரிய அறிவைப் புறக்கணித்தல்
+
+    **Answer: c**
+
+40. The National Institute of Disaster Management (NIDM) is located in:
+    a) Hyderabad
+    b) New Delhi
+    c) Mumbai
+    d) Kolkata
+
+    தேசிய பேரிடர் மேலாண்மை நிறுவனம் (NIDM) எங்கு அமைந்துள்ளது?
+    a) ஹைதராபாத்
+    b) புது தில்லி
+    c) மும்பை
+    d) கொல்கத்தா
+
+    **Answer: b**
+
+41. The term "Hazard" in disaster management refers to:
+    a) The probability of damage
+    b) A potentially damaging physical event, phenomenon or human activity
+    c) The lack of preparedness
+    d) The process of recovery
+
+    பேரிடர் மேலாண்மையில் "அபாயம்" என்ற சொல் எதைக் குறிக்கிறது:
+    a) சேதத்தின் நிகழ்தகவு
+    b) சேதத்தை ஏற்படுத்தக்கூடிய பௌதீக நிகழ்வு, தோற்றப்பாடு அல்லது மனித செயல்பாடு
+    c) தயார்நிலை இல்லாமை
+    d) மீளமைப்பு செயல்முறை
+
+    **Answer: b**
+
+42. Building flood-resistant houses is an example of:
+    a) Disaster Response
+    b) Disaster Recovery
+    c) Disaster Mitigation
+    d) Disaster Preparedness (can also be, but mitigation is stronger for structural measures)
+
+    வெள்ளத்தை எதிர்க்கும் வீடுகளைக் கட்டுவது எதற்கு ஒரு எடுத்துக்காட்டு:
+    a) பேரிடர் மீட்பு நடவடிக்கை
+    b) பேரிடர் மீளமைப்பு
+    c) பேரிடர் தணிப்பு
+    d) பேரிடர் தயார்நிலை (கட்டமைப்பு நடவடிக்கைகளுக்கு தணிப்பு வலுவானது)
+
+    **Answer: c**
+
+43. The apex committee at the national level for handling major crisis situations is:
+    a) National Security Council
+    b) National Crisis Management Committee (NCMC)
+    c) Cabinet Committee on Security
+    d) Prime Minister's Office
+
+    பெரிய நெருக்கடி நிலைகளை கையாள்வதற்கான தேசிய அளவிலான உச்சக் குழு:
+    a) தேசிய பாதுகாப்பு கவுன்சில்
+    b) தேசிய நெருக்கடி மேலாண்மைக் குழு (NCMC)
+    c) பாதுகாப்புக்கான அமைச்சரவைக் குழு
+    d) பிரதமர் அலுவலகம்
+
+    **Answer: b**
+
+44. Which of the following is a hydrological disaster?
+    a) Earthquake
+    b) Volcanic eruption
+    c) Flood
+    d) Wildfire
+
+    பின்வருவனவற்றில் நீர்நிலை ஆய்வு संबंधी பேரிடர் எது?
+    a) நிலநடுக்கம்
+    b) எரிமலை வெடிப்பு
+    c) வெள்ளம்
+    d) காட்டுத்தீ
+
+    **Answer: c**
+
+45. What is the primary role of an Early Warning System?
+    a) To stop the disaster from occurring
+    b) To provide information to enable people to take action to reduce impact
+    c) To conduct post-disaster damage assessment
+    d) To allocate relief funds
+
+    ஒரு முன் எச்சரிக்கை அமைப்பின் முதன்மைப் பங்கு என்ன?
+    a) பேரிடர் ஏற்படுவதைத் தடுப்பது
+    b) தாக்கத்தைக் குறைக்க மக்கள் நடவடிக்கை எடுக்க உதவும் தகவல்களை வழங்குவது
+    c) பேரிடருக்குப் பிந்தைய சேத மதிப்பீட்டை நடத்துவது
+    d) நிவாரண நிதிகளை ஒதுக்குவது
+
+    **Answer: b**
+
+46. The Incident Command System (ICS) is primarily used for:
+    a) Long-term policy making
+    b) Managing the response to an emergency incident
+    c) Fundraising for disaster relief
+    d) Scientific research on disasters
+
+    சம்பவ கட்டளை அமைப்பு (ICS) முதன்மையாக எதற்காகப் பயன்படுத்தப்படுகிறது:
+    a) நீண்டகால கொள்கை உருவாக்கம்
+    b) ஒரு அவசர சம்பவத்திற்கான பதிலை நிர்வகித்தல்
+    c) பேரிடர் நிவாரணத்திற்காக நிதி திரட்டுதல்
+    d) பேரிடர்கள் குறித்த அறிவியல் ஆராய்ச்சி
+
+    **Answer: b**
+
+47. What does "DROPS" stand for in first aid, related to checking responsiveness?
+    a) Danger, Response, Open Airway, Pulse, Send for help
+    b) Danger, Response, Shout for help, Open Airway, Breathing, Circulation (DRSABC is more common, but let's look for a simpler version if DROPS is specific)
+    *Checking common first aid mnemonics. DRABC or DRSABC is standard. "DROPS" isn't a widely recognized standard first aid acronym like DRABC/DRSABC. Perhaps the question implies a simpler local version or a specific context.*
+    *Let's assume it's a simplified version or related to initial assessment.*
+    *Rephrasing to a more standard term or making options fit "DROPS" if it's a known local acronym.*
+    *Given the level, a standard concept is better. Let's use a common first aid check.*
+
+    In the context of first aid, what does 'ABC' in DRABC (Danger, Response, Airway, Breathing, Circulation) primarily check for after ensuring safety and response?
+    a) Awareness, Bleeding, Consciousness
+    b) Airway, Breathing, Circulation
+    c) Alertness, Burns, CPR
+    d) Aid, Bandage, Care
+
+    முதலுதவி சூழலில், DRABC (ஆபத்து, பதில், காற்றுவழி, சுவாசம், சுழற்சி) என்பதில் 'ABC' என்பது பாதுகாப்பு மற்றும் பதிலை உறுதிசெய்த பிறகு முதன்மையாக எதைச் சரிபார்க்கிறது?
+    a) விழிப்புணர்வு, இரத்தப்போக்கு, உணர்வுநிலை
+    b) காற்றுவழி, சுவாசம், சுழற்சி
+    c) எச்சரிக்கை, தீக்காயங்கள், CPR
+    d) உதவி, கட்டு, கவனிப்பு
+
+    **Answer: b**
+
+48. Which of these is an important aspect of psychological first aid after a disaster?
+    a) Forcing people to talk about their trauma
+    b) Providing a sense of safety, calm, and hope
+    c) Making promises that cannot be kept
+    d) Administering medication without a doctor's advice
+
+    ஒரு பேரிடருக்குப் பிறகு உளவியல் முதலுதவியின் ஒரு முக்கிய அம்சம் எது?
+    a) மக்களை அவர்களின் அதிர்ச்சியைப் பற்றி பேசும்படி கட்டாயப்படுத்துதல்
+    b) பாதுகாப்பு, அமைதி மற்றும் நம்பிக்கையுணர்வை வழங்குதல்
+    c) நிறைவேற்ற முடியாத வாக்குறுதிகளை அளித்தல்
+    d) மருத்துவரின் ஆலோசனையின்றி மருந்து வழங்குதல்
+
+    **Answer: b**
+
+49. What is 'capacity building' in the context of disaster management?
+    a) Building large dams
+    b) Increasing the number of relief camps
+    c) Strengthening the abilities of individuals, organizations, and systems to manage disaster risks
+    d) Storing more food grains
+
+    பேரிடர் மேலாண்மை சூழலில் 'திறன் மேம்பாடு' என்பது என்ன?
+    a) பெரிய அணைகளைக் கட்டுதல்
+    b) நிவாரண முகாம்களின் எண்ணிக்கையை அதிகரித்தல்
+    c) தனிநபர்கள், நிறுவனங்கள் மற்றும் அமைப்புகளின் பேரிடர் இடர்களை நிர்வகிக்கும் திறன்களை வலுப்படுத்துதல்
+    d) அதிக உணவு தானியங்களை சேமித்தல்
+
+    **Answer: c**
+
+50. A prolonged period of abnormally low rainfall, leading to a shortage of water, is known as:
+    a) Flood
+    b) Cyclone
+    c) Drought
+    d) Landslide
+
+    வழக்கத்திற்கு மாறாக குறைந்த மழைப்பொழிவு நீண்ட காலத்திற்கு நீடிப்பதால் ஏற்படும் நீர்ப் பற்றாக்குறை இவ்வாறு அறியப்படுகிறது:
+    a) வெள்ளம்
+    b) புயல்
+    c) வறட்சி
+    d) நிலச்சரிவு
+
+    **Answer: c**

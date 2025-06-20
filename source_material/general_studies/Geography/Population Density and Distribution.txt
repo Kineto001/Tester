@@ -1,0 +1,530 @@
+**Overall Topic: Population Density and Distribution**
+**தலைப்பு: மக்கள்தொகை அடர்த்தி மற்றும் பரவல்**
+
+---
+
+**1. Assertion and Reason Questions (6 questions)**
+**1. கூற்று மற்றும் காரணம் வினாக்கள் (6 வினாக்கள்)**
+
+**Instructions:** For each question, an Assertion (A) and a Reason (R) are given. Choose the correct option.
+**வழிமுறைகள்:** ஒவ்வொரு வினாவிற்கும், ஒரு கூற்று (A) மற்றும் ஒரு காரணம் (R) கொடுக்கப்பட்டுள்ளன. சரியான விடையைத் தேர்ந்தெடுக்கவும்.
+
+---
+
+1.
+**Assertion (A):** The Indo-Gangetic plains are among the most densely populated regions of the world.
+**Reason (R):** Fertile alluvial soil and abundant water availability support intensive agriculture in these plains.
+
+**கூற்று (A):** சிந்து-கங்கைச் சமவெளிகள் உலகின் அதிக மக்கள்தொகை அடர்த்தி கொண்ட பிராந்தியங்களில் ஒன்றாகும்.
+**காரணம் (R):** வளமான வண்டல் மண் மற்றும் ஏராளமான நீர் இருப்பு இப்பகுதிகளில் தீவிர விவசாயத்தை ஆதரிக்கின்றன.
+
+Options / விருப்பங்கள்:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+2.
+**Assertion (A):** Mountainous regions generally have low population density.
+**Reason (R):** Mountainous regions offer excellent conditions for large-scale agriculture and easy transportation.
+
+**கூற்று (A):** மலைப்பாங்கான பகுதிகள் பொதுவாக குறைந்த மக்கள்தொகை அடர்த்தியைக் கொண்டுள்ளன.
+**காரணம் (R):** மலைப்பாங்கான பகுதிகள் பெரிய அளவிலான விவசாயத்திற்கும் எளிதான போக்குவரத்திற்கும் சிறந்த நிலைமைகளை வழங்குகின்றன.
+
+Options / விருப்பங்கள்:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: c
+
+3.
+**Assertion (A):** Urban areas tend to have higher population densities than rural areas.
+**Reason (R):** Urban areas offer more employment opportunities, better educational and health facilities.
+
+**கூற்று (A):** கிராமப்புற பகுதிகளை விட நகர்ப்புற பகுதிகள் அதிக மக்கள்தொகை அடர்த்தியைக் கொண்டுள்ளன.
+**காரணம் (R):** நகர்ப்புற பகுதிகள் அதிக வேலை வாய்ப்புகள், சிறந்த கல்வி மற்றும் சுகாதார வசதிகளை வழங்குகின்றன.
+
+Options / விருப்பங்கள்:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+4.
+**Assertion (A):** Physiological density is always lower than arithmetic density for any country.
+**Reason (R):** Physiological density is calculated by dividing the total population by the total cultivable land area.
+
+**கூற்று (A):** எந்தவொரு நாட்டிற்கும் உடலியல் அடர்த்தி எப்போதும் எண்கணித அடர்த்தியை விட குறைவாகவே இருக்கும்.
+**காரணம் (R):** உடலியல் அடர்த்தி என்பது மொத்த மக்கள்தொகையை மொத்த சாகுபடி செய்யக்கூடிய நிலப்பரப்பால் வகுப்பதன் மூலம் கணக்கிடப்படுகிறது.
+
+Options / விருப்பங்கள்:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: d
+
+5.
+**Assertion (A):** Climate is a major factor influencing population distribution.
+**Reason (R):** Areas with extreme climates, like hot deserts or very cold polar regions, are sparsely populated.
+
+**கூற்று (A):** காலநிலை மக்கள்தொகை பரவலைப் பாதிக்கும் ஒரு முக்கிய காரணியாகும்.
+**காரணம் (R):** வெப்ப பாலைவனங்கள் அல்லது மிகவும் குளிரான துருவப் பகுதிகள் போன்ற தீவிர காலநிலைகளைக் கொண்ட பகுதிகள் குறைந்த மக்கள்தொகையைக் கொண்டுள்ளன.
+
+Options / விருப்பங்கள்:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+6.
+**Assertion (A):** Availability of mineral resources can lead to dense population in otherwise unfavorable regions.
+**Reason (R):** Mineral extraction activities do not create any employment opportunities.
+
+**கூற்று (A):** கனிம வளங்களின் இருப்பு சாதகமற்ற பிராந்தியங்களில்கூட அடர்த்தியான மக்கள்தொகைக்கு வழிவகுக்கும்.
+**காரணம் (R):** கனிமச் சுரங்க நடவடிக்கைகள் எந்த வேலை வாய்ப்புகளையும் உருவாக்குவதில்லை.
+
+Options / விருப்பங்கள்:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / A சரி, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R சரி.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: c
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions)**
+**2. தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியும் வினாக்கள் (6 வினாக்கள்)**
+
+7.  Identify the wrongly matched pair regarding factors affecting population distribution:
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக (மக்கள்தொகை பரவலைப் பாதிக்கும் காரணிகள் தொடர்பாக):
+    a) Relief - Mountainous areas, sparsely populated / நில அமைப்பு - மலைப்பாங்கான பகுதிகள், குறைந்த மக்கள்தொகை
+    b) Climate - Temperate regions, densely populated / காலநிலை - மிதவெப்ப மண்டலப் பகுதிகள், அதிக மக்கள்தொகை
+    c) Soil - Fertile river valleys, densely populated / மண் - வளமான ஆற்றுப் பள்ளத்தாக்குகள், அதிக மக்கள்தொகை
+    d) Industrialization - Rural areas, densely populated / தொழில்மயமாக்கல் - கிராமப்புற பகுதிகள், அதிக மக்கள்தொகை
+
+    Answer: d (Corrected match: Industrialization - Urban/Industrial areas, densely populated / சரி: தொழில்மயமாக்கல் - நகர்ப்புற/தொழில்துறை பகுதிகள், அதிக மக்கள்தொகை)
+    விடை: d (சரி: தொழில்மயமாக்கல் நகர்ப்புற/தொழில்துறை பகுதிகளில் அடர்த்தியான மக்கள்தொகைக்கு வழிவகுக்கிறது)
+
+8.  Identify the wrongly matched pair regarding types of population density:
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக (மக்கள்தொகை அடர்த்தி வகைகள் தொடர்பாக):
+    a) Arithmetic Density - Total Population / Total Land Area / எண்கணித அடர்த்தி - மொத்த மக்கள்தொகை / மொத்த நிலப்பரப்பு
+    b) Physiological Density - Total Population / Net Cultivated Area / உடலியல் அடர்த்தி - மொத்த மக்கள்தொகை / நிகர சாகுபடி பகுதி
+    c) Agricultural Density - Total Agricultural Population / Net Cultivated Area / விவசாய அடர்த்தி - மொத்த விவசாய மக்கள்தொகை / நிகர சாகுபடி பகுதி
+    d) Economic Density - Total Population / Total Resources / பொருளாதார அடர்த்தி - மொத்த மக்கள்தொகை / மொத்த வளங்கள்
+
+    Answer: d (Corrected match: Economic Density is a more complex concept often related to resource utilization efficiency, not a simple ratio like the others presented for general population density metrics. / சரி: பொருளாதார அடர்த்தி என்பது மற்ற பொதுவான மக்கள்தொகை அடர்த்தி அளவீடுகளைப் போன்ற எளிமையான விகிதம் அல்ல, இது பெரும்பாலும் வள பயன்பாட்டுத் திறனுடன் தொடர்புடைய ஒரு சிக்கலான கருத்து.)
+    விடை: d (சரி: பொருளாதார அடர்த்தி என்பது மற்றவை போல ஒரு நிலையான, உலகளவில் வரையறுக்கப்பட்ட அளவீடு அல்ல, அல்லது அதன் வரையறை வள பயன்பாட்டுத் திறனோடு தொடர்புடையது)
+
+9.  Identify the wrongly matched pair regarding population distribution patterns:
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக (மக்கள்தொகை பரவல் முறைகள் தொடர்பாக):
+    a) East Asia - Densely populated / கிழக்கு ஆசியா - அதிக மக்கள்தொகை
+    b) Sahara Desert - Sparsely populated / சஹாரா பாலைவனம் - குறைந்த மக்கள்தொகை
+    c) Amazon Basin - Moderately populated / அமேசான் படுகை - மிதமான மக்கள்தொகை
+    d) Western Europe - Densely populated / மேற்கு ஐரோப்பா - அதிக மக்கள்தொகை
+
+    Answer: c (Corrected match: Amazon Basin - Sparsely populated / சரி: அமேசான் படுகை - குறைந்த மக்கள்தொகை)
+    விடை: c (சரி: அடர்ந்த காடுகள் மற்றும் காலநிலை காரணமாக அமேசான் படுகை பொதுவாக குறைந்த மக்கள்தொகையைக் கொண்டுள்ளது)
+
+10. Identify the wrongly matched pair (Country - Continent):
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக (நாடு - கண்டம்):
+    a) Nigeria - Africa / நைஜீரியா - ஆப்பிரிக்கா
+    b) Bangladesh - Asia / பங்களாதேஷ் - ஆசியா
+    c) Brazil - South America / பிரேசில் - தென் அமெரிக்கா
+    d) Australia - Europe / ஆஸ்திரேலியா - ஐரோப்பா
+
+    Answer: d (Corrected match: Australia - Oceania/Australia / சரி: ஆஸ்திரேலியா - ஓசியானியா/ஆஸ்திரேலியா)
+    விடை: d (சரி: ஆஸ்திரேலியா - ஓசியானியா/ஆஸ்திரேலியா)
+
+11. Identify the wrongly matched pair regarding population terms:
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக (மக்கள்தொகை சொற்கள் தொடர்பாக):
+    a) Demography - Study of population / மக்கள்தொகையியல் - மக்கள்தொகை பற்றிய ஆய்வு
+    b) Census - Official enumeration of population / மக்கள்தொகை கணக்கெடுப்பு - மக்கள்தொகையின் அதிகாரப்பூர்வ கணக்கீடு
+    c) Migration - Movement of animals / இடம்பெயர்வு - விலங்குகளின் இயக்கம்
+    d) Population Explosion - Rapid increase in population / மக்கள்தொகை வெடிப்பு - மக்கள்தொகையில் விரைவான அதிகரிப்பு
+
+    Answer: c (Corrected match: Migration - Movement of people / சரி: இடம்பெயர்வு - மக்களின் இயக்கம்)
+    விடை: c (சரி: மனித புவியியலில் இடம்பெயர்வு என்பது மக்களின் இயக்கத்தைக் குறிக்கிறது)
+
+12. Identify the wrongly matched pair regarding regions and population density in India:
+    இந்தியாவில் உள்ள பகுதிகள் மற்றும் மக்கள்தொகை அடர்த்தி தொடர்பான தவறான பொருத்தத்தைக் கண்டறியவும்:
+    a) Northern Plains - High Density / வட இந்தியச் சமவெளிகள் - அதிக அடர்த்தி
+    b) Thar Desert - Low Density / தார் பாலைவனம் - குறைந்த அடர்த்தி
+    c) Coastal Plains - High Density / கடலோரச் சமவெளிகள் - அதிக அடர்த்தி
+    d) Himalayan Region - High Density / இமயமலைப் பகுதி - அதிக அடர்த்தி
+
+    Answer: d (Corrected match: Himalayan Region - Low Density / சரி: இமயமலைப் பகுதி - குறைந்த அடர்த்தி)
+    விடை: d (சரி: நிலப்பரப்பு மற்றும் காலநிலை காரணமாக இமயமலைப் பகுதி - குறைந்த அடர்த்தி)
+
+---
+
+**3. Match the Following Questions (6 questions)**
+**3. பொருத்துக வினாக்கள் (6 வினாக்கள்)**
+
+13. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **List-I (Continent) / பட்டியல்-I (கண்டம்)**         **List-II (Population Characteristic) / பட்டியல்-II (மக்கள்தொகை பண்பு)**
+    1. Asia / ஆசியா                                   a. Highest growth rate / அதிக வளர்ச்சி விகிதம்
+    2. Africa / ஆப்பிரிக்கா                             b. Most populous / அதிக மக்கள்தொகை கொண்டது
+    3. Europe / ஐரோப்பா                               c. Lowest population density (among inhabited continents) / குறைந்த மக்கள்தொகை அடர்த்தி (மக்கள் வசிக்கும் கண்டங்களில்)
+    4. Australia / ஆஸ்திரேலியா                         d. Aging population, moderate density / வயதான மக்கள்தொகை, மிதமான அடர்த்தி
+
+    Options / விருப்பங்கள்:
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-b, 2-d, 3-a, 4-c
+    D) 1-d, 2-a, 3-b, 4-c
+
+    Answer: A
+
+14. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **List-I (Factor Type) / பட்டியல்-I (காரணி வகை)**   **List-II (Example Factor) / பட்டியல்-II (எடுத்துக்காட்டு காரணி)**
+    1. Physical Factor / பௌதீக காரணி                   a. Industrialization / தொழில்மயமாக்கல்
+    2. Economic Factor / பொருளாதார காரணி               b. Religious beliefs / மத நம்பிக்கைகள்
+    3. Social/Cultural Factor / சமூக/கலாச்சார காரணி     c. Soil fertility / மண் வளம்
+    4. Political Factor / அரசியல் காரணி                d. Government policies on migration / இடம்பெயர்வு குறித்த அரசாங்கக் கொள்கைகள்
+
+    Options / விருப்பங்கள்:
+    A) 1-c, 2-a, 3-b, 4-d
+    B) 1-a, 2-c, 3-d, 4-b
+    C) 1-c, 2-b, 3-a, 4-d
+    D) 1-d, 2-a, 3-c, 4-b
+
+    Answer: A
+
+15. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **List-I (Region Type) / பட்டியல்-I (பிராந்திய வகை)**   **List-II (Population Density Example) / பட்டியல்-II (மக்கள்தொகை அடர்த்தி உதாரணம்)**
+    1. Densely Populated / அதிக மக்கள்தொகை அடர்த்தி      a. Antarctica / அண்டார்டிகா
+    2. Sparsely Populated / குறைந்த மக்கள்தொகை அடர்த்தி   b. Nile Valley / நைல் பள்ளத்தாக்கு
+    3. Moderately Populated / மிதமான மக்கள்தொகை அடர்த்தி  c. Deccan Plateau, India / தக்காண பீடபூமி, இந்தியா
+    4. Uninhabited / மக்கள் வசிக்காத                    d. Sahara Desert / சஹாரா பாலைவனம்
+
+    Options / விருப்பங்கள்:
+    A) 1-b, 2-d, 3-c, 4-a
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-b, 2-c, 3-d, 4-a
+    D) 1-d, 2-a, 3-b, 4-c
+
+    Answer: A
+
+16. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **List-I (Term) / பட்டியல்-I (சொல்)**               **List-II (Description) / பட்டியல்-II (விளக்கம்)**
+    1. Population Distribution / மக்கள்தொகை பரவல்      a. Number of people per unit area / ஒரு அலகு பரப்பளவில் உள்ள மக்களின் எண்ணிக்கை
+    2. Population Density / மக்கள்தொகை அடர்த்தி         b. The way people are spread across an area / ஒரு பகுதியில் மக்கள் பரவியிருக்கும் விதம்
+    3. Urbanization / நகரமயமாக்கல்                   c. Movement of people from one place to another / மக்கள் ஓரிடத்திலிருந்து மற்றொரு இடத்திற்குச் செல்வது
+    4. Migration / இடம்பெயர்வு                       d. Increase in the proportion of people living in towns and cities / நகரங்கள் மற்றும் மாநகரங்களில் வாழும் மக்களின் விகிதத்தில் அதிகரிப்பு
+
+    Options / விருப்பங்கள்:
+    A) 1-a, 2-b, 3-c, 4-d
+    B) 1-b, 2-a, 3-d, 4-c
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-d, 2-c, 3-b, 4-a
+
+    Answer: B
+
+17. Match List-I with List-II (Indian States - General Density Level):
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக (இந்திய மாநிலங்கள் - பொது அடர்த்தி நிலை):
+    **List-I (State) / பட்டியல்-I (மாநிலம்)**          **List-II (General Population Density) / பட்டியல்-II (பொது மக்கள்தொகை அடர்த்தி)**
+    1. Bihar / பீகார்                                a. Very Low Density / மிகக் குறைந்த அடர்த்தி
+    2. Arunachal Pradesh / அருணாச்சல பிரதேசம்        b. Very High Density / மிக அதிக அடர்த்தி
+    3. Kerala / கேரளா                              c. Moderate Density / மிதமான அடர்த்தி
+    4. Rajasthan / ராஜஸ்தான்                         d. High Density / அதிக அடர்த்தி
+
+    Options / விருப்பங்கள்:
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-b, 2-d, 3-a, 4-c
+    D) 1-d, 2-a, 3-b, 4-c
+
+    Answer: A
+
+18. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    **List-I (Population Concept) / பட்டியல்-I (மக்கள்தொகை கருத்து)**   **List-II (Primary Focus) / பட்டியல்-II (முதன்மை கவனம்)**
+    1. Birth Rate / பிறப்பு விகிதம்                      a. Number of deaths / இறப்புகளின் எண்ணிக்கை
+    2. Death Rate / இறப்பு விகிதம்                      b. Number of live births / உயிருடன் பிறக்கும் குழந்தைகளின் எண்ணிக்கை
+    3. Natural Increase / இயற்கை அதிகரிப்பு             c. Movement into an area / ஒரு பகுதிக்குள் வருவது
+    4. Immigration / குடியேற்றம்                      d. Births minus deaths / பிறப்புகள் கழித்தல் இறப்புகள்
+
+    Options / விருப்பங்கள்:
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-b, 2-d, 3-a, 4-c
+    D) 1-d, 2-a, 3-b, 4-c
+
+    Answer: A
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions)**
+**4. நிலையான பல தேர்வு வினாக்கள் (32 வினாக்கள்)**
+
+19. What is population density?
+    மக்கள்தொகை அடர்த்தி என்றால் என்ன?
+    a) The total number of people living in a country. / ஒரு நாட்டில் வாழும் மொத்த மக்களின் எண்ணிக்கை.
+    b) The number of people living per unit area. / ஒரு அலகு பரப்பளவில் வாழும் மக்களின் எண்ணிக்கை.
+    c) The rate at which population is growing. / மக்கள்தொகை வளரும் விகிதம்.
+    d) The distribution of people according to age. / வயதுக்கு ஏற்ப மக்களின் பரவல்.
+    Answer: b
+
+20. Which of the following is a physical factor influencing population distribution?
+    பின்வருவனவற்றில் மக்கள்தொகை பரவலைப் பாதிக்கும் பௌதீக காரணி எது?
+    a) Industrialization / தொழில்மயமாக்கல்
+    b) Urbanization / நகரமயமாக்கல்
+    c) Climate / காலநிலை
+    d) Government policies / அரசாங்கக் கொள்கைகள்
+    Answer: c
+
+21. Areas with fertile soil and abundant water are generally:
+    வளமான மண் மற்றும் ஏராளமான நீர் உள்ள பகுதிகள் பொதுவாக:
+    a) Sparsely populated / குறைந்த மக்கள்தொகை கொண்டவை
+    b) Densely populated / அதிக மக்கள்தொகை கொண்டவை
+    c) Uninhabited / மக்கள் வசிக்காதவை
+    d) Moderately populated / மிதமான மக்கள்தொகை கொண்டவை
+    Answer: b
+
+22. Which continent has the highest population?
+    எந்தக் கண்டம் அதிக மக்கள்தொகையைக் கொண்டுள்ளது?
+    a) Africa / ஆப்பிரிக்கா
+    b) Asia / ஆசியா
+    c) Europe / ஐரோப்பா
+    d) North America / வட அமெரிக்கா
+    Answer: b
+
+23. Physiological density is calculated as:
+    உடலியல் அடர்த்தி இவ்வாறு கணக்கிடப்படுகிறது:
+    a) Total population / Total land area / மொத்த மக்கள்தொகை / மொத்த நிலப்பரப்பு
+    b) Total population / Total cultivated area / மொத்த மக்கள்தொகை / மொத்த சாகுபடி செய்யப்பட்ட பகுதி
+    c) Agricultural population / Total cultivated area / விவசாய மக்கள்தொகை / மொத்த சாகுபடி செய்யப்பட்ட பகுதி
+    d) Rural population / Total rural area / கிராமப்புற மக்கள்தொகை / மொத்த கிராமப்புற பகுதி
+    Answer: b
+
+24. The term 'population distribution' refers to:
+    'மக்கள்தொகை பரவல்' என்ற சொல் இதனைக் குறிக்கிறது:
+    a) The number of people in an area. / ஒரு பகுதியில் உள்ள மக்களின் எண்ணிக்கை.
+    b) The way in which people are spread out across the Earth's surface. / புவியின் மேற்பரப்பில் மக்கள் பரவியிருக்கும் விதம்.
+    c) The change in population over time. / காலப்போக்கில் மக்கள்தொகையில் ஏற்படும் மாற்றம்.
+    d) The structure of population by age and sex. / வயது மற்றும் பாலினத்தின்படி மக்கள்தொகையின் கட்டமைப்பு.
+    Answer: b
+
+25. Which one of the following is a sparsely populated region?
+    பின்வருவனவற்றில் எது குறைந்த மக்கள்தொகை கொண்ட பிராந்தியம்?
+    a) Ganges Delta / கங்கை டெல்டா
+    b) Sahara Desert / சஹாரா பாலைவனம்
+    c) Eastern China / கிழக்கு சீனா
+    d) Western Europe / மேற்கு ஐரோப்பா
+    Answer: b
+
+26. The main reason for high population density in river valleys is:
+    ஆற்றுப் பள்ளத்தாக்குகளில் அதிக மக்கள்தொகை அடர்த்திக்கான முக்கிய காரணம்:
+    a) Presence of minerals / கனிமங்களின் இருப்பு
+    b) Pleasant climate throughout the year / ஆண்டு முழுவதும் இதமான காலநிலை
+    c) Fertile land for agriculture / விவசாயத்திற்கு வளமான நிலம்
+    d) Good transport network / நல்ல போக்குவரத்து வலையமைப்பு
+    Answer: c
+
+27. Which type of density gives a better picture of the pressure of population on agricultural land?
+    எந்த வகை அடர்த்தி விவசாய நிலத்தின் மீதான மக்கள்தொகையின் அழுத்தத்தைப் பற்றிய சிறந்த சித்திரத்தை அளிக்கிறது?
+    a) Arithmetic density / எண்கணித அடர்த்தி
+    b) Physiological density / உடலியல் அடர்த்தி
+    c) Economic density / பொருளாதார அடர்த்தி
+    d) Urban density / நகர்ப்புற அடர்த்தி
+    Answer: b
+
+28. The movement of people from rural areas to urban areas is known as:
+    கிராமப்புறங்களிலிருந்து நகர்ப்புறங்களுக்கு மக்கள் இடம்பெயர்வது இவ்வாறு அழைக்கப்படுகிறது:
+    a) Emigration / வெளிக்குடியேற்றம்
+    b) Immigration / உள் குடியேற்றம்
+    c) Urbanization / நகரமயமாக்கல்
+    d) Commuting / பயணம் செய்தல் (தினசரி)
+    Answer: c
+
+29. In India, which of the following states has the highest population density according to Census 2011?
+    இந்தியாவில், 2011 மக்கள் தொகை கணக்கெடுப்பின்படி பின்வரும் எந்த மாநிலத்தில் அதிக மக்கள்தொகை அடர்த்தி உள்ளது?
+    a) West Bengal / மேற்கு வங்கம்
+    b) Kerala / கேரளா
+    c) Bihar / பீகார்
+    d) Uttar Pradesh / உத்திரப் பிரதேசம்
+    Answer: c
+
+30. Which of the following is a socio-cultural factor influencing population distribution?
+    பின்வருவனவற்றில் மக்கள்தொகை பரவலைப் பாதிக்கும் சமூக-கலாச்சார காரணி எது?
+    a) Availability of water / நீர் ലഭ്യത
+    b) Mineral deposits / கனிம படிவுகள்
+    c) Religious or cultural significance of a place / ஒரு இடத்தின் மத அல்லது கலாச்சார முக்கியத்துவம்
+    d) Government stability / அரசாங்க நிலைத்தன்மை
+    Answer: c
+
+31. The number of live births per 1000 people in a year is called:
+    ஒரு வருடத்தில் 1000 பேருக்கு உயிருடன் பிறக்கும் குழந்தைகளின் எண்ணிக்கை இவ்வாறு அழைக்கப்படுகிறது:
+    a) Death rate / இறப்பு விகிதம்
+    b) Birth rate / பிறப்பு விகிதம்
+    c) Population density / மக்கள்தொகை அடர்த்தி
+    d) Literacy rate / எழுத்தறிவு விகிதம்
+    Answer: b
+
+32. What does "sparsely populated" mean?
+    "குறைந்த மக்கள்தொகை" என்பதன் பொருள் என்ன?
+    a) Many people live close together. / பலர் நெருக்கமாக வாழ்கின்றனர்.
+    b) Few people live in an area. / ஒரு பகுதியில் சிலர் மட்டுமே வாழ்கின்றனர்.
+    c) Population is evenly distributed. / மக்கள்தொகை சமமாகப் பரவியுள்ளது.
+    d) Population is rapidly increasing. / மக்கள்தொகை வேகமாக அதிகரித்து வருகிறது.
+    Answer: b
+
+33. The difference between birth rate and death rate is known as:
+    பிறப்பு விகிதத்திற்கும் இறப்பு விகிதத்திற்கும் உள்ள வேறுபாடு இவ்வாறு அறியப்படுகிறது:
+    a) Net migration rate / நிகர இடம்பெயர்வு விகிதம்
+    b) Natural increase rate / இயற்கை அதிகரிப்பு விகிதம்
+    c) Total fertility rate / மொத்த கருவுறுதல் விகிதம்
+    d) Population momentum / மக்கள்தொகை உந்தம்
+    Answer: b
+
+34. Which of these areas is likely to have the lowest population density?
+    இந்த பகுதிகளில் எது மிகக் குறைந்த மக்கள்தொகை அடர்த்தியைக் கொண்டிருக்க வாய்ப்புள்ளது?
+    a) Coastal plains / கடலோரச் சமவெளிகள்
+    b) Industrial regions / தொழில்துறை பகுதிகள்
+    c) Polar regions / துருவப் பகுதிகள்
+    d) Temperate grasslands / மிதவெப்ப புல்வெளிகள்
+    Answer: c
+
+35. The study of human populations, including their size, composition, and distribution, is called:
+    மனித மக்கள்தொகையின் அளவு, கலவை மற்றும் பரவல் உள்ளிட்டவற்றைப் பற்றிய ஆய்வு இவ்வாறு அழைக்கப்படுகிறது:
+    a) Geography / புவியியல்
+    b) Sociology / சமூகவியல்
+    c) Demography / மக்கள்தொகையியல்
+    d) Anthropology / மானுடவியல்
+    Answer: c
+
+36. Which country has surpassed China as the world's most populous country (or is on the verge of doing so)?
+    உலகின் அதிக மக்கள்தொகை கொண்ட நாடாக சீனாவை மிஞ்சிய (அல்லது மிஞ்சும் நிலையில் உள்ள) நாடு எது?
+    a) United States / அமெரிக்கா
+    b) India / இந்தியா
+    c) Indonesia / இந்தோனேசியா
+    d) Brazil / பிரேசில்
+    Answer: b
+
+37. An area where the population is concentrated is known as:
+    மக்கள்தொகை செறிந்துள்ள பகுதி இவ்வாறு அறியப்படுகிறது:
+    a) Population void / மக்கள்தொகை வெற்றிடம்
+    b) Population cluster / மக்கள்தொகைக் கொத்து (குழுமம்)
+    c) Population desert / மக்கள்தொகைப் பாலைவனம்
+    d) Population frontier / மக்கள்தொகை எல்லை
+    Answer: b
+
+38. What is the approximate percentage of the world's population living in the Northern Hemisphere?
+    உலகின் மக்கள்தொகையில் தோராயமாக எத்தனை சதவீதம் பேர் வடக்கு அரைக்கோளத்தில் வாழ்கின்றனர்?
+    a) 50%
+    b) 70%
+    c) 90%
+    d) 30%
+    Answer: c
+
+39. The "Push Factors" of migration related to population distribution include:
+    மக்கள்தொகை பரவலுடன் தொடர்புடைய இடம்பெயர்வின் "தள்ளும் காரணிகள்" (Push Factors) பின்வருவனவற்றை உள்ளடக்குகின்றன:
+    a) Better job opportunities / சிறந்த வேலை வாய்ப்புகள்
+    b) Political stability / அரசியல் நிலைத்தன்மை
+    c) Natural disasters / இயற்கை பேரழிவுகள்
+    d) Good climate / நல்ல காலநிலை
+    Answer: c
+
+40. The "Pull Factors" of migration related to population distribution include:
+    மக்கள்தொகை பரவலுடன் தொடர்புடைய இடம்பெயர்வின் "இழுக்கும் காரணிகள்" (Pull Factors) பின்வருவனவற்றை உள்ளடக்குகின்றன:
+    a) Poverty / வறுமை
+    b) Lack of amenities / வசதிகள் இல்லாமை
+    c) Better educational facilities / சிறந்த கல்வி வசதிகள்
+    d) War and conflict / போர் மற்றும் மோதல்
+    Answer: c
+
+41. Which of the following is NOT a major area of high population density in the world?
+    பின்வருவனவற்றில் உலகில் அதிக மக்கள்தொகை அடர்த்தி கொண்ட முக்கியப் பகுதி அல்லாதது எது?
+    a) South Asia / தெற்கு ஆசியா
+    b) East Asia / கிழக்கு ஆசியா
+    c) Northern Canada / வடக்கு கனடா
+    d) Western Europe / மேற்கு ஐரோப்பா
+    Answer: c
+
+42. The official counting of a population, usually done at regular intervals, is called a:
+    வழக்கமாக குறிப்பிட்ட இடைவெளியில் செய்யப்படும் மக்கள்தொகையின் அதிகாரப்பூர்வ எண்ணிக்கை இவ்வாறு அழைக்கப்படுகிறது:
+    a) Survey / கணக்கெடுப்பு (பொதுவானது)
+    b) Census / மக்கள்தொகை கணக்கெடுப்பு
+    c) Poll / வாக்கெடுப்பு
+    d) Estimate / மதிப்பீடு
+    Answer: b
+
+43. Agricultural density refers to:
+    விவசாய அடர்த்தி என்பது:
+    a) Number of farmers per unit of total land / மொத்த நிலத்தின் ஒரு அலகுக்கான விவசாயிகளின் எண்ணிக்கை
+    b) Number of people per unit of arable land / விளைநிலத்தின் ஒரு அலகுக்கான மக்களின் எண்ணிக்கை
+    c) Number of farmers per unit of arable land / விளைநிலத்தின் ஒரு அலகுக்கான விவசாயிகளின் எண்ணிக்கை
+    d) Total population per unit of agricultural output / விவசாய உற்பத்தியின் ஒரு அலகுக்கான மொத்த மக்கள்தொகை
+    Answer: c
+
+44. A population pyramid with a wide base and narrow top indicates:
+    அகன்ற அடித்தளமும் குறுகிய உச்சியும் கொண்ட மக்கள்தொகை பிரமிடு இதனைக் குறிக்கிறது:
+    a) Low birth rate, low death rate / குறைந்த பிறப்பு விகிதம், குறைந்த இறப்பு விகிதம்
+    b) High birth rate, high death rate / அதிக பிறப்பு விகிதம், அதிக இறப்பு விகிதம்
+    c) High birth rate, (relatively) low death rate (young, growing population) / அதிக பிறப்பு விகிதம், (ஒப்பீட்டளவில்) குறைந்த இறப்பு விகிதம் (இளம், வளர்ந்து வரும் மக்கள்தொகை)
+    d) Low birth rate, high death rate / குறைந்த பிறப்பு விகிதம், அதிக இறப்பு விகிதம்
+    Answer: c
+
+45. Which of these economic activities is most likely to support a high population density?
+    இந்த பொருளாதார நடவடிக்கைகளில் எது அதிக மக்கள்தொகை அடர்த்தியை ஆதரிக்க வாய்ப்புள்ளது?
+    a) Nomadic herding / நாடோடி கால்நடை வளர்ப்பு
+    b) Intensive subsistence agriculture / தீவிர தன்னிறைவு விவசாயம்
+    c) Forestry / வனவியல்
+    d) Fishing in remote waters / தொலைதூர நீரில் மீன்பிடித்தல்
+    Answer: b
+
+46. The most sparsely populated continent (excluding Antarctica) is:
+    (அண்டார்டிகாவைத் தவிர) மிகக் குறைந்த மக்கள்தொகை கொண்ட கண்டம்:
+    a) South America / தென் அமெரிக்கா
+    b) Australia / ஆஸ்திரேலியா
+    c) Africa / ஆப்பிரிக்கா
+    d) Europe / ஐரோப்பா
+    Answer: b
+
+47. The availability of which resource is a primary determinant of population settlement in arid and semi-arid regions?
+    வறண்ட மற்றும் அரை வறண்ட பகுதிகளில் மக்கள்தொகை குடியேற்றத்தின் முதன்மை நிர்ணயிக்கும் காரணியாக எந்த வளம் உள்ளது?
+    a) Timber / மரம்
+    b) Minerals / கனிமங்கள்
+    c) Water / நீர்
+    d) Fertile soil / வளமான மண்
+    Answer: c
+
+48. In India, the state with the lowest population density as per Census 2011 is:
+    2011 மக்கள் தொகை கணக்கெடுப்பின்படி, இந்தியாவில் குறைந்த மக்கள்தொகை அடர்த்தி கொண்ட மாநிலம்:
+    a) Sikkim / சிக்கிம்
+    b) Mizoram / மிசோரம்
+    c) Arunachal Pradesh / அருணாச்சல பிரதேசம்
+    d) Nagaland / நாகாலாந்து
+    Answer: c
+
+49. The spatial arrangement of where people live is:
+    மக்கள் எங்கு வாழ்கிறார்கள் என்பதன் இடஞ்சார்ந்த ஏற்பாடு:
+    a) Population dynamics / மக்கள்தொகை இயக்கவியல்
+    b) Population distribution / மக்கள்தொகை பரவல்
+    c) Population pyramid / மக்கள்தொகை பிரமிடு
+    d) Population policy / மக்கள்தொகை கொள்கை
+    Answer: b
+
+50. Overpopulation is a situation where:
+    அதிக மக்கள்தொகை என்பது ஒரு நிலைமை, அங்கு:
+    a) There are too many old people. / அதிகமான வயதானவர்கள் உள்ளனர்.
+    b) The number of people exceeds the carrying capacity of the environment for that population at a given level of technology and consumption. / ஒரு குறிப்பிட்ட தொழில்நுட்பம் மற்றும் நுகர்வு மட்டத்தில் அந்த மக்கள்தொகைக்கான சுற்றுச்சூழலின் தாங்கும் திறனை மக்களின் எண்ணிக்கை மீறுகிறது.
+    c) The birth rate is very high. / பிறப்பு விகிதம் மிக அதிகமாக உள்ளது.
+    d) There are more men than women. / பெண்களை விட ஆண்கள் அதிகமாக உள்ளனர்.
+    Answer: b
+---

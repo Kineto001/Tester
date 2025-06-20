@@ -1,0 +1,895 @@
+**Overall Topic for Question Generation: Climate Change India**
+
+**1. Assertion and Reason Questions (6 questions):**
+
+**1.**
+Assertion (A): India is one of the most vulnerable countries to climate change.
+Reason (R): India has a long coastline, dependence on monsoon-fed agriculture, and a large population relying on climate-sensitive sectors.
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+கூற்று (A): காலநிலை மாற்றத்தால் இந்தியா மிகவும் பாதிக்கப்படக்கூடிய நாடுகளில் ஒன்றாகும்.
+காரணம் (R): இந்தியா நீண்ட கடற்கரை, பருவமழையை நம்பியிருக்கும் விவசாயம் மற்றும் காலநிலை உணர்திறன் கொண்ட துறைகளை நம்பியிருக்கும் பெரும் மக்கள்தொகை ஆகியவற்றைக் கொண்டுள்ளது.
+தேர்வுகள்:
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+**2.**
+Assertion (A): The National Action Plan on Climate Change (NAPCC) was launched by India to address climate change concerns.
+Reason (R): The NAPCC primarily focuses on importing foreign technology for climate mitigation.
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+கூற்று (A): காலநிலை மாற்றக் கவலைகளை நிவர்த்தி செய்வதற்காக இந்தியாவின் தேசிய காலநிலை மாற்ற செயல் திட்டம் (NAPCC) தொடங்கப்பட்டது.
+காரணம் (R): NAPCC முதன்மையாக காலநிலை தணிப்புக்கான வெளிநாட்டு தொழில்நுட்பத்தை இறக்குமதி செய்வதில் கவனம் செலுத்துகிறது.
+தேர்வுகள்:
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+Answer: c
+
+**3.**
+Assertion (A): Increased frequency of extreme weather events like cyclones and heatwaves in India is linked to climate change.
+Reason (R): Global warming leads to more energy in the climate system, which can manifest as more intense weather phenomena.
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+கூற்று (A): இந்தியாவில் சூறாவளி மற்றும் வெப்ப அலைகள் போன்ற தீவிர வானிலை நிகழ்வுகளின் அதிர்வெண் அதிகரிப்பு காலநிலை மாற்றத்துடன் இணைக்கப்பட்டுள்ளது.
+காரணம் (R): புவி வெப்பமடைதல் காலநிலை அமைப்பில் அதிக ஆற்றலுக்கு வழிவகுக்கிறது, இது மிகவும் தீவிரமான வானிலை நிகழ்வுகளாக வெளிப்படும்.
+தேர்வுகள்:
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+**4.**
+Assertion (A): The Green India Mission aims to increase forest cover in India.
+Reason (R): Forests act as carbon sinks, absorbing carbon dioxide from the atmosphere.
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+கூற்று (A): பசுமை இந்தியா இயக்கம் இந்தியாவில் வனப்பரப்பை அதிகரிப்பதை நோக்கமாகக் கொண்டுள்ளது.
+காரணம் (R): காடுகள் கார்பன் மூழ்கிகளாக செயல்படுகின்றன, வளிமண்டலத்திலிருந்து கார்பன் டை ஆக்சைடை உறிஞ்சுகின்றன.
+தேர்வுகள்:
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+**5.**
+Assertion (A): Melting of Himalayan glaciers poses a significant threat to water security in North India.
+Reason (R): Himalayan glaciers are the primary source of water for all rivers in peninsular India.
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+கூற்று (A): இமயமலை பனிப்பாறைகள் உருகுவது வட இந்தியாவின் நீர் பாதுகாப்புக்கு குறிப்பிடத்தக்க அச்சுறுத்தலாக உள்ளது.
+காரணம் (R): தீபகற்ப இந்தியாவில் உள்ள அனைத்து நதிகளுக்கும் இமயமலை பனிப்பாறைகளே முதன்மை நீர் ஆதாரமாகும்.
+தேர்வுகள்:
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+Answer: c
+
+**6.**
+Assertion (A): India has committed to achieving Net Zero emissions by 2070.
+Reason (R): This commitment was made as part of India's obligations under the Kyoto Protocol.
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+கூற்று (A): இந்தியா 2070 ஆம் ஆண்டுக்குள் நிகர பூஜ்ஜிய உமிழ்வை அடைய உறுதிபூண்டுள்ளது.
+காரணம் (R): இந்த அர்ப்பணிப்பு கியோட்டோ நெறிமுறையின் கீழ் இந்தியாவின் கடமைகளின் ஒரு பகுதியாக செய்யப்பட்டது.
+தேர்வுகள்:
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+Answer: c
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions):**
+
+**7.**
+Identify the wrongly matched pair:
+a) National Solar Mission - Promoting solar energy
+b) National Mission for Enhanced Energy Efficiency - Mandating use of traditional cookstoves
+c) National Water Mission - Water conservation and management
+d) National Mission on Sustainable Habitat - Improving energy efficiency in buildings
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) தேசிய சூரிய ஆற்றல் திட்டம் - சூரிய சக்தியை ஊக்குவித்தல்
+b) மேம்படுத்தப்பட்ட எரிசக்தி செயல்திறனுக்கான தேசிய திட்டம் - பாரம்பரிய சமையல் அடுப்புகளின் பயன்பாட்டை கட்டாயமாக்குதல்
+c) தேசிய நீர் திட்டம் - நீர் சேமிப்பு மற்றும் மேலாண்மை
+d) நிலையான வாழ்விடத்திற்கான தேசிய திட்டம் - கட்டிடங்களில் ஆற்றல் திறனை மேம்படுத்துதல்
+Answer: b (Corrected match: National Mission for Enhanced Energy Efficiency - Promoting energy efficiency in industries and appliances)
+
+**8.**
+Identify the wrongly matched pair regarding climate change impacts in India:
+a) Coastal regions - Sea level rise
+b) Agriculture - Reduced crop yields in some areas
+c) Himalayan Region - Increased glacier melt
+d) Deccan Plateau - Afforestation due to increased rainfall
+
+இந்தியாவில் காலநிலை மாற்றத்தின் தாக்கங்கள் குறித்த தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) கடலோரப் பகுதிகள் - கடல் மட்ட உயர்வு
+b) விவசாயம் - சில பகுதிகளில் பயிர் விளைச்சல் குறைதல்
+c) இமயமலைப் பகுதி - பனிப்பாறை உருகுதல் அதிகரிப்பு
+d) தக்காண பீடபூமி - அதிகரித்த மழையால் காடு வளர்ப்பு
+Answer: d (Corrected match: Deccan Plateau - Increased water scarcity and drought in some areas)
+
+**9.**
+Identify the wrongly matched pair related to international climate agreements and India:
+a) Paris Agreement - Nationally Determined Contributions (NDCs)
+b) Kyoto Protocol - Common but Differentiated Responsibilities (CBDR)
+c) COP26 (Glasgow) - India's Panchamrit declaration
+d) UNFCCC - Legally binding emission reduction targets for India
+
+சர்வதேச காலநிலை ஒப்பந்தங்கள் மற்றும் இந்தியா தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) பாரிஸ் ஒப்பந்தம் - தேசிய அளவில் நிர்ணயிக்கப்பட்ட பங்களிப்புகள் (NDCs)
+b) கியோட்டோ நெறிமுறை - பொதுவான ஆனால் வேறுபட்ட பொறுப்புகள் (CBDR)
+c) COP26 (கிளாஸ்கோ) - இந்தியாவின் பஞ்சாமிர்த பிரகடனம்
+d) UNFCCC - இந்தியாவுக்கான சட்டப்பூர்வமாக கட்டுப்படுத்தும் உமிழ்வு குறைப்பு இலக்குகள்
+Answer: d (Corrected match: UNFCCC - Framework convention, does not impose legally binding emission reduction targets on developing countries like India directly)
+
+**10.**
+Identify the wrongly matched pair concerning greenhouse gases and their sources in India:
+a) Carbon Dioxide (CO2) - Burning of fossil fuels
+b) Methane (CH4) - Rice cultivation and livestock
+c) Nitrous Oxide (N2O) - Use of nitrogenous fertilizers
+d) Hydrofluorocarbons (HFCs) - Deforestation
+
+இந்தியாவில் பசுமை இல்ல வாயுக்கள் மற்றும் அவற்றின் ஆதாரங்கள் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) கார்பன் டை ஆக்சைடு (CO2) - புதைபடிவ எரிபொருட்களை எரித்தல்
+b) மீத்தேன் (CH4) - நெல் சாகுபடி மற்றும் கால்நடைகள்
+c) நைட்ரஸ் ஆக்சைடு (N2O) - நைட்ரஜன் உரங்களின் பயன்பாடு
+d) ஹைட்ரோஃபுளோரோகார்பன்கள் (HFCs) - காடழிப்பு
+Answer: d (Corrected match: Hydrofluorocarbons (HFCs) - Refrigerants, air conditioning)
+
+**11.**
+Identify the wrongly matched pair regarding climate change adaptation strategies in India:
+a) Water Sector - Rainwater harvesting
+b) Agriculture Sector - Developing drought-resistant crops
+c) Coastal Areas - Building sea walls
+d) Health Sector - Promoting use of coal for heating
+
+இந்தியாவில் காலநிலை மாற்றத் தழுவல் உத்திகள் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) நீர் துறை - மழைநீர் சேகரிப்பு
+b) விவசாயத் துறை - வறட்சியைத் தாங்கும் பயிர்களை உருவாக்குதல்
+c) கடலோரப் பகுதிகள் - கடல் சுவர்களைக் கட்டுதல்
+d) சுகாதாரத் துறை - வெப்பமூட்டுவதற்காக நிலக்கரி பயன்பாட்டை ஊக்குவித்தல்
+Answer: d (Corrected match: Health Sector - Early warning systems for heatwaves, vector-borne disease control)
+
+**12.**
+Identify the wrongly matched pair:
+a) IPCC - Intergovernmental Panel on Climate Change
+b) NAPCC - National Action Plan on Climate Change
+c) INDC - Intended Nationally Defined Commitments
+d) MoEFCC - Ministry of Environment, Forests and Climate Consensus
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) IPCC - காலநிலை மாற்றத்திற்கான அரசுகளுக்கிடையேயான குழு
+b) NAPCC - தேசிய காலநிலை மாற்ற செயல் திட்டம்
+c) INDC - உத்தேசிக்கப்பட்ட தேசிய அளவில் வரையறுக்கப்பட்ட கடமைகள்
+d) MoEFCC - சுற்றுச்சூழல், காடுகள் மற்றும் காலநிலை ஒருமித்த கருத்து அமைச்சகம்
+Answer: d (Corrected match: MoEFCC - Ministry of Environment, Forest and Climate Change)
+
+---
+
+**3. Match the Following Questions (6 questions):**
+
+**13.**
+Match List-I with List-II:
+List-I (NAPCC Missions)
+1. National Solar Mission
+2. National Mission for Sustainable Agriculture
+3. National Mission on Strategic Knowledge for Climate Change
+4. Green India Mission
+List-II (Primary Objective)
+a. Enhancing research and technology development related to climate change
+b. Increasing forest cover and protecting biodiversity
+c. Promoting the development and use of solar energy
+d. Making agriculture more resilient to climate change
+
+Options:
+A) 1-c, 2-d, 3-a, 4-b
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-c, 2-a, 3-d, 4-b
+D) 1-d, 2-c, 3-b, 4-a
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (NAPCC திட்டங்கள்)
+1. தேசிய சூரிய ஆற்றல் திட்டம்
+2. நிலையான வேளாண்மைக்கான தேசிய திட்டம்
+3. காலநிலை மாற்றத்திற்கான மூலோபாய அறிவுக்கான தேசிய திட்டம்
+4. பசுமை இந்தியா திட்டம்
+பட்டியல்-II (முதன்மை நோக்கம்)
+a. காலநிலை மாற்றம் தொடர்பான ஆராய்ச்சி மற்றும் தொழில்நுட்ப மேம்பாட்டை மேம்படுத்துதல்
+b. வனப்பரப்பை அதிகரித்தல் மற்றும் பல்லுயிர் பெருக்கத்தைப் பாதுகாத்தல்
+c. சூரிய ஆற்றலின் வளர்ச்சி மற்றும் பயன்பாட்டை ஊக்குவித்தல்
+d. விவசாயத்தை காலநிலை மாற்றத்தை எதிர்கொள்ளும் வகையில் மேம்படுத்துதல்
+
+தேர்வுகள்:
+A) 1-c, 2-d, 3-a, 4-b
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-c, 2-a, 3-d, 4-b
+D) 1-d, 2-c, 3-b, 4-a
+Answer: A
+
+**14.**
+Match List-I with List-II:
+List-I (Climate Change Impact)
+1. Sea Level Rise
+2. Increased Glacier Melt
+3. Heatwaves
+4. Irregular Monsoon
+List-II (Affected Region/Sector in India)
+a. Northern Mountains
+b. Coastal Areas
+c. Agriculture
+d. Urban Health
+
+Options:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-c, 2-d, 3-a, 4-b
+D) 1-d, 2-c, 3-b, 4-a
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (காலநிலை மாற்றத்தின் தாக்கம்)
+1. கடல் மட்ட உயர்வு
+2. பனிப்பாறை உருகுதல் அதிகரிப்பு
+3. வெப்ப அலைகள்
+4. ஒழுங்கற்ற பருவமழை
+பட்டியல்-II (இந்தியாவில் பாதிக்கப்பட்ட பகுதி/துறை)
+a. வடக்கு மலைகள்
+b. கடலோரப் பகுதிகள்
+c. விவசாயம்
+d. நகர்ப்புற சுகாதாரம்
+
+தேர்வுகள்:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-c, 2-d, 3-a, 4-b
+D) 1-d, 2-c, 3-b, 4-a
+Answer: B
+
+**15.**
+Match List-I with List-II:
+List-I (International Agreement/Concept)
+1. UNFCCC
+2. Kyoto Protocol
+3. Paris Agreement
+4. Carbon Footprint
+List-II (Key Feature/Description related to India)
+a. Emission reduction targets for developed countries primarily
+b. Framework for international cooperation on climate change
+c. Measure of greenhouse gas emissions by an individual or entity
+d. Aims to limit global warming, with Nationally Determined Contributions (NDCs)
+
+Options:
+A) 1-d, 2-c, 3-b, 4-a
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-a, 2-b, 3-c, 4-d
+D) 1-c, 2-d, 3-a, 4-b
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (சர்வதேச ஒப்பந்தம்/கருத்து)
+1. UNFCCC (காலநிலை மாற்றம் மீதான ஐக்கிய நாடுகளின் கட்டமைப்பு மாநாடு)
+2. கியோட்டோ நெறிமுறை
+3. பாரிஸ் ஒப்பந்தம்
+4. கார்பன் தடம்
+பட்டியல்-II (இந்தியா தொடர்பான முக்கிய அம்சம்/விளக்கம்)
+a. முதன்மையாக வளர்ந்த நாடுகளுக்கான உமிழ்வு குறைப்பு இலக்குகள்
+b. காலநிலை மாற்றம் குறித்த சர்வதேச ஒத்துழைப்புக்கான கட்டமைப்பு
+c. ஒரு தனிநபர் அல்லது நிறுவனத்தால் வெளியிடப்படும் பசுமை இல்ல வாயுக்களின் அளவு
+d. தேசிய அளவில் நிர்ணயிக்கப்பட்ட பங்களிப்புகளுடன் (NDCs) புவி வெப்பமடைதலைக் கட்டுப்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது
+
+தேர்வுகள்:
+A) 1-d, 2-c, 3-b, 4-a
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-a, 2-b, 3-c, 4-d
+D) 1-c, 2-d, 3-a, 4-b
+Answer: B
+
+**16.**
+Match List-I with List-II:
+List-I (Indian State/UT)
+1. Rajasthan
+2. Kerala
+3. Ladakh
+4. Sundarbans (West Bengal)
+List-II (Prominent Climate Change Vulnerability/Focus)
+a. Melting glaciers and permafrost thaw
+b. Sea level rise and coastal erosion, mangrove degradation
+c. Desertification and water scarcity
+d. Increased frequency of floods and landslides in coastal & Western Ghats regions
+
+Options:
+A) 1-c, 2-d, 3-a, 4-b
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-c, 3-d, 4-a
+D) 1-d, 2-a, 3-b, 4-c
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (இந்திய மாநிலம்/யூனியன் பிரதேசம்)
+1. ராஜஸ்தான்
+2. கேரளா
+3. லடாக்
+4. சுந்தரவனக்காடுகள் (மேற்கு வங்கம்)
+பட்டியல்-II (முக்கியமான காலநிலை மாற்ற பாதிப்பு/கவனம்)
+a. பனிப்பாறைகள் உருகுதல் மற்றும் நிரந்தர உறைபனி உருகுதல்
+b. கடல் மட்ட உயர்வு மற்றும் கடலோர அரிப்பு, சதுப்புநிலச் சிதைவு
+c. பாலைவனமாதல் மற்றும் நீர் பற்றாக்குறை
+d. கடலோர மற்றும் மேற்கு தொடர்ச்சி மலைப் பகுதிகளில் வெள்ளம் மற்றும் நிலச்சரிவுகளின் அதிர்வெண் அதிகரிப்பு
+
+தேர்வுகள்:
+A) 1-c, 2-d, 3-a, 4-b
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-c, 3-d, 4-a
+D) 1-d, 2-a, 3-b, 4-c
+Answer: A
+
+**17.**
+Match List-I with List-II:
+List-I (Greenhouse Gas)
+1. Carbon Dioxide (CO2)
+2. Methane (CH4)
+3. Nitrous Oxide (N2O)
+4. Sulphur Hexafluoride (SF6)
+List-II (Major Anthropogenic Source in India)
+a. Agricultural soils, fertilizer use
+b. Industrial processes, electrical transmission equipment
+c. Fossil fuel combustion, deforestation
+d. Livestock enteric fermentation, rice paddies
+
+Options:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-c, 2-d, 3-a, 4-b
+C) 1-b, 2-a, 3-d, 4-c
+D) 1-d, 2-c, 3-b, 4-a
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (பசுமை இல்ல வாயு)
+1. கார்பன் டை ஆக்சைடு (CO2)
+2. மீத்தேன் (CH4)
+3. நைட்ரஸ் ஆக்சைடு (N2O)
+4. சல்பர் ஹெக்ஸாஃபுளோரைடு (SF6)
+பட்டியல்-II (இந்தியாவில் முக்கிய மானுடவியல் ஆதாரம்)
+a. விவசாய மண், உரப் பயன்பாடு
+b. தொழில்துறை செயல்முறைகள், மின்சார பரிமாற்ற உபகரணங்கள்
+c. புதைபடிவ எரிபொருள் எரிப்பு, காடழிப்பு
+d. கால்நடை குடல் நொதித்தல், நெல் வயல்கள்
+
+தேர்வுகள்:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-c, 2-d, 3-a, 4-b
+C) 1-b, 2-a, 3-d, 4-c
+D) 1-d, 2-c, 3-b, 4-a
+Answer: B
+
+**18.**
+Match List-I with List-II:
+List-I (Climate Change Terminology)
+1. Mitigation
+2. Adaptation
+3. Carbon Sequestration
+4. Climate Resilience
+List-II (Description/Example in Indian Context)
+a. Building cyclone shelters in coastal Odisha
+b. Reforestation drives to absorb CO2
+c. Ability of Indian agriculture to withstand climate variations
+d. Promoting renewable energy like solar power to reduce emissions
+
+Options:
+A) 1-d, 2-a, 3-b, 4-c
+B) 1-a, 2-d, 3-c, 4-b
+C) 1-c, 2-b, 3-a, 4-d
+D) 1-b, 2-c, 3-d, 4-a
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (காலநிலை மாற்றச் சொற்கள்)
+1. தணிப்பு (Mitigation)
+2. தழுவல் (Adaptation)
+3. கார்பன் பிரித்தெடுத்தல் (Carbon Sequestration)
+4. காலநிலை பின்னடைவு (Climate Resilience)
+பட்டியல்-II (இந்திய சூழலில் விளக்கம்/உதாரணம்)
+a. கடலோர ஒடிசாவில் சூறாவளி முகாம்களைக் கட்டுதல்
+b. CO2 ஐ உறிஞ்சுவதற்காக காடு வளர்ப்பு இயக்கங்கள்
+c. காலநிலை மாறுபாடுகளைத் தாங்கும் இந்திய விவசாயத்தின் திறன்
+d. உமிழ்வைக் குறைக்க சூரிய சக்தி போன்ற புதுப்பிக்கத்தக்க ஆற்றலை ஊக்குவித்தல்
+
+தேர்வுகள்:
+A) 1-d, 2-a, 3-b, 4-c
+B) 1-a, 2-d, 3-c, 4-b
+C) 1-c, 2-b, 3-a, 4-d
+D) 1-b, 2-c, 3-d, 4-a
+Answer: A
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions):**
+
+**19.**
+Which of the following is NOT one of the eight missions under India's National Action Plan on Climate Change (NAPCC)?
+a) National Solar Mission
+b) National Mission on Sustainable Habitat
+c) National Mission on Clean Ganga
+d) National Mission for a Green India
+
+இந்தியாவின் தேசிய காலநிலை மாற்ற செயல் திட்டத்தின் (NAPCC) கீழ் உள்ள எட்டு திட்டங்களில் பின்வருவனவற்றில் எது இல்லை?
+a) தேசிய சூரிய ஆற்றல் திட்டம்
+b) நிலையான வாழ்விடத்திற்கான தேசிய திட்டம்
+c) தூய்மை கங்கைக்கான தேசிய திட்டம்
+d) பசுமை இந்தியாவுக்கான தேசிய திட்டம்
+Answer: c
+
+**20.**
+India's Nationally Determined Contributions (NDCs) under the Paris Agreement include a commitment to:
+a) Reduce emission intensity of its GDP by 33-35% by 2030 from 2005 level.
+b) Completely phase out coal by 2030.
+c) Increase nuclear power capacity to 50% of total energy mix.
+d) Achieve 100% electric vehicle sales by 2025.
+
+பாரிஸ் ஒப்பந்தத்தின் கீழ் இந்தியாவின் தேசிய அளவில் நிர்ணயிக்கப்பட்ட பங்களிப்புகள் (NDCs) பின்வரும் உறுதிமொழியைக் கொண்டுள்ளது:
+a) 2005 ஆம் ஆண்டின் அளவிலிருந்து 2030 ஆம் ஆண்டுக்குள் அதன் மொத்த உள்நாட்டு உற்பத்தியின் உமிழ்வு செறிவை 33-35% குறைத்தல்.
+b) 2030 ஆம் ஆண்டுக்குள் நிலக்கரியை முற்றிலுமாக நிறுத்துதல்.
+c) மொத்த ஆற்றல் கலவையில் அணுசக்தி திறனை 50% ஆக அதிகரித்தல்.
+d) 2025 ஆம் ஆண்டுக்குள் 100% மின்சார வாகன விற்பனையை அடைதல்.
+Answer: a (Note: India updated its NDC in 2022 to 45% reduction in emission intensity) This question refers to the initial NDC. For current context, 45% is the target. Assuming question is based on original submission for Group 4 level generality.
+
+**21.**
+The term "Panchamrit", announced by India at COP26, refers to:
+a) Five types of traditional Indian medicines for climate resilience.
+b) Five financial institutions funding green projects.
+c) India's five nectar elements of climate action commitments.
+d) A new variety of drought-resistant crop.
+
+COP26 இல் இந்தியாவால் அறிவிக்கப்பட்ட "பஞ்சாமிர்தம்" என்ற சொல் எதைக் குறிக்கிறது?
+a) காலநிலை பின்னடைவுக்கான ஐந்து வகையான பாரம்பரிய இந்திய மருந்துகள்.
+b) பசுமைத் திட்டங்களுக்கு நிதியளிக்கும் ஐந்து நிதி நிறுவனங்கள்.
+c) இந்தியாவின் காலநிலை நடவடிக்கை உறுதிமொழிகளின் ஐந்து அமிர்தக் கூறுகள்.
+d) ஒரு புதிய வகை வறட்சியைத் தாங்கும் பயிர்.
+Answer: c
+
+**22.**
+What is the primary nodal ministry in the Government of India for planning, promoting, coordinating and overseeing the implementation of India’s environmental and forestry policies and programmes, including those related to climate change?
+a) Ministry of Power
+b) Ministry of Earth Sciences
+c) Ministry of Environment, Forest and Climate Change (MoEFCC)
+d) Ministry of New and Renewable Energy (MNRE)
+
+காலநிலை மாற்றம் தொடர்பானவை உட்பட, இந்தியாவின் சுற்றுச்சூழல் மற்றும் வனவியல் கொள்கைகள் மற்றும் திட்டங்களின் திட்டமிடல், ஊக்குவிப்பு, ஒருங்கிணைப்பு மற்றும் மேற்பார்வைக்கு இந்திய அரசாங்கத்தின் முதன்மை ஒருங்கிணைப்பு அமைச்சகம் எது?
+a) மின்துறை அமைச்சகம்
+b) புவி அறிவியல் அமைச்சகம்
+c) சுற்றுச்சூழல், வனம் மற்றும் காலநிலை மாற்ற அமைச்சகம் (MoEFCC)
+d) புதிய மற்றும் புதுப்பிக்கத்தக்க எரிசக்தி அமைச்சகம் (MNRE)
+Answer: c
+
+**23.**
+Which of these is a major direct impact of climate change on Indian agriculture?
+a) Increased soil fertility universally
+b) Shift in cropping patterns and reduced yields in vulnerable areas
+c) Complete elimination of pests
+d) Guaranteed increase in monsoon rainfall across all regions
+
+இந்திய விவசாயத்தில் காலநிலை மாற்றத்தின் முக்கிய நேரடித் தாக்கம் எது?
+a) உலகளவில் மண் வளம் அதிகரித்தல்
+b) பயிர் முறைகளில் மாற்றம் மற்றும் பாதிக்கப்படக்கூடிய பகுதிகளில் விளைச்சல் குறைதல்
+c) பூச்சிகளை முற்றிலுமாக ஒழித்தல்
+d) அனைத்துப் பகுதிகளிலும் பருவமழை அதிகரிப்புக்கு உத்தரவாதம்
+Answer: b
+
+**24.**
+The "Perform, Achieve and Trade" (PAT) scheme in India is related to:
+a) Carbon trading in the agricultural sector
+b) Enhancing energy efficiency in large industries
+c) Promoting rooftop solar installations
+d) Water conservation in urban areas
+
+இந்தியாவில் "செயல்படு, அடை, மற்றும் வர்த்தகம் செய்" (PAT) திட்டம் எதனுடன் தொடர்புடையது?
+a) விவசாயத் துறையில் கார்பன் வர்த்தகம்
+b) பெரிய தொழில்களில் எரிசக்தி திறனை மேம்படுத்துதல்
+c) கூரை மேல் சூரியசக்தி நிறுவல்களை ஊக்குவித்தல்
+d) நகர்ப்புறங்களில் நீர் சேமிப்பு
+Answer: b
+
+**25.**
+Which coastal ecosystem in India is particularly vulnerable to sea-level rise and increased storm surges due to climate change?
+a) Thar Desert
+b) Himalayan foothills
+c) Sundarbans mangroves
+d) Deccan Plateau grasslands
+
+இந்தியாவில் எந்த கடலோர சுற்றுச்சூழல் அமைப்பு காலநிலை மாற்றத்தால் கடல் மட்ட உயர்வு மற்றும் அதிகரித்த புயல் அலைகளால் குறிப்பாக பாதிக்கப்படக்கூடியது?
+a) தார் பாலைவனம்
+b) இமயமலை அடிவாரம்
+c) சுந்தரவன சதுப்புநிலங்கள்
+d) தக்காண பீடபூமி புல்வெளிகள்
+Answer: c
+
+**26.**
+India's commitment to install 500 GW of non-fossil energy capacity by 2030 is part of its:
+a) First Five Year Plan
+b) National Forest Policy
+c) Updated Nationally Determined Contributions (NDCs) announced at COP26 (Panchamrit)
+d) Swachh Bharat Mission
+
+2030 ஆம் ஆண்டுக்குள் 500 ஜிகாவாட் புதைபடிவமற்ற எரிசக்தி திறனை நிறுவ இந்தியாவின் அர்ப்பணிப்பு, அதன் எதன் ஒரு பகுதியாகும்:
+a) முதல் ஐந்தாண்டுத் திட்டம்
+b) தேசிய வனக் கொள்கை
+c) COP26 (பஞ்சாமிர்தம்) இல் அறிவிக்கப்பட்ட மேம்படுத்தப்பட்ட தேசிய அளவில் நிர்ணயிக்கப்பட்ட பங்களிப்புகள் (NDCs)
+d) தூய்மை இந்தியா திட்டம்
+Answer: c
+
+**27.**
+Climate change can exacerbate water stress in India primarily through:
+a) Increased snowfall in all mountain ranges
+b) More predictable and evenly distributed rainfall
+c) Altered monsoon patterns and glacial melt
+d) Reduced evaporation rates from water bodies
+
+காலநிலை மாற்றம் இந்தியாவில் நீர் அழுத்தத்தை முதன்மையாக எதன் மூலம் அதிகரிக்கக்கூடும்?
+a) அனைத்து மலைத்தொடர்களிலும் பனிப்பொழிவு அதிகரித்தல்
+b) மிகவும் கணிக்கக்கூடிய மற்றும் சமமாக விநியோகிக்கப்பட்ட மழைப்பொழிவு
+c) மாற்றப்பட்ட பருவமழை முறைகள் மற்றும் பனிப்பாறை உருகுதல்
+d) நீர்நிலைகளிலிருந்து ஆவியாதல் விகிதங்கள் குறைதல்
+Answer: c
+
+**28.**
+The International Solar Alliance (ISA) was launched jointly by India and which other country?
+a) USA
+b) Germany
+c) France
+d) Japan
+
+சர்வதேச சூரிய ஆற்றல் கூட்டணி (ISA) இந்தியாவும் வேறு எந்த நாடும் இணைந்து அறிமுகப்படுத்தியது?
+a) அமெரிக்கா
+b) ஜெர்மனி
+c) பிரான்ஸ்
+d) ஜப்பான்
+Answer: c
+
+**29.**
+Which of the following is a key adaptation strategy for Indian agriculture to cope with climate change?
+a) Increasing the use of chemical fertilizers indiscriminately
+b) Shifting entirely to water-intensive cash crops
+c) Developing and promoting drought-resistant crop varieties
+d) Expanding cultivation into pristine forest areas
+
+காலநிலை மாற்றத்தைச் சமாளிக்க இந்திய விவசாயத்திற்கான ஒரு முக்கிய தழுவல் உத்தி பின்வருவனவற்றில் எது?
+a) ரசாயன உரங்களின் பயன்பாட்டை கண்மூடித்தனமாக அதிகரித்தல்
+b) முற்றிலும் நீர் அதிகம் தேவைப்படும் பணப்பயிர்களுக்கு மாறுதல்
+c) வறட்சியைத் தாங்கும் பயிர் வகைகளை உருவாக்கி ஊக்குவித்தல்
+d) பழமையான வனப்பகுதிகளில் சாகுபடியை விரிவுபடுத்துதல்
+Answer: c
+
+**30.**
+The concept of "climate justice" often emphasized by India in international negotiations implies:
+a) Equal per capita emission rights for all countries.
+b) Developed countries should take greater responsibility for historical emissions and provide support to developing countries.
+c) All countries must implement identical emission reduction targets.
+d) Developing countries should prioritize economic growth over any climate action.
+
+சர்வதேச பேச்சுவார்த்தைகளில் இந்தியாவால் அடிக்கடி வலியுறுத்தப்படும் "காலநிலை நீதி" என்ற கருத்து என்னவென்றால்:
+a) அனைத்து நாடுகளுக்கும் சமமான தனிநபர் உமிழ்வு உரிமைகள்.
+b) வளர்ந்த நாடுகள் வரலாற்று உமிழ்வுகளுக்கு அதிக பொறுப்பேற்க வேண்டும் மற்றும் வளரும் நாடுகளுக்கு ஆதரவளிக்க வேண்டும்.
+c) அனைத்து நாடுகளும் ஒரே மாதிரியான உமிழ்வு குறைப்பு இலக்குகளை செயல்படுத்த வேண்டும்.
+d) வளரும் நாடுகள் எந்தவொரு காலநிலை நடவடிக்கையையும் விட பொருளாதார வளர்ச்சிக்கு முன்னுரிமை அளிக்க வேண்டும்.
+Answer: b
+
+**31.**
+Which of the following is a major greenhouse gas emitted from rice paddies in India?
+a) Carbon Dioxide (CO2)
+b) Methane (CH4)
+c) Ozone (O3)
+d) Sulphur Dioxide (SO2)
+
+இந்தியாவில் நெல் வயல்களில் இருந்து வெளியேற்றப்படும் ஒரு முக்கிய பசுமை இல்ல வாயு எது?
+a) கார்பன் டை ஆக்சைடு (CO2)
+b) மீத்தேன் (CH4)
+c) ஓசோன் (O3)
+d) சல்பர் டை ஆக்சைடு (SO2)
+Answer: b
+
+**32.**
+The National Adaptation Fund for Climate Change (NAFCC) in India primarily supports:
+a) Large scale industrial projects for emission reduction.
+b) Concrete adaptation activities in vulnerable states to mitigate adverse impacts of climate change.
+c) International travel for climate negotiators.
+d) Research on geo-engineering technologies.
+
+இந்தியாவில் காலநிலை மாற்றத்திற்கான தேசிய தழுவல் நிதி (NAFCC) முதன்மையாக எதற்கு ஆதரவளிக்கிறது?
+a) உமிழ்வைக் குறைப்பதற்கான பெரிய அளவிலான தொழில்துறை திட்டங்கள்.
+b) காலநிலை மாற்றத்தின் பாதகமான தாக்கங்களைத் தணிக்க பாதிக்கப்படக்கூடிய மாநிலங்களில் உறுதியான தழுவல் நடவடிக்கைகள்.
+c) காலநிலை பேச்சுவார்த்தையாளர்களுக்கான சர்வதேச பயணம்.
+d) புவி-பொறியியல் தொழில்நுட்பங்கள் குறித்த ஆராய்ச்சி.
+Answer: b
+
+**33.**
+What does "CBDR-RC" stand for in the context of international climate change negotiations, often supported by India?
+a) Climate Based Development and Resource Conservation
+b) Common But Differentiated Responsibilities and Respective Capabilities
+c) Carbon Budget and Deforestation Reduction Commitments
+d) Clean Business Development and Regulatory Compliance
+
+சர்வதேச காலநிலை மாற்றப் பேச்சுவார்த்தைகளின் பின்னணியில், இந்தியாவால் அடிக்கடி ஆதரிக்கப்படும் "CBDR-RC" என்பதன் விரிவாக்கம் என்ன?
+a) காலநிலை அடிப்படையிலான வளர்ச்சி மற்றும் வளப் பாதுகாப்பு
+b) பொதுவான ஆனால் வேறுபட்ட பொறுப்புகள் மற்றும் அந்தந்த திறன்கள்
+c) கார்பன் பட்ஜெட் மற்றும் காடழிப்பு குறைப்பு கடமைகள்
+d) தூய்மையான வணிக மேம்பாடு மற்றும் ஒழுங்குமுறை இணக்கம்
+Answer: b
+
+**34.**
+Which Indian city is often cited as highly vulnerable to urban flooding exacerbated by climate change and unplanned urbanization?
+a) Jaipur
+b) Mumbai
+c) Lucknow
+d) Bhopal
+
+காலநிலை மாற்றம் மற்றும் திட்டமிடப்படாத நகரமயமாக்கலால் மோசமடையும் நகர்ப்புற வெள்ளத்திற்கு மிகவும் பாதிக்கப்படக்கூடிய இந்திய நகரம் எது?
+a) ஜெய்ப்பூர்
+b) மும்பை
+c) லக்னோ
+d) போபால்
+Answer: b
+
+**35.**
+The FAME India scheme is aimed at promoting:
+a) Forest Afforestation and Management Efficiency
+b) Faster Adoption and Manufacturing of (Hybrid &) Electric Vehicles
+c) Farmer Assistance and Monetary Easing
+d) Fortified Agricultural Methods and Empowerment
+
+ஃபேம் இந்தியா (FAME India) திட்டம் எதை ஊக்குவிப்பதை நோக்கமாகக் கொண்டுள்ளது?
+a) வன காடு வளர்ப்பு மற்றும் மேலாண்மை திறன்
+b) (கலப்பின &) மின்சார வாகனங்களின் விரைவான பயன்பாடு மற்றும் உற்பத்தி
+c) விவசாயிகளுக்கான உதவி மற்றும் பணவியல் தளர்வு
+d) வலுவூட்டப்பட்ட விவசாய முறைகள் மற்றும் அதிகாரமளித்தல்
+Answer: b
+
+**36.**
+What is the primary goal of the National Mission for a Green India?
+a) To exclusively promote urban green spaces.
+b) To protect, restore and enhance India’s forest cover and respond to climate change.
+c) To ensure all industrial emissions are green.
+d) To develop green hydrogen technology.
+
+பசுமை இந்தியாவுக்கான தேசிய திட்டத்தின் முதன்மை குறிக்கோள் என்ன?
+a) நகர்ப்புற பசுமை இடங்களை பிரத்தியேகமாக ஊக்குவித்தல்.
+b) இந்தியாவின் வனப்பரப்பைப் பாதுகாத்தல், மீட்டெடுத்தல் மற்றும் மேம்படுத்துதல் மற்றும் காலநிலை மாற்றத்திற்கு பதிலளித்தல்.
+c) அனைத்து தொழில்துறை உமிழ்வுகளும் பசுமையானவை என்பதை உறுதி செய்தல்.
+d) பசுமை ஹைட்ரஜன் தொழில்நுட்பத்தை உருவாக்குதல்.
+Answer: b
+
+**37.**
+Which of these is considered a 'mitigation' measure for climate change in India?
+a) Building higher sea walls in coastal areas.
+b) Developing early warning systems for cyclones.
+c) Shifting from coal-based power plants to solar power plants.
+d) Providing insurance for crop failure due to drought.
+
+இந்தியாவில் காலநிலை மாற்றத்திற்கான 'தணிப்பு' (mitigation) நடவடிக்கையாக இவற்றில் எது கருதப்படுகிறது?
+a) கடலோரப் பகுதிகளில் உயரமான கடல் சுவர்களைக் கட்டுதல்.
+b) சூறாவளிகளுக்கான முன்கூட்டியே எச்சரிக்கை அமைப்புகளை உருவாக்குதல்.
+c) நிலக்கரி அடிப்படையிலான மின் உற்பத்தி நிலையங்களிலிருந்து சூரிய மின் உற்பத்தி நிலையங்களுக்கு மாறுதல்.
+d) வறட்சியால் ஏற்படும் பயிர் இழப்புக்கு காப்பீடு வழங்குதல்.
+Answer: c
+
+**38.**
+The term 'climate refugees' refers to people displaced primarily due to:
+a) Political conflicts.
+b) Economic opportunities in other regions.
+c) Adverse effects of climate change like sea-level rise, extreme weather events.
+d) Voluntary migration for better education.
+
+'காலநிலை அகதிகள்' என்ற சொல் முதன்மையாக எதனால் இடம்பெயர்ந்த மக்களைக் குறிக்கிறது?
+a) அரசியல் மோதல்கள்.
+b) மற்ற பிராந்தியங்களில் பொருளாதார வாய்ப்புகள்.
+c) கடல் மட்ட உயர்வு, தீவிர வானிலை நிகழ்வுகள் போன்ற காலநிலை மாற்றத்தின் பாதகமான விளைவுகள்.
+d) சிறந்த கல்விக்காக தன்னார்வ இடம்பெயர்வு.
+Answer: c
+
+**39.**
+India's updated NDC includes a target for achieving about 50 percent cumulative electric power installed capacity from non-fossil fuel-based energy resources by:
+a) 2025
+b) 2030
+c) 2047
+d) 2050
+
+இந்தியாவின் மேம்படுத்தப்பட்ட NDC, புதைபடிவமற்ற எரிபொருள் அடிப்படையிலான எரிசக்தி வளங்களிலிருந்து சுமார் 50 சதவீத ஒட்டுமொத்த மின்சார உற்பத்தி திறனை எந்த ஆண்டுக்குள் அடைய இலக்கு வைத்துள்ளது?
+a) 2025
+b) 2030
+c) 2047
+d) 2050
+Answer: b
+
+**40.**
+Which sector in India is the largest emitter of greenhouse gases?
+a) Agriculture
+b) Energy (Electricity generation and heat production)
+c) Industrial Processes
+d) Waste
+
+இந்தியாவில் எந்தத் துறை பசுமை இல்ல வாயுக்களை அதிகமாக வெளியிடுகிறது?
+a) விவசாயம்
+b) எரிசக்தி (மின்சார உற்பத்தி மற்றும் வெப்ப உற்பத்தி)
+c) தொழில்துறை செயல்முறைகள்
+d) கழிவு
+Answer: b
+
+**41.**
+The 'National Mission on Sustainable Habitat', one of the missions under NAPCC, focuses on:
+a) Increasing forest cover in rural areas.
+b) Promoting energy efficiency in buildings, urban planning, and waste management.
+c) Developing new varieties of climate-resilient crops.
+d) Enhancing water storage capacity through large dams.
+
+NAPCC-யின் கீழ் உள்ள திட்டங்களில் ஒன்றான 'நிலையான வாழ்விடத்திற்கான தேசிய திட்டம்', எதில் கவனம் செலுத்துகிறது?
+a) கிராமப்புறங்களில் வனப்பரப்பை அதிகரித்தல்.
+b) கட்டிடங்களில் ஆற்றல் திறன், நகர்ப்புற திட்டமிடல் மற்றும் கழிவு மேலாண்மை ஆகியவற்றை ஊக்குவித்தல்.
+c) காலநிலை மாற்றத்தைத் தாங்கும் புதிய பயிர் வகைகளை உருவாக்குதல்.
+d) பெரிய அணைகள் மூலம் நீர் சேமிப்பு திறனை மேம்படுத்துதல்.
+Answer: b
+
+**42.**
+The melting of Himalayan glaciers due to climate change is a major concern for India because:
+a) It will increase tourism revenue significantly.
+b) It threatens the water supply for major North Indian rivers.
+c) It will make Himalayan passes accessible throughout the year.
+d) It will lead to the formation of new fertile lands.
+
+காலநிலை மாற்றத்தால் இமயமலை பனிப்பாறைகள் உருகுவது இந்தியாவுக்கு ஒரு பெரிய கவலையாக உள்ளது, ஏனென்றால்:
+a) இது சுற்றுலா வருவாயை கணிசமாக அதிகரிக்கும்.
+b) இது முக்கிய வட இந்திய நதிகளுக்கான நீர் விநியோகத்தை அச்சுறுத்துகிறது.
+c) இது இமயமலை கணவாய்களை ஆண்டு முழுவதும் அணுகக்கூடியதாக மாற்றும்.
+d) இது புதிய வளமான நிலங்கள் உருவாக வழிவகுக்கும்.
+Answer: b
+
+**43.**
+What is "Climate Finance" in the context of India's climate change actions?
+a) Fines collected from polluting industries in India.
+b) Financial resources provided by developed countries to developing countries like India to help them address climate change.
+c) Budget allocated by the Indian government for space exploration.
+d) Loans taken by Indian farmers for agricultural inputs.
+
+இந்தியாவின் காலநிலை மாற்ற நடவடிக்கைகள் பின்னணியில் "காலநிலை நிதி" (Climate Finance) என்றால் என்ன?
+a) இந்தியாவில் மாசுபடுத்தும் தொழில்களிடமிருந்து வசூலிக்கப்படும் அபராதம்.
+b) காலநிலை மாற்றத்தை எதிர்கொள்ள வளரும் நாடுகளுக்கு (இந்தியா போன்றவை) வளர்ந்த நாடுகள் வழங்கும் நிதி வளங்கள்.
+c) விண்வெளி ஆய்வுக்காக இந்திய அரசாங்கத்தால் ஒதுக்கப்பட்ட பட்ஜெட்.
+d) இந்திய விவசாயிகள் விவசாய உள்ளீடுகளுக்காக வாங்கும் கடன்கள்.
+Answer: b
+
+**44.**
+Which of the following is a significant health impact of climate change expected in India?
+a) Decrease in vector-borne diseases like malaria and dengue.
+b) Improved respiratory health due to cleaner air.
+c) Increased risk of heat strokes and dehydration.
+d) Reduction in water-borne diseases.
+
+இந்தியாவில் எதிர்பார்க்கப்படும் காலநிலை மாற்றத்தின் குறிப்பிடத்தக்க சுகாதார தாக்கம் பின்வருவனவற்றில் எது?
+a) மலேரியா மற்றும் டெங்கு போன்ற திசையன் வழி நோய்கள் குறைதல்.
+b) தூய்மையான காற்றினால் சுவாச ஆரோக்கியம் மேம்படுதல்.
+c) வெப்ப பக்கவாதம் மற்றும் நீரிழப்பு ஆபத்து அதிகரித்தல்.
+d) நீர் மூலம் பரவும் நோய்கள் குறைதல்.
+Answer: c
+
+**45.**
+The 'India Cooling Action Plan' (ICAP) aims to address the cooling demand across sectors while:
+a) Maximizing greenhouse gas emissions.
+b) Phasing out all refrigeration technologies.
+c) Reducing the adverse impacts on the environment.
+d) Solely focusing on industrial cooling.
+
+'இந்தியா குளிரூட்டும் செயல் திட்டம்' (ICAP) துறைகள் முழுவதும் குளிரூட்டும் தேவையை நிவர்த்தி செய்வதை நோக்கமாகக் கொண்டுள்ளது, அதே நேரத்தில்:
+a) பசுமை இல்ல வாயு உமிழ்வை அதிகப்படுத்துதல்.
+b) அனைத்து குளிர்பதன தொழில்நுட்பங்களையும் படிப்படியாக நிறுத்துதல்.
+c) சுற்றுச்சூழலில் ஏற்படும் பாதகமான தாக்கங்களைக் குறைத்தல்.
+d) தொழில்துறை குளிரூட்டலில் மட்டுமே கவனம் செலுத்துதல்.
+Answer: c
+
+**46.**
+Coral bleaching, a phenomenon observed in Indian coastal waters like the Gulf of Mannar, is primarily caused by:
+a) Oil spills
+b) Overfishing
+c) Increased sea surface temperatures due to global warming
+d) Plastic pollution
+
+மன்னார் வளைகுடா போன்ற இந்திய கடலோரப் பகுதிகளில் காணப்படும் பவளப்பாறை வெளுத்தல் என்ற நிகழ்வு முதன்மையாக எதனால் ஏற்படுகிறது?
+a) எண்ணெய் கசிவுகள்
+b) அதிகப்படியான மீன்பிடித்தல்
+c) புவி வெப்பமடைதலால் கடல் மேற்பரப்பு வெப்பநிலை அதிகரிப்பு
+d) பிளாஸ்டிக் மாசுபாடு
+Answer: c
+
+**47.**
+The 'Lifestyle for Environment (LiFE) Movement', promoted by India, emphasizes:
+a) High consumption lifestyles.
+b) Mindful and deliberate utilization of resources, instead of mindless and destructive consumption.
+c) Shifting all populations to urban areas.
+d) Dependence on fossil fuels for rapid development.
+
+இந்தியாவால் ஊக்குவிக்கப்படும் 'சுற்றுச்சூழலுக்கான வாழ்க்கை முறை (LiFE) இயக்கம்' எதை வலியுறுத்துகிறது?
+a) அதிக நுகர்வு வாழ்க்கை முறைகள்.
+b) அறிவற்ற மற்றும் அழிவுகரமான நுகர்வுக்கு பதிலாக, வளங்களை கவனமாகவும் வேண்டுமென்றே பயன்படுத்துதல்.
+c) அனைத்து மக்களையும் நகர்ப்புறங்களுக்கு மாற்றுதல்.
+d) விரைவான வளர்ச்சிக்காக புதைபடிவ எரிபொருட்களைச் சார்ந்திருத்தல்.
+Answer: b
+
+**48.**
+Which gas, though present in smaller quantities than CO2, has a much higher global warming potential and is a significant emission from Indian agriculture (livestock)?
+a) Oxygen (O2)
+b) Nitrogen (N2)
+c) Methane (CH4)
+d) Argon (Ar)
+
+CO2 ஐ விட குறைந்த அளவில் இருந்தாலும், அதிக புவி வெப்பமயமாதல் திறனைக் கொண்ட மற்றும் இந்திய விவசாயத்திலிருந்து (கால்நடைகள்) குறிப்பிடத்தக்க உமிழ்வாக இருக்கும் வாயு எது?
+a) ஆக்ஸிஜன் (O2)
+b) நைட்ரஜன் (N2)
+c) மீத்தேன் (CH4)
+d) ஆர்கான் (Ar)
+Answer: c
+
+**49.**
+The State Action Plans on Climate Change (SAPCCs) in India are intended to:
+a) Replace the National Action Plan on Climate Change.
+b) Focus exclusively on international climate negotiations.
+c) Mainstream climate change concerns into state-level planning and development.
+d) Fund climate research in foreign universities.
+
+இந்தியாவில் காலநிலை மாற்றம் குறித்த மாநில செயல் திட்டங்கள் (SAPCCs) எதை நோக்கமாகக் கொண்டுள்ளன?
+a) தேசிய காலநிலை மாற்ற செயல் திட்டத்திற்கு பதிலாக.
+b) சர்வதேச காலநிலை பேச்சுவார்த்தைகளில் பிரத்தியேகமாக கவனம் செலுத்துதல்.
+c) காலநிலை மாற்றக் கவலைகளை மாநில அளவிலான திட்டமிடல் மற்றும் வளர்ச்சியில் பிரதானப்படுத்துதல்.
+d) வெளிநாட்டு பல்கலைக்கழகங்களில் காலநிலை ஆராய்ச்சிக்கு நிதியளித்தல்.
+Answer: c
+
+**50.**
+One of the key challenges for India in transitioning to a low-carbon economy is:
+a) Lack of renewable energy potential.
+b) High dependence on coal for energy security and employment.
+c) Public opposition to any form of industrial development.
+d) Insufficient scientific expertise on climate change.
+
+குறைந்த கார்பன் பொருளாதாரத்திற்கு மாறுவதில் இந்தியாவுக்கான முக்கிய சவால்களில் ஒன்று:
+a) புதுப்பிக்கத்தக்க எரிசக்தி ஆற்றல் இல்லாமை.
+b) எரிசக்தி பாதுகாப்பு மற்றும் வேலைவாய்ப்பிற்காக நிலக்கரியை அதிக அளவில் சார்ந்திருத்தல்.
+c) எந்தவொரு தொழில்துறை வளர்ச்சிக்கும் பொதுமக்களின் எதிர்ப்பு.
+d) காலநிலை மாற்றம் குறித்த போதுமான அறிவியல் நிபுணத்துவம் இல்லாமை.
+Answer: b

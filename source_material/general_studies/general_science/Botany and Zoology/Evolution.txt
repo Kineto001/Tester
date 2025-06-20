@@ -1,0 +1,522 @@
+**Overall Topic for Question Generation: Evolution**
+**பரிணாம வளர்ச்சி**
+
+---
+
+**1. Assertion and Reason Questions (கூற்று மற்றும் காரணம் வகை வினாக்கள்)**
+
+1.
+**Assertion (A):** Natural selection leads to the survival of the fittest.
+**Reason (R):** Organisms with variations better suited to their environment are more likely to survive and reproduce.
+
+**கூற்று (A):** இயற்கைத் தேர்வு தகுதியுள்ளது தப்பிப் பிழைத்தலுக்கு வழிவகுக்கிறது.
+**காரணம் (R):** தங்கள் சூழலுக்கு மிகவும் பொருத்தமான வேறுபாடுகளைக் கொண்ட உயிரினங்கள் உயிர்வாழ்வதற்கும் இனப்பெருக்கம் செய்வதற்கும் அதிக வாய்ப்புள்ளது.
+
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+**Answer: a**
+
+2.
+**Assertion (A):** Fossils provide direct evidence for evolution.
+**Reason (R):** Fossils show the preserved remains or traces of organisms from the past, revealing changes over time.
+
+**கூற்று (A):** புதைபடிவங்கள் பரிணாம வளர்ச்சிக்கு நேரடி ஆதாரங்களை வழங்குகின்றன.
+**காரணம் (R):** புதைபடிவங்கள் கடந்த கால உயிரினங்களின் பாதுகாக்கப்பட்ட எச்சங்கள் அல்லது தடயங்களைக் காட்டுகின்றன, காலப்போக்கில் ஏற்பட்ட மாற்றங்களை வெளிப்படுத்துகின்றன.
+
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+**Answer: a**
+
+3.
+**Assertion (A):** Wings of a bird and wings of an insect are homologous organs.
+**Reason (R):** Homologous organs have similar origin and structure but perform different functions.
+
+**கூற்று (A):** ஒரு பறவையின் இறக்கைகளும் ஒரு பூச்சியின் இறக்கைகளும் அமைப்பு ஒத்த உறுப்புகள் ஆகும்.
+**காரணம் (R):** அமைப்பு ஒத்த உறுப்புகள் ஒரே மாதிரியான தோற்றம் மற்றும் அமைப்பைக் கொண்டுள்ளன, ஆனால் வெவ்வேறு செயல்பாடுகளைச் செய்கின்றன.
+
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+**Answer: d** (A is false because wings of a bird and insect are analogous organs. R is a true statement about homologous organs.)
+(விடை: d (கூற்று A தவறு, ஏனெனில் பறவையின் இறக்கைகளும் பூச்சியின் இறக்கைகளும் செயல் ஒத்த உறுப்புகள். காரணம் R என்பது அமைப்பு ஒத்த உறுப்புகள் பற்றிய சரியான கூற்று.))
+
+4.
+**Assertion (A):** Lamarck's theory proposed that acquired characteristics are inherited.
+**Reason (R):** The elongation of a giraffe's neck due to stretching to reach higher leaves is an example supporting Lamarckism.
+
+**கூற்று (A):** லாமார்க்கின் கோட்பாடு, பெறப்பட்ட பண்புகள் பாரம்பரியமாக கடத்தப்படுகின்றன என்று முன்மொழிந்தது.
+**காரணம் (R):** உயரமான இலைகளை அடைய நீட்டுவதால் ஒட்டகச்சிவிங்கியின் கழுத்து நீள்வது லாமார்க்கியத்தை ஆதரிக்கும் ஒரு எடுத்துக்காட்டு.
+
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+**Answer: a**
+
+5.
+**Assertion (A):** Mutations are sudden inheritable changes in genetic material.
+**Reason (R):** Mutations are the primary source of new alleles and genetic variation.
+
+**கூற்று (A):** திடீர்மாற்றங்கள் என்பது மரபணுப் பொருளில் ஏற்படும் திடீர் மரபுவழி மாற்றங்கள் ஆகும்.
+**காரணம் (R):** திடீர்மாற்றங்கள் புதிய அல்லீல்கள் மற்றும் மரபணு வேறுபாடுகளின் முதன்மை ஆதாரமாகும்.
+
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+**Answer: a**
+
+6.
+**Assertion (A):** The appendix in humans is a vestigial organ.
+**Reason (R):** Vestigial organs are fully functional organs essential for survival in humans.
+
+**கூற்று (A):** மனிதர்களில் குடல்வால் ஒரு எச்ச உறுப்பு ஆகும்.
+**காரணம் (R):** எச்ச உறுப்புகள் மனிதர்களின் உயிர்வாழ்வதற்கு அவசியமான முழுமையாக செயல்படும் உறுப்புகள் ஆகும்.
+
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+**Answer: c** (A is true, R is false. Vestigial organs are non-functional or rudimentary.)
+(விடை: c (கூற்று A சரி, காரணம் R தவறு. எச்ச உறுப்புகள் செயல்படாத அல்லது வளர்ச்சி குன்றிய உறுப்புகள்.))
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக)**
+
+7.
+a) Charles Darwin - Theory of Natural Selection (சார்லஸ் டார்வின் - இயற்கைத் தேர்வு கோட்பாடு)
+b) Lamarck - Inheritance of Acquired Characters (லாமார்க் - பெறப்பட்ட பண்புகளின் பாரம்பரியம்)
+c) Hugo de Vries - Mutation Theory (ஹியூகோ டி விரிஸ் - திடீர்மாற்றக் கோட்பாடு)
+d) Stanley Miller - Theory of Catastrophism (ஸ்டான்லி மில்லர் - பேரழிவுக் கோட்பாடு)
+**Answer: d** (Corrected match: Stanley Miller - Abiogenesis experiment / Chemical evolution of life / ஸ்டான்லி மில்லர் - உயிரிலிப் பிறப்பு பரிசோதனை / வேதியியல் பரிணாமம்)
+
+8.
+a) Forelimbs of whale and bat - Homologous organs (திமிங்கலம் மற்றும் வௌவாலின் முன்னங்கால்கள் - அமைப்பு ஒத்த உறுப்புகள்)
+b) Wings of butterfly and bird - Analogous organs (வண்ணத்துப்பூச்சி மற்றும் பறவையின் இறக்கைகள் - செயல் ஒத்த உறுப்புகள்)
+c) Appendix in man - Vestigial organ (மனிதனின் குடல்வால் - எச்ச உறுப்பு)
+d) Archaeopteryx - Living fossil (ஆர்க்கியாப்டெரிக்ஸ் - வாழும் புதைபடிவம்)
+**Answer: d** (Corrected match: Archaeopteryx - Connecting link / Fossil / ஆர்க்கியாப்டெரிக்ஸ் - இணைப்புச் சங்கிலி / புதைபடிவம்)
+
+9.
+a) Mesozoic Era - Age of Reptiles (மெசோசோயிக் ஊழி - ஊர்வனவற்றின் காலம்)
+b) Cenozoic Era - Age of Mammals (செனோசோயிக் ஊழி - பாலூட்டிகளின் காலம்)
+c) Paleozoic Era - Age of Fishes and Amphibians (பேலியோசோயிக் ஊழி - மீன்கள் மற்றும் நீர்நில வாழ்வனவற்றின் காலம்)
+d) Precambrian Era - Age of Man (பிரிசாம்பிரியன் ஊழி - மனிதனின் காலம்)
+**Answer: d** (Corrected match: Precambrian Era - Origin of life, early invertebrates / பிரிசாம்பிரியன் ஊழி - உயிரின் தோற்றம், ஆரம்பகால முதுகெலும்பற்றவை)
+
+10.
+a) Genetic drift - Random change in allele frequency (மரபணு நகர்வு - அல்லீல் அதிர்வெண்ணில் சீரற்ற மாற்றம்)
+b) Gene flow - Transfer of genes between populations (மரபணுப் பாய்வு - இனத்தொகைகளுக்கு இடையில் மரபணுக்களின் பரிமாற்றம்)
+c) Speciation - Formation of new species (சிற்றினமாக்கம் - புதிய சிற்றினங்களின் உருவாக்கம்)
+d) Adaptive radiation - Evolution of similar traits in unrelated lineages (தகவமைப்பு பரவல் - தொடர்பில்லாத மரபுவழிகளில் ஒத்த பண்புகளின் பரிணாமம்)
+**Answer: d** (Corrected match: Adaptive radiation - Evolution of different species from a common ancestor / தகவமைப்பு பரவல் - ஒரு பொதுவான மூதாதையரிடமிருந்து வெவ்வேறு சிற்றினங்களின் பரிணாமம்)
+
+11.
+a) Oparin-Haldane - Chemical evolution of life (ஓபரின்-ஹால்டேன் - உயிரின் வேதியியல் பரிணாமம்)
+b) Louis Pasteur - Spontaneous generation disproved (லூயி பாஸ்டர் - தன்னிச்சையான தலைமுறை மறுக்கப்பட்டது)
+c) Darwin's Finches - Natural Selection (டார்வின் குருவிகள் - இயற்கைத் தேர்வு)
+d) Giraffe's long neck - Mutation (ஒட்டகச்சிவிங்கியின் நீண்ட கழுத்து - திடீர்மாற்றம்)
+**Answer: d** (Corrected match: Giraffe's long neck - Example for Lamarck's theory or Natural Selection / ஒட்டகச்சிவிங்கியின் நீண்ட கழுத்து - லாமார்க்கின் கோட்பாடு அல்லது இயற்கைத் தேர்வுக்கான எடுத்துக்காட்டு)
+
+12.
+a) Australopithecus - First ape-man (ஆஸ்ட்ரலோபிதேகஸ் - முதல் மனிதக் குரங்கு)
+b) Homo habilis - Toolmaker (ஹோமோ ஹேபிலிஸ் - கருவி தயாரிப்பாளர்)
+c) Homo erectus - Used fire (ஹோமோ எரக்டஸ் - நெருப்பைப் பயன்படுத்தியவர்)
+d) Neanderthal man - Modern man (நியாண்டர்தால் மனிதன் - நவீன மனிதன்)
+**Answer: d** (Corrected match: Neanderthal man - Extinct human species; Modern man is Homo sapiens / நியாண்டர்தால் மனிதன் - அழிந்துவிட்ட மனித இனம்; நவீன மனிதன் ஹோமோ சேபியன்ஸ்)
+
+---
+
+**3. Match the Following Questions (பொருத்துக)**
+
+13.
+List-I (Scientist) / பட்டியல்-I (விஞ்ஞானி)
+1. Charles Lyell / சார்லஸ் லையல்
+2. Thomas Malthus / தாமஸ் மால்தஸ்
+3. Alfred Russel Wallace / ஆல்பிரட் ரஸ்ஸல் வாலஸ்
+4. Ernst Haeckel / எர்ன்ஸ்ட் ஹேக்கல்
+
+List-II (Concept/Contribution) / பட்டியல்-II (கோட்பாடு/பங்களிப்பு)
+a. Essay on Population / மக்கள்தொகை பற்றிய கட்டுரை
+b. Co-discoverer of Natural Selection / இயற்கைத் தேர்வின் இணை கண்டுபிடிப்பாளர்
+c. Principles of Geology / புவியியலின் கோட்பாடுகள்
+d. Recapitulation Theory (Biogenetic Law) / மறுநிகழ்வுக் கோட்பாடு (உயிரி மரபியல் விதி)
+
+Options (குறியீடுகள்):
+A) 1-c, 2-a, 3-b, 4-d
+B) 1-a, 2-c, 3-d, 4-b
+C) 1-c, 2-b, 3-a, 4-d
+D) 1-d, 2-a, 3-c, 4-b
+**Answer: A**
+
+14.
+List-I (Evolutionary Term) / பட்டியல்-I (பரிணாமச் சொல்)
+1. Atavism / மூதாதையர் பண்பு மீட்சி
+2. Speciation / சிற்றினமாக்கம்
+3. Endemism / குறிப்பிட்ட இடத்திற்கே உரிய தன்மை
+4. Paleontology / தொல்லுயிரியல்
+
+List-II (Definition) / பட்டியல்-II (வரையறை)
+a. Study of fossils / புதைபடிவங்களின் ஆய்வு
+b. Reappearance of ancestral characters / மூதாதையர் பண்புகளின் மறு தோற்றம்
+c. Formation of new species / புதிய சிற்றினங்களின் உருவாக்கம்
+d. Species confined to a particular region / ஒரு குறிப்பிட்ட பகுதிக்கு மட்டும் உரிய சிற்றினம்
+
+Options (குறியீடுகள்):
+A) 1-b, 2-c, 3-d, 4-a
+B) 1-c, 2-d, 3-a, 4-b
+C) 1-a, 2-b, 3-c, 4-d
+D) 1-d, 2-a, 3-b, 4-c
+**Answer: A**
+
+15.
+List-I (Evidence of Evolution) / பட்டியல்-I (பரிணாமத்திற்கான சான்றுகள்)
+1. Homologous organs / அமைப்பு ஒத்த உறுப்புகள்
+2. Analogous organs / செயல் ஒத்த உறுப்புகள்
+3. Vestigial organs / எச்ச உறுப்புகள்
+4. Connecting links / இணைப்புச் சங்கிலிகள்
+
+List-II (Example) / பட்டியல்-II (எடுத்துக்காட்டு)
+a. Wings of bat and insect / வௌவால் மற்றும் பூச்சியின் இறக்கைகள்
+b. Archaeopteryx / ஆர்க்கியாப்டெரிக்ஸ்
+c. Forelimbs of man and cheetah / மனிதன் மற்றும் சிறுத்தையின் முன்னங்கால்கள்
+d. Nictitating membrane in humans / மனிதர்களில் நிக்டிடேட்டிங் சவ்வு
+
+Options (குறியீடுகள்):
+A) 1-d, 2-a, 3-b, 4-c
+B) 1-c, 2-a, 3-d, 4-b
+C) 1-a, 2-c, 3-b, 4-d
+D) 1-c, 2-d, 3-a, 4-b
+**Answer: B**
+
+16.
+List-I (Human Ancestor) / பட்டியல்-I (மனித மூதாதையர்)
+1. Australopithecus africanus / ஆஸ்ட்ரலோபிதேகஸ் ஆப்பிரிக்கானஸ்
+2. Homo habilis / ஹோமோ ஹேபிலிஸ்
+3. Homo erectus / ஹோமோ எரக்டஸ்
+4. Homo neanderthalensis / ஹோமோ நியண்டர்தாலென்சிஸ்
+
+List-II (Characteristic Feature) / பட்டியல்-II (சிறப்பியல்பு)
+a. First to use fire / நெருப்பை முதலில் பயன்படுத்தியவர்
+b. "Handy man", first tool maker / "திறமையான மனிதன்", முதல் கருவி தயாரிப்பாளர்
+c. Buried their dead, cave dweller / இறந்தவர்களை புதைத்தவர்கள், குகைவாசி
+d. "Southern Ape of Africa", walked upright / "ஆப்பிரிக்காவின் தெற்கு குரங்கு", நிமிர்ந்து நடந்தது
+
+Options (குறியீடுகள்):
+A) 1-b, 2-a, 3-d, 4-c
+B) 1-d, 2-c, 3-b, 4-a
+C) 1-d, 2-b, 3-a, 4-c
+D) 1-a, 2-d, 3-c, 4-b
+**Answer: C**
+
+17.
+List-I (Era) / பட்டியல்-I (ஊழி)
+1. Cenozoic / செனோசோயிக்
+2. Mesozoic / மெசோசோயிக்
+3. Paleozoic / பேலியோசோயிக்
+4. Precambrian / பிரிசாம்பிரியன்
+
+List-II (Dominant Life Forms / Event) / பட்டியல்-II (ஆதிக்கம் செலுத்தும் உயிரினங்கள் / நிகழ்வு)
+a. Age of Reptiles / ஊர்வனவற்றின் காலம்
+b. Origin of Life, Invertebrates / உயிரின் தோற்றம், முதுகெலும்பற்றவை
+c. Age of Mammals / பாலூட்டிகளின் காலம்
+d. Age of Fishes and Amphibians / மீன்கள் மற்றும் நீர்நில வாழ்வனவற்றின் காலம்
+
+Options (குறியீடுகள்):
+A) 1-a, 2-c, 3-d, 4-b
+B) 1-c, 2-a, 3-b, 4-d
+C) 1-c, 2-a, 3-d, 4-b
+D) 1-d, 2-b, 3-a, 4-c
+**Answer: C**
+
+18.
+List-I (Evolutionary Concept) / பட்டியல்-I (பரிணாமக் கருத்து)
+1. Industrial Melanism / தொழில்முறை மெலனிசம்
+2. Hardy-Weinberg Equilibrium / ஹார்டி-வெயின்பெர்க் சமநிலை
+3. Founder Effect / நிறுவனர் விளைவு
+4. Adaptive Radiation / தகவமைப்பு பரவல்
+
+List-II (Associated Idea / Example) / பட்டியல்-II (தொடர்புடைய யோசனை / எடுத்துக்காட்டு)
+a. Darwin's Finches / டார்வின் குருவிகள்
+b. Genetic drift in a new colony / ஒரு புதிய குடியேற்றத்தில் மரபணு நகர்வு
+c. No evolution in a population / ஒரு இனத்தொகையில் பரிணாமம் இல்லை
+d. Peppered moth in England / இங்கிலாந்தில் மிளகு அந்துப்பூச்சி
+
+Options (குறியீடுகள்):
+A) 1-d, 2-c, 3-b, 4-a
+B) 1-c, 2-d, 3-a, 4-b
+C) 1-a, 2-b, 3-c, 4-d
+D) 1-b, 2-a, 3-d, 4-c
+**Answer: A**
+
+---
+
+**4. Standard Multiple Choice Questions (சரியான விடையைத் தேர்ந்தெடு)**
+
+19. Who proposed the theory of "Inheritance of Acquired Characters"?
+(பெறப்பட்ட பண்புகளின் பாரம்பரியம்" என்ற கோட்பாட்டை முன்மொழிந்தவர் யார்?)
+a) Charles Darwin (சார்லஸ் டார்வின்)
+b) Jean-Baptiste Lamarck (ஜீன்-பாப்டிஸ்ட் லாமார்க்)
+c) Gregor Mendel (கிரிகோர் மெண்டல்)
+d) Hugo de Vries (ஹியூகோ டி விரிஸ்)
+**Answer: b**
+
+20. The book "On the Origin of Species" was written by:
+("சிற்றினங்களின் தோற்றம் பற்றி" என்ற புத்தகத்தை எழுதியவர்:)
+a) Alfred Russel Wallace (ஆல்பிரட் ரஸ்ஸல் வாலஸ்)
+b) Jean-Baptiste Lamarck (ஜீன்-பாப்டிஸ்ட் லாமார்க்)
+c) Charles Darwin (சார்லஸ் டார்வின்)
+d) Ernst Mayr (எர்ன்ஸ்ட் மேயர்)
+**Answer: c**
+
+21. Which of the following is an example of a vestigial organ in humans?
+(பின்வருவனவற்றில் மனிதர்களில் உள்ள எச்ச உறுப்புக்கு எடுத்துக்காட்டு எது?)
+a) Spleen (மண்ணீரல்)
+b) Appendix (குடல்வால்)
+c) Pancreas (கணையம்)
+d) Ribs (விலா எலும்புகள்)
+**Answer: b**
+
+22. The wings of a bird and the wings of an insect are examples of:
+(ஒரு பறவையின் இறக்கைகளும் ஒரு பூச்சியின் இறக்கைகளும் எதற்கு எடுத்துக்காட்டுகள்?)
+a) Homologous organs (அமைப்பு ஒத்த உறுப்புகள்)
+b) Vestigial organs (எச்ச உறுப்புகள்)
+c) Analogous organs (செயல் ஒத்த உறுப்புகள்)
+d) Atavistic organs (மூதாதையர் பண்பு மீட்சி உறுப்புகள்)
+**Answer: c**
+
+23. The theory of Pangenesis was proposed by:
+(பான்ஜெனிசிஸ் கோட்பாட்டை முன்மொழிந்தவர்:)
+a) Lamarck (லாமார்க்)
+b) Darwin (டார்வின்)
+c) Weismann (வீஸ்மேன்)
+d) De Vries (டி விரிஸ்)
+**Answer: b**
+
+24. The Miller-Urey experiment demonstrated:
+(மில்லர்-யூரே பரிசோதனை எதை நிரூபித்தது?)
+a) The formation of life from non-living matter (abiogenesis) under early earth conditions (ஆரம்பகால பூமி நிலைகளின் கீழ் உயிரற்ற பொருட்களிலிருந்து உயிர் உருவாதல் (உயிரிலிப் பிறப்பு))
+b) The principles of natural selection (இயற்கைத் தேர்வின் கோட்பாடுகள்)
+c) The mechanism of mutation (திடீர்மாற்றத்தின் பொறிமுறை)
+d) The laws of inheritance (பாரம்பரிய விதிகள்)
+**Answer: a**
+
+25. Which gas was likely absent in the atmosphere of primitive Earth?
+(ஆதிகால பூமியின் வளிமண்டலத்தில் எந்த வாயு இல்லாமல் இருந்திருக்கலாம்?)
+a) Methane (மீத்தேன்)
+b) Ammonia (அம்மோனியா)
+c) Oxygen (ஆக்ஸிஜன்)
+d) Hydrogen (ஹைட்ரஜன்)
+**Answer: c**
+
+26. The concept of "Survival of the Fittest" is central to:
+("தகுதியுள்ளது தப்பிப் பிழைக்கும்" என்ற கருத்து எதற்கு மையமானது?)
+a) Lamarckism (லாமார்க்கியம்)
+b) Darwinism (டார்வினிசம்)
+c) Mutation Theory (திடீர்மாற்றக் கோட்பாடு)
+d) Neo-Lamarckism (நவீன லாமார்க்கியம்)
+**Answer: b**
+
+27. Archaeopteryx is a connecting link between:
+(ஆர்க்கியாப்டெரிக்ஸ் எவற்றுக்கு இடையேயான இணைப்புச் சங்கிலி?)
+a) Amphibians and Reptiles (நீர்நில வாழ்வன மற்றும் ஊர்வன)
+b) Reptiles and Birds (ஊர்வன மற்றும் பறவைகள்)
+c) Birds and Mammals (பறவைகள் மற்றும் பாலூட்டிகள்)
+d) Fish and Amphibians (மீன்கள் மற்றும் நீர்நில வாழ்வன)
+**Answer: b**
+
+28. Sudden, heritable changes in the genetic material are called:
+(மரபணுப் பொருளில் ஏற்படும் திடீர், மரபுவழி மாற்றங்கள் எவ்வாறு அழைக்கப்படுகின்றன?)
+a) Adaptations (தகவமைப்புகள்)
+b) Variations (வேறுபாடுகள்)
+c) Mutations (திடீர்மாற்றங்கள்)
+d) Speciations (சிற்றினமாக்கங்கள்)
+**Answer: c**
+
+29. The study of fossils is known as:
+(புதைபடிவங்களின் ஆய்வு எவ்வாறு அழைக்கப்படுகிறது?)
+a) Embryology (கருவியல்)
+b) Paleontology (தொல்லுயிரியல்)
+c) Cytology (செல்லியல்)
+d) Histology (திசுவியல்)
+**Answer: b**
+
+30. Which of the following human ancestors is known as "Handy Man" for making tools?
+(பின்வரும் எந்த மனித மூதாதையர் கருவிகளை உருவாக்கியதற்காக "திறமையான மனிதன்" என்று அழைக்கப்படுகிறார்?)
+a) Australopithecus (ஆஸ்ட்ரலோபிதேகஸ்)
+b) Homo erectus (ஹோமோ எரக்டஸ்)
+c) Homo habilis (ஹோமோ ஹேபிலிஸ்)
+d) Neanderthal Man (நியாண்டர்தால் மனிதன்)
+**Answer: c**
+
+31. The Hardy-Weinberg principle describes a population that is:
+(ஹார்டி-வெயின்பெர்க் கோட்பாடு எத்தகைய இனத்தொகையை விவரிக்கிறது?)
+a) Undergoing rapid evolution (வேகமான பரிணாம வளர்ச்சிக்கு உள்ளாகிறது)
+b) Not evolving (பரிணாம வளர்ச்சி அடையவில்லை)
+c) Experiencing strong natural selection (வலுவான இயற்கைத் தேர்வை அனுபவிக்கிறது)
+d) Subject to frequent mutations (அடிக்கடி திடீர்மாற்றங்களுக்கு உட்படுகிறது)
+**Answer: b**
+
+32. The phenomenon of Industrial Melanism in peppered moths is an example of:
+(மிளகு அந்துப்பூச்சிகளில் தொழில்முறை மெலனிசம் நிகழ்வு எதற்கு ஒரு எடுத்துக்காட்டு?)
+a) Genetic drift (மரபணு நகர்வு)
+b) Natural selection (இயற்கைத் தேர்வு)
+c) Artificial selection (செயற்கைத் தேர்வு)
+d) Founder effect (நிறுவனர் விளைவு)
+**Answer: b**
+
+33. Which of the following provides embryological evidence for evolution?
+(பின்வருவனவற்றில் பரிணாம வளர்ச்சிக்கு கருவியல் சான்றுகளை வழங்குவது எது?)
+a) Presence of gill slits in the embryos of all vertebrates (அனைத்து முதுகெலும்பிகளின் கருக்களிலும் செவுள் பிளவுகள் இருப்பது)
+b) Similar bone structure in the forelimbs of mammals (பாலூட்டிகளின் முன்னங்கால்களில் ஒத்த எலும்பு அமைப்பு)
+c) Fossil records of extinct animals (அழிந்துபோன விலங்குகளின் புதைபடிவ பதிவுகள்)
+d) Occurrence of mutations (திடீர்மாற்றங்கள் ஏற்படுதல்)
+**Answer: a**
+
+34. The first life on Earth originated in:
+(பூமியில் முதல் உயிர் எங்கு தோன்றியது?)
+a) Air (காற்றில்)
+b) Land (நிலத்தில்)
+c) Water (நீரில்)
+d) Mountains (மலைகளில்)
+**Answer: c**
+
+35. "Ontogeny recapitulates phylogeny" is the basis of:
+("தனி உயிரியின் வளர்ச்சி தொகுதி வரலாற்றை மீண்டும் கூறுகிறது" என்பது எதன் அடிப்படை?)
+a) Mutation theory (திடீர்மாற்றக் கோட்பாடு)
+b) Biogenetic law (உயிரி மரபியல் விதி)
+c) Theory of pangenesis (பான்ஜெனிசிஸ் கோட்பாடு)
+d) Germ plasm theory (இனசெல் கோட்பாடு)
+**Answer: b**
+
+36. Which of the following is considered a "living fossil"?
+(பின்வருவனவற்றில் எது "வாழும் புதைபடிவம்" என்று கருதப்படுகிறது?)
+a) Archaeopteryx (ஆர்க்கியாப்டெரிக்ஸ்)
+b) Limulus (King Crab) (லிமுலஸ் (ராஜ நண்டு))
+c) Dodo (டோடோ)
+d) Dinosaur (டைனோசர்)
+**Answer: b**
+
+37. The ultimate source of all genetic variation is:
+(அனைத்து மரபணு வேறுபாடுகளுக்கும் இறுதி ஆதாரம் எது?)
+a) Natural selection (இயற்கைத் தேர்வு)
+b) Genetic drift (மரபணு நகர்வு)
+c) Mutation (திடீர்மாற்றம்)
+d) Gene flow (மரபணுப் பாய்வு)
+**Answer: c**
+
+38. The forelimbs of a human, a bat, and a whale are examples of:
+(ஒரு மனிதன், ஒரு வௌவால் மற்றும் ஒரு திமிங்கலத்தின் முன்னங்கால்கள் எதற்கு எடுத்துக்காட்டுகள்?)
+a) Analogous organs (செயல் ஒத்த உறுப்புகள்)
+b) Homologous organs (அமைப்பு ஒத்த உறுப்புகள்)
+c) Vestigial organs (எச்ச உறுப்புகள்)
+d) Adaptive radiation (தகவமைப்பு பரவல்)
+**Answer: b**
+
+39. Who disproved the theory of spontaneous generation through swan-neck flask experiments?
+(கழுத்து வளைந்த குடுவை சோதனைகள் மூலம் தன்னிச்சையான தலைமுறை கோட்பாட்டை மறுத்தவர் யார்?)
+a) Stanley Miller (ஸ்டான்லி மில்லர்)
+b) A.I. Oparin (ஏ.ஐ. ஓபரின்)
+c) Louis Pasteur (லூயி பாஸ்டர்)
+d) J.B.S. Haldane (ஜே.பி.எஸ். ஹால்டேன்)
+**Answer: c**
+
+40. The theory that life originates from pre-existing life is known as:
+(உயிர் ஏற்கனவே இருக்கும் உயிரிலிருந்து தோன்றுகிறது என்ற கோட்பாடு எவ்வாறு அழைக்கப்படுகிறது?)
+a) Abiogenesis (உயிரிலிப் பிறப்பு)
+b) Biogenesis (உயிரியப் பிறப்பு)
+c) Special creation (சிறப்புப் படைப்பு)
+d) Panspermia (பான்ஸ்பெர்மியா)
+**Answer: b**
+
+41. Darwin's finches on the Galapagos Islands are a classic example of:
+(கலாபகோஸ் தீவுகளில் உள்ள டார்வின் குருவிகள் எதற்கு ஒரு சிறந்த எடுத்துக்காட்டு?)
+a) Convergent evolution (குவி பரிணாமம்)
+b) Adaptive radiation (தகவமைப்பு பரவல்)
+c) Genetic drift (மரபணு நகர்வு)
+d) Stabilizing selection (நிலைப்படுத்தும் தேர்வு)
+**Answer: b**
+
+42. The first hominid to use fire was:
+(நெருப்பைப் பயன்படுத்திய முதல் ஹோமினிட் எது?)
+a) Australopithecus (ஆஸ்ட்ரலோபிதேகஸ்)
+b) Homo habilis (ஹோமோ ஹேபிலிஸ்)
+c) Homo erectus (ஹோமோ எரக்டஸ்)
+d) Neanderthal man (நியாண்டர்தால் மனிதன்)
+**Answer: c**
+
+43. The age of fossils is commonly determined by:
+(புதைபடிவங்களின் வயது பொதுவாக எதன் மூலம் தீர்மானிக்கப்படுகிறது?)
+a) Electron microscopy (எலக்ட்ரான் நுண்ணோக்கி)
+b) Measuring their size (அவற்றின் அளவை அளவிடுதல்)
+c) Radiocarbon dating (கதிரியக்க கார்பன் வயது கணிப்பு)
+d) Observing their color (அவற்றின் நிறத்தை கவனித்தல்)
+**Answer: c**
+
+44. The Modern Synthetic Theory of Evolution combines Darwin's natural selection with:
+(நவீன பரிணாம ஒருங்கிணைப்புக் கோட்பாடு டார்வினின் இயற்கைத் தேர்வை எதனுடன் இணைக்கிறது?)
+a) Lamarck's inheritance of acquired characters (லாமார்க்கின் பெறப்பட்ட பண்புகளின் பாரம்பரியம்)
+b) Mendelian genetics and population genetics (மெண்டலியன் மரபியல் மற்றும் இனத்தொகை மரபியல்)
+c) Catastrophism (பேரழிவுக் கோட்பாடு)
+d) Spontaneous generation (தன்னிச்சையான தலைமுறை)
+**Answer: b**
+
+45. The evolution of similar adaptive traits in unrelated organisms living in similar environments is called:
+(ஒரே மாதிரியான சூழல்களில் வாழும் தொடர்பில்லாத உயிரினங்களில் ஒத்த தகவமைப்புப் பண்புகளின் பரிணாமம் எவ்வாறு அழைக்கப்படுகிறது?)
+a) Divergent evolution (விரி பரிணாமம்)
+b) Convergent evolution (குவி பரிணாமம்)
+c) Co-evolution (இணை பரிணாமம்)
+d) Parallel evolution (இணைநிலை பரிணாமம்)
+**Answer: b**
+
+46. Which theory suggests that evolution occurs in short bursts of rapid change, followed by long periods of stability?
+(பரிணாமம் குறுகிய கால விரைவான மாற்ற வெடிப்புகளில் நிகழ்கிறது, அதைத் தொடர்ந்து நீண்ட கால நிலைத்தன்மை இருக்கும் என்று எந்தக் கோட்பாடு கூறுகிறது?)
+a) Gradualism (படிப்படியான வளர்ச்சி)
+b) Punctuated equilibrium (நிறுத்தப்பட்ட சமநிலை)
+c) Saltation theory (குதிப்பு கோட்பாடு)
+d) Orthogenesis (நேர்கோட்டு பரிணாமம்)
+**Answer: b**
+
+47. The "Age of Mammals" refers to which geological era?
+("பாலூட்டிகளின் காலம்" என்பது எந்த புவியியல் ஊழியை குறிக்கிறது?)
+a) Paleozoic (பேலியோசோயிக்)
+b) Mesozoic (மெசோசோயிக்)
+c) Cenozoic (செனோசோயிக்)
+d) Precambrian (பிரிசாம்பிரியன்)
+**Answer: c**
+
+48. The concept that organs become more developed with use and degenerate with disuse was proposed by:
+(பயன்பாட்டால் உறுப்புகள் மேலும் வளர்ச்சியடைகின்றன மற்றும் பயன்பாடின்மையால் சிதைவடைகின்றன என்ற கருத்தை முன்மொழிந்தவர் யார்?)
+a) Darwin (டார்வின்)
+b) Wallace (வாலஸ்)
+c) Lamarck (லாமார்க்)
+d) Weismann (வீஸ்மேன்)
+**Answer: c**
+
+49. Which of these is NOT a factor that can alter allele frequencies in a population according to Hardy-Weinberg equilibrium?
+(ஹார்டி-வெயின்பெர்க் சமநிலையின்படி, ஒரு இனத்தொகையில் அல்லீல் அதிர்வெண்களை மாற்றக்கூடிய காரணி அல்லாதது எது?)
+a) Random mating (சீரற்ற இனச்சேர்க்கை)
+b) Mutation (திடீர்மாற்றம்)
+c) Gene flow (மரபணுப் பாய்வு)
+d) Natural selection (இயற்கைத் தேர்வு)
+**Answer: a** (Random mating is a condition for H-W equilibrium, not a factor that alters it / சீரற்ற இனச்சேர்க்கை ஹார்டி-வெயின்பெர்க் சமநிலைக்கான ஒரு நிபந்தனை, அதை மாற்றும் காரணி அல்ல)
+
+50. The change in allele frequency in a population due to random chance, especially in small populations, is known as:
+(ஒரு இனத்தொகையில், குறிப்பாக சிறிய இனத்தொகைகளில், சீரற்ற வாய்ப்பின் காரணமாக அல்லீல் அதிர்வெண்ணில் ஏற்படும் மாற்றம் எவ்வாறு அழைக்கப்படுகிறது?)
+a) Natural selection (இயற்கைத் தேர்வு)
+b) Gene flow (மரபணுப் பாய்வு)
+c) Genetic drift (மரபணு நகர்வு)
+d) Mutation pressure (திடீர்மாற்ற அழுத்தம்)
+**Answer: c**

@@ -1,0 +1,782 @@
+**Topic: Sources of Revenue (India) - வருவாய் ஆதாரங்கள் (இந்தியா)**
+**Total Questions: 60**
+
+1.  Which of the following is a direct tax in India?
+    a) Goods and Services Tax (GST)
+    b) Customs Duty
+    c) Income Tax
+    d) Excise Duty
+
+    பின்வருவனவற்றில் இந்தியாவில் நேரடி வரி எது?
+    a) சரக்கு மற்றும் சேவை வரி (GST)
+    b) சுங்க வரி
+    c) வருமான வரி
+    d) கலால் வரி
+    Answer: c
+
+2.  The Goods and Services Tax (GST) was implemented in India from which date?
+    a) April 1, 2017
+    b) July 1, 2017
+    c) January 1, 2018
+    d) August 15, 2016
+
+    இந்தியாவில் சரக்கு மற்றும் சேவை வரி (GST) எந்த தேதியிலிருந்து அமல்படுத்தப்பட்டது?
+    a) ஏப்ரல் 1, 2017
+    b) ஜூலை 1, 2017
+    c) ஜனவரி 1, 2018
+    d) ஆகஸ்ட் 15, 2016
+    Answer: b
+
+3.  Which body is responsible for making recommendations on the distribution of tax revenues between the Union and the States?
+    a) Planning Commission
+    b) Finance Commission
+    c) Reserve Bank of India
+    d) NITI Aayog
+
+    மத்திய மற்றும் மாநிலங்களுக்கு இடையேயான வரி வருவாய் பகிர்வு குறித்து பரிந்துரைகளை வழங்கும் அமைப்பு எது?
+    a) திட்டக் குழு
+    b) நிதி ஆணையம்
+    c) இந்திய ரிசர்வ் வங்கி
+    d) நிதி ஆயோக்
+    Answer: b
+
+4.  Corporate Tax is a tax levied on the profits of:
+    a) Individuals
+    b) Companies
+    c) Hindu Undivided Families
+    d) Partnership Firms
+
+    பெருநிறுவன வரி என்பது யாருடைய லாபத்தின் மீது விதிக்கப்படும் வரி?
+    a) தனிநபர்கள்
+    b) நிறுவனங்கள்
+    c) இந்துக் கூட்டுக் குடும்பங்கள்
+    d) கூட்டாண்மை நிறுவனங்கள்
+    Answer: b
+
+5.  Customs Duty is a tax levied on:
+    a) Goods produced within the country
+    b) Services provided within the country
+    c) Import and export of goods
+    d) Sale of goods within a state
+
+    சுங்க வரி என்பது எதன் மீது விதிக்கப்படும் வரி?
+    a) நாட்டிற்குள் உற்பத்தி செய்யப்படும் பொருட்கள்
+    b) நாட்டிற்குள் வழங்கப்படும் சேவைகள்
+    c) பொருட்களின் இறக்குமதி மற்றும் ஏற்றுமதி
+    d) ஒரு மாநிலத்திற்குள் பொருட்கள் விற்பனை
+    Answer: c
+
+6.  Which of the following is the largest source of non-tax revenue for the Central Government?
+    a) Interest receipts
+    b) Fines and Penalties
+    c) Dividends and profits from PSUs
+    d) Grants from foreign countries
+
+    மத்திய அரசிற்கு வரி அல்லாத வருவாயில் மிகப்பெரிய ஆதாரம் எது?
+    a) வட்டி வரவுகள்
+    b) அபராதங்கள் மற்றும் தண்டனைகள்
+    c) பொதுத்துறை நிறுவனங்களிடமிருந்து கிடைக்கும் ஈவுத்தொகை மற்றும் இலாபம்
+    d) வெளிநாடுகளிலிருந்து கிடைக்கும் மானியங்கள்
+    Answer: c
+
+7.  Who is the chairperson of the GST Council?
+    a) Prime Minister of India
+    b) Union Finance Minister
+    c) Governor of RBI
+    d) Cabinet Secretary
+
+    சரக்கு மற்றும் சேவை வரி (GST) மன்றத்தின் தலைவர் யார்?
+    a) இந்தியப் பிரதமர்
+    b) மத்திய நிதி அமைச்சர்
+    c) இந்திய ரிசர்வ் வங்கியின் ஆளுநர்
+    d) அமைச்சரவை செயலாளர்
+    Answer: b
+
+8.  Stamp Duty and Registration Fees are a major source of revenue for:
+    a) Central Government
+    b) State Governments
+    c) Local Bodies (Panchayats)
+    d) Union Territories
+
+    முத்திரை வரி மற்றும் பதிவுக் கட்டணம் யாருக்கான முக்கிய வருவாய் ஆதாரமாகும்?
+    a) மத்திய அரசு
+    b) மாநில அரசுகள்
+    c) உள்ளாட்சி அமைப்புகள் (பஞ்சாயத்துகள்)
+    d) யூனியன் பிரதேசங்கள்
+    Answer: b
+
+9.  The tax levied by the state government on the sale of alcoholic liquor for human consumption is called:
+    a) Central Excise Duty
+    b) Value Added Tax (VAT)
+    c) State Excise Duty
+    d) Goods and Services Tax (GST)
+
+    மனித நுகர்வுக்கான மதுபான விற்பனையின் மீது மாநில அரசால் விதிக்கப்படும் வரி எவ்வாறு அழைக்கப்படுகிறது?
+    a) மத்திய கலால் வரி
+    b) மதிப்பு கூட்டப்பட்ட வரி (VAT)
+    c) மாநில கலால் வரி
+    d) சரக்கு மற்றும் சேவை வரி (GST)
+    Answer: c
+
+10. A tax whose burden can be shifted to others is known as:
+    a) Direct Tax
+    b) Indirect Tax
+    c) Progressive Tax
+    d) Proportional Tax
+
+    வரிச்சுமையை மற்றவர்கள் மீது மாற்றக்கூடிய வரி எவ்வாறு அறியப்படுகிறது?
+    a) நேரடி வரி
+    b) மறைமுக வரி
+    c) வளர்விகித வரி
+    d) விகிதாசார வரி
+    Answer: b
+
+11. Under which Article of the Constitution of India is the Finance Commission constituted?
+    a) Article 280
+    b) Article 324
+    c) Article 148
+    d) Article 265
+
+    இந்திய அரசியலமைப்பின் எந்தப் பிரிவின் கீழ் நிதி ஆணையம் அமைக்கப்படுகிறது?
+    a) பிரிவு 280
+    b) பிரிவு 324
+    c) பிரிவு 148
+    d) பிரிவு 265
+    Answer: a
+
+12. SGST, a component of GST, stands for:
+    a) State Goods and Services Tax
+    b) Senior Goods and Services Tax
+    c) Special Goods and Services Tax
+    d) Service Goods and State Tax
+
+    சரக்கு மற்றும் சேவை வரியின் (GST) ஒரு அங்கமான SGST என்பதன் விரிவாக்கம்:
+    a) மாநில சரக்கு மற்றும் சேவை வரி
+    b) மூத்த குடிமக்கள் சரக்கு மற்றும் சேவை வரி
+    c) சிறப்பு சரக்கு மற்றும் சேவை வரி
+    d) சேவை பொருட்கள் மற்றும் மாநில வரி
+    Answer: a
+
+13. Which of the following is NOT a direct tax?
+    a) Wealth Tax (now abolished)
+    b) Corporate Tax
+    c) Customs Duty
+    d) Income Tax
+
+    பின்வருவனவற்றில் எது நேரடி வரி அல்ல?
+    a) செல்வ வரி (தற்போது நீக்கப்பட்டது)
+    b) பெருநிறுவன வரி
+    c) சுங்க வரி
+    d) வருமான வரி
+    Answer: c
+
+14. The term "fiscal deficit" refers to:
+    a) Total revenue minus total expenditure
+    b) The gap between total expenditure and total receipts excluding borrowings
+    c) Revenue deficit minus interest payments
+    d) Primary deficit plus interest payments
+
+    "நிதிப் பற்றாக்குறை" என்ற சொல் எதைக் குறிக்கிறது?
+    a) மொத்த வருவாய் கழித்தல் மொத்த செலவு
+    b) மொத்த செலவுக்கும், கடன்கள் தவிர்த்த மொத்த வரவுகளுக்கும் உள்ள இடைவெளி
+    c) வருவாய் பற்றாக்குறை கழித்தல் வட்டி செலுத்துதல்
+    d) முதன்மை பற்றாக்குறை கூட்டல் வட்டி செலுத்துதல்
+    Answer: b
+
+15. What is the tax levied on the value added at each stage of production of a good or service called?
+    a) Income Tax
+    b) Value Added Tax (VAT)
+    c) Sales Tax
+    d) Corporate Tax
+
+    ஒரு பொருள் அல்லது சேவையின் உற்பத்தியின் ஒவ்வொரு கட்டத்திலும் சேர்க்கப்படும் மதிப்பின் மீது விதிக்கப்படும் வரி என்னவென்று அழைக்கப்படுகிறது?
+    a) வருமான வரி
+    b) மதிப்பு கூட்டப்பட்ட வரி (VAT)
+    c) விற்பனை வரி
+    d) பெருநிறுவன வரி
+    Answer: b
+
+16. Professional tax is levied by:
+    a) The Central Government
+    b) The State Government / Local bodies
+    c) Both Central and State Governments
+    d) The Supreme Court
+
+    தொழில்முறை வரி யாரால் விதிக்கப்படுகிறது?
+    a) மத்திய அரசு
+    b) மாநில அரசு / உள்ளாட்சி அமைப்புகள்
+    c) மத்திய மற்றும் மாநில அரசுகள் இரண்டும்
+    d) உச்ச நீதிமன்றம்
+    Answer: b
+
+17. A 'Surcharge' is:
+    a) A tax on tax
+    b) A fee for a specific service
+    c) A tax on goods
+    d) A type of fine
+
+    'கூடுதல் வரி' (Surcharge) என்பது:
+    a) வரியின் மீதான வரி
+    b) ஒரு குறிப்பிட்ட சேவைக்கான கட்டணம்
+    c) பொருட்கள் மீதான வரி
+    d) ஒரு வகை அபராதம்
+    Answer: a
+
+18. In the context of GST, what does 'IGST' stand for?
+    a) Internal Goods and Services Tax
+    b) Integrated Goods and Services Tax
+    c) International Goods and Services Tax
+    d) Intra-state Goods and Services Tax
+
+    GSTயின் பின்னணியில், 'IGST' என்பதன் விரிவாக்கம் என்ன?
+    a) உள்நாட்டு சரக்கு மற்றும் சேவை வரி
+    b) ஒருங்கிணைந்த சரக்கு மற்றும் சேவை வரி
+    c) சர்வதேச சரக்கு மற்றும் சேவை வரி
+    d) மாநிலத்திற்குள்ளான சரக்கு மற்றும் சேவை வரி
+    Answer: b
+
+19. Land revenue is a source of income for:
+    a) Central Government
+    b) State Governments
+    c) Municipal Corporations only
+    d) Union Territories only
+
+    நில வருவாய் யாருக்கான வருமான ஆதாரம்?
+    a) மத்திய அரசு
+    b) மாநில அரசுகள்
+    c) மாநகராட்சிகள் மட்டும்
+    d) யூனியன் பிரதேசங்கள் மட்டும்
+    Answer: b
+
+20. A tax system where the tax rate increases as the taxable amount increases is called:
+    a) Regressive tax
+    b) Proportional tax
+    c) Progressive tax
+    d) Degressive tax
+
+    வரிக்குட்பட்ட தொகை அதிகரிக்கும் போது வரி விகிதமும் அதிகரிக்கும் வரி முறை எவ்வாறு அழைக்கப்படுகிறது?
+    a) தேய்வு விகித வரி
+    b) விகிதாசார வரி
+    c) வளர்விகித வரி
+    d) குறைவு விகித வரி
+    Answer: c
+
+21. Which tax has been subsumed under GST?
+    a) Income Tax
+    b) Corporate Tax
+    c) Service Tax
+    d) Property Tax
+
+    பின்வரும் எந்த வரி GST-க்குள் அடக்கப்பட்டுள்ளது?
+    a) வருமான வரி
+    b) பெருநிறுவன வரி
+    c) சேவை வரி
+    d) சொத்து வரி
+    Answer: c
+
+22. What is 'Capital Gains Tax'?
+    a) Tax on profits from sale of property or investments
+    b) Tax on annual income
+    c) Tax on company profits
+    d) Tax on imported goods
+
+    'மூலதன ஆதாய வரி' என்றால் என்ன?
+    a) சொத்து அல்லது முதலீடுகளை விற்பதால் கிடைக்கும் லாபத்தின் மீதான வரி
+    b) ஆண்டு வருமானத்தின் மீதான வரி
+    c) நிறுவனத்தின் லாபத்தின் மீதான வரி
+    d) இறக்குமதி செய்யப்படும் பொருட்கள் மீதான வரி
+    Answer: a
+
+23. Motor Vehicles Tax is collected by:
+    a) The Central Government
+    b) The State Governments
+    c) The National Highways Authority of India (NHAI)
+    d) The District Collector
+
+    மோட்டார் வாகன வரி யாரால் வசூலிக்கப்படுகிறது?
+    a) மத்திய அரசு
+    b) மாநில அரசுகள்
+    c) இந்திய தேசிய நெடுஞ்சாலை ஆணையம் (NHAI)
+    d) மாவட்ட ஆட்சியர்
+    Answer: b
+
+24. A 'Cess' is a tax levied for a:
+    a) General purpose
+    b) Specific purpose
+    c) Indefinite period
+    d) Foreign trade
+
+    'செஸ்' (Cess) என்பது எதற்காக விதிக்கப்படும் ஒரு வரி?
+    a) பொதுவான நோக்கம்
+    b) குறிப்பிட்ட நோக்கம்
+    c) காலவரையற்ற காலம்
+    d) வெளிநாட்டு வர்த்தகம்
+    Answer: b
+
+25. The power to levy taxes is derived from which part of the Indian Constitution?
+    a) The Preamble
+    b) The Fundamental Rights
+    c) The Directive Principles of State Policy
+    d) The Articles and Schedules of the Constitution
+
+    வரிகளை விதிக்கும் அதிகாரம் இந்திய அரசியலமைப்பின் எந்தப் பகுதியிலிருந்து பெறப்படுகிறது?
+    a) முகவுரை
+    b) அடிப்படை உரிமைகள்
+    c) அரசு நெறிமுறைக் கோட்பாடுகள்
+    d) அரசியலமைப்பின் பிரிவுகள் மற்றும் அட்டவணைகள்
+    Answer: d
+
+26. Which of these is a major source of revenue for the Government of Tamil Nadu?
+    a) State GST (SGST) and Stamp Duty
+    b) Income Tax
+    c) Customs Duty
+    d) Corporate Tax
+
+    பின்வருவனவற்றில் தமிழ்நாடு அரசிற்கு ஒரு முக்கிய வருவாய் ஆதாரம் எது?
+    a) மாநில GST (SGST) மற்றும் முத்திரை வரி
+    b) வருமான வரி
+    c) சுங்க வரி
+    d) பெருநிறுவன வரி
+    Answer: a
+
+27. Which of the following items is outside the purview of GST in India?
+    a) Mobile phones
+    b) Cement
+    c) Petroleum products
+    d) Readymade garments
+
+    பின்வரும் பொருட்களில் எது இந்தியாவில் GST வரம்பிற்குள் வராது?
+    a) கைபேசிகள்
+    b) சிமெண்ட்
+    c) பெட்ரோலியப் பொருட்கள்
+    d) ஆயத்த ஆடைகள்
+    Answer: c
+
+28. The tax on entertainment and amusement is levied by:
+    a) Central Government
+    b) Local Bodies (like Municipalities)
+    c) RBI
+    d) SEBI
+
+    பொழுதுபோக்கு மற்றும் கேளிக்கை மீதான வரி யாரால் விதிக்கப்படுகிறது?
+    a) மத்திய அரசு
+    b) உள்ளாட்சி அமைப்புகள் (நகராட்சிகள் போன்றவை)
+    c) இந்திய ரிசர்வ் வங்கி
+    d) செபி
+    Answer: b
+
+29. What does the term "Tax Buoyancy" refer to?
+    a) The responsiveness of tax revenue to changes in the tax rate
+    b) The responsiveness of tax revenue to changes in GDP
+    c) The total amount of tax collected
+    d) The reduction of tax evasion
+
+    "வரி மிதப்பு" (Tax Buoyancy) என்ற சொல் எதைக் குறிக்கிறது?
+    a) வரி விகித மாற்றங்களுக்கு வரி வருவாயின் பிரதிபலிப்பு
+    b) மொத்த உள்நாட்டு உற்பத்தி (GDP) மாற்றங்களுக்கு வரி வருவாயின் பிரதிபலிப்பு
+    c) வசூலிக்கப்பட்ட மொத்த வரித் தொகை
+    d) வரி ஏய்ப்பைக் குறைத்தல்
+    Answer: b
+
+30. Dividends received by the government from Public Sector Undertakings (PSUs) are part of its:
+    a) Tax Revenue
+    b) Non-Tax Revenue
+    c) Capital Receipts
+    d) Borrowings
+
+    பொதுத்துறை நிறுவனங்களிடமிருந்து அரசாங்கம் பெறும் ஈவுத்தொகை (Dividends) அதன் எந்தப் பகுதியாகும்?
+    a) வரி வருவாய்
+    b) வரி அல்லாத வருவாய்
+    c) மூலதன வரவுகள்
+    d) கடன்கள்
+    Answer: b
+
+31. Which of the following is an example of an indirect tax?
+    a) Securities Transaction Tax (STT)
+    b) Gift Tax
+    c) Excise Duty
+    d) Wealth Tax
+
+    பின்வருவனவற்றில் மறைமுக வரிக்கு உதாரணம் எது?
+    a) பத்திர பரிவர்த்தனை வரி (STT)
+    b) பரிசு வரி
+    c) கலால் வரி
+    d) செல்வ வரி
+    Answer: c
+
+32. The concept of GST originated in which country?
+    a) USA
+    b) UK
+    c) Canada
+    d) France
+
+    GST என்ற கருத்துரு எந்த நாட்டில் உருவானது?
+    a) அமெரிக்கா
+    b) இங்கிலாந்து
+    c) கனடா
+    d) பிரான்ஸ்
+    Answer: d
+
+33. 'Grants-in-aid' given by the Centre to the States is a part of:
+    a) State's own tax revenue
+    b) State's own non-tax revenue
+    c) Central transfers to states
+    d) State's borrowings
+
+    மத்திய அரசு மாநிலங்களுக்கு வழங்கும் 'மானிய உதவி' என்பது எதன் ஒரு பகுதியாகும்?
+    a) மாநிலத்தின் சொந்த வரி வருவாய்
+    b) மாநிலத்தின் சொந்த வரி அல்லாத வருவாய்
+    c) மாநிலங்களுக்கு மத்திய அரசின் நிதி மாற்றம்
+    d) மாநிலத்தின் கடன்கள்
+    Answer: c
+
+34. A tax levied on the income of individuals is known as:
+    a) Corporate Tax
+    b) Sales Tax
+    c) Personal Income Tax
+    d) Excise Duty
+
+    தனிநபர்களின் வருமானத்தின் மீது விதிக்கப்படும் வரி எவ்வாறு அறியப்படுகிறது?
+    a) பெருநிறுவன வரி
+    b) விற்பனை வரி
+    c) தனிநபர் வருமான வரி
+    d) கலால் வரி
+    Answer: c
+
+35. The single largest source of tax revenue for the Union Government in recent years is:
+    a) Corporate Tax
+    b) Income Tax
+    c) Goods and Services Tax (GST)
+    d) Customs Duty
+
+    சமீபத்திய ஆண்டுகளில் மத்திய அரசிற்கு வரி வருவாயில் மிகப்பெரிய ஒற்றை ஆதாரம் எது?
+    a) பெருநிறுவன வரி
+    b) வருமான வரி
+    c) சரக்கு மற்றும் சேவை வரி (GST)
+    d) சுங்க வரி
+    Answer: c
+
+36. Tax collected on the purchase of shares through a stock exchange is called:
+    a) Capital Gains Tax
+    b) Securities Transaction Tax (STT)
+    c) Corporate Tax
+    d) Dividend Distribution Tax
+
+    பங்குச் சந்தை மூலம் பங்குகளை வாங்கும் போது வசூலிக்கப்படும் வரி எவ்வாறு அழைக்கப்படுகிறது?
+    a) மூலதன ஆதாய வரி
+    b) பத்திர பரிவர்த்தனை வரி (STT)
+    c) பெருநிறுவன வரி
+    d) ஈவுத்தொகை விநியோக வரி
+    Answer: b
+
+37. A tax that takes a larger percentage from low-income people than from high-income people is called:
+    a) Progressive Tax
+    b) Regressive Tax
+    c) Proportional Tax
+    d) Direct Tax
+
+    உயர் வருமானம் உடையவர்களை விட குறைந்த வருமானம் உடையவர்களிடமிருந்து அதிக சதவீதத்தை வரியாகப் பெறும் முறை எவ்வாறு அழைக்கப்படுகிறது?
+    a) வளர்விகித வரி
+    b) தேய்வு விகித வரி
+    c) விகிதாசார வரி
+    d) நேரடி வரி
+    Answer: b
+
+38. Which body fixes the rates of GST?
+    a) The Parliament of India
+    b) The GST Council
+    c) The Union Finance Ministry
+    d) The Reserve Bank of India
+
+    GST விகிதங்களை எந்த அமைப்பு நிர்ணயிக்கிறது?
+    a) இந்திய நாடாளுமன்றம்
+    b) GST மன்றம்
+    c) மத்திய நிதி அமைச்சகம்
+    d) இந்திய ரிசர்வ் வங்கி
+    Answer: b
+
+39. The term 'revenue deficit' refers to the excess of:
+    a) Revenue expenditure over revenue receipts
+    b) Total expenditure over total receipts
+    c) Capital expenditure over capital receipts
+    d) Interest payments over borrowings
+
+    'வருவாய் பற்றாக்குறை' என்ற சொல் எதன் உபரியைக் குறிக்கிறது?
+    a) வருவாய் வரவுகளுக்கு மேலான வருவாய் செலவினம்
+    b) மொத்த வரவுகளுக்கு மேலான மொத்த செலவினம்
+    c) மூலதன வரவுகளுக்கு மேலான மூலதன செலவினம்
+    d) கடன்களுக்கு மேலான வட்டி செலுத்துதல்
+    Answer: a
+
+40. Toll tax is a fee collected for:
+    a) Entering a state
+    b) Using a specific road or bridge
+    c) Parking a vehicle
+    d) Selling goods
+
+    சுங்கச்சாவடி வரி (Toll tax) எதற்காக வசூலிக்கப்படும் கட்டணம்?
+    a) ஒரு மாநிலத்திற்குள் நுழைய
+    b) ஒரு குறிப்பிட்ட சாலை அல்லது பாலத்தைப் பயன்படுத்த
+    c) ஒரு வாகனத்தை நிறுத்த
+    d) பொருட்களை விற்க
+    Answer: b
+
+41. Which article of the Constitution states that "No tax shall be levied or collected except by authority of law"?
+    a) Article 265
+    b) Article 266
+    c) Article 267
+    d) Article 268
+
+    "சட்டத்தின் அதிகாரமின்றி எந்த வரியும் விதிக்கப்படவோ அல்லது வசூலிக்கப்படவோ கூடாது" என்று அரசியலமைப்பின் எந்தப் பிரிவு கூறுகிறது?
+    a) பிரிவு 265
+    b) பிரிவு 266
+    c) பிரிவு 267
+    d) பிரிவு 268
+    Answer: a
+
+42. What is the main objective of imposing taxes?
+    a) To increase the wealth of the government
+    b) To finance public expenditure
+    c) To discourage consumption
+    d) To control private businesses
+
+    வரிகளை விதிப்பதன் முக்கிய நோக்கம் என்ன?
+    a) அரசாங்கத்தின் செல்வத்தை அதிகரிப்பது
+    b) பொதுச் செலவினங்களுக்கு நிதியளிப்பது
+    c) நுகர்வைக் குறைப்பது
+    d) தனியார் வணிகங்களைக் கட்டுப்படுத்துவது
+    Answer: b
+
+43. Property tax is a source of revenue for:
+    a) Central Government
+    b) State Government
+    c) Municipalities and Corporations
+    d) It is not a tax in India
+
+    சொத்து வரி யாருக்கான வருவாய் ஆதாரம்?
+    a) மத்திய அரசு
+    b) மாநில அரசு
+    c) நகராட்சிகள் மற்றும் மாநகராட்சிகள்
+    d) இது இந்தியாவில் ஒரு வரி அல்ல
+    Answer: c
+
+44. The financial year in India for revenue purposes runs from:
+    a) 1st January to 31st December
+    b) 1st July to 30th June
+    c) 1st April to 31st March
+    d) 1st October to 30th September
+
+    இந்தியாவில் வருவாய் நோக்கங்களுக்கான நிதியாண்டு எப்போது தொடங்குகிறது?
+    a) ஜனவரி 1 முதல் டிசம்பர் 31 வரை
+    b) ஜூலை 1 முதல் ஜூன் 30 வரை
+    c) ஏப்ரல் 1 முதல் மார்ச் 31 வரை
+    d) அக்டோபர் 1 முதல் செப்டம்பர் 30 வரை
+    Answer: c
+
+45. The tax imposed on the value of goods imported into a country is:
+    a) Excise Duty
+    b) Sales Tax
+    c) Customs Duty
+    d) VAT
+
+    ஒரு நாட்டிற்கு இறக்குமதி செய்யப்படும் பொருட்களின் மதிப்பின் மீது விதிக்கப்படும் வரி:
+    a) கலால் வரி
+    b) விற்பனை வரி
+    c) சுங்க வரி
+    d) மதிப்பு கூட்டப்பட்ட வரி (VAT)
+    Answer: c
+
+46. In India, agricultural income is taxed by:
+    a) The Central Government
+    b) The State Governments
+    c) Both Centre and States
+    d) It is not taxed
+
+    இந்தியாவில், விவசாய வருமானத்திற்கு வரி விதிப்பது:
+    a) மத்திய அரசு
+    b) மாநில அரசுகள்
+    c) மத்திய மற்றும் மாநில அரசுகள் இரண்டும்
+    d) இதற்கு வரி விதிக்கப்படுவதில்லை
+    Answer: d
+
+47. When the tax base is the same, but the tax liability is different for different people, the tax is:
+    a) Horizontal equity
+    b) Vertical equity
+    c) Not equitable
+    d) Proportional
+
+    வரி आधारம் ஒன்றாக இருக்கும்போது, வெவ்வேறு நபர்களுக்கு வரிப் பொறுப்பு வேறுபட்டால், அந்த வரி:
+    a) கிடைமட்ட சமத்துவம்
+    b) செங்குத்து சமத்துவம்
+    c) சமத்துவமற்றது
+    d) விகிதாசாரமானது
+    Answer: c
+
+48. What does CGST, a component of GST, stand for?
+    a) Corporate Goods and Services Tax
+    b) Central Goods and Services Tax
+    c) Common Goods and Services Tax
+    d) Capital Goods and Services Tax
+
+    GSTயின் ஒரு அங்கமான CGST என்பதன் விரிவாக்கம் என்ன?
+    a) பெருநிறுவன சரக்கு மற்றும் சேவை வரி
+    b) மத்திய சரக்கு மற்றும் சேவை வரி
+    c) பொதுவான சரக்கு மற்றும் சேவை வரி
+    d) மூலதனப் பொருட்கள் மற்றும் சேவை வரி
+    Answer: b
+
+49. Fees for government services like issuing birth certificates or licenses are considered:
+    a) Tax Revenue
+    b) Non-Tax Revenue
+    c) Capital Receipts
+    d) Fines
+
+    பிறப்புச் சான்றிதழ்கள் அல்லது உரிமங்கள் வழங்குவது போன்ற அரசாங்க சேவைகளுக்கான கட்டணங்கள் இவ்வாறு கருதப்படுகின்றன:
+    a) வரி வருவாய்
+    b) வரி அல்லாத வருவாய்
+    c) மூலதன வரவுகள்
+    d) அபராதங்கள்
+    Answer: b
+
+50. The difference between the burden of a direct tax and an indirect tax is that the burden of:
+    a) a direct tax cannot be shifted, while an indirect tax can be.
+    b) an indirect tax cannot be shifted, while a direct tax can be.
+    c) both can be shifted easily.
+    d) both cannot be shifted.
+
+    ஒரு நேரடி வரி மற்றும் ஒரு மறைமுக வரியின் சுமைக்கு இடையிலான வேறுபாடு என்னவென்றால்:
+    a) நேரடி வரியின் சுமையை மாற்ற முடியாது, ஆனால் மறைமுக வரியின் சுமையை மாற்ற முடியும்.
+    b) மறைமுக வரியின் சுமையை மாற்ற முடியாது, ஆனால் நேரடி வரியின் சுமையை மாற்ற முடியும்.
+    c) இரண்டின் சுமையையும் எளிதாக மாற்ற முடியும்.
+    d) இரண்டின் சுமையையும் மாற்ற முடியாது.
+    Answer: a
+
+51. The introduction of GST led to the creation of the concept of:
+    a) 'One Nation, One Market, One Tax'
+    b) 'One State, One Tax'
+    c) 'One Product, One Tax'
+    d) 'One Citizen, One Tax'
+
+    GSTயின் அறிமுகம் எந்தக் கருத்தாக்கத்தை உருவாக்கியது?
+    a) 'ஒரே தேசம், ஒரே சந்தை, ஒரே வரி'
+    b) 'ஒரே மாநிலம், ஒரே வரி'
+    c) 'ஒரே பொருள், ஒரே வரி'
+    d) 'ஒரே குடிமகன், ஒரே வரி'
+    Answer: a
+
+52. The term "revenue receipt" in the government budget includes:
+    a) Tax revenues and borrowings
+    b) Tax revenues and non-tax revenues
+    c) Non-tax revenues and borrowings
+    d) Only tax revenues
+
+    அரசு வரவுசெலவுத் திட்டத்தில் "வருவாய் வரவு" என்ற சொல் எதை உள்ளடக்கியது?
+    a) வரி வருவாய்கள் மற்றும் கடன்கள்
+    b) வரி வருவாய்கள் மற்றும் வரி அல்லாத வருவாய்கள்
+    c) வரி அல்லாத வருவாய்கள் மற்றும் கடன்கள்
+    d) வரி வருவாய்கள் மட்டும்
+    Answer: b
+
+53. Which of the following is a tax levied on intra-state supply of goods or services?
+    a) IGST
+    b) Customs Duty
+    c) CGST and SGST
+    d) Only SGST
+
+    பின்வருவனவற்றில் ஒரு மாநிலத்திற்குள் பொருட்கள் அல்லது சேவைகளை வழங்குவதன் மீது விதிக்கப்படும் வரி எது?
+    a) IGST
+    b) சுங்க வரி
+    c) CGST மற்றும் SGST
+    d) SGST மட்டும்
+    Answer: c
+
+54. The Finance Commission is appointed by the:
+    a) Prime Minister
+    b) Parliament
+    c) President of India
+    d) Chief Justice of India
+
+    நிதி ஆணையம் யாரால் நியமிக்கப்படுகிறது?
+    a) பிரதமர்
+    b) நாடாளுமன்றம்
+    c) இந்தியக் குடியரசுத் தலைவர்
+    d) இந்தியத் தலைமை நீதிபதி
+    Answer: c
+
+55. Tax evasion is:
+    a) A legal method to reduce tax liability
+    b) An illegal method to avoid paying taxes
+    c) A government scheme to promote savings
+    d) A type of tax refund
+
+    வரி ஏய்ப்பு என்பது:
+    a) வரிப் பொறுப்பைக் குறைப்பதற்கான ஒரு சட்டப்பூர்வ முறை
+    b) வரி செலுத்துவதைத் தவிர்ப்பதற்கான ஒரு சட்டவிரோத முறை
+    c) சேமிப்பை ஊக்குவிப்பதற்கான ஒரு அரசாங்கத் திட்டம்
+    d) ஒரு வகை வரித் திரும்பப் பெறுதல்
+    Answer: b
+
+56. Which of the following is an example of 'non-tax revenue'?
+    a) Income Tax
+    b) Profit from the sale of government assets
+    c) Corporate Tax
+    d) GST
+
+    பின்வருவனவற்றில் 'வரி அல்லாத வருவாய்க்கு' உதாரணம் எது?
+    a) வருமான வரி
+    b) அரசாங்க சொத்துக்களை விற்பதால் கிடைக்கும் லாபம்
+    c) பெருநிறுவன வரி
+    d) GST
+    Answer: b
+
+57. IGST is levied on the inter-state supply of goods and services and collected by:
+    a) The exporting state
+    b) The importing state
+    c) The Central Government
+    d) Both states equally
+
+    மாநிலங்களுக்கு இடையேயான பொருட்கள் மற்றும் சேவைகள் வழங்குதலின் மீது IGST விதிக்கப்பட்டு, யாரால் வசூலிக்கப்படுகிறது?
+    a) ஏற்றுமதி செய்யும் மாநிலம்
+    b) இறக்குமதி செய்யும் மாநிலம்
+    c) மத்திய அரசு
+    d) இரு மாநிலங்களும் சமமாக
+    Answer: c
+
+58. What is the primary purpose of a "Sin Tax"?
+    a) To increase revenue from all goods
+    b) To discourage the consumption of harmful goods
+    c) To tax religious activities
+    d) To simplify the tax system
+
+    "தீங்கு வரி" (Sin Tax) விதிப்பதன் முதன்மை நோக்கம் என்ன?
+    a) அனைத்துப் பொருட்களிலிருந்தும் வருவாயை அதிகரிப்பது
+    b) தீங்கு விளைவிக்கும் பொருட்களின் நுகர்வைக் குறைப்பது
+    c) மத நடவடிக்கைகளுக்கு வரி விதிப்பது
+    d) வரி முறையை எளிதாக்குவது
+    Answer: b
+
+59. The revenue that the government gets from sources other than taxes is called:
+    a) Capital Revenue
+    b) Non-Tax Revenue
+    c) Indirect Revenue
+    d) Deficit Revenue
+
+    வரிகள் அல்லாத பிற ஆதாரங்களிலிருந்து அரசாங்கம் பெறும் வருவாய் இவ்வாறு அழைக்கப்படுகிறது:
+    a) மூலதன வருவாய்
+    b) வரி அல்லாத வருவாய்
+    c) மறைமுக வருவாய்
+    d) பற்றாக்குறை வருவாய்
+    Answer: b
+
+60. Who was the chairman of the 15th Finance Commission?
+    a) Dr. Y. V. Reddy
+    b) Dr. Vijay Kelkar
+    c) N. K. Singh
+    d) Dr. C. Rangarajan
+
+    15வது நிதி ஆணையத்தின் தலைவர் யார்?
+    a) டாக்டர் ஒய். வி. ரெட்டி
+    b) டாக்டர் விஜய் கேல்கர்
+    c) என். கே. சிங்
+    d) டாக்டர் சி. ரங்கராஜன்
+    Answer: c

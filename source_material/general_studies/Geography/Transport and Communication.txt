@@ -1,0 +1,915 @@
+**Overall Topic for Question Generation: Transport and Communication**
+
+---
+
+**1. Assertion and Reason Questions (6 questions):**
+
+**1.**
+**Assertion (A):** The Golden Quadrilateral project aims to reduce the time and distance between major metropolitan cities of India.
+**Reason (R):** It connects Chennai, Kolkata, Delhi, and Mumbai.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** தங்க நாற்கரச் சாலைத் திட்டம் இந்தியாவின் முக்கிய பெருநகரங்களுக்கு இடையிலான நேரத்தையும் தூரத்தையும் குறைப்பதை நோக்கமாகக் கொண்டுள்ளது.
+**காரணம் (R):** இது சென்னை, கொல்கத்தா, டெல்லி மற்றும் மும்பையை இணைக்கிறது.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: a**
+
+**2.**
+**Assertion (A):** Indian Railways is the largest public sector undertaking in India.
+**Reason (R):** It primarily focuses on freight transport over passenger transport.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** இந்திய இரயில்வே இந்தியாவின் மிகப்பெரிய பொதுத்துறை நிறுவனமாகும்.
+**காரணம் (R):** இது முதன்மையாக பயணிகள் போக்குவரத்தை விட சரக்கு போக்குவரத்தில் கவனம் செலுத்துகிறது.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: c** (R is false; Indian Railways carries a massive volume of passenger traffic, although freight is also crucial for revenue.)
+
+**3.**
+**Assertion (A):** Inland waterways are an eco-friendly and cost-effective mode of transport.
+**Reason (R):** They require minimal infrastructure development compared to roads and railways for basic navigability, though development for large-scale transport needs investment.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** உள்நாட்டு நீர்வழிப் போக்குவரத்து சுற்றுச்சூழலுக்கு உகந்த மற்றும் செலவு குறைந்த போக்குவரத்து முறையாகும்.
+**காரணம் (R):** அடிப்படை கப்பல் போக்குவரத்திற்கு சாலைகள் மற்றும் இரயில்வேயுடன் ஒப்பிடும்போது அவற்றுக்கு குறைந்தபட்ச உள்கட்டமைப்பு மேம்பாடு தேவைப்படுகிறது, இருப்பினும் பெரிய அளவிலான போக்குவரத்திற்கான வளர்ச்சிக்கு முதலீடு தேவைப்படுகிறது.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: a**
+
+**4.**
+**Assertion (A):** Air transport is the fastest mode of transport.
+**Reason (R):** It is suitable for transporting perishable goods over long distances quickly.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** வான்வழிப் போக்குவரத்து மிக வேகமான போக்குவரத்து முறையாகும்.
+**காரணம் (R):** இது அழுகக்கூடிய பொருட்களை நீண்ட தூரத்திற்கு விரைவாக கொண்டு செல்ல ஏற்றது.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: a**
+
+**5.**
+**Assertion (A):** India Post provides various financial services in addition to mail delivery.
+**Reason (R):** This diversification helps it utilize its vast network and serve a wider range of public needs, contributing to financial inclusion.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** இந்திய அஞ்சல் துறை அஞ்சல் விநியோகத்துடன் பல்வேறு நிதி சேவைகளையும் வழங்குகிறது.
+**காரணம் (R):** இந்த பன்முகப்படுத்தல் அதன் பரந்த வலையமைப்பைப் பயன்படுத்தவும், பொதுமக்களின் பரந்த அளவிலான தேவைகளைப் பூர்த்தி செய்யவும் உதவுகிறது, இது நிதி உள்ளடக்கத்திற்கு பங்களிக்கிறது.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: a**
+
+**6.**
+**Assertion (A):** Optical Fibre Cables (OFC) are preferred for high-speed internet connectivity.
+**Reason (R):** OFC transmits data using light pulses, offering greater bandwidth and less signal attenuation over long distances.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** அதிவேக இணைய இணைப்பிற்கு ஒளியிழை வடங்கள் (OFC) விரும்பப்படுகின்றன.
+**காரணம் (R):** OFC ஒளித் துடிப்புகளைப் பயன்படுத்தி தரவை அனுப்புகிறது, இது அதிக அலைவரிசையையும் நீண்ட தூரங்களில் குறைந்த சமிக்ஞை εξασθένηση (குறைவையும்) வழங்குகிறது.
+
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A-யின் சரியான விளக்கமாகும்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+
+**Answer: a**
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions):**
+
+**7.** Identify the wrongly matched pair regarding transport modes and their governing/implementing agencies.
+a) National Highways - NHAI
+b) Indian Railways - Railway Board
+c) Major Ports - Individual Port Trusts (governed by Major Port Trusts Act)
+d) Airports - Civil Aviation Regulatory Authority
+
+தவறாகப் பொருத்தப்பட்ட இணையை அடையாளம் காணவும் (போக்குவரத்து முறைகள் மற்றும் அவற்றின் ஆளும்/செயல்படுத்தும் முகமைகள்).
+a) தேசிய நெடுஞ்சாலைகள் - இந்திய தேசிய நெடுஞ்சாலை ஆணையம் (NHAI)
+b) இந்திய இரயில்வே - இரயில்வே வாரியம்
+c) முக்கிய துறைமுகங்கள் - தனிப்பட்ட துறைமுக பொறுப்புக் கழகங்கள் (முக்கிய துறைமுக பொறுப்புக் கழகங்கள் சட்டத்தால் நிர்வகிக்கப்படுகிறது)
+d) விமான நிலையங்கள் - சிவில் விமானப் போக்குவரத்து ஒழுங்குமுறை ஆணையம்
+
+**Answer: d** (Correct: Airports - Airports Authority of India / விமான நிலையங்கள் - இந்திய வானூர்தி நிலையங்கள் ஆணையம்)
+
+**8.** Identify the wrongly matched pair regarding communication services/entities.
+a) All India Radio - Broadcasting
+b) Doordarshan - Telecasting
+c) BSNL - Mobile Telephony and Landline
+d) INSAT - Postal Service Automation
+
+தவறாகப் பொருத்தப்பட்ட இணையை அடையாளம் காணவும் (தகவல்தொடர்பு சேவைகள்/நிறுவனங்கள்).
+a) அகில இந்திய வானொலி - ஒலிபரப்பு
+b) தூர்தர்ஷன் - தொலைக்காட்சி ஒளிபரப்பு
+c) BSNL - மொபைல் தொலைபேசி மற்றும் தரைவழி தொலைபேசி
+d) இன்சாட் - அஞ்சல் சேவை தானியக்கம்
+
+**Answer: d** (Correct: INSAT - Satellite Communication, Broadcasting, Meteorology / இன்சாட் - செயற்கைக்கோள் தொடர்பு, ஒளிபரப்பு, வானிலையியல்)
+
+**9.** Identify the wrongly matched pair of major ports and their states.
+a) Kandla Port - Gujarat
+b) Paradip Port - Odisha
+c) Tuticorin Port (V.O. Chidambaranar Port) - Kerala
+d) Jawaharlal Nehru Port - Maharashtra
+
+முக்கிய துறைமுகங்கள் மற்றும் அவற்றின் மாநிலங்களின் தவறாகப் பொருத்தப்பட்ட இணையை அடையாளம் காணவும்.
+a) காண்ட்லா துறைமுகம் - குஜராத்
+b) பாரதீப் துறைமுகம் - ஒடிசா
+c) தூத்துக்குடி துறைமுகம் (வ.உ.சிதம்பரனார் துறைமுகம்) - கேரளா
+d) ஜவஹர்லால் நேரு துறைமுகம் - மகாராஷ்டிரா
+
+**Answer: c** (Correct: Tuticorin Port - Tamil Nadu / தூத்துக்குடி துறைமுகம் - தமிழ்நாடு)
+
+**10.** Identify the wrongly matched pair of National Waterways and the rivers they are on.
+a) NW-1 - Ganga River
+b) NW-2 - Brahmaputra River
+c) NW-3 - West Coast Canal (Kerala)
+d) NW-4 - Yamuna River
+
+தேசிய நீர்வழிப்பாதைகள் மற்றும் அவை அமைந்துள்ள ஆறுகளின் தவறாகப் பொருத்தப்பட்ட இணையை அடையாளம் காணவும்.
+a) தே.நீ.பா-1 - கங்கை நதி
+b) தே.நீ.பா-2 - பிரம்மபுத்திரா நதி
+c) தே.நீ.பா-3 - மேற்குக் கடற்கரைக் கால்வாய் (கேரளா)
+d) தே.நீ.பா-4 - யமுனை நதி
+
+**Answer: d** (Correct: NW-4 - Specified stretches of Godavari and Krishna rivers with Kakinada Puducherry canal system / தே.நீ.பா-4 - கோதாவரி மற்றும் கிருஷ்ணா நதிகளின் குறிப்பிட்ட பகுதிகள் மற்றும் காக்கிநாடா புதுச்சேரி கால்வாய் அமைப்பு)
+
+**11.** Identify the wrongly matched pair regarding communication technologies and their expansions.
+a) SMS - Short Message Service
+b) GPS - Global Positioning System
+c) Wi-Fi - Wireless Fidelity
+d) SIM - Subscriber Information Module
+
+தகவல்தொடர்பு தொழில்நுட்பங்கள் மற்றும் அவற்றின் விரிவாக்கங்களின் தவறாகப் பொருத்தப்பட்ட இணையை அடையாளம் காணவும்.
+a) SMS - குறுஞ்செய்தி சேவை (Short Message Service)
+b) GPS - உலகளாவிய இடமறி அமைப்பு (Global Positioning System)
+c) Wi-Fi - கம்பியில்லா இணைய அணுகல் (Wireless Fidelity)
+d) SIM - சந்தாதாரர் தகவல் தொகுதி (Subscriber Information Module)
+
+**Answer: d** (Correct: SIM - Subscriber Identity Module / சிம் - சந்தாதாரர் அடையாளத் தொகுதி)
+
+**12.** Identify the wrongly matched pair of transport corridors/schemes and their primary objective.
+a) Golden Quadrilateral - Connects Major Metros
+b) PMGSY (Pradhan Mantri Gram Sadak Yojana) - Rural Road Connectivity
+c) Sagarmala Project - Port-led development
+d) UDAN Scheme - Railway Network Expansion
+
+போக்குவரத்து வழித்தடங்கள்/திட்டங்கள் மற்றும் அவற்றின் முதன்மை நோக்கத்தின் தவறாகப் பொருத்தப்பட்ட இணையை அடையாளம் காணவும்.
+a) தங்க நாற்கரச் சாலை - முக்கிய பெருநகரங்களை இணைக்கிறது
+b) PMGSY (பிரதம மந்திரி கிராம் சடக் யோஜனா) - கிராமப்புற சாலை இணைப்பு
+c) சாகர்மாலா திட்டம் - துறைமுகம் சார்ந்த வளர்ச்சி
+d) உடான் திட்டம் - இரயில்வே नेटवर्क விரிவாக்கம்
+
+**Answer: d** (Correct: UDAN Scheme - Regional Air Connectivity for unserved and underserved airports / உடான் திட்டம் - சேவை செய்யப்படாத மற்றும் குறைவாக சேவை செய்யப்படும் விமான நிலையங்களுக்கு பிராந்திய வான் இணைப்பு)
+
+---
+
+**3. Match the Following Questions (6 questions):**
+
+**13.** Match List-I with List-II:
+List-I (Organization)
+A. National Highways Authority of India (NHAI)
+B. Indian Railways
+C. Airports Authority of India (AAI)
+D. Inland Waterways Authority of India (IWAI)
+
+List-II (Headquarters Location)
+1. Noida
+2. New Delhi (Rail Bhavan)
+3. New Delhi (Dwarka Sector)
+4. New Delhi (Safdarjung Airport area - Rajiv Gandhi Bhavan)
+
+Options:
+A) A-3, B-2, C-4, D-1
+B) A-1, B-2, C-3, D-4
+C) A-3, B-1, C-4, D-2
+D) A-2, B-3, C-1, D-4
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (நிறுவனம்)
+A. இந்திய தேசிய நெடுஞ்சாலை ஆணையம் (NHAI)
+B. இந்திய இரயில்வே
+C. இந்திய வானூர்தி நிலையங்கள் ஆணையம் (AAI)
+D. இந்திய உள்நாட்டு நீர்வழிப் போக்குவரத்து ஆணையம் (IWAI)
+
+பட்டியல்-II (தலைமையகத்தின் இடம்)
+1. நொய்டா
+2. புது டெல்லி (ரயில் பவன்)
+3. புது டெல்லி (துவாரகா செக்டர்) (NHAI)
+4. புது டெல்லி (சப்தர்ஜங் விமான நிலையப் பகுதி - ராஜீவ் காந்தி பவன்) (AAI)
+
+விருப்பங்கள்:
+A) A-3, B-2, C-4, D-1
+B) A-1, B-2, C-3, D-4
+C) A-3, B-1, C-4, D-2
+D) A-2, B-3, C-1, D-4
+
+**Answer: A** (NHAI - Dwarka, New Delhi; Indian Railways - Rail Bhavan, New Delhi; AAI - Rajiv Gandhi Bhavan, New Delhi; IWAI - Noida)
+
+**14.** Match List-I with List-II:
+List-I (Type of Communication)
+A. Postal Mail
+B. Telephone Call
+C. Newspaper
+D. Email
+
+List-II (Nature of Communication)
+1. Mass Communication
+2. Personal Written Communication (Traditional)
+3. Digital Personal Communication
+4. Personal Oral Communication
+
+Options:
+A) A-2, B-4, C-1, D-3
+B) A-1, B-3, C-2, D-4
+C) A-4, B-1, C-3, D-2
+D) A-3, B-2, C-4, D-1
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (தகவல்தொடர்பு வகை)
+A. அஞ்சல் கடிதம்
+B. தொலைபேசி அழைப்பு
+C. செய்தித்தாள்
+D. மின்னஞ்சல்
+
+பட்டியல்-II (தகவல்தொடர்பு தன்மை)
+1. வெகுஜனத் தொடர்பு
+2. தனிநபர் எழுத்துத் தொடர்பு (பாரம்பரியமானது)
+3. இலக்கமுறை தனிநபர் தொடர்பு
+4. தனிநபர் வாய்மொழித் தொடர்பு
+
+விருப்பங்கள்:
+A) A-2, B-4, C-1, D-3
+B) A-1, B-3, C-2, D-4
+C) A-4, B-1, C-3, D-2
+D) A-3, B-2, C-4, D-1
+
+**Answer: A**
+
+**15.** Match List-I with List-II (Airports in Tamil Nadu and their general location area):
+List-I (Airport Name)
+A. Anna International Airport
+B. Tiruchirappalli International Airport
+C. Coimbatore International Airport
+D. Madurai Airport
+
+List-II (Location Area)
+1. Peelamedu
+2. Meenambakkam
+3. Avaniyapuram
+4. Near SITRA / Civil Aerodrome Post (Tiruchy)
+
+Options:
+A) A-2, B-4, C-1, D-3
+B) A-1, B-2, C-3, D-4
+C) A-3, B-1, C-4, D-2
+D) A-4, B-3, C-2, D-1
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக (தமிழ்நாட்டில் உள்ள விமான நிலையங்கள் மற்றும் அவற்றின் பொதுவான இருப்பிடப் பகுதி):
+பட்டியல்-I (விமான நிலையத்தின் பெயர்)
+A. அண்ணா சர்வதேச விமான நிலையம்
+B. திருச்சிராப்பள்ளி சர்வதேச விமான நிலையம்
+C. கோயம்புத்தூர் சர்வதேச விமான நிலையம்
+D. மதுரை விமான நிலையம்
+
+பட்டியல்-II (இருப்பிடப் பகுதி)
+1. பீளமேடு
+2. மீனம்பாக்கம்
+3. அவனியாபுரம்
+4. சித்ரா அருகில் / சிவில் ஏரோடிரோம் போஸ்ட் (திருச்சி)
+
+விருப்பங்கள்:
+A) A-2, B-4, C-1, D-3
+B) A-1, B-2, C-3, D-4
+C) A-3, B-1, C-4, D-2
+D) A-4, B-3, C-2, D-1
+
+**Answer: A**
+
+**16.** Match List-I with List-II (Railway Zones and their Headquarters):
+List-I (Railway Zone)
+A. Southern Railway
+B. Central Railway
+C. Western Railway
+D. Eastern Railway
+
+List-II (Headquarters)
+1. Mumbai (CSMT)
+2. Chennai
+3. Kolkata
+4. Mumbai (Churchgate)
+
+Options:
+A) A-1, B-2, C-3, D-4
+B) A-2, B-1, C-4, D-3
+C) A-3, B-4, C-1, D-2
+D) A-4, B-3, C-2, D-1
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக (இரயில்வே மண்டலங்கள் மற்றும் அவற்றின் தலைமையகங்கள்):
+பட்டியல்-I (இரயில்வே மண்டலம்)
+A. தெற்கு இரயில்வே
+B. மத்திய இரயில்வே
+C. மேற்கு இரயில்வே
+D. கிழக்கு இரயில்வே
+
+பட்டியல்-II (தலைமையகம்)
+1. மும்பை (சிஎஸ்எம்டி)
+2. சென்னை
+3. கொல்கத்தா
+4. மும்பை (சர்ச்கேட்)
+
+விருப்பங்கள்:
+A) A-1, B-2, C-3, D-4
+B) A-2, B-1, C-4, D-3
+C) A-3, B-4, C-1, D-2
+D) A-4, B-3, C-2, D-1
+
+**Answer: B**
+
+**17.** Match List-I with List-II (Satellite Series and Primary Purpose):
+List-I (Satellite Series)
+A. INSAT (Indian National Satellite System)
+B. GSAT (Geosynchronous Satellite)
+C. IRS (Indian Remote Sensing Satellite)
+D. CARTOSAT
+
+List-II (Primary Purpose)
+1. Earth Observation (High-Resolution Cartography)
+2. Multipurpose (Telecommunication, Broadcasting, Meteorology)
+3. Primarily Communication & Broadcasting
+4. Earth Observation (Resource Management, Disaster Management)
+
+Options:
+A) A-1, B-4, C-3, D-2
+B) A-3, B-1, C-2, D-4
+C) A-2, B-3, C-4, D-1
+D) A-4, B-2, C-1, D-3
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக (செயற்கைக்கோள் தொடர் மற்றும் முதன்மை நோக்கம்):
+பட்டியல்-I (செயற்கைக்கோள் தொடர்)
+A. இன்சாட் (இந்திய தேசிய செயற்கைக்கோள் அமைப்பு)
+B. ஜிசாட் (புவி ஒத்திசைவு செயற்கைக்கோள்)
+C. ஐ.ஆர்.எஸ் (இந்திய தொலை உணர்வு செயற்கைக்கோள்)
+D. கார்ட்டோசாட்
+
+பட்டியல்-II (முதன்மை நோக்கம்)
+1. புவி கண்காணிப்பு (உயர்-தெளிவு வரைபடவியல்)
+2. பல்நோக்கு (தொலைத்தொடர்பு, ஒளிபரப்பு, வானிலையியல்)
+3. முதன்மையாக தொடர்பு மற்றும் ஒளிபரப்பு
+4. புவி கண்காணிப்பு (வள மேலாண்மை, பேரிடர் மேலாண்மை)
+
+விருப்பங்கள்:
+A) A-1, B-4, C-3, D-2
+B) A-3, B-1, C-2, D-4
+C) A-2, B-3, C-4, D-1
+D) A-4, B-2, C-1, D-3
+
+**Answer: C**
+
+**18.** Match List-I with List-II (Communication Schemes/Regulatory Body):
+List-I (Scheme/Body)
+A. Digital India
+B. BharatNet
+C. Prasar Bharati
+D. TRAI (Telecom Regulatory Authority of India)
+
+List-II (Description/Function)
+1. Telecom Sector Regulator
+2. Autonomous Public Service Broadcaster (AIR & Doordarshan)
+3. Rural Broadband Connectivity to Gram Panchayats
+4. National program for transforming India into a digitally empowered society
+
+Options:
+A) A-1, B-2, C-3, D-4
+B) A-2, B-1, C-4, D-3
+C) A-3, B-4, C-1, D-2
+D) A-4, B-3, C-2, D-1
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக (தகவல்தொடர்பு திட்டங்கள்/ஒழுங்குமுறை அமைப்பு):
+பட்டியல்-I (திட்டம்/அமைப்பு)
+A. இலக்கமுறை இந்தியா (டிஜிட்டல் இந்தியா)
+B. பாரத்நெட்
+C. பிரசார் பாரதி
+D. டிராய் (இந்திய தொலைத்தொடர்பு ஒழுங்குமுறை ஆணையம்)
+
+பட்டியல்-II (விளக்கம்/செயல்பாடு)
+1. தொலைத்தொடர்பு துறை ஒழுங்குபடுத்துபவர்
+2. தன்னாட்சி பொது சேவை ஒளிபரப்பு நிறுவனம் (அகில இந்திய வானொலி & தூர்தர்ஷன்)
+3. கிராம பஞ்சாயத்துகளுக்கு கிராமப்புற பிராட்பேண்ட் இணைப்பு
+4. இந்தியாவை இலக்கமுறை அதிகாரம் பெற்ற சமூகமாக மாற்றுவதற்கான தேசிய திட்டம்
+
+விருப்பங்கள்:
+A) A-1, B-2, C-3, D-4
+B) A-2, B-1, C-4, D-3
+C) A-3, B-4, C-1, D-2
+D) A-4, B-3, C-2, D-1
+
+**Answer: D**
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions):**
+
+**19.** Which is the longest National Highway in India?
+a) NH 7
+b) NH 48
+c) NH 44
+d) NH 27
+
+இந்தியாவின் மிக நீளமான தேசிய நெடுஞ்சாலை எது?
+a) தேநெ 7
+b) தேநெ 48
+c) தேநெ 44
+d) தேநெ 27
+
+**Answer: c**
+
+**20.** The headquarters of the Southern Railway zone is located in:
+a) Bengaluru
+b) Chennai
+c) Hyderabad
+d) Thiruvananthapuram
+
+தெற்கு இரயில்வே மண்டலத்தின் தலைமையகம் எங்கு அமைந்துள்ளது?
+a) பெங்களூரு
+b) சென்னை
+c) ஹைதராபாத்
+d) திருவனந்தபுரம்
+
+**Answer: b**
+
+**21.** The first passenger train in India ran between:
+a) Howrah and Hooghly
+b) Bombay (Mumbai) and Thane
+c) Madras (Chennai) and Arcot
+d) Delhi and Meerut
+
+இந்தியாவில் முதல் பயணிகள் ரயில் எவற்றுக்கு இடையே ஓடியது?
+a) ஹவுரா மற்றும் ஹூக்ளி
+b) பம்பாய் (மும்பை) மற்றும் தானே
+c) மெட்ராஸ் (சென்னை) மற்றும் ஆற்காடு
+d) டெல்லி மற்றும் மீரட்
+
+**Answer: b**
+
+**22.** Which is currently the busiest international airport in India by passenger traffic?
+a) Kempegowda International Airport, Bengaluru
+b) Chhatrapati Shivaji Maharaj International Airport, Mumbai
+c) Indira Gandhi International Airport, Delhi
+d) Anna International Airport, Chennai
+
+தற்போது பயணிகள் போக்குவரத்தின் அடிப்படையில் இந்தியாவின் பரபரப்பான சர்வதேச விமான நிலையம் எது?
+a) கெம்பேகவுடா சர்வதேச விமான நிலையம், பெங்களூரு
+b) சத்ரபதி சிவாஜி மகாராஜ் சர்வதேச விமான நிலையம், மும்பை
+c) இந்திரா காந்தி சர்வதேச விமான நிலையம், டெல்லி
+d) அண்ணா சர்வதேச விமான நிலையம், சென்னை
+
+**Answer: c**
+
+**23.** Which port is known as the "Queen of the Arabian Sea"?
+a) Mumbai Port
+b) Kochi Port
+c) Mangalore Port
+d) Mormugao Port
+
+"அரேபியக் கடலின் ராணி" என்று அழைக்கப்படும் துறைமுகம் எது?
+a) மும்பை துறைமுகம்
+b) கொச்சி துறைமுகம்
+c) மங்களூர் துறைமுகம்
+d) மோர்முகாவ் துறைமுகம்
+
+**Answer: b**
+
+**24.** National Waterway 1 (NW-1) is on which river?
+a) Brahmaputra
+b) Godavari
+c) Ganga
+d) Mahanadi
+
+தேசிய நீர்வழிப்பாதை 1 (NW-1) எந்த நதியில் அமைந்துள்ளது?
+a) பிரம்மபுத்திரா
+b) கோதாவரி
+c) கங்கை
+d) மகாநதி
+
+**Answer: c**
+
+**25.** What does "PIN" in PIN code, used by India Post, stand for?
+a) Postal Identification Number
+b) Postal Index Number
+c) Personal Identification Number
+d) Postal Information Number
+
+இந்திய அஞ்சல் துறை பயன்படுத்தும் பின் குறியீட்டில் (PIN code) "PIN" என்பதன் விரிவாக்கம் என்ன?
+a) அஞ்சல் அடையாள எண் (Postal Identification Number)
+b) அஞ்சல் குறியீட்டு எண் (Postal Index Number)
+c) தனிப்பட்ட அடையாள எண் (Personal Identification Number)
+d) அஞ்சல் தகவல் எண் (Postal Information Number)
+
+**Answer: b**
+
+**26.** Which organization regulates the telecommunication sector in India?
+a) DOT (Department of Telecommunications)
+b) TRAI (Telecom Regulatory Authority of India)
+c) BSNL (Bharat Sanchar Nigam Limited)
+d) MTNL (Mahanagar Telephone Nigam Limited)
+
+இந்தியாவில் தொலைத்தொடர்புத் துறையை ஒழுங்குபடுத்தும் அமைப்பு எது?
+a) DOT (தொலைத்தொடர்புத் துறை)
+b) TRAI (இந்திய தொலைத்தொடர்பு ஒழுங்குமுறை ஆணையம்)
+c) BSNL (பாரத் சஞ்சார் நிகாம் லிமிடெட்)
+d) MTNL (மகநகர் டெலிபோன் நிகாம் லிமிடெட்)
+
+**Answer: b**
+
+**27.** The Golden Quadrilateral highway network connects which four major Indian cities?
+a) Delhi, Mumbai, Bengaluru, Kolkata
+b) Delhi, Mumbai, Chennai, Hyderabad
+c) Delhi, Mumbai, Chennai, Kolkata
+d) Delhi, Chennai, Kolkata, Ahmedabad
+
+தங்க நாற்கர நெடுஞ்சாலை அமைப்பு எந்த நான்கு முக்கிய இந்திய நகரங்களை இணைக்கிறது?
+a) டெல்லி, மும்பை, பெங்களூரு, கொல்கத்தா
+b) டெல்லி, மும்பை, சென்னை, ஹைதராபாத்
+c) டெல்லி, மும்பை, சென்னை, கொல்கத்தா
+d) டெல்லி, சென்னை, கொல்கத்தா, அகமதாபாத்
+
+**Answer: c**
+
+**28.** What is the full form of NHAI?
+a) National Highway Association of India
+b) National Highways Authority of India
+c) National Highway Apex Institute
+d) New Highways Authority of India
+
+NHAI என்பதன் முழு விரிவாக்கம் என்ன?
+a) இந்திய தேசிய நெடுஞ்சாலை சங்கம் (National Highway Association of India)
+b) இந்திய தேசிய நெடுஞ்சாலை ஆணையம் (National Highways Authority of India)
+c) தேசிய நெடுஞ்சாலை உச்ச நிறுவனம் (National Highway Apex Institute)
+d) புதிய நெடுஞ்சாலை ஆணையம் (New Highways Authority of India)
+
+**Answer: b**
+
+**29.** The first Metro Rail service in India was started in:
+a) Delhi
+b) Mumbai
+c) Kolkata
+d) Chennai
+
+இந்தியாவில் முதல் மெட்ரோ ரயில் சேவை எங்கு தொடங்கப்பட்டது?
+a) டெல்லி
+b) மும்பை
+c) கொல்கத்தா
+d) சென்னை
+
+**Answer: c**
+
+**30.** Which organization is primarily responsible for the construction and maintenance of roads in the border areas of India?
+a) National Highways Authority of India (NHAI)
+b) State Public Works Departments (PWD)
+c) Border Roads Organisation (BRO)
+d) Ministry of Defence
+
+இந்தியாவின் எல்லைப் பகுதிகளில் சாலைகள் அமைத்தல் மற்றும் பராமரிப்பதற்கு முதன்மையாகப் பொறுப்பான அமைப்பு எது?
+a) இந்திய தேசிய நெடுஞ்சாலை ஆணையம் (NHAI)
+b) மாநில பொதுப்பணித் துறைகள் (PWD)
+c) எல்லைச் சாலைகள் அமைப்பு (BRO)
+d) பாதுகாப்பு அமைச்சகம்
+
+**Answer: c**
+
+**31.** The Sagarmala Project of the Government of India is related to:
+a) Development of Inland Waterways
+b) Modernization and development of Ports
+c) Construction of Coastal Highways
+d) Promotion of Naval Defence
+
+இந்திய அரசின் சாகர்மாலா திட்டம் எதனுடன் தொடர்புடையது?
+a) உள்நாட்டு நீர்வழிகளின் வளர்ச்சி
+b) துறைமுகங்களின் நவீனமயமாக்கல் மற்றும் வளர்ச்சி
+c) கடலோர நெடுஞ்சாலைகளின் கட்டுமானம்
+d) கடற்படை பாதுகாப்பை ஊக்குவித்தல்
+
+**Answer: b**
+
+**32.** Which of the following is a means of personal communication?
+a) Radio
+b) Television
+c) Email
+d) Newspaper
+
+பின்வருவனவற்றில் எது தனிநபர் தகவல்தொடர்பு சாதனம்?
+a) வானொலி
+b) தொலைக்காட்சி
+c) மின்னஞ்சல்
+d) செய்தித்தாள்
+
+**Answer: c**
+
+**33.** Which satellite series launched by ISRO is primarily used for communication purposes in India?
+a) IRS series
+b) CARTOSAT series
+c) INSAT/GSAT series
+d) RISAT series
+
+இந்தியாவில் தகவல் தொடர்பு நோக்கங்களுக்காக இஸ்ரோவால் ஏவப்பட்ட எந்த செயற்கைக்கோள் தொடர் முதன்மையாக பயன்படுத்தப்படுகிறது?
+a) ஐ.ஆர்.எஸ் தொடர்
+b) கார்ட்டோசாட் தொடர்
+c) இன்சாட்/ஜிசாட் தொடர்
+d) ரிசாட் தொடர்
+
+**Answer: c**
+
+**34.** The term "Tele-density" refers to:
+a) The number of telecom towers in a region
+b) The number of telephone connections per 100 inhabitants
+c) The geographical area covered by telecom services
+d) The density of optical fibre cables
+
+"தொலைபேசி அடர்த்தி" (Tele-density) என்ற சொல் எதைக் குறிக்கிறது?
+a) ஒரு பிராந்தியத்தில் உள்ள தொலைத்தொடர்பு கோபுரங்களின் எண்ணிக்கை
+b) 100 மக்களுக்கு உள்ள தொலைபேசி இணைப்புகளின் எண்ணிக்கை
+c) தொலைத்தொடர்பு சேவைகளால் சூழப்பட்ட புவியியல் பகுதி
+d) ஒளியிழை வடங்களின் அடர்த்தி
+
+**Answer: b**
+
+**35.** The headquarters of Doordarshan, India's public service broadcaster, is located in:
+a) Mumbai
+b) Chennai
+c) New Delhi
+d) Kolkata
+
+இந்தியாவின் பொது சேவை ஒளிபரப்பு நிறுவனமான தூர்தர்ஷனின் தலைமையகம் எங்கு அமைந்துள்ளது?
+a) மும்பை
+b) சென்னை
+c) புது டெல்லி
+d) கொல்கத்தா
+
+**Answer: c**
+
+**36.** Which Indian state is often cited as having the highest road density?
+a) Maharashtra
+b) Tamil Nadu
+c) Kerala
+d) Uttar Pradesh
+
+எந்த இந்திய மாநிலம் அதிக சாலை அடர்த்தியைக் கொண்டிருப்பதாக அடிக்கடி குறிப்பிடப்படுகிறது?
+a) மகாராஷ்டிரா
+b) தமிழ்நாடு
+c) கேரளா
+d) உத்தரப் பிரதேசம்
+
+**Answer: c** (Note: Data can vary slightly by year and definition, but Kerala is generally high.)
+
+**37.** The East-West Corridor of the National Highways Development Project (NHDP) connects:
+a) Kolkata to Mumbai
+b) Silchar to Porbandar
+c) Guwahati to Ahmedabad
+d) Jammu to Kanyakumari
+
+தேசிய நெடுஞ்சாலை மேம்பாட்டுத் திட்டத்தின் (NHDP) கிழக்கு-மேற்கு வழித்தடம் எவற்றை இணைக்கிறது?
+a) கொல்கத்தாவிலிருந்து மும்பை
+b) சில்சாரிலிருந்து போர்பந்தர்
+c) கவுகாத்தியிலிருந்து அகமதாபாத்
+d) ஜம்முவிலிருந்து கன்னியாகுமரி
+
+**Answer: b**
+
+**38.** Which is the largest container port in India in terms of TEU (Twenty-foot Equivalent Unit) handled?
+a) Chennai Port
+b) Kandla Port (Deendayal Port)
+c) Mundra Port
+d) Jawaharlal Nehru Port (Nhava Sheva)
+
+ கையாளப்படும் TEU (இருபது-அடி சமமான அலகு) அடிப்படையில் இந்தியாவின் மிகப்பெரிய கொள்கலன் துறைமுகம் எது?
+a) சென்னை துறைமுகம்
+b) காண்ட்லா துறைமுகம் (தீனதயாள் துறைமுகம்)
+c) முந்த்ரா துறைமுகம்
+d) ஜவஹர்லால் நேரு துறைமுகம் (நவா ஷேவா)
+
+**Answer: d** (Mundra Port is also very large and competes closely, sometimes surpassing JNPT, but JNPT has historically been the largest.)
+
+**39.** The Konkan Railway connects Roha in Maharashtra to:
+a) Kochi in Kerala
+b) Mangaluru (Mangalore) in Karnataka
+c) Goa
+d) Kanyakumari in Tamil Nadu
+
+கொங்கன் இரயில்வே மகாராஷ்டிராவில் உள்ள ரோஹாவை எதனுடன் இணைக்கிறது?
+a) கேரளாவில் உள்ள கொச்சி
+b) கர்நாடகாவில் உள்ள மங்களூரு (மங்களூர்)
+c) கோவா
+d) தமிழ்நாட்டில் உள்ள கன்னியாகுமரி
+
+**Answer: b**
+
+**40.** The "BharatNet" project is aimed at providing:
+a) Free Wi-Fi hotspots in cities
+b) Broadband connectivity to all Gram Panchayats
+c) Satellite internet to remote villages
+d) Digital literacy centers in urban areas
+
+"பாரத்நெட்" திட்டம் எதை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது?
+a) நகரங்களில் இலவச Wi-Fi ஹாட்ஸ்பாட்கள்
+b) அனைத்து கிராம பஞ்சாயத்துகளுக்கும் பிராட்பேண்ட் இணைப்பு
+c) தொலைதூர கிராமங்களுக்கு செயற்கைக்கோள் இணையம்
+d) நகர்ப்புறங்களில் டிஜிட்டல் எழுத்தறிவு மையங்கள்
+
+**Answer: b**
+
+**41.** What is the primary objective of the UDAN (Ude Desh ka Aam Naagrik) scheme?
+a) To develop international airports
+b) To make air travel affordable for the common citizen by improving regional connectivity
+c) To promote air cargo services
+d) To privatize national airlines
+
+உடான் (உடே தேஷ் கா ஆம் நாக்ரிக்) திட்டத்தின் முதன்மை நோக்கம் என்ன?
+a) சர்வதேச விமான நிலையங்களை மேம்படுத்துதல்
+b) பிராந்திய இணைப்பை மேம்படுத்துவதன் மூலம் சாமானிய குடிமக்களுக்கு விமானப் பயணத்தை மலிவானதாக மாற்றுதல்
+c) விமான சரக்கு சேவைகளை ஊக்குவித்தல்
+d) தேசிய விமான நிறுவனங்களைத் தனியார்மயமாக்குதல்
+
+**Answer: b**
+
+**42.** Which was the first newspaper published in India?
+a) The Hindu
+b) Times of India
+c) Bengal Gazette (Hicky's Bengal Gazette)
+d) Bombay Samachar
+
+இந்தியாவில் வெளியிடப்பட்ட முதல் செய்தித்தாள் எது?
+a) தி இந்து
+b) டைம்ஸ் ஆஃப் இந்தியா
+c) பெங்கால் கெஜட் (ஹிக்கியின் பெங்கால் கெஜட்)
+d) பாம்பே சமாச்சார்
+
+**Answer: c**
+
+**43.** "Akashvani" is the official Hindi name for which Indian broadcasting organization?
+a) Doordarshan
+b) Prasar Bharati
+c) All India Radio
+d) Press Trust of India
+
+"ஆகாஷவாணி" என்பது எந்த இந்திய ஒளிபரப்பு நிறுவனத்தின் அதிகாரப்பூர்வ இந்தி பெயர்?
+a) தூர்தர்ஷன்
+b) பிரசார் பாரதி
+c) அகில இந்திய வானொலி
+d) பிரஸ் டிரஸ்ட் ஆஃப் இந்தியா
+
+**Answer: c**
+
+**44.** Historically, which is considered one of the oldest modes of long-distance transport?
+a) Air transport
+b) Rail transport
+c) Road transport
+d) Water transport
+
+வரலாற்று ரீதியாக, நீண்ட தூர போக்குவரத்தின் பழமையான முறைகளில் ஒன்றாகக் கருதப்படுவது எது?
+a) வான்வழிப் போக்குவரத்து
+b) இரயில் போக்குவரத்து
+c) சாலைப் போக்குவரத்து
+d) நீர்வழிப் போக்குவரத்து
+
+**Answer: d**
+
+**45.** Pipelines are most economically suitable for transporting:
+a) Solid goods
+b) Perishable goods
+c) Liquids and gases
+d) Passengers
+
+குழாய் வழிகள் எதை கொண்டு செல்ல மிகவும் சிக்கனமானவை?
+a) திட பொருட்கள்
+b) அழுகக்கூடிய பொருட்கள்
+c) திரவங்கள் மற்றும் வாயுக்கள்
+d) பயணிகள்
+
+**Answer: c**
+
+**46.** Which city serves as the headquarters for the East Coast Railway Zone?
+a) Visakhapatnam
+b) Kolkata
+c) Bhubaneswar
+d) Chennai
+
+கிழக்கு கடற்கரை இரயில்வே மண்டலத்தின் தலைமையகமாக எந்த நகரம் செயல்படுகிறது?
+a) விசாகப்பட்டினம்
+b) கொல்கத்தா
+c) புவனேஸ்வர்
+d) சென்னை
+
+**Answer: c**
+
+**47.** In telephony, what does STD stand for?
+a) Standard Telephone Dialling
+b) Subscriber Trunk Dialling
+c) Special Telephone Duty
+d) Service Telephone Department
+
+தொலைபேசித் துறையில், STD என்பதன் விரிவாக்கம் என்ன?
+a) ஸ்டாண்டர்ட் டெலிபோன் டயலிங் (Standard Telephone Dialling)
+b) சந்தாதாரர் நேரடி அழைப்பு (Subscriber Trunk Dialling)
+c) சிறப்பு தொலைபேசி கடமை (Special Telephone Duty)
+d) சேவை தொலைபேசித் துறை (Service Telephone Department)
+
+**Answer: b**
+
+**48.** The Chennai Metro Rail project is being implemented by:
+a) Southern Railway
+b) Tamil Nadu State Transport Corporation
+c) Chennai Metro Rail Limited (CMRL)
+d) Airports Authority of India
+
+சென்னை மெட்ரோ ரயில் திட்டம் யாரால் செயல்படுத்தப்படுகிறது?
+a) தெற்கு இரயில்வே
+b) தமிழ்நாடு அரசுப் போக்குவரத்துக் கழகம்
+c) சென்னை மெட்ரோ இரயில் நிறுவனம் (CMRL)
+d) இந்திய வானூர்தி நிலையங்கள் ஆணையம்
+
+**Answer: c**
+
+**49.** Which of the following is NOT a major port located on the East Coast of India?
+a) Paradip
+b) Visakhapatnam
+c) Kandla (Deendayal Port)
+d) Chennai
+
+பின்வருவனவற்றில் எது இந்தியாவின் கிழக்கு கடற்கரையில் அமைந்துள்ள முக்கிய துறைமுகம் அல்ல?
+a) பாரதீப்
+b) விசாகப்பட்டினம்
+c) காண்ட்லா (தீனதயாள் துறைமுகம்)
+d) சென்னை
+
+**Answer: c** (Kandla is on the West Coast)
+
+**50.** The "Setu Bharatam" project launched by the Government of India aims to:
+a) Construct new bridges over all major rivers
+b) Make all National Highways free of railway level crossings by 2019 (original target)
+c) Connect all state capitals with 4-lane highways
+d) Develop coastal waterways for transport
+
+இந்திய அரசால் தொடங்கப்பட்ட "சேது பாரதம்" திட்டம் எதை நோக்கமாகக் கொண்டுள்ளது?
+a) அனைத்து முக்கிய நதிகளின் குறுக்கே புதிய பாலங்கள் கட்டுதல்
+b) 2019 க்குள் (அசல் இலக்கு) அனைத்து தேசிய நெடுஞ்சாலைகளையும் இரயில்வே லெவல் கிராசிங்குகள் இல்லாததாக மாற்றுதல்
+c) அனைத்து மாநில தலைநகரங்களையும் 4 வழி நெடுஞ்சாலைகளுடன் இணைத்தல்
+d) போக்குவரத்திற்காக கடலோர நீர்வழிகளை மேம்படுத்துதல்
+
+**Answer: b** (Though the original target year has passed, the objective remains.)

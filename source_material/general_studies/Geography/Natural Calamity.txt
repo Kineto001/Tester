@@ -1,0 +1,561 @@
+**Natural Calamity India - TNPSC Group 4 MCQs**
+
+**1. Assertion and Reason Questions (6 questions):**
+
+**Question 1**
+Assertion (A): Coastal regions of India are highly vulnerable to cyclones.
+Reason (R): Cyclones form over warm ocean waters and derive their energy from the latent heat of condensation.
+
+கூற்று (A): இந்தியாவின் கடலோரப் பகுதிகள் சூறாவளிகளால் அதிகம் பாதிக்கப்படுகின்றன.
+காரணம் (R): சூறாவளிகள் சூடான கடல் நீரின் மீது உருவாகின்றன மற்றும் ஒடுக்கத்தின் மறை வெப்பத்திலிருந்து தங்கள் ஆற்றலைப் பெறுகின்றன.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / A உண்மை, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R உண்மை.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+**Question 2**
+Assertion (A): The Himalayan region is prone to frequent landslides.
+Reason (R): The Himalayan region is characterized by steep slopes, fragile rock formations, and heavy rainfall during monsoons.
+
+கூற்று (A): இமயமலைப் பகுதி அடிக்கடி நிலச்சரிவுகளுக்கு ஆளாகிறது.
+காரணம் (R): இமயமலைப் பகுதி செங்குத்தான சரிவுகள், உடையக்கூடிய பாறை அமைப்புகள் மற்றும் பருவமழையின் போது அதிக மழையால் வகைப்படுத்தப்படுகிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / A உண்மை, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R உண்மை.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+**Question 3**
+Assertion (A): Deforestation in hilly areas increases the risk of floods in the plains.
+Reason (R): Forests help in percolation of water and reduce surface runoff.
+
+கூற்று (A): மலைப்பகுதிகளில் காடழிப்பு சமவெளிகளில் வெள்ள அபாயத்தை அதிகரிக்கிறது.
+காரணம் (R): காடுகள் நீர் ஊடுருவலுக்கு உதவுகின்றன மற்றும் மேற்பரப்பு நீர் வழிந்தோட்டத்தைக் குறைக்கின்றன.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / A உண்மை, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R உண்மை.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: a
+
+**Question 4**
+Assertion (A): India has a robust institutional framework for disaster management, including the NDMA and NDRF.
+Reason (R): India has never experienced any major natural disasters.
+
+கூற்று (A): பேரிடர் மேலாண்மைக்காக NDMA மற்றும் NDRF உள்ளிட்ட வலுவான நிறுவன கட்டமைப்பை இந்தியா கொண்டுள்ளது.
+காரணம் (R): இந்தியா இதுவரை எந்த பெரிய இயற்கை பேரழிவுகளையும் அனுபவித்ததில்லை.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / A உண்மை, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R உண்மை.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: c
+
+**Question 5**
+Assertion (A): Earthquakes in India are primarily concentrated in the peninsular region.
+Reason (R): The Indian plate is constantly moving and colliding with the Eurasian plate.
+
+கூற்று (A): இந்தியாவில் நிலநடுக்கங்கள் முதன்மையாக தீபகற்பப் பகுதியில் குவிந்துள்ளன.
+காரணம் (R): இந்திய தட்டு தொடர்ந்து நகர்ந்து யூரேசிய தட்டுடன் மோதுகிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / A உண்மை, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R உண்மை.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: d
+
+**Question 6**
+Assertion (A): Droughts in India are solely caused by lack of rainfall.
+Reason (R): Over-exploitation of groundwater and poor water management practices can exacerbate drought conditions.
+
+கூற்று (A): இந்தியாவில் வறட்சி மழை பற்றாக்குறையால் மட்டுமே ஏற்படுகிறது.
+காரணம் (R): நிலத்தடி நீரை அதிகமாக சுரண்டுவதும், மோசமான நீர் மேலாண்மை நடைமுறைகளும் வறட்சி நிலையை மோசமாக்கும்.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A is true, but R is false. / A உண்மை, ஆனால் R தவறு.
+d) A is false, but R is true. / A தவறு, ஆனால் R உண்மை.
+e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+Answer: d
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions):**
+
+**Question 7**
+Identify the wrongly matched pair:
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+a) Cyclone Fani - Odisha / பானி புயல் - ஒடிசா
+b) Bhuj Earthquake - Gujarat / புஜ் பூகம்பம் - குஜராத்
+c) Kedarnath Floods - Uttarakhand / கேதார்நாத் வெள்ளம் - உத்தராகண்ட்
+d) Latur Earthquake - Bihar / லாத்தூர் பூகம்பம் - பீகார்
+Answer: d (Latur Earthquake - Maharashtra / லாத்தூர் பூகம்பம் - மகாராஷ்டிரா)
+
+**Question 8**
+Identify the wrongly matched pair:
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+a) NDMA - National Disaster Management Authority / NDMA - தேசிய பேரிடர் மேலாண்மை ஆணையம்
+b) IMD - Indian Meteorological Department / IMD - இந்திய வானிலை ஆய்வுத் துறை
+c) NDRF - National Disaster Response Force / NDRF - தேசிய பேரிடர் மீட்புப் படை
+d) GSI - Geological Survey of India (Primarily for Tsunami Warning) / GSI - இந்திய புவியியல் ஆய்வு மையம் (முதன்மையாக சுனாமி எச்சரிக்கைக்கு)
+Answer: d (GSI - Geological Survey of India (Primarily for geological surveys and studies, Tsunami warning is by INCOIS) / GSI - இந்திய புவியியல் ஆய்வு மையம் (முதன்மையாக புவியியல் ஆய்வுகள் மற்றும் படிப்புகளுக்கு, சுனாமி எச்சரிக்கை INCOIS மூலம் வழங்கப்படுகிறது))
+
+**Question 9**
+Identify the wrongly matched pair related to disaster impact:
+பேரழிவு தாக்கம் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+a) Earthquake - Richter Scale / பூகம்பம் - ரிக்டர் அளவுகோல்
+b) Cyclone - Saffir-Simpson Scale / சூறாவளி - சஃபிர்-சிம்ப்சன் அளவுகோல்
+c) Drought - Palmer Drought Severity Index / வறட்சி - பால்மர் வறட்சி தீவிரம் குறியீடு
+d) Flood - Beaufort Scale / வெள்ளம் - பியூஃபோர்ட் அளவுகோல்
+Answer: d (Flood - Measured by water level/discharge, Beaufort scale is for wind speed / வெள்ளம் - நீர்மட்டம்/வெளியேற்றம் மூலம் அளவிடப்படுகிறது, பியூஃபோர்ட் அளவுகோல் காற்றின் வேகத்திற்கானதாகும்)
+
+**Question 10**
+Identify the wrongly matched pair regarding disaster prone zones in India:
+இந்தியாவில் பேரிடர் பாதிப்பு மண்டலங்கள் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+a) High Seismic Zone - Himalayan Region / உயர் பூகம்ப மண்டலம் - இமயமலைப் பகுதி
+b) High Cyclone Prone Zone - West Coast of India / அதிக சூறாவளி பாதிப்பு மண்டலம் - இந்தியாவின் மேற்கு கடற்கரை
+c) Drought Prone Area - Rajasthan / வறட்சி பாதிப்பு பகுதி - ராஜஸ்தான்
+d) Landslide Prone Zone - Western Ghats / நிலச்சரிவு பாதிப்பு மண்டலம் - மேற்கு தொடர்ச்சி மலைகள்
+Answer: b (High Cyclone Prone Zone - East Coast of India is more prone than West Coast / அதிக சூறாவளி பாதிப்பு மண்டலம் - இந்தியாவின் கிழக்கு கடற்கரை மேற்கு கடற்கரையை விட அதிகம் பாதிக்கப்படுகிறது)
+
+**Question 11**
+Identify the wrongly matched pair:
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+a) Tsunami - Undersea Earthquake / சுனாமி - கடலுக்கடியில் பூகம்பம்
+b) Landslide - Deforestation / நிலச்சரிவு - காடழிப்பு
+c) Heatwave - El Niño / வெப்ப அலை - எல் நினோ
+d) Cold Wave - Volcanic Eruption / குளிர் அலை - எரிமலை வெடிப்பு
+Answer: d (Cold Wave - Usually associated with western disturbances, Siberian winds; Volcanic eruptions can cause temporary cooling but not typical cold waves / குளிர் அலை - பொதுவாக மேற்கத்திய இடையூறுகள், சைபீரிய காற்றுடன் தொடர்புடையது; எரிமலை வெடிப்புகள் தற்காலிக குளிரூட்டலை ஏற்படுத்தலாம் ஆனால் வழக்கமான குளிர் அலைகள் அல்ல)
+
+**Question 12**
+Identify the wrongly matched pair related to disaster mitigation:
+பேரழிவு தணிப்பு தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+a) Earthquake resistant structures - Building codes / பூகம்பத்தை எதிர்க்கும் கட்டமைப்புகள் - கட்டிடக் குறியீடுகள்
+b) Flood control - Afforestation / வெள்ளக் கட்டுப்பாடு - காடு வளர்ப்பு
+c) Cyclone shelters - Coastal areas / சூறாவளி முகாம்கள் - கடலோரப் பகுதிகள்
+d) Drought mitigation - Increased surface runoff / வறட்சி தணிப்பு - அதிகரித்த மேற்பரப்பு நீர் வழிந்தோட்டம்
+Answer: d (Drought mitigation - Reduced surface runoff, increased water conservation / வறட்சி தணிப்பு - குறைக்கப்பட்ட மேற்பரப்பு நீர் வழிந்தோட்டம், அதிகரித்த நீர் சேமிப்பு)
+
+---
+
+**3. Match the Following Questions (6 questions):**
+
+**Question 13**
+Match List-I with List-II:
+List-I (Disaster)             List-II (Primarily Affects)
+1. Earthquake                  a. Coastal areas
+2. Cyclone                     b. Hilly regions
+3. Landslide                   c. River basins
+4. Flood                       d. Tectonic plate boundaries
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (பேரழிவு)        பட்டியல்-II (முதன்மையாக பாதிக்கிறது)
+1. பூகம்பம்                    a. கடலோரப் பகுதிகள்
+2. சூறாவளி                   b. மலைப்பாங்கான பகுதிகள்
+3. நிலச்சரிவு                  c. ஆற்றுப் படுகைகள்
+4. வெள்ளம்                    d. டெக்டோனிக் தட்டு எல்லைகள்
+
+Options:
+A) 1-d, 2-a, 3-b, 4-c
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-d, 2-c, 3-a, 4-b
+D) 1-b, 2-a, 3-d, 4-c
+Answer: A
+
+**Question 14**
+Match List-I with List-II:
+List-I (Agency)                List-II (Primary Role)
+1. IMD                         a. Disaster Response
+2. NDMA                        b. Weather Forecasting
+3. NDRF                        c. Seismic Monitoring
+4. NCS                         d. Disaster Policy and Coordination
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (நிறுவனம்)        பட்டியல்-II (முதன்மை பங்கு)
+1. IMD                         a. பேரிடர் மீட்பு
+2. NDMA                        b. வானிலை முன்னறிவிப்பு
+3. NDRF                        c. நில அதிர்வு கண்காணிப்பு
+4. NCS                         d. பேரிடர் கொள்கை மற்றும் ஒருங்கிணைப்பு
+
+Options:
+A) 1-b, 2-d, 3-a, 4-c
+B) 1-a, 2-b, 3-d, 4-c
+C) 1-b, 2-c, 3-a, 4-d
+D) 1-d, 2-a, 3-c, 4-b
+Answer: A
+
+**Question 15**
+Match List-I with List-II:
+List-I (Disaster Term)         List-II (Description)
+1. Epicenter                   a. Prolonged period of abnormally low rainfall
+2. Storm Surge                 b. Point on Earth's surface directly above an earthquake's focus
+3. Drought                     c. Rapid downslope movement of rock, soil, and debris
+4. Landslide                   d. Abnormal rise of sea water generated by a storm
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (பேரழிவு சொல்)   பட்டியல்-II (விளக்கம்)
+1. நிலநடுக்க மையம் (Epicenter) a. அசாதாரணமாக குறைந்த மழையின் நீண்ட காலம்
+2. புயல் எழுச்சி               b. பூகம்பத்தின் குவியத்திற்கு நேர் மேலே பூமியின் மேற்பரப்பில் உள்ள புள்ளி
+3. வறட்சி                     c. பாறை, மண் மற்றும் குப்பைகளின் விரைவான கீழ்நோக்கிய சரிவு இயக்கம்
+4. நிலச்சரிவு                  d. புயலால் உருவாகும் கடல் நீரின் அசாதாரண எழுச்சி
+
+Options:
+A) 1-b, 2-d, 3-a, 4-c
+B) 1-d, 2-a, 3-b, 4-c
+C) 1-b, 2-c, 3-d, 4-a
+D) 1-a, 2-b, 3-c, 4-d
+Answer: A
+
+**Question 16**
+Match List-I (Year) with List-II (Major Natural Calamity in India):
+பட்டியல்-I (ஆண்டு) ஐ பட்டியல்-II (இந்தியாவில் நிகழ்ந்த முக்கிய இயற்கை பேரிடர்) உடன் பொருத்துக:
+List-I (Year)                  List-II (Major Natural Calamity in India)
+1. 2001                        a. Indian Ocean Tsunami / இந்தியப் பெருங்கடல் சுனாமி
+2. 2004                        b. Uttarakhand Floods / உத்தராகண்ட் வெள்ளம்
+3. 2013                        c. Gujarat Earthquake (Bhuj) / குஜராத் பூகம்பம் (புஜ்)
+4. 2018                        d. Kerala Floods / கேரளா வெள்ளம்
+
+Options:
+A) 1-c, 2-a, 3-b, 4-d
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-c, 2-d, 3-a, 4-b
+D) 1-b, 2-a, 3-d, 4-c
+Answer: A
+
+**Question 17**
+Match List-I (Type of Disaster) with List-II (Key Mitigation Strategy):
+பட்டியல்-I (பேரழிவு வகை) ஐ பட்டியல்-II (முக்கிய தணிப்பு உத்தி) உடன் பொருத்துக:
+List-I (Type of Disaster)      List-II (Key Mitigation Strategy)
+1. Flood                       a. Building cyclone shelters / சூறாவளி முகாம்கள் கட்டுதல்
+2. Earthquake                  b. Water harvesting structures / நீர் சேகரிப்பு கட்டமைப்புகள்
+3. Cyclone                     c. Constructing check dams and embankments / தடுப்பணைகள் மற்றும் கரைகள் கட்டுதல்
+4. Drought                     d. Retrofitting of buildings / கட்டிடங்களை வலுவூட்டுதல்
+
+Options:
+A) 1-c, 2-d, 3-a, 4-b
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-d, 2-c, 3-b, 4-a
+D) 1-b, 2-a, 3-d, 4-c
+Answer: A
+
+**Question 18**
+Match List-I (Disaster Management Phase) with List-II (Activity):
+பட்டியல்-I (பேரழிவு மேலாண்மை கட்டம்) ஐ பட்டியல்-II (செயல்பாடு) உடன் பொருத்துக:
+List-I (Disaster Management Phase)  List-II (Activity)
+1. Mitigation                  a. Search and Rescue / தேடுதல் மற்றும் மீட்பு
+2. Preparedness                b. Early warning dissemination / முன்கூட்டியே எச்சரிக்கை பரப்புதல்
+3. Response                    c. Structural measures to reduce impact / தாக்கத்தை குறைக்க கட்டமைப்பு நடவடிக்கைகள்
+4. Recovery                    d. Rehabilitation and reconstruction / புனர்வாழ்வு மற்றும் புனரமைப்பு
+
+Options:
+A) 1-c, 2-b, 3-a, 4-d
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-a, 2-d, 3-c, 4-b
+D) 1-d, 2-c, 3-b, 4-a
+Answer: A
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions):**
+
+**Question 19**
+Which of the following is the nodal agency in India for disaster management at the national level?
+பின்வருவனவற்றில் எது தேசிய அளவில் இந்தியாவில் பேரிடர் மேலாண்மைக்கான முக்கிய நிறுவனம்?
+a) National Disaster Response Force (NDRF) / தேசிய பேரிடர் மீட்புப் படை (NDRF)
+b) Indian Meteorological Department (IMD) / இந்திய வானிலை ஆய்வுத் துறை (IMD)
+c) National Disaster Management Authority (NDMA) / தேசிய பேரிடர் மேலாண்மை ஆணையம் (NDMA)
+d) Ministry of Home Affairs (MHA) / உள்துறை அமைச்சகம் (MHA)
+Answer: c
+
+**Question 20**
+The Richter scale is used to measure the magnitude of:
+ரிக்டர் அளவுகோல் எதன் அளவை அளவிட பயன்படுகிறது?
+a) Cyclones / சூறாவளிகள்
+b) Earthquakes / பூகம்பங்கள்
+c) Floods / வெள்ளம்
+d) Landslides / நிலச்சரிவுகள்
+Answer: b
+
+**Question 21**
+The 2004 Indian Ocean Tsunami was primarily caused by:
+2004 இந்தியப் பெருங்கடல் சுனாமி முதன்மையாக எதனால் ஏற்பட்டது?
+a) A volcanic eruption / ஒரு எரிமலை வெடிப்பு
+b) A massive undersea earthquake / ஒரு பெரிய கடலுக்கடியிலான பூகம்பம்
+c) A strong cyclone / ஒரு வலுவான சூறாவளி
+d) A series of landslides into the ocean / கடலில் தொடர்ச்சியான நிலச்சரிவுகள்
+Answer: b
+
+**Question 22**
+Which part of India is most prone to tropical cyclones?
+இந்தியாவின் எந்தப் பகுதி வெப்பமண்டல சூறாவளிகளால் அதிகம் பாதிக்கப்படுகிறது?
+a) Northern Plains / வட இந்திய சமவெளிகள்
+b) Western Ghats / மேற்கு தொடர்ச்சி மலைகள்
+c) East Coast / கிழக்கு கடற்கரை
+d) Thar Desert / தார் பாலைவனம்
+Answer: c
+
+**Question 23**
+The National Disaster Response Force (NDRF) was constituted under which Act?
+தேசிய பேரிடர் மீட்புப் படை (NDRF) எந்தச் சட்டத்தின் கீழ் அமைக்கப்பட்டது?
+a) Environment Protection Act, 1986 / சுற்றுச்சூழல் பாதுகாப்புச் சட்டம், 1986
+b) Disaster Management Act, 2005 / பேரிடர் மேலாண்மைச் சட்டம், 2005
+c) National Security Act, 1980 / தேசிய பாதுகாப்புச் சட்டம், 1980
+d) Armed Forces (Special Powers) Act, 1958 / ஆயுதப் படைகள் (சிறப்பு அதிகாரங்கள்) சட்டம், 1958
+Answer: b
+
+**Question 24**
+Which of these is a man-made disaster?
+இவற்றில் எது மனிதனால் உருவாக்கப்பட்ட பேரழிவு?
+a) Earthquake / பூகம்பம்
+b) Industrial chemical leak / தொழிற்சாலை இரசாயன கசிவு
+c) Cyclone / சூறாவளி
+d) Tsunami / சுனாமி
+Answer: b
+
+**Question 25**
+The term 'epicenter' is associated with:
+'நிலநடுக்க மையம்' (epicenter) என்ற சொல் எதனுடன் தொடர்புடையது?
+a) Cyclones / சூறாவளிகள்
+b) Floods / வெள்ளம்
+c) Earthquakes / பூகம்பங்கள்
+d) Droughts / வறட்சி
+Answer: c
+
+**Question 26**
+In India, which organization is responsible for issuing cyclone warnings?
+இந்தியாவில், சூறாவளி எச்சரிக்கைகளை வெளியிடும் அமைப்பு எது?
+a) National Centre for Seismology (NCS) / தேசிய நில அதிர்வு மையம் (NCS)
+b) Indian Meteorological Department (IMD) / இந்திய வானிலை ஆய்வுத் துறை (IMD)
+c) Geological Survey of India (GSI) / இந்திய புவியியல் ஆய்வு மையம் (GSI)
+d) National Remote Sensing Centre (NRSC) / தேசிய தொலையுணர்வு மையம் (NRSC)
+Answer: b
+
+**Question 27**
+The Bhuj earthquake, one of India's most devastating, occurred in the state of:
+இந்தியாவின் மிக மோசமான பூகம்பங்களில் ஒன்றான புஜ் பூகம்பம் எந்த மாநிலத்தில் ஏற்பட்டது?
+a) Maharashtra / மகாராஷ்டிரா
+b) Gujarat / குஜராத்
+c) Rajasthan / ராஜஸ்தான்
+d) Madhya Pradesh / மத்திய பிரதேசம்
+Answer: b
+
+**Question 28**
+Which one of the following is typically NOT considered a geological disaster?
+பின்வருவனவற்றில் எது பொதுவாக புவியியல் பேரழிவாக கருதப்படுவதில்லை?
+a) Earthquake / பூகம்பம்
+b) Volcanic eruption / எரிமலை வெடிப்பு
+c) Tsunami / சுனாமி
+d) Heatwave / வெப்ப அலை
+Answer: d
+
+**Question 29**
+The Disaster Management Act in India was enacted in the year:
+இந்தியாவில் பேரிடர் மேலாண்மைச் சட்டம் எந்த ஆண்டு இயற்றப்பட்டது?
+a) 2002
+b) 2004
+c) 2005
+d) 2008
+Answer: c
+
+**Question 30**
+Which region in India is known for frequent landslides, especially during monsoons?
+இந்தியாவில் எந்தப் பகுதி, குறிப்பாக பருவமழையின் போது, அடிக்கடி நிலச்சரிவுகளுக்கு பெயர் பெற்றது?
+a) Thar Desert / தார் பாலைவனம்
+b) Deccan Plateau / தக்காண பீடபூமி
+c) Himalayan Region / இமயமலைப் பகுதி
+d) Gangetic Plains / கங்கைச் சமவெளி
+Answer: c
+
+**Question 31**
+'Kalbaishakhi' or Nor'westers are pre-monsoon thunderstorms common in:
+'கால்பைசாகி' அல்லது நார்வெஸ்டர்கள் எனப்படும் பருவமழைக்கு முந்தைய இடியுடன் கூடிய மழை எங்கு பொதுவானது?
+a) Kerala and Karnataka / கேரளா மற்றும் கர்நாடகா
+b) Punjab and Haryana / பஞ்சாப் மற்றும் ஹரியானா
+c) Bengal and Assam / வங்கம் மற்றும் அசாம்
+d) Gujarat and Rajasthan / குஜராத் மற்றும் ராஜஸ்தான்
+Answer: c
+
+**Question 32**
+The primary cause of floods in the Brahmaputra river basin is:
+பிரம்மபுத்திரா ஆற்றுப் படுகையில் வெள்ளம் ஏற்படுவதற்கான முதன்மைக் காரணம்:
+a) Cyclonic storms / சூறாவளி புயல்கள்
+b) Heavy monsoon rainfall and snowmelt / கனமான பருவமழை மற்றும் பனி உருகுதல்
+c) Deforestation in coastal areas / கடலோரப் பகுதிகளில் காடழிப்பு
+d) Tsunami waves / சுனாமி அலைகள்
+Answer: b
+
+**Question 33**
+What does 'INCOIS' stand for in the context of disaster warning in India?
+இந்தியாவில் பேரிடர் எச்சரிக்கை சூழலில் 'INCOIS' என்பதன் விரிவாக்கம் என்ன?
+a) Indian National Centre for Ocean Information Services / இந்திய தேசிய கடல் தகவல் சேவைகள் மையம்
+b) Indian National Committee for Oceanic and Inland Systems / இந்திய தேசிய கடல் மற்றும் உள்நாட்டு அமைப்புகளுக்கான குழு
+c) International Network for Coastal Observation and Inland Seas / கடலோர கண்காணிப்பு மற்றும் உள்நாட்டு கடல்களுக்கான சர்வதேச வலையமைப்பு
+d) India's Natural Calamity Operations and Information System / இந்தியாவின் இயற்கை பேரிடர் செயல்பாடுகள் மற்றும் தகவல் அமைப்பு
+Answer: a
+
+**Question 34**
+Which of these is a hydrological disaster?
+இவற்றில் எது நீர் தொடர்பான பேரழிவு (நீரியல் பேரழிவு)?
+a) Earthquake / பூகம்பம்
+b) Volcanic Eruption / எரிமலை வெடிப்பு
+c) Drought / வறட்சி
+d) Landslide / நிலச்சரிவு
+Answer: c
+
+**Question 35**
+The National Institute of Disaster Management (NIDM) is located in:
+தேசிய பேரிடர் மேலாண்மை நிறுவனம் (NIDM) எங்கு அமைந்துள்ளது?
+a) Hyderabad / ஹைதராபாத்
+b) New Delhi / புது தில்லி
+c) Kolkata / கொல்கத்தா
+d) Mumbai / மும்பை
+Answer: b
+
+**Question 36**
+A 'Heat Wave' condition is generally declared when the maximum temperature of a station reaches at least:
+ஒரு 'வெப்ப அலை' நிலை பொதுவாக ஒரு நிலையத்தின் அதிகபட்ச வெப்பநிலை குறைந்தபட்சம் எவ்வளவு அடையும் போது அறிவிக்கப்படுகிறது?
+a) 30°C for plains and 20°C for hilly regions / சமவெளிகளுக்கு 30°C மற்றும் மலைப்பகுதிகளுக்கு 20°C
+b) 35°C for plains and 25°C for hilly regions / சமவெளிகளுக்கு 35°C மற்றும் மலைப்பகுதிகளுக்கு 25°C
+c) 40°C for plains and 30°C for hilly regions / சமவெளிகளுக்கு 40°C மற்றும் மலைப்பகுதிகளுக்கு 30°C
+d) 45°C for plains and 35°C for hilly regions / சமவெளிகளுக்கு 45°C மற்றும் மலைப்பகுதிகளுக்கு 35°C
+Answer: c
+
+**Question 37**
+Which Indian state was severely affected by the Super Cyclone in 1999?
+1999 ஆம் ஆண்டு சூப்பர் சூறாவளியால் கடுமையாக பாதிக்கப்பட்ட இந்திய மாநிலம் எது?
+a) Tamil Nadu / தமிழ்நாடு
+b) Andhra Pradesh / ஆந்திரப் பிரதேசம்
+c) Odisha / ஒடிசா
+d) West Bengal / மேற்கு வங்கம்
+Answer: c
+
+**Question 38**
+The main cause of earthquakes is:
+பூகம்பங்கள் ஏற்படுவதற்கான முக்கிய காரணம்:
+a) Movement of tectonic plates / டெக்டோனிக் தட்டுகளின் இயக்கம்
+b) Heavy rainfall / கனமழை
+c) Strong winds / பலத்த காற்று
+d) Volcanic ash deposition / எரிமலை சாம்பல் படிவு
+Answer: a
+
+**Question 39**
+Which of the following is a mitigation measure for landslides?
+பின்வருவனவற்றில் எது நிலச்சரிவுகளுக்கான தணிப்பு நடவடிக்கை?
+a) Building large dams in hilly areas / மலைப்பகுதிகளில் பெரிய அணைகள் கட்டுதல்
+b) Promoting Jhum cultivation / ஜும் சாகுபடியை ஊக்குவித்தல்
+c) Construction of retaining walls / தடுப்புச் சுவர்கள் கட்டுதல்
+d) Unplanned urbanization on slopes / சரிவுகளில் திட்டமிடப்படாத நகரமயமாக்கல்
+Answer: c
+
+**Question 40**
+The term 'Seismic Zone V' in India indicates:
+இந்தியாவில் 'நில அதிர்வு மண்டலம் V' என்பது எதைக் குறிக்கிறது?
+a) Low damage risk zone / குறைந்த சேத அபாய மண்டலம்
+b) Moderate damage risk zone / மிதமான சேத அபாய மண்டலம்
+c) High damage risk zone / அதிக சேத அபாய மண்டலம்
+d) Very high damage risk zone / மிக அதிக சேத அபாய மண்டலம்
+Answer: d
+
+**Question 41**
+What is the primary function of the State Disaster Response Fund (SDRF)?
+மாநில பேரிடர் மீட்பு நிதியத்தின் (SDRF) முதன்மை செயல்பாடு என்ன?
+a) To conduct research on disaster prediction / பேரிடர் கணிப்பு குறித்த ஆராய்ச்சி நடத்துதல்
+b) To provide immediate relief to victims of notified disasters / அறிவிக்கப்பட்ட பேரழிவுகளால் பாதிக்கப்பட்டவர்களுக்கு உடனடி நிவாரணம் வழங்குதல்
+c) To train disaster management professionals / பேரிடர் மேலாண்மை நிபுணர்களுக்கு பயிற்சி அளித்தல்
+d) To invest in long-term infrastructure projects / நீண்ட கால உள்கட்டமைப்பு திட்டங்களில் முதலீடு செய்தல்
+Answer: b
+
+**Question 42**
+Cloudbursts are often associated with which type of natural calamity in hilly regions?
+மலைப்பாங்கான பகுதிகளில் மேகவெடிப்புகள் பெரும்பாலும் எந்த வகையான இயற்கை பேரிடருடன் தொடர்புடையவை?
+a) Droughts / வறட்சி
+b) Earthquakes / பூகம்பங்கள்
+c) Flash floods and landslides / திடீர் வெள்ளம் மற்றும் நிலச்சரிவுகள்
+d) Cyclones / சூறாவளிகள்
+Answer: c
+
+**Question 43**
+Which of the following gases is a major contributor to the "Greenhouse Effect" that can indirectly influence climate-related disasters?
+காலநிலை தொடர்பான பேரழிவுகளை மறைமுகமாக பாதிக்கக்கூடிய "பசுமை இல்ல விளைவுக்கு" முக்கியமாக பங்களிக்கும் வாயு எது?
+a) Oxygen / ஆக்ஸிஜன்
+b) Nitrogen / நைட்ரஜன்
+c) Carbon Dioxide / கார்பன் டை ஆக்சைடு
+d) Argon / ஆர்கான்
+Answer: c
+
+**Question 44**
+The 'Ring of Fire', known for frequent earthquakes and volcanic eruptions, is located around which ocean?
+அடிக்கடி ஏற்படும் பூகம்பங்கள் மற்றும் எரிமலை வெடிப்புகளுக்கு பெயர் பெற்ற 'நெருப்பு வளையம்' எந்த பெருங்கடலைச் சுற்றி அமைந்துள்ளது?
+a) Atlantic Ocean / அட்லாண்டிக் பெருங்கடல்
+b) Indian Ocean / இந்தியப் பெருங்கடல்
+c) Arctic Ocean / ஆர்க்டிக் பெருங்கடல்
+d) Pacific Ocean / பசிபிக் பெருங்கடல்
+Answer: d
+
+**Question 45**
+Who heads the National Disaster Management Authority (NDMA) in India?
+இந்தியாவில் தேசிய பேரிடர் மேலாண்மை ஆணையத்தின் (NDMA) தலைவர் யார்?
+a) The President of India / இந்தியக் குடியரசுத் தலைவர்
+b) The Prime Minister of India / இந்தியப் பிரதமர்
+c) The Home Minister of India / இந்திய உள்துறை அமைச்சர்
+d) The Cabinet Secretary / அமைச்சரவை செயலாளர்
+Answer: b
+
+**Question 46**
+What is 'Loo' in the Indian context?
+இந்திய சூழலில் 'லூ' (Loo) என்றால் என்ன?
+a) A cold wind in winter / குளிர்காலத்தில் வீசும் குளிர் காற்று
+b) A hot and dry wind in summer / கோடையில் வீசும் வெப்பமான மற்றும் வறண்ட காற்று
+c) A type of monsoon rain / ஒரு வகை பருவமழை
+d) A coastal storm / ஒரு கடலோர புயல்
+Answer: b
+
+**Question 47**
+Which of the following is an example of a 'slow onset' disaster?
+பின்வருவனவற்றில் எது 'மெதுவாகத் தொடங்கும்' பேரழிவுக்கு எடுத்துக்காட்டு?
+a) Earthquake / பூகம்பம்
+b) Flash Flood / திடீர் வெள்ளம்
+c) Cyclone / சூறாவளி
+d) Drought / வறட்சி
+Answer: d
+
+**Question 48**
+The Kosi River, often called the "Sorrow of Bihar", is notorious for causing:
+"பீகாரின் துயரம்" என்று அடிக்கடி அழைக்கப்படும் கோசி நதி, எதை ஏற்படுத்துவதில் பெயர் போனது?
+a) Earthquakes / பூகம்பங்கள்
+b) Droughts / வறட்சி
+c) Floods / வெள்ளம்
+d) Landslides / நிலச்சரிவுகள்
+Answer: c
+
+**Question 49**
+Which is the most earthquake-prone city among the following options in India?
+பின்வரும் இந்திய நகரங்களில் பூகம்பத்தால் அதிகம் பாதிக்கப்படக்கூடிய நகரம் எது?
+a) Chennai / சென்னை
+b) Bengaluru / பெங்களூரு
+c) Srinagar / ஸ்ரீநகர்
+d) Hyderabad / ஹைதராபாத்
+Answer: c
+
+**Question 50**
+Community-Based Disaster Management (CBDM) emphasizes:
+சமூக அடிப்படையிலான பேரிடர் மேலாண்மை (CBDM) எதை வலியுறுத்துகிறது?
+a) Top-down approach from government agencies / அரசு நிறுவனங்களிடமிருந்து மேலிருந்து கீழ் நோக்கிய அணுகுமுறை
+b) Involvement of local communities in planning and response / திட்டமிடல் மற்றும் மீட்புப் பணிகளில் உள்ளூர் சமூகங்களின் ஈடுபாடு
+c) Sole reliance on international aid / சர்வதேச உதவியை மட்டுமே நம்பியிருத்தல்
+d) Use of advanced technology only / மேம்பட்ட தொழில்நுட்பத்தை மட்டுமே பயன்படுத்துதல்
+Answer: b

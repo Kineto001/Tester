@@ -1,0 +1,752 @@
+**Overall Topic: Forest and Wildlife (India)**
+**மொத்த தலைப்பு: காடுகள் மற்றும் வனவிலங்குகள் (இந்தியா)**
+
+---
+
+**1. Assertion and Reason Questions (6 questions)**
+**1. கூற்று மற்றும் காரணம் கேள்விகள் (6 கேள்விகள்)**
+
+**Instructions for Assertion and Reason questions:**
+Each question consists of two statements, Assertion (A) and Reason (R). Examine these two statements carefully and select the answers to these items using the codes given below:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று மற்றும் காரணம் கேள்விகளுக்கான வழிமுறைகள்:**
+ஒவ்வொரு கேள்வியும் இரண்டு கூற்றுகளைக் கொண்டுள்ளது, கூற்று (A) மற்றும் காரணம் (R). இந்த இரண்டு கூற்றுகளையும் கவனமாக ஆராய்ந்து, கீழே கொடுக்கப்பட்டுள்ள குறியீடுகளைப் பயன்படுத்தி இந்தக் கேள்விகளுக்கான பதில்களைத் தேர்ந்தெடுக்கவும்:
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+---
+
+1.
+**Assertion (A):** Tropical Evergreen Forests in India are found in regions with high rainfall and temperature.
+**Reason (R):** These forests have a dense canopy and trees shed their leaves at different times of the year, making them appear green year-round.
+
+**கூற்று (A):** இந்தியாவில் வெப்பமண்டல பசுமைமாறாக் காடுகள் அதிக மழைப்பொழிவு மற்றும் வெப்பநிலை உள்ள பகுதிகளில் காணப்படுகின்றன.
+**காரணம் (R):** இந்தக் காடுகள் அடர்ந்த விதானத்தைக் கொண்டுள்ளன மற்றும் மரங்கள் ஆண்டின் வெவ்வேறு நேரங்களில் தங்கள் இலைகளை உதிர்ப்பதால், ஆண்டு முழுவதும் பச்சையாகத் தோற்றமளிக்கின்றன.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**Answer: a**
+**விடை: a**
+
+---
+
+2.
+**Assertion (A):** Project Tiger was launched in India to protect the dwindling population of tigers.
+**Reason (R):** The primary threat to tigers in India is habitat loss due to deforestation.
+
+**கூற்று (A):** இந்தியாவில் குறைந்து வரும் புலிகளின் எண்ணிக்கையைப் பாதுகாக்க புலி பாதுகாப்புத் திட்டம் தொடங்கப்பட்டது.
+**காரணம் (R):** இந்தியாவில் புலிகளுக்கு முதன்மை அச்சுறுத்தல் காடழிப்பினால் ஏற்படும் வாழ்விட இழப்பு ஆகும்.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**Answer: b** (While habitat loss is a major threat, Project Tiger addresses poaching and other threats too, and the "primary threat" can be debated as poaching is also critical.)
+**விடை: b** (வாழ்விட இழப்பு ஒரு பெரிய அச்சுறுத்தலாக இருந்தாலும், புலி திட்டம் வேட்டையாடுதல் மற்றும் பிற அச்சுறுத்தல்களையும் கையாள்கிறது, மேலும் "முதன்மை அச்சுறுத்தல்" என்பது விவாதத்திற்குரியது, ஏனெனில் வேட்டையாடுதலும் மிக முக்கியமானது.)
+
+---
+
+3.
+**Assertion (A):** Mangrove forests are ecologically important as they act as a buffer against coastal erosion and storm surges.
+**Reason (R):** Mangrove forests are primarily found in freshwater river deltas.
+
+**கூற்று (A):** சதுப்புநிலக் காடுகள் கடற்கரை அரிப்பு மற்றும் புயல் அலைகளுக்கு எதிராக ஒரு தடையாக செயல்படுவதால் சுற்றுச்சூழல் ரீதியாக முக்கியமானவை.
+**காரணம் (R):** சதுப்புநிலக் காடுகள் முதன்மையாக நன்னீர் நதி டெல்டாக்களில் காணப்படுகின்றன.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**Answer: c** (Mangroves thrive in brackish water, not primarily freshwater.)
+**விடை: c** (சதுப்புநிலங்கள் முதன்மையாக நன்னீரில் அல்ல, உவர் நீரில் செழித்து வளர்கின்றன.)
+
+---
+
+4.
+**Assertion (A):** The Western Ghats are recognized as one of the world's biodiversity hotspots.
+**Reason (R):** The Western Ghats have a low number of endemic species.
+
+**கூற்று (A):** மேற்குத் தொடர்ச்சி மலைகள் உலகின் பல்லுயிர் பெருக்க மையங்களில் ஒன்றாக அங்கீகரிக்கப்பட்டுள்ளன.
+**காரணம் (R):** மேற்குத் தொடர்ச்சி மலைகளில் குறைந்த எண்ணிக்கையிலான குறிப்பிட்ட இடத்தில் மட்டும் வாழும் உயிரினங்கள் (endemic species) உள்ளன.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**Answer: c** (Western Ghats have a high number of endemic species.)
+**விடை: c** (மேற்குத் தொடர்ச்சி மலைகளில் அதிக எண்ணிக்கையிலான குறிப்பிட்ட இடத்தில் மட்டும் வாழும் உயிரினங்கள் உள்ளன.)
+
+---
+
+5.
+**Assertion (A):** The Wildlife Protection Act of 1972 provides for the protection of wild animals, birds, and plants.
+**Reason (R):** This Act only covers the establishment of National Parks and not Wildlife Sanctuaries.
+
+**கூற்று (A):** 1972 ஆம் ஆண்டின் வனவிலங்கு பாதுகாப்புச் சட்டம் காட்டு விலங்குகள், பறவைகள் மற்றும் தாவரங்களின் பாதுகாப்பை வழங்குகிறது.
+**காரணம் (R):** இந்தச் சட்டம் தேசிய பூங்காக்களை நிறுவுவதை மட்டுமே உள்ளடக்கியது, வனவிலங்கு சரணாலயங்களை அல்ல.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**Answer: c** (The Act covers both National Parks and Wildlife Sanctuaries.)
+**விடை: c** (இந்தச் சட்டம் தேசிய பூங்காக்கள் மற்றும் வனவிலங்கு சரணாலயங்கள் இரண்டையும் உள்ளடக்கியது.)
+
+---
+
+6.
+**Assertion (A):** Deforestation leads to soil erosion and loss of biodiversity.
+**Reason (R):** Trees bind the soil with their roots and provide habitats for various species.
+
+**கூற்று (A):** காடழிப்பு மண் அரிப்பு மற்றும் பல்லுயிர் இழப்புக்கு வழிவகுக்கிறது.
+**காரணம் (R):** மரங்கள் தங்கள் வேர்களால் மண்ணைப் பிணைத்து பல்வேறு உயிரினங்களுக்கு வாழ்விடங்களை வழங்குகின்றன.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**Answer: a**
+**விடை: a**
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions)**
+**2. தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியும் கேள்விகள் (6 கேள்விகள்)**
+
+7. Identify the wrongly matched pair:
+   தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியவும்:
+   a) Kaziranga National Park - Assam (காசிரங்கா தேசிய பூங்கா - அசாம்)
+   b) Gir National Park - Gujarat (கிர் தேசிய பூங்கா - குஜராத்)
+   c) Sundarbans National Park - Odisha (சுந்தரவன தேசிய பூங்கா - ஒடிசா)
+   d) Jim Corbett National Park - Uttarakhand (ஜிம் கார்பெட் தேசிய பூங்கா - உத்தராகண்ட்)
+
+   **Answer: c** (Sundarbans National Park - West Bengal / சுந்தரவன தேசிய பூங்கா - மேற்கு வங்கம்)
+   **விடை: c** (சுந்தரவன தேசிய பூங்கா - மேற்கு வங்கம்)
+
+---
+
+8. Identify the wrongly matched pair:
+   தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியவும்:
+   a) Bengal Tiger - National Animal of India (வங்காளப் புலி - இந்தியாவின் தேசிய விலங்கு)
+   b) Asiatic Lion - Found only in Gir Forest (ஆசிய சிங்கம் - கிர் காடுகளில் மட்டுமே காணப்படுகிறது)
+   c) One-horned Rhinoceros - Periyar National Park (ஒற்றைக் கொம்பு காண்டாமிருகம் - பெரியார் தேசிய பூங்கா)
+   d) Snow Leopard - Himalayan Region (பனிச்சிறுத்தை - இமயமலைப் பகுதி)
+
+   **Answer: c** (One-horned Rhinoceros - Primarily Kaziranga and Manas National Parks / ஒற்றைக் கொம்பு காண்டாமிருகம் - முக்கியமாக காசிரங்கா மற்றும் மனாஸ் தேசிய பூங்காக்கள்)
+   **விடை: c** (ஒற்றைக் கொம்பு காண்டாமிருகம் - முக்கியமாக காசிரங்கா மற்றும் மனாஸ் தேசிய பூங்காக்கள்)
+
+---
+
+9. Identify the wrongly matched pair regarding forest types and dominant trees:
+   காடுகளின் வகைகள் மற்றும் ஆதிக்க மரங்கள் தொடர்பான தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியவும்:
+   a) Tropical Evergreen Forest - Rosewood (வெப்பமண்டல பசுமைமாறாக் காடு - ரோஸ்வுட்)
+   b) Tropical Deciduous Forest - Teak (வெப்பமண்டல இலையுதிர் காடு - தேக்கு)
+   c) Montane Forest - Pine (மலைக்காடு - பைன்)
+   d) Mangrove Forest - Sal (சதுப்புநிலக் காடு - சால்)
+
+   **Answer: d** (Mangrove Forest - Sundari, Rhizophora / சதுப்புநிலக் காடு - சுந்தரி, ரைசோபோரா)
+   **விடை: d** (சதுப்புநிலக் காடு - சுந்தரி, ரைசோபோரா)
+
+---
+
+10. Identify the wrongly matched pair regarding conservation projects:
+    பாதுகாப்புத் திட்டங்கள் தொடர்பான தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Project Tiger - Tiger Conservation (புலி திட்டம் - புலி பாதுகாப்பு)
+    b) Project Elephant - Elephant Conservation (யானை திட்டம் - யானை பாதுகாப்பு)
+    c) Project Snow Leopard - Red Panda Conservation (பனிச்சிறுத்தை திட்டம் - சிவப்பு பாண்டா பாதுகாப்பு)
+    d) Crocodile Conservation Project - Crocodile Conservation (முதலை பாதுகாப்பு திட்டம் - முதலை பாதுகாப்பு)
+
+    **Answer: c** (Project Snow Leopard - Snow Leopard Conservation / பனிச்சிறுத்தை திட்டம் - பனிச்சிறுத்தை பாதுகாப்பு)
+    **விடை: c** (பனிச்சிறுத்தை திட்டம் - பனிச்சிறுத்தை பாதுகாப்பு)
+
+---
+
+11. Identify the wrongly matched pair regarding environmental acts and year of enactment:
+    சுற்றுச்சூழல் சட்டங்கள் மற்றும் இயற்றப்பட்ட ஆண்டு தொடர்பான தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Wildlife Protection Act - 1972 (வனவிலங்கு பாதுகாப்புச் சட்டம் - 1972)
+    b) Forest Conservation Act - 1980 (வனப் பாதுகாப்புச் சட்டம் - 1980)
+    c) Environment Protection Act - 1996 (சுற்றுச்சூழல் பாதுகாப்புச் சட்டம் - 1996)
+    d) Biological Diversity Act - 2002 (உயிரியல் பன்முகத்தன்மை சட்டம் - 2002)
+
+    **Answer: c** (Environment Protection Act - 1986 / சுற்றுச்சூழல் பாதுகாப்புச் சட்டம் - 1986)
+    **விடை: c** (சுற்றுச்சூழல் பாதுகாப்புச் சட்டம் - 1986)
+
+---
+
+12. Identify the wrongly matched pair of Biosphere Reserve and State:
+    உயிர்க்கோளக் காப்பகம் மற்றும் மாநிலம் தொடர்பான தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Nilgiri Biosphere Reserve - Tamil Nadu, Kerala, Karnataka (நீலகிரி உயிர்க்கோளக் காப்பகம் - தமிழ்நாடு, கேரளா, கர்நாடகா)
+    b) Nanda Devi Biosphere Reserve - Uttarakhand (நந்தா தேவி உயிர்க்கோளக் காப்பகம் - உத்தராகண்ட்)
+    c) Sunderbans Biosphere Reserve - West Bengal (சுந்தரவனம் உயிர்க்கோளக் காப்பகம் - மேற்கு வங்கம்)
+    d) Agasthyamalai Biosphere Reserve - Andhra Pradesh (அகத்தியமலை உயிர்க்கோளக் காப்பகம் - ஆந்திரப் பிரதேசம்)
+
+    **Answer: d** (Agasthyamalai Biosphere Reserve - Kerala, Tamil Nadu / அகத்தியமலை உயிர்க்கோளக் காப்பகம் - கேரளா, தமிழ்நாடு)
+    **விடை: d** (அகத்தியமலை உயிர்க்கோளக் காப்பகம் - கேரளா, தமிழ்நாடு)
+
+---
+
+**3. Match the Following Questions (6 questions)**
+**3. பொருத்துக கேள்விகள் (6 கேள்விகள்)**
+
+13. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்தவும்:
+
+    List-I (National Park) / பட்டியல்-I (தேசிய பூங்கா)
+    1. Bandipur National Park / பந்திப்பூர் தேசிய பூங்கா
+    2. Ranthambore National Park / ரந்தம்பூர் தேசிய பூங்கா
+    3. Kanha National Park / கன்ஹா தேசிய பூங்கா
+    4. Manas National Park / மனாஸ் தேசிய பூங்கா
+
+    List-II (State) / பட்டியல்-II (மாநிலம்)
+    a. Madhya Pradesh / மத்தியப் பிரதேசம்
+    b. Assam / அசாம்
+    c. Karnataka / கர்நாடகா
+    d. Rajasthan / ராஜஸ்தான்
+
+    Options / தெரிவுகள்:
+    A) 1-c, 2-d, 3-a, 4-b
+    B) 1-d, 2-c, 3-b, 4-a
+    C) 1-a, 2-b, 3-c, 4-d
+    D) 1-b, 2-a, 3-d, 4-c
+
+    **Answer: A**
+    **விடை: A**
+
+---
+
+14. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்தவும்:
+
+    List-I (Forest Type) / பட்டியல்-I (காடுகளின் வகை)
+    1. Tropical Thorn Forests / வெப்பமண்டல முட்புதர்க் காடுகள்
+    2. Alpine Forests / ஆல்பைன் காடுகள்
+    3. Tidal Forests / ஓதக் காடுகள் (சதுப்புநிலம்)
+    4. Tropical Deciduous Forests / வெப்பமண்டல இலையுதிர் காடுகள்
+
+    List-II (Characteristic / Region) / பட்டியல்-II (பண்பு / பகுதி)
+    a. Monsoon Forests / பருவமழைக் காடுகள்
+    b. High altitude Himalayan region / உயரமான இமயமலைப் பகுதி
+    c. Regions with less than 70 cm rainfall / 70 செ.மீ.க்கும் குறைவான மழைப்பொழிவு உள்ள பகுதிகள்
+    d. Deltas of major rivers / முக்கிய நதிகளின் டெல்டாக்கள்
+
+    Options / தெரிவுகள்:
+    A) 1-c, 2-b, 3-d, 4-a
+    B) 1-d, 2-a, 3-b, 4-c
+    C) 1-b, 2-c, 3-a, 4-d
+    D) 1-a, 2-d, 3-c, 4-b
+
+    **Answer: A**
+    **விடை: A**
+
+---
+
+15. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்தவும்:
+
+    List-I (Animal) / பட்டியல்-I (விலங்கு)
+    1. Nilgiri Tahr / நீலகிரி வரையாடு
+    2. Lion-tailed Macaque / சிங்கவால் குரங்கு
+    3. Great Indian Bustard / பெரிய இந்திய பஸ்டார்ட்
+    4. Red Panda / சிவப்பு பாண்டா
+
+    List-II (Primary Habitat/Region) / பட்டியல்-II (முதன்மை வாழ்விடம்/பகுதி)
+    a. Eastern Himalayas / கிழக்கு இமயமலை
+    b. Arid and semi-arid grasslands / வறண்ட மற்றும் அரை வறண்ட புல்வெளிகள்
+    c. Western Ghats (Tamil Nadu & Kerala) / மேற்குத் தொடர்ச்சி மலைகள் (தமிழ்நாடு & கேரளா)
+    d. Silent Valley, Western Ghats / சைலண்ட் வேலி, மேற்குத் தொடர்ச்சி மலைகள்
+
+    Options / தெரிவுகள்:
+    A) 1-d, 2-c, 3-a, 4-b
+    B) 1-c, 2-d, 3-b, 4-a
+    C) 1-a, 2-b, 3-d, 4-c
+    D) 1-b, 2-a, 3-c, 4-d
+
+    **Answer: B**
+    **விடை: B**
+
+---
+
+16. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்தவும்:
+
+    List-I (Conservation Term) / பட்டியல்-I (பாதுகாப்புச் சொல்)
+    1. Endemic Species / குறிப்பிட்ட இடத்தில் மட்டும் வாழும் உயிரினங்கள்
+    2. Endangered Species / அழிந்து வரும் உயிரினங்கள்
+    3. Extinct Species / அழிந்துவிட்ட உயிரினங்கள்
+    4. Keystone Species / முக்கிய உயிரினங்கள்
+
+    List-II (Definition) / பட்டியல்-II (வரையறை)
+    a. Species that no longer exist anywhere on Earth. / பூமியில் எங்கும் இனி இல்லாத உயிரினங்கள்.
+    b. Species found only in a particular geographical region. / ஒரு குறிப்பிட்ட புவியியல் பகுதியில் மட்டுமே காணப்படும் உயிரினங்கள்.
+    c. Species that play a critical role in maintaining the structure of an ecological community. / ஒரு சூழலியல் சமூகத்தின் கட்டமைப்பைப் பராமரிப்பதில் முக்கிய பங்கு வகிக்கும் உயிரினங்கள்.
+    d. Species at high risk of extinction in the wild. / காடுகளில் அழிந்துபோகும் அதிக ஆபத்தில் உள்ள உயிரினங்கள்.
+
+    Options / தெரிவுகள்:
+    A) 1-a, 2-c, 3-d, 4-b
+    B) 1-c, 2-a, 3-b, 4-d
+    C) 1-b, 2-d, 3-a, 4-c
+    D) 1-d, 2-b, 3-c, 4-a
+
+    **Answer: C**
+    **விடை: C**
+
+---
+
+17. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்தவும்:
+
+    List-I (Movement/Organization) / பட்டியல்-I (இயக்கம்/அமைப்பு)
+    1. Chipko Movement / சிப்கோ இயக்கம்
+    2. Forest Survey of India (FSI) / இந்திய வன ஆய்வு மையம் (FSI)
+    3. Wildlife Institute of India (WII) / இந்திய வனவிலங்கு நிறுவனம் (WII)
+    4. National Tiger Conservation Authority (NTCA) / தேசிய புலிகள் பாதுகாப்பு ஆணையம் (NTCA)
+
+    List-II (Primary Function/Location) / பட்டியல்-II (முதன்மை செயல்பாடு/இடம்)
+    a. Dehradun (Training and Research in Wildlife) / டேராடூன் (வனவிலங்கு பயிற்சி மற்றும் ஆராய்ச்சி)
+    b. Uttarakhand (Forest Conservation Movement) / உத்தராகண்ட் (வனப் பாதுகாப்பு இயக்கம்)
+    c. New Delhi (Administers Project Tiger) / புது தில்லி (புலி திட்டத்தை நிர்வகிக்கிறது)
+    d. Dehradun (Forest Cover Assessment) / டேராடூன் (வனப்பரப்பு மதிப்பீடு)
+
+    Options / தெரிவுகள்:
+    A) 1-d, 2-a, 3-c, 4-b
+    B) 1-c, 2-b, 3-d, 4-a
+    C) 1-b, 2-d, 3-a, 4-c
+    D) 1-a, 2-c, 3-b, 4-d
+
+    **Answer: C**
+    **விடை: C**
+
+---
+
+18. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்தவும்:
+
+    List-I (Tree Species) / பட்டியல்-I (மர வகைகள்)
+    1. Sandalwood / சந்தன மரம்
+    2. Sundari / சுந்தரி
+    3. Deodar / தேவதாரு
+    4. Sal / சால்
+
+    List-II (Predominant Forest Type/Region) / பட்டியல்-II (முதன்மையான காடு வகை/பகுதி)
+    a. Himalayan Montane Forests / இமயமலை மலைக்காடுகள்
+    b. Tropical Moist Deciduous Forests / வெப்பமண்டல ஈர இலையுதிர் காடுகள்
+    c. Mangrove Forests (Sunderbans) / சதுப்புநிலக் காடுகள் (சுந்தரவனம்)
+    d. Southern Dry Deciduous Forests (Karnataka, Tamil Nadu) / தெற்கு வறண்ட இலையுதிர் காடுகள் (கர்நாடகா, தமிழ்நாடு)
+
+    Options / தெரிவுகள்:
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-d, 2-c, 3-a, 4-b
+    C) 1-c, 2-d, 3-b, 4-a
+    D) 1-a, 2-b, 3-c, 4-d
+
+    **Answer: B**
+    **விடை: B**
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions)**
+**4. நிலையான பல தேர்வு கேள்விகள் (32 கேள்விகள்)**
+
+19. Which state in India has the largest forest cover in terms of area?
+    இந்தியாவில் பரப்பளவில் மிகப்பெரிய வனப்பகுதியைக் கொண்ட மாநிலம் எது?
+    a) Arunachal Pradesh / அருணாச்சல பிரதேசம்
+    b) Madhya Pradesh / மத்தியப் பிரதேசம்
+    c) Chhattisgarh / சத்தீஸ்கர்
+    d) Maharashtra / மகாராஷ்டிரா
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+20. Project Tiger was launched in India in the year:
+    இந்தியாவில் புலி திட்டம் தொடங்கப்பட்ட ஆண்டு:
+    a) 1970
+    b) 1973
+    c) 1980
+    d) 1992
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+21. The Gir National Park in Gujarat is famous for:
+    குஜராத்தில் உள்ள கிர் தேசிய பூங்கா எதற்கு பிரபலமானது?
+    a) Bengal Tiger / வங்காளப் புலி
+    b) One-horned Rhinoceros / ஒற்றைக் கொம்பு காண்டாமிருகம்
+    c) Asiatic Lion / ஆசிய சிங்கம்
+    d) Indian Elephant / இந்திய யானை
+
+    **Answer: c**
+    **விடை: c**
+
+---
+
+22. The Wildlife Protection Act was enacted in India in:
+    இந்தியாவில் வனவிலங்கு பாதுகாப்புச் சட்டம் இயற்றப்பட்டது:
+    a) 1972
+    b) 1980
+    c) 1986
+    d) 2002
+
+    **Answer: a**
+    **விடை: a**
+
+---
+
+23. What are species that are found exclusively in a particular area called?
+    ஒரு குறிப்பிட்ட பகுதியில் பிரத்தியேகமாகக் காணப்படும் உயிரினங்கள் எவ்வாறு அழைக்கப்படுகின்றன?
+    a) Exotic species / அயல்நாட்டு உயிரினங்கள்
+    b) Endemic species / குறிப்பிட்ட இடத்தில் மட்டும் வாழும் உயிரினங்கள்
+    c) Endangered species / அழிந்து வரும் உயிரினங்கள்
+    d) Keystone species / முக்கிய உயிரினங்கள்
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+24. Which organization is responsible for the assessment of forest cover in India?
+    இந்தியாவில் வனப்பரப்பை மதிப்பிடும் பொறுப்பு எந்த அமைப்புக்கு உள்ளது?
+    a) Wildlife Institute of India (WII) / இந்திய வனவிலங்கு நிறுவனம் (WII)
+    b) Forest Survey of India (FSI) / இந்திய வன ஆய்வு மையம் (FSI)
+    c) Botanical Survey of India (BSI) / இந்திய தாவரவியல் ஆய்வு மையம் (BSI)
+    d) Zoological Survey of India (ZSI) / இந்திய விலங்கியல் ஆய்வு மையம் (ZSI)
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+25. Keoladeo National Park, formerly known as Bharatpur Bird Sanctuary, is located in which state?
+    முன்னர் பரத்பூர் பறவைகள் சரணாலயம் என்று அழைக்கப்பட்ட கியோலாடியோ தேசிய பூங்கா எந்த மாநிலத்தில் அமைந்துள்ளது?
+    a) Rajasthan / ராஜஸ்தான்
+    b) Gujarat / குஜராத்
+    c) Uttar Pradesh / உத்தரப் பிரதேசம்
+    d) Haryana / ஹரியானா
+
+    **Answer: a**
+    **விடை: a**
+
+---
+
+26. Which of the following is a major threat to biodiversity in India?
+    பின்வருவனவற்றில் இந்தியாவில் பல்லுயிர் பெருக்கத்திற்கு பெரும் அச்சுறுத்தல் எது?
+    a) Afforestation / காடு வளர்ப்பு
+    b) Habitat destruction / வாழ்விட அழிப்பு
+    c) Social forestry / சமூக காடு வளர்ப்பு
+    d) Jhum cultivation control / ஜூம் சாகுபடி கட்டுப்பாடு
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+27. Mudumalai National Park and Wildlife Sanctuary is located in which state?
+    முதுமலை தேசிய பூங்கா மற்றும் வனவிலங்கு சரணாலயம் எந்த மாநிலத்தில் அமைந்துள்ளது?
+    a) Kerala / கேரளா
+    b) Karnataka / கர்நாடகா
+    c) Tamil Nadu / தமிழ்நாடு
+    d) Andhra Pradesh / ஆந்திரப் பிரதேசம்
+
+    **Answer: c**
+    **விடை: c**
+
+---
+
+28. The Nilgiri Tahr is the state animal of:
+    நீலகிரி வரையாடு எந்த மாநிலத்தின் மாநில விலங்கு?
+    a) Kerala / கேரளா
+    b) Tamil Nadu / தமிழ்நாடு
+    c) Karnataka / கர்நாடகா
+    d) Andhra Pradesh / ஆந்திரப் பிரதேசம்
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+29. Which type of forest is predominantly found in the delta regions of Ganga, Mahanadi, Krishna, Godavari, and Kaveri?
+    கங்கை, மகாநதி, கிருஷ்ணா, கோதாவரி மற்றும் காவிரி நதிகளின் டெல்டா பகுதிகளில் பிரதானமாக எந்த வகை காடுகள் காணப்படுகின்றன?
+    a) Tropical Evergreen Forests / வெப்பமண்டல பசுமைமாறாக் காடுகள்
+    b) Montane Forests / மலைக்காடுகள்
+    c) Mangrove Forests / சதுப்புநிலக் காடுகள்
+    d) Tropical Thorn Forests / வெப்பமண்டல முட்புதர்க் காடுகள்
+
+    **Answer: c**
+    **விடை: c**
+
+---
+
+30. The Simlipal Biosphere Reserve is located in:
+    சிம்லிபால் உயிர்க்கோளக் காப்பகம் எங்கு அமைந்துள்ளது?
+    a) West Bengal / மேற்கு வங்கம்
+    b) Odisha / ஒடிசா
+    c) Jharkhand / ஜார்கண்ட்
+    d) Chhattisgarh / சத்தீஸ்கர்
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+31. The term 'Hotspot' for biodiversity was coined by:
+    பல்லுயிர் பெருக்கத்திற்கான 'ஹாட்ஸ்பாட்' என்ற சொல்லை உருவாக்கியவர்:
+    a) Norman Myers / நார்மன் மையர்ஸ்
+    b) Charles Darwin / சார்லஸ் டார்வின்
+    c) Rachel Carson / ரேச்சல் கார்சன்
+    d) E.O. Wilson / ஈ.ஓ. வில்சன்
+
+    **Answer: a**
+    **விடை: a**
+
+---
+
+32. The Chipko Movement was primarily aimed at:
+    சிப்கோ இயக்கம் முதன்மையாக எதை நோக்கமாகக் கொண்டது?
+    a) Protecting tigers / புலிகளைப் பாதுகாத்தல்
+    b) Preventing deforestation / காடழிப்பைத் தடுத்தல்
+    c) Cleaning rivers / ஆறுகளை சுத்தம் செய்தல்
+    d) Promoting wildlife tourism / வனவிலங்கு சுற்றுலாவை மேம்படுத்துதல்
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+33. Which of the following is NOT a type of forest found in India?
+    பின்வருவனவற்றில் இந்தியாவில் காணப்படாத காடுகளின் வகை எது?
+    a) Tropical Evergreen Forest / வெப்பமண்டல பசுமைமாறாக் காடு
+    b) Taiga Forest / டைகா காடு
+    c) Montane Forest / மலைக்காடு
+    d) Mangrove Forest / சதுப்புநிலக் காடு
+
+    **Answer: b** (Taiga forests are found in colder, subarctic regions)
+    **விடை: b** (டைகா காடுகள் குளிரான, துணை ஆர்க்டிக் பகுதிகளில் காணப்படுகின்றன)
+
+---
+
+34. Point Calimere Wildlife and Bird Sanctuary is located in which district of Tamil Nadu?
+    கோடியக்கரை வனவிலங்கு மற்றும் பறவைகள் சரணாலயம் தமிழ்நாட்டின் எந்த மாவட்டத்தில் அமைந்துள்ளது?
+    a) Ramanathapuram / ராமநாதபுரம்
+    b) Nagapattinam / நாகப்பட்டினம்
+    c) Cuddalore / கடலூர்
+    d) Thanjavur / தஞ்சாவூர்
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+35. "Social Forestry" programs aim to:
+    "சமூக காடு வளர்ப்பு" திட்டங்களின் நோக்கம்:
+    a) Increase forest cover on government land only / அரசு நிலங்களில் மட்டும் வனப்பரப்பை அதிகரித்தல்
+    b) Plant trees on common lands, roadsides, and degraded lands with community participation / சமூக பங்களிப்புடன் பொது நிலங்கள், சாலையோரங்கள் மற்றும் சீரழிந்த நிலங்களில் மரங்களை நடுதல்
+    c) Promote commercial logging / வணிக ரீதியான மரம் வெட்டுதலை ஊக்குவித்தல்
+    d) Establish more zoos and botanical gardens / அதிக உயிரியல் பூங்காக்கள் மற்றும் தாவரவியல் பூங்காக்களை நிறுவுதல்
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+36. Sacred groves are:
+    புனித தோப்புகள் என்பவை:
+    a) Forests managed by the government for timber / மரக்கட்டைக்காக அரசாங்கத்தால் நிர்வகிக்கப்படும் காடுகள்
+    b) Patches of forests protected by local communities due to religious beliefs / மத நம்பிக்கைகள் காரணமாக உள்ளூர் சமூகங்களால் பாதுகாக்கப்படும் காடுகளின் பகுதிகள்
+    c) Plantations of economically important trees / பொருளாதார முக்கியத்துவம் வாய்ந்த மரங்களின் தோட்டங்கள்
+    d) Areas reserved exclusively for wildlife research / வனவிலங்கு ஆராய்ச்சிக்காக பிரத்தியேகமாக ஒதுக்கப்பட்ட பகுதிகள்
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+37. The Forest Conservation Act of 1980 was enacted to:
+    1980 ஆம் ஆண்டின் வனப் பாதுகாப்புச் சட்டம் எதற்காக இயற்றப்பட்டது?
+    a) Increase revenue from forest products / வனப் பொருட்களிலிருந்து வருவாயை அதிகரித்தல்
+    b) Control the diversion of forest land for non-forestry purposes / வன நிலங்களை வனமற்ற நோக்கங்களுக்காக மாற்றுவதைக் கட்டுப்படுத்துதல்
+    c) Promote tourism in forest areas / வனப் பகுதிகளில் சுற்றுலாவை மேம்படுத்துதல்
+    d) Encourage shifting cultivation / மாற்று சாகுபடியை ஊக்குவித்தல்
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+38. Which tree is characteristic of the Sunderbans mangrove forest?
+    சுந்தரவன சதுப்புநிலக் காடுகளின் சிறப்பியல்பு மரம் எது?
+    a) Teak / தேக்கு
+    b) Sal / சால்
+    c) Sundari / சுந்தரி
+    d) Pine / பைன்
+
+    **Answer: c**
+    **விடை: c**
+
+---
+
+39. The headquarters of the Botanical Survey of India (BSI) is located in:
+    இந்திய தாவரவியல் ஆய்வு மையத்தின் (BSI) தலைமையகம் எங்கு அமைந்துள்ளது?
+    a) Dehradun / டேராடூன்
+    b) New Delhi / புது தில்லி
+    c) Kolkata / கொல்கத்தா
+    d) Chennai / சென்னை
+
+    **Answer: c**
+    **விடை: c**
+
+---
+
+40. Which one of the following is an ex-situ conservation method for biodiversity?
+    பின்வருவனவற்றில் பல்லுயிர் பெருக்கத்திற்கான வெளி வாழிடப் பாதுகாப்பு முறை (ex-situ conservation) எது?
+    a) National Park / தேசிய பூங்கா
+    b) Wildlife Sanctuary / வனவிலங்கு சரணாலயம்
+    c) Biosphere Reserve / உயிர்க்கோளக் காப்பகம்
+    d) Seed Bank / விதை வங்கி
+
+    **Answer: d**
+    **விடை: d**
+
+---
+
+41. The Anamalai Tiger Reserve is located in which state?
+    ஆனைமலை புலிகள் காப்பகம் எந்த மாநிலத்தில் அமைந்துள்ளது?
+    a) Kerala / கேரளா
+    b) Tamil Nadu / தமிழ்நாடு
+    c) Karnataka / கர்நாடகா
+    d) Andhra Pradesh / ஆந்திரப் பிரதேசம்
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+42. What is Jhum cultivation?
+    ஜூம் சாகுபடி என்றால் என்ன?
+    a) Terrace farming / மாடி விவசாயம்
+    b) Shifting cultivation / மாற்று சாகுபடி
+    c) Commercial farming / வணிக விவசாயம்
+    d) Organic farming / இயற்கை விவசாயம்
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+43. The Red Data Book, which contains lists of endangered species, is published by:
+    அழிந்து வரும் உயிரினங்களின் பட்டியலைக் கொண்ட சிவப்பு தரவுப் புத்தகம் யாரால் வெளியிடப்படுகிறது?
+    a) WWF (World Wildlife Fund) / WWF (உலக வனவிலங்கு நிதி)
+    b) IUCN (International Union for Conservation of Nature) / IUCN (பன்னாட்டு இயற்கைப் பாதுகாப்பு ஒன்றியம்)
+    c) UNEP (United Nations Environment Programme) / UNEP (ஐக்கிய நாடுகள் சுற்றுச்சூழல் திட்டம்)
+    d) FSI (Forest Survey of India) / FSI (இந்திய வன ஆய்வு மையம்)
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+44. Which Indian state is known as the 'Tiger State' due to its high tiger population?
+    அதிக புலிகள் எண்ணிக்கை காரணமாக 'புலி மாநிலம்' என்று அழைக்கப்படும் இந்திய மாநிலம் எது?
+    a) Karnataka / கர்நாடகா
+    b) Madhya Pradesh / மத்தியப் பிரதேசம்
+    c) Uttarakhand / உத்தராகண்ட்
+    d) Maharashtra / மகாராஷ்டிரா
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+45. Periyar National Park in Kerala is primarily known for the conservation of:
+    கேரளாவில் உள்ள பெரியார் தேசிய பூங்கா முதன்மையாக எதன் பாதுகாப்பிற்காக அறியப்படுகிறது?
+    a) Tigers and Elephants / புலிகள் மற்றும் யானைகள்
+    b) Lions and Leopards / சிங்கங்கள் மற்றும் சிறுத்தைகள்
+    c) Rhinoceros and Deer / காண்டாமிருகங்கள் மற்றும் மான்கள்
+    d) Birds and Reptiles / பறவைகள் மற்றும் ஊர்வன
+
+    **Answer: a**
+    **விடை: a**
+
+---
+
+46. Forests that shed their leaves during the dry season to conserve moisture are called:
+    வறண்ட காலத்தில் ஈரப்பதத்தைப் பாதுகாக்க தங்கள் இலைகளை உதிர்க்கும் காடுகள் எவ்வாறு அழைக்கப்படுகின்றன?
+    a) Evergreen Forests / பசுமைமாறாக் காடுகள்
+    b) Deciduous Forests / இலையுதிர் காடுகள்
+    c) Thorn Forests / முட்புதர்க் காடுகள்
+    d) Montane Forests / மலைக்காடுகள்
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+47. The Gulf of Mannar Biosphere Reserve is known for its:
+    மன்னார் வளைகுடா உயிர்க்கோளக் காப்பகம் எதற்கு பெயர் பெற்றது?
+    a) Snow leopards / பனிச்சிறுத்தைகள்
+    b) Mangrove ecosystem / சதுப்புநில சூழல் அமைப்பு
+    c) Coral reefs and marine biodiversity / பவளப்பாறைகள் மற்றும் கடல்சார் பல்லுயிர்
+    d) Desert wildlife / பாலைவன வனவிலங்குகள்
+
+    **Answer: c**
+    **விடை: c**
+
+---
+
+48. What does 'Vanamahotsava' signify in India?
+    இந்தியாவில் 'வனமஹோத்சவம்' எதைக் குறிக்கிறது?
+    a) A harvest festival / ஒரு அறுவடைத் திருவிழா
+    b) A festival of tree plantation / ஒரு மரம் நடும் விழா
+    c) A wildlife census program / ஒரு வனவிலங்கு கணக்கெடுப்பு திட்டம்
+    d) A forest produce exhibition / ஒரு வனப் பொருட்கள் கண்காட்சி
+
+    **Answer: b**
+    **விடை: b**
+
+---
+
+49. The Kaziranga National Park is famous for which animal?
+    காசிரங்கா தேசிய பூங்கா எந்த விலங்குக்கு பிரபலமானது?
+    a) Asiatic Lion / ஆசிய சிங்கம்
+    b) Bengal Tiger / வங்காளப் புலி
+    c) One-horned Rhinoceros / ஒற்றைக் கொம்பு காண்டாமிருகம்
+    d) Indian Elephant / இந்திய யானை
+
+    **Answer: c**
+    **விடை: c**
+
+---
+
+50. The Silent Valley National Park, known for its rich biodiversity, is located in:
+    அதன் வளமான பல்லுயிர் பெருக்கத்திற்கு பெயர் பெற்ற சைலண்ட் வேலி தேசிய பூங்கா எங்கு அமைந்துள்ளது?
+    a) Tamil Nadu / தமிழ்நாடு
+    b) Kerala / கேரளா
+    c) Karnataka / கர்நாடகா
+    d) Andhra Pradesh / ஆந்திரப் பிரதேசம்
+
+    **Answer: b**
+    **விடை: b**

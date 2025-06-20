@@ -1,0 +1,482 @@
+Topic: Electricity (மின்சாரம்)
+TNPSC Group 4 Multiple Choice Questions
+
+**Assertion and Reason Questions (கூற்று மற்றும் காரணம் வகை கேள்விகள்)**
+
+1.
+Assertion (A): Copper is used to make electric wires.
+Reason (R): Copper is a good conductor of electricity.
+கூற்று (A): மின்சாரக் கம்பிகள் தயாரிக்க தாமிரம் பயன்படுத்தப்படுகிறது.
+காரணம் (R): தாமிரம் ஒரு சிறந்த மின் கடத்தி.
+Options:
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+Answer: a
+
+2.
+Assertion (A): An ammeter is always connected in series in a circuit.
+Reason (R): An ammeter has very low resistance.
+கூற்று (A): அம்மீட்டர் எப்போதும் ஒரு மின்சுற்றில் தொடரிணைப்பில் இணைக்கப்படுகிறது.
+காரணம் (R): அம்மீட்டர் மிகக் குறைந்த மின்தடையைக் கொண்டுள்ளது.
+Options:
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+Answer: a
+
+3.
+Assertion (A): When resistors are connected in parallel, the equivalent resistance is less than the smallest individual resistance.
+Reason (R): In a parallel combination, the current divides among the resistors.
+கூற்று (A): மின்தடையாக்கிகள் பக்க இணைப்பில் இணைக்கப்படும்போது, தொகுபயன் மின்தடையானது தனிப்பட்ட மின்தடைகளில் மிகச் சிறியதை விட குறைவாக இருக்கும்.
+காரணம் (R): பக்க இணைப்பில், மின்னோட்டம் மின்தடையாக்கிகளுக்கு இடையில் பிரிக்கப்படுகிறது.
+Options:
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+Answer: a
+
+4.
+Assertion (A): A fuse wire is made of a material with a high melting point.
+Reason (R): A fuse wire protects electrical appliances from damage due to high current.
+கூற்று (A): மின் உருகி இழையானது அதிக உருகுநிலை கொண்ட பொருளினால் ஆனது.
+காரணம் (R): மின் உருகி இழையானது அதிக மின்னோட்டத்தால் ஏற்படும் சேதத்திலிருந்து மின் சாதனங்களைப் பாதுகாக்கிறது.
+Options:
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+Answer: c
+
+5.
+Assertion (A): LED bulbs are more energy-efficient than incandescent bulbs.
+Reason (R): LED bulbs produce less heat and convert more electrical energy into light.
+கூற்று (A): ஒளிரும் விளக்குகளை (incandescent bulbs) விட LED பல்புகள் அதிக ஆற்றல் திறன் கொண்டவை.
+காரணம் (R): LED பல்புகள் குறைந்த வெப்பத்தை உருவாக்குகின்றன மற்றும் அதிக மின் ஆற்றலை ஒளியாக மாற்றுகின்றன.
+Options:
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+Answer: a
+
+6.
+Assertion (A): The heating element of an electric iron is made of nichrome.
+Reason (R): Nichrome has high resistivity and a high melting point.
+கூற்று (A): மின்சார இஸ்திரி பெட்டியின் வெப்பமூட்டும் உறுப்பு நிக்ரோமால் ஆனது.
+காரணம் (R): நிக்ரோம் அதிக மின்தடை எண்ணையும் அதிக உருகுநிலையையும் கொண்டுள்ளது.
+Options:
+a) Both A and R are true, and R is the correct explanation of A. (A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.)
+b) Both A and R are true, but R is not the correct explanation of A. (A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.)
+c) A is true, but R is false. (A சரி, ஆனால் R தவறு.)
+d) A is false, but R is true. (A தவறு, ஆனால் R சரி.)
+e) Both A and R are false. (A மற்றும் R இரண்டும் தவறு.)
+Answer: a
+
+---
+
+**Wrongly Matched Pairs (தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிதல்)**
+
+7. Identify the wrongly matched pair:
+   (தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:)
+   a) Electric Current - Ampere (மின்னோட்டம் - ஆம்பியர்)
+   b) Potential Difference - Volt (மின்னழுத்த வேறுபாடு - வோல்ட்)
+   c) Electric Power - Joule (மின் திறன் - ஜூல்)
+   d) Electric Charge - Coulomb (மின்னூட்டம் - கூலூம்)
+   Answer: c
+
+8. Identify the wrongly matched pair regarding electrical safety:
+   (மின் பாதுகாப்பு தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:)
+   a) Fuse - Safety device (மின் உருகி - பாதுகாப்பு சாதனம்)
+   b) Insulator - Rubber gloves (காப்பான் - ரப்பர் கையுறைகள்)
+   c) Conductor - Used for covering wires (கடத்தி - கம்பிகளை மூடப் பயன்படுவது)
+   d) Earthing - Prevents electric shock (புவித்தொடுப்பு - மின் அதிர்ச்சியைத் தடுக்கிறது)
+   Answer: c
+
+9. Identify the wrongly matched pair:
+   (தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:)
+   a) Resistor in series - Current same (தொடரிணைப்பு மின்தடையாக்கி - மின்னோட்டம் சமம்)
+   b) Resistor in parallel - Voltage same (பக்க இணைப்பு மின்தடையாக்கி - மின்னழுத்தம் சமம்)
+   c) Ammeter - Measures current (அம்மீட்டர் - மின்னோட்டத்தை அளவிடும்)
+   d) Voltmeter - Connected in series (வோல்ட்மீட்டர் - தொடரிணைப்பில் இணைக்கப்படும்)
+   Answer: d
+
+10. Identify the wrongly matched pair (Unit & Quantity):
+    (தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும் (அலகு & அளவு):)
+    a) Kilowatt-hour - Electric Energy (கிலோவாட்-மணி - மின் ஆற்றல்)
+    b) Ohm - Resistivity (ஓம் - மின்தடை எண்)
+    c) Watt - Electric Power (வாட் - மின் திறன்)
+    d) Volt - Electromotive Force (வோல்ட் - மின்னியக்கு விசை)
+    Answer: b
+
+11. Identify the wrongly matched pair (Device & Principle/Material):
+    (தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும் (சாதனம் & தத்துவம்/பொருள்):)
+    a) Electric Bulb - Heating effect of current (மின் விளக்கு - மின்னோட்டத்தின் வெப்ப விளைவு)
+    b) Fuse Wire - Low melting point alloy (மின் உருகி இழை - குறைந்த உருகுநிலை கொண்ட உலோகக்கலவை)
+    c) LED - Semiconductor material (LED - குறைக்கடத்திப் பொருள்)
+    d) Electric Motor - Chemical effect of current (மின் மோட்டார் - மின்னோட்டத்தின் வேதியியல் விளைவு)
+    Answer: d
+
+12. Identify the wrongly matched pair:
+    (தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:)
+    a) Ohm's Law - V = IR (ஓம் விதி - V = IR)
+    b) Joule's Law of Heating - H = I²Rt (ஜூல் வெப்ப விதி - H = I²Rt)
+    c) Power - P = VI (திறன் - P = VI)
+    d) Resistance in Parallel - R = R1 + R2 (பக்க இணைப்பு மின்தடை - R = R1 + R2)
+    Answer: d
+
+---
+
+**Match the Following (பொருத்துக)**
+
+13.
+    Column A (பகுதி அ)        | Column B (பகுதி ஆ)
+    -----------------------------|----------------------
+    1. Electric Current (மின்னோட்டம்) | a) Volt (வோல்ட்)
+    2. Potential Difference (மின்னழுத்த வேறுபாடு) | b) Ohm (ஓம்)
+    3. Resistance (மின்தடை)      | c) Ampere (ஆம்பியர்)
+    4. Electric Power (மின் திறன்) | d) Watt (வாட்)
+    Options:
+    A) 1-c, 2-a, 3-b, 4-d
+    B) 1-a, 2-c, 3-d, 4-b
+    C) 1-b, 2-d, 3-a, 4-c
+    D) 1-d, 2-b, 3-c, 4-a
+    Answer: A
+
+14.
+    Column A (Device) (பகுதி அ - சாதனம்) | Column B (Function) (பகுதி ஆ - செயல்பாடு)
+    --------------------------------------|----------------------------------------------------
+    1. Ammeter (அம்மீட்டர்)              | a) Measures potential difference (மின்னழுத்த வேறுபாட்டை அளவிடும்)
+    2. Voltmeter (வோல்ட்மீட்டர்)            | b) Measures current (மின்னோட்டத்தை அளவிடும்)
+    3. Galvanometer (கால்வனோமீட்டர்)      | c) Safety device (பாதுகாப்பு சாதனம்)
+    4. Fuse (மின் உருகி)                  | d) Detects presence of current (மின்னோட்டத்தின் இருப்பைக் கண்டறியும்)
+    Options:
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-d, 2-c, 3-b, 4-a
+    Answer: A
+
+15.
+    Column A (Material) (பகுதி அ - பொருள்) | Column B (Property/Use) (பகுதி ஆ - பண்பு/பயன்பாடு)
+    ---------------------------------------|----------------------------------------------------
+    1. Copper (தாமிரம்)                    | a) Insulator (காப்பான்)
+    2. Nichrome (நிக்ரோம்)                 | b) Semiconductor (குறைக்கடத்தி)
+    3. Silicon (சிலிக்கான்)                | c) Heating element (வெப்பமூட்டும் உறுப்பு)
+    4. Rubber (ரப்பர்)                     | d) Conductor for wires (கம்பிகளுக்கான கடத்தி)
+    Options:
+    A) 1-d, 2-c, 3-b, 4-a
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-b, 2-a, 3-d, 4-c
+    D) 1-c, 2-d, 3-a, 4-b
+    Answer: A
+
+16.
+    Column A (Formula) (பகுதி அ - சூத்திரம்) | Column B (Quantity) (பகுதி ஆ - அளவு)
+    ------------------------------------------|---------------------------------------
+    1. V = IR                                  | a) Electric Power (மின் திறன்)
+    2. P = VI                                  | b) Joule's Law (ஜூல் விதி)
+    3. H = I²Rt                                | c) Ohm's Law (ஓம் விதி)
+    4. R = ρ(l/A)                              | d) Resistivity Formula (மின்தடை எண் சூத்திரம்)
+    Options:
+    A) 1-c, 2-a, 3-b, 4-d
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-a, 4-b
+    D) 1-b, 2-a, 3-d, 4-c
+    Answer: A
+
+17.
+    Column A (Effect of Electric Current) (பகுதி அ - மின்னோட்டத்தின் விளைவு) | Column B (Application) (பகுதி ஆ - பயன்பாடு)
+    ------------------------------------------------------------------------|------------------------------------------------
+    1. Heating Effect (வெப்ப விளைவு)                                         | a) Electromagnet (மின்காந்தம்)
+    2. Magnetic Effect (காந்த விளைவு)                                       | b) Electroplating (மின்முலாம் பூசுதல்)
+    3. Chemical Effect (வேதியியல் விளைவு)                                     | c) Electric Iron (மின்சார இஸ்திரி பெட்டி)
+    4. Lighting Effect (ஒளி விளைவு)                                         | d) LED Bulb (LED பல்பு)
+    Options:
+    A) 1-c, 2-a, 3-b, 4-d
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-b, 2-d, 3-a, 4-c
+    D) 1-d, 2-c, 3-b, 4-a
+    Answer: A
+
+18.
+    Column A (Unit) (பகுதி அ - அலகு)        | Column B (Physical Quantity) (பகுதி ஆ - இயற்பியல் அளவு)
+    ----------------------------------------|-----------------------------------------------------
+    1. Coulomb (கூலூம்)                     | a) Electric Power (மின் திறன்)
+    2. Watt (வாட்)                          | b) Electric Charge (மின்னூட்டம்)
+    3. Ohm-meter (ஓம்-மீட்டர்)               | c) Electric Energy (மின் ஆற்றல்)
+    4. Kilowatt-hour (கிலோவாட்-மணி)        | d) Resistivity (மின்தடை எண்)
+    Options:
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-d, 2-c, 3-b, 4-a
+    Answer: A
+
+---
+
+**Multiple Choice Questions (சரியான விடையைத் தேர்ந்தெடுத்து எழுதுக)**
+
+19. The SI unit of electric charge is:
+    (மின்னூட்டத்தின் SI அலகு:)
+    a) Ampere (ஆம்பியர்)
+    b) Volt (வோல்ட்)
+    c) Coulomb (கூலூம்)
+    d) Ohm (ஓம்)
+    Answer: c
+
+20. A device used to measure electric current is:
+    (மின்னோட்டத்தை அளவிடப் பயன்படும் சாதனம்:)
+    a) Voltmeter (வோல்ட்மீட்டர்)
+    b) Ammeter (அம்மீட்டர்)
+    c) Galvanometer (கால்வனோமீட்டர்)
+    d) Potentiometer (மின்னழுத்தமானி)
+    Answer: b
+
+21. Ohm's law states the relationship between:
+    (ஓம் விதி எவற்றுக்கு இடையிலான தொடர்பைக் கூறுகிறது:)
+    a) Current and resistance (மின்னோட்டம் மற்றும் மின்தடை)
+    b) Potential difference and current (மின்னழுத்த வேறுபாடு மற்றும் மின்னோட்டம்)
+    c) Potential difference and resistance (மின்னழுத்த வேறுபாடு மற்றும் மின்தடை)
+    d) Current, potential difference, and resistance (மின்னோட்டம், மின்னழுத்த வேறுபாடு மற்றும் மின்தடை)
+    Answer: b
+
+22. The resistance of a conductor depends on:
+    (ஒரு கடத்தியின் மின்தடை சார்ந்துள்ளது:)
+    a) Length (நீளம்)
+    b) Area of cross-section (குறுக்குவெட்டுப் பரப்பு)
+    c) Material (பொருள்)
+    d) All of the above (மேற்கண்ட அனைத்தும்)
+    Answer: d
+
+23. When resistors are connected in series, the equivalent resistance is:
+    (மின்தடையாக்கிகள் தொடரிணைப்பில் இணைக்கப்படும்போது, தொகுபயன் மின்தடை:)
+    a) Sum of individual resistances (தனிப்பட்ட மின்தடைகளின் கூடுதல்)
+    b) Product of individual resistances (தனிப்பட்ட மின்தடைகளின் பெருக்கல்)
+    c) Reciprocal of sum of reciprocals (தலைகீழ்களின் கூடுதலின் தலைகீழ்)
+    d) Less than the smallest resistance (மிகச்சிறிய மின்தடையை விட குறைவு)
+    Answer: a
+
+24. The commercial unit of electrical energy is:
+    (மின் ஆற்றலின் வணிக அலகு:)
+    a) Joule (ஜூல்)
+    b) Watt (வாட்)
+    c) Kilowatt-hour (kWh) (கிலோவாட்-மணி)
+    d) Volt-Ampere (வோல்ட்-ஆம்பியர்)
+    Answer: c
+
+25. A fuse wire has:
+    (மின் உருகி இழை கொண்டுள்ளது:)
+    a) High resistance, high melting point (அதிக மின்தடை, அதிக உருகுநிலை)
+    b) Low resistance, low melting point (குறைந்த மின்தடை, குறைந்த உருகுநிலை)
+    c) High resistance, low melting point (அதிக மின்தடை, குறைந்த உருகுநிலை)
+    d) Low resistance, high melting point (குறைந்த மின்தடை, அதிக உருகுநிலை)
+    Answer: c
+
+26. Which material is commonly used as a heating element in electric toasters?
+    (மின் ரொட்டி சுடும் கருவியில் வெப்பமூட்டும் இழையாக பொதுவாக பயன்படுத்தப்படும் பொருள் எது?)
+    a) Copper (தாமிரம்)
+    b) Aluminium (அலுமினியம்)
+    c) Nichrome (நிக்ரோம்)
+    d) Silver (வெள்ளி)
+    Answer: c
+
+27. The flow of electric charge is known as:
+    (மின்னூட்டங்களின் ஓட்டம் இவ்வாறு அழைக்கப்படுகிறது:)
+    a) Electric potential (மின்னழுத்தம்)
+    b) Electric current (மின்னோட்டம்)
+    c) Electric resistance (மின்தடை)
+    d) Electric power (மின் திறன்)
+    Answer: b
+
+28. 1 Kilowatt-hour is equal to:
+    (1 கிலோவாட்-மணி இதற்குச் சமம்:)
+    a) 3.6 x 10³ J
+    b) 3.6 x 10⁶ J
+    c) 36 x 10⁵ J
+    d) 3600 J
+    Answer: b
+
+29. A voltmeter is always connected in _______ in a circuit.
+    (ஒரு வோல்ட்மீட்டர் எப்போதும் ஒரு மின்சுற்றில் _______ இணைக்கப்படுகிறது.)
+    a) Series (தொடரிணைப்பில்)
+    b) Parallel (பக்க இணைப்பில்)
+    c) Either series or parallel (தொடரிணைப்பு அல்லது பக்க இணைப்பு)
+    d) None of these (இவற்றில் எதுவுமில்லை)
+    Answer: b
+
+30. The resistivity of a material is measured in:
+    (ஒரு பொருளின் மின்தடை எண் இதன் மூலம் அளவிடப்படுகிறது:)
+    a) Ohm (ஓம்)
+    b) Ohm-meter (ஓம்-மீட்டர்)
+    c) Ohm/meter (ஓம்/மீட்டர்)
+    d) Meter/Ohm (மீட்டர்/ஓம்)
+    Answer: b
+
+31. Which of the following is a good conductor of electricity?
+    (பின்வருவனவற்றில் எது சிறந்த மின் கடத்தி?)
+    a) Glass (கண்ணாடி)
+    b) Rubber (ரப்பர்)
+    c) Silver (வெள்ளி)
+    d) Plastic (பிளாஸ்டிக்)
+    Answer: c
+
+32. The formula for electric power is:
+    (மின் திறனுக்கான சூத்திரம்:)
+    a) P = V/I
+    b) P = I²R
+    c) P = V²/R
+    d) All of the above (மேற்கண்ட அனைத்தும்)
+    Answer: d
+
+33. An electric bulb converts electrical energy into:
+    (ஒரு மின் விளக்கு மின் ஆற்றலை இவ்வாறு மாற்றுகிறது:)
+    a) Heat energy only (வெப்ப ஆற்றல் மட்டும்)
+    b) Light energy only (ஒளி ஆற்றல் மட்டும்)
+    c) Heat and light energy (வெப்பம் மற்றும் ஒளி ஆற்றல்)
+    d) Mechanical energy (இயந்திர ஆற்றல்)
+    Answer: c
+
+34. In a domestic electrical circuit, appliances are connected in:
+    (வீட்டு மின்சுற்றுகளில், சாதனங்கள் இவ்வாறு இணைக்கப்படுகின்றன:)
+    a) Series only (தொடரிணைப்பில் மட்டும்)
+    b) Parallel only (பக்க இணைப்பில் மட்டும்)
+    c) Both series and parallel (தொடரிணைப்பு மற்றும் பக்க இணைப்பு இரண்டும்)
+    d) Neither series nor parallel (தொடரிணைப்பும் இல்லை பக்க இணைப்பும் இல்லை)
+    Answer: b
+
+35. The phenomenon of producing an electromotive force in a conductor when it is subjected to a varying magnetic field is called:
+    (மாறும் காந்தப்புலத்திற்கு உட்படுத்தப்படும்போது ஒரு கடத்தியில் மின்னியக்கு விசையை உருவாக்கும் நிகழ்வு இவ்வாறு அழைக்கப்படுகிறது:)
+    a) Electromagnetic induction (மின்காந்தத் தூண்டல்)
+    b) Heating effect of current (மின்னோட்டத்தின் வெப்ப விளைவு)
+    c) Chemical effect of current (மின்னோட்டத்தின் வேதியியல் விளைவு)
+    d) Ohm's Law (ஓம் விதி)
+    Answer: a
+
+36. A device that converts electrical energy into mechanical energy is:
+    (மின் ஆற்றலை இயந்திர ஆற்றலாக மாற்றும் சாதனம்:)
+    a) Generator (மின்னியற்றி)
+    b) Motor (மின் மோட்டார்)
+    c) Transformer (மின்மாற்றி)
+    d) Galvanometer (கால்வனோமீட்டர்)
+    Answer: b
+
+37. What is the SI unit of potential difference?
+    (மின்னழுத்த வேறுபாட்டின் SI அலகு என்ன?)
+    a) Ampere (ஆம்பியர்)
+    b) Watt (வாட்)
+    c) Volt (வோல்ட்)
+    d) Ohm (ஓம்)
+    Answer: c
+
+38. If the current flowing through a resistor is doubled, the heat produced in it will become:
+    (ஒரு மின்தடையாக்கி வழியாக பாயும் மின்னோட்டம் இரட்டிப்பாக்கப்பட்டால், அதில் உருவாகும் வெப்பம்:)
+    a) Double (இரட்டிப்பாகும்)
+    b) Half (பாதியாகும்)
+    c) Four times (நான்கு மடங்காகும்)
+    d) One-fourth (நான்கில் ஒரு பங்காகும்)
+    Answer: c
+
+39. Three resistors of 2 Ω, 3 Ω, and 4 Ω are connected in series. The equivalent resistance is:
+    (2 Ω, 3 Ω, மற்றும் 4 Ω ஆகிய மூன்று மின்தடையாக்கிகள் தொடரிணைப்பில் இணைக்கப்பட்டுள்ளன. தொகுபயன் மின்தடை:)
+    a) 9 Ω
+    b) 0.9 Ω
+    c) 24 Ω
+    d) Less than 2 Ω (2 Ω-ஐ விட குறைவு)
+    Answer: a
+
+40. Two resistors of 6 Ω each are connected in parallel. The equivalent resistance is:
+    (ஒவ்வொன்றும் 6 Ω கொண்ட இரண்டு மின்தடையாக்கிகள் பக்க இணைப்பில் இணைக்கப்பட்டுள்ளன. தொகுபயன் மின்தடை:)
+    a) 12 Ω
+    b) 6 Ω
+    c) 3 Ω
+    d) 1/3 Ω
+    Answer: c
+
+41. Which of the following is an insulator?
+    (பின்வருவனவற்றில் எது காப்பான்?)
+    a) Iron (இரும்பு)
+    b) Copper (தாமிரம்)
+    c) Ebonite (எபோனைட்)
+    d) Mercury (பாதரசம்)
+    Answer: c
+
+42. The direction of conventional current is:
+    (மரபு மின்னோட்டத்தின் திசை:)
+    a) From negative to positive terminal (எதிர்முனையிலிருந்து நேர்முனைக்கு)
+    b) From positive to negative terminal (நேர்முனையிலிருந்து எதிர்முனைக்கு)
+    c) In the direction of flow of electrons (எலக்ட்ரான்களின் ஓட்ட திசையில்)
+    d) Both a and c (a மற்றும் c இரண்டும்)
+    Answer: b
+
+43. One ampere is defined as:
+    (ஒரு ஆம்பியர் இவ்வாறு வரையறுக்கப்படுகிறது:)
+    a) One joule per coulomb (ஒரு ஜூல் பெர் கூலூம்)
+    b) One coulomb per second (ஒரு கூலூம் பெர் வினாடி)
+    c) One volt per ohm (ஒரு வோல்ட் பெர் ஓம்)
+    d) One watt per volt (ஒரு வாட் பெர் வோல்ட்)
+    Answer: b
+
+44. The purpose of earthing in electrical appliances is:
+    (மின் சாதனங்களில் புவித்தொடுப்பின் நோக்கம்:)
+    a) To increase the efficiency (செயல்திறனை அதிகரிக்க)
+    b) To reduce electricity consumption (மின்சார நுகர்வைக் குறைக்க)
+    c) For safety, to prevent electric shock (பாதுகாப்பிற்காக, மின் அதிர்ச்சியைத் தடுக்க)
+    d) To stabilize the voltage (மின்னழுத்தத்தை நிலைப்படுத்த)
+    Answer: c
+
+45. LED stands for:
+    (LED என்பதன் விரிவாக்கம்:)
+    a) Light Emitting Diode (ஒளி உமிழ் டயோடு)
+    b) Light Emitting Device (ஒளி உமிழ் சாதனம்)
+    c) Low Energy Diode (குறைந்த ஆற்றல் டயோடு)
+    d) Luminous Emitting Display (ஒளிரும் உமிழ் காட்சி)
+    Answer: a
+
+46. The filament of an electric bulb is usually made of:
+    (ஒரு மின் விளக்கின் இழை பொதுவாக இதனால் ஆனது:)
+    a) Nichrome (நிக்ரோம்)
+    b) Tungsten (டங்ஸ்டன்)
+    c) Copper (தாமிரம்)
+    d) Carbon (கார்பன்)
+    Answer: b
+
+47. What is the function of a switch in an electric circuit?
+    (ஒரு மின்சுற்றில் மின்விசையின் செயல்பாடு என்ன?)
+    a) To measure current (மின்னோட்டத்தை அளவிட)
+    b) To measure voltage (மின்னழுத்தத்தை அளவிட)
+    c) To make or break the circuit (மின்சுற்றை இணைக்க அல்லது துண்டிக்க)
+    d) To provide resistance (மின்தடையை வழங்க)
+    Answer: c
+
+48. In India, the frequency of AC (Alternating Current) mains supply is:
+    (இந்தியாவில், AC (மாறுதிசை மின்னோட்டம்) மின்சார விநியோகத்தின் அதிர்வெண்:)
+    a) 60 Hz
+    b) 50 Hz
+    c) 100 Hz
+    d) 25 Hz
+    Answer: b
+
+49. The rate at which electric energy is consumed or dissipated is called:
+    (மின் ஆற்றல் நுகரப்படும் அல்லது சிதறடிக்கப்படும் வீதம் இவ்வாறு அழைக்கப்படுகிறது:)
+    a) Electric current (மின்னோட்டம்)
+    b) Electric resistance (மின்தடை)
+    c) Electric power (மின் திறன்)
+    d) Electric charge (மின்னூட்டம்)
+    Answer: c
+
+50. Which of the following does not use the heating effect of electric current?
+    (பின்வருவனவற்றில் எது மின்னோட்டத்தின் வெப்ப விளைவைப் பயன்படுத்துவதில்லை?)
+    a) Electric iron (மின்சார இஸ்திரி பெட்டி)
+    b) Electric fan (மின்விசிறி)
+    c) Electric heater (மின்சார சூடேற்றி)
+    d) Electric toaster (மின் ரொட்டி சுடும் கருவி)
+    Answer: b

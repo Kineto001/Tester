@@ -1,0 +1,865 @@
+**Overall Topic for Question Generation: Monsoon, Weather and Rainfall, Climate India (Geography)**
+**தலைப்பு: பருவமழை, வானிலை மற்றும் மழைப்பொழிவு, இந்தியாவின் காலநிலை (புவியியல்)**
+
+---
+
+**1. Assertion and Reason Questions (6 questions)**
+**1. கூற்று மற்றும் காரணம் வகை வினாக்கள் (6 வினாக்கள்)**
+
+**Instructions for Assertion and Reason Questions:**
+For each question, an Assertion (A) and a Reason (R) are given. Choose the correct option.
+**கூற்று மற்றும் காரணம் வகை வினாக்களுக்கான வழிமுறைகள்:**
+ஒவ்வொரு வினாவிலும், ஒரு கூற்று (A) மற்றும் ஒரு காரணம் (R) கொடுக்கப்பட்டுள்ளன. சரியான விடையைத் தேர்ந்தெடுக்கவும்.
+
+---
+
+1.
+Assertion (A): The Coromandel Coast receives rainfall during the winter season.
+Reason (R): The Northeast Monsoon winds pick up moisture from the Bay of Bengal and cause rainfall in this region.
+
+கூற்று (A): சோழமண்டலக் கடற்கரை குளிர்காலத்தில் மழையைப் பெறுகிறது.
+காரணம் (R): வடகிழக்கு பருவக்காற்று வங்காள விரிகுடாவிலிருந்து ஈரப்பதத்தை எடுத்து இப்பகுதியில் மழையை ஏற்படுத்துகிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+விருப்பத்தேர்வுகள்:
+a) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, மேலும் காரணம் (R) என்பது கூற்று (A) க்கான சரியான விளக்கமாகும்.
+b) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, ஆனால் காரணம் (R) என்பது கூற்று (A) க்கான சரியான விளக்கமல்ல.
+c) கூற்று (A) சரி, ஆனால் காரணம் (R) தவறு.
+d) கூற்று (A) தவறு, ஆனால் காரணம் (R) சரி.
+e) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் தவறு.
+
+Answer: a
+
+2.
+Assertion (A): Mawsynram receives the highest rainfall in the world.
+Reason (R): It is located on the windward side of the Khasi hills which are funnel-shaped and cause concentrated rainfall.
+
+கூற்று (A): உலகின் மிக அதிக மழைப்பொழிவை மாசின்ராம் பெறுகிறது.
+காரணம் (R): இது புனல் வடிவ காசி மலைகளின் காற்று வீசும் திசையில் அமைந்துள்ளது மற்றும் செறிவான மழைக்கு காரணமாகிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+விருப்பத்தேர்வுகள்:
+a) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, மேலும் காரணம் (R) என்பது கூற்று (A) க்கான சரியான விளக்கமாகும்.
+b) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, ஆனால் காரணம் (R) என்பது கூற்று (A) க்கான சரியான விளக்கமல்ல.
+c) கூற்று (A) சரி, ஆனால் காரணம் (R) தவறு.
+d) கூற்று (A) தவறு, ஆனால் காரணம் (R) சரி.
+e) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் தவறு.
+
+Answer: a
+
+3.
+Assertion (A): The temperature in North India decreases significantly during winter.
+Reason (R): The sun's rays are slanting over the Northern Hemisphere during this period.
+
+கூற்று (A): குளிர்காலத்தில் வட இந்தியாவில் வெப்பநிலை கணிசமாகக் குறைகிறது.
+காரணம் (R): இக்காலத்தில் சூரியனின் கதிர்கள் வட அரைக்கோளத்தின் மீது சாய்வாக விழுகின்றன.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+விருப்பத்தேர்வுகள்:
+a) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, மேலும் காரணம் (R) என்பது கூற்று (A) க்கான சரியான விளக்கமாகும்.
+b) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, ஆனால் காரணம் (R) என்பது கூற்று (A) க்கான சரியான விளக்கமல்ல.
+c) கூற்று (A) சரி, ஆனால் காரணம் (R) தவறு.
+d) கூற்று (A) தவறு, ஆனால் காரணம் (R) சரி.
+e) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் தவறு.
+
+Answer: a
+
+4.
+Assertion (A): The retreating monsoon period in India is often associated with "October Heat".
+Reason (R): This is due to conditions of high temperature and humidity as the monsoon withdraws over still moist land under clear skies.
+
+கூற்று (A): இந்தியாவில் பின்னடையும் பருவமழைக் காலம் பெரும்பாலும் "அக்டோபர் வெப்பம்" உடன் தொடர்புடையது.
+காரணம் (R): பருவமழை தெளிவான வானத்தின் கீழ் இன்னும் ஈரமான நிலப்பரப்பில் இருந்து பின்வாங்குவதால், அதிக வெப்பநிலை மற்றும் ஈரப்பதம் நிலவுவதே இதற்குக் காரணம்.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+விருப்பத்தேர்வுகள்:
+a) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, மேலும் காரணம் (R) என்பது கூற்று (A) க்கான சரியான விளக்கமாகும்.
+b) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, ஆனால் காரணம் (R) என்பது கூற்று (A) க்கான சரியான விளக்கமல்ல.
+c) கூற்று (A) சரி, ஆனால் காரணம் (R) தவறு.
+d) கூற்று (A) தவறு, ஆனால் காரணம் (R) சரி.
+e) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் தவறு.
+
+Answer: a
+
+5.
+Assertion (A): The western coast of India receives heavier rainfall than the eastern coast during the Southwest Monsoon.
+Reason (R): The Western Ghats act as a barrier to the moisture-laden Southwest Monsoon winds.
+
+கூற்று (A): தென்மேற்கு பருவமழையின் போது இந்தியாவின் கிழக்கு கடற்கரையை விட மேற்கு கடற்கரை அதிக மழையைப் பெறுகிறது.
+காரணம் (R): மேற்குத் தொடர்ச்சி மலைகள் ஈரப்பதம் நிறைந்த தென்மேற்கு பருவக்காற்றுகளுக்கு ஒரு தடையாக செயல்படுகின்றன.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+விருப்பத்தேர்வுகள்:
+a) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, மேலும் காரணம் (R) என்பது கூற்று (A) க்கான சரியான விளக்கமாகும்.
+b) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, ஆனால் காரணம் (R) என்பது கூற்று (A) க்கான சரியான விளக்கமல்ல.
+c) கூற்று (A) சரி, ஆனால் காரணம் (R) தவறு.
+d) கூற்று (A) தவறு, ஆனால் காரணம் (R) சரி.
+e) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் தவறு.
+
+Answer: a
+
+6.
+Assertion (A): El Niño has a significant impact on the Indian monsoon.
+Reason (R): El Niño always leads to drought conditions in India.
+
+கூற்று (A): எல் நினோ இந்திய பருவமழையில் குறிப்பிடத்தக்க தாக்கத்தை ஏற்படுத்துகிறது.
+காரணம் (R): எல் நினோ எப்போதும் இந்தியாவில் வறட்சி நிலைகளுக்கு வழிவகுக்கிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+விருப்பத்தேர்வுகள்:
+a) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, மேலும் காரணம் (R) என்பது கூற்று (A) க்கான சரியான விளக்கமாகும்.
+b) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் சரி, ஆனால் காரணம் (R) என்பது கூற்று (A) க்கான சரியான விளக்கமல்ல.
+c) கூற்று (A) சரி, ஆனால் காரணம் (R) தவறு.
+d) கூற்று (A) தவறு, ஆனால் காரணம் (R) சரி.
+e) கூற்று (A) மற்றும் காரணம் (R) இரண்டும் தவறு.
+
+Answer: c
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions)**
+**2. தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியும் வினாக்கள் (6 வினாக்கள்)**
+
+---
+
+7.  Identify the wrongly matched pair:
+    a) Loo - Hot, dry winds in North India
+    b) Mango Showers - Pre-monsoon showers in Kerala and Karnataka
+    c) Kalbaisakhi - Dust storms in Punjab
+    d) Bardoli Chheerha - Pre-monsoon showers in Assam
+
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) லூ - வட இந்தியாவில் வீசும் வெப்பமான, வறண்ட காற்று
+    b) மாம்பழத் தூறல் - கேரளா மற்றும் கர்நாடகாவில் பருவமழைக்கு முந்தைய மழை
+    c) கால்பைசாகி - பஞ்சாபில் புழுதிப் புயல்கள்
+    d) பர்தோலி சீர்ஹா - அஸ்ஸாமில் பருவமழைக்கு முந்தைய மழை
+
+    Answer: c (Kalbaisakhi - Thunderstorms in Bengal and Assam / கால்பைசாகி - மேற்கு வங்கம் மற்றும் அஸ்ஸாமில் ஏற்படும் இடியுடன் கூடிய மழை)
+
+8.  Identify the wrongly matched pair:
+    a) Southwest Monsoon - June to September
+    b) Retreating Monsoon - October to November
+    c) Northeast Monsoon - December to February
+    d) Winter Season - March to May
+
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) தென்மேற்கு பருவமழை - ஜூன் முதல் செப்டம்பர் வரை
+    b) பின்னடையும் பருவமழை - அக்டோபர் முதல் நவம்பர் வரை
+    c) வடகிழக்கு பருவமழை - டிசம்பர் முதல் பிப்ரவரி வரை
+    d) குளிர்காலம் - மார்ச் முதல் மே வரை
+
+    Answer: d (Winter Season - December to February / குளிர்காலம் - டிசம்பர் முதல் பிப்ரவரி வரை)
+
+9.  Identify the wrongly matched pair:
+    a) Mawsynram - Highest rainfall
+    b) Jaisalmer - Low rainfall in hot desert
+    c) Coromandel Coast - Receives rainfall from Northeast Monsoon
+    d) Malabar Coast - Receives rainfall mainly during winter
+
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) மாசின்ராம் - அதிக மழைப்பொழிவு
+    b) ஜெய்சால்மர் - வெப்ப பாலைவனத்தில் குறைந்த மழைப்பொழிவு
+    c) சோழமண்டலக் கடற்கரை - வடகிழக்கு பருவமழையிலிருந்து மழை பெறுகிறது
+    d) மலபார் கடற்கரை - முக்கியமாக குளிர்காலத்தில் மழை பெறுகிறது
+
+    Answer: d (Malabar Coast - Receives rainfall mainly from Southwest Monsoon / மலபார் கடற்கரை - முக்கியமாக தென்மேற்கு பருவமழையிலிருந்து மழை பெறுகிறது)
+
+10. Identify the wrongly matched pair:
+    a) Tropical Evergreen Forest - Areas with >200 cm rainfall
+    b) Tropical Deciduous Forest - Monsoon Forests
+    c) Thorn Forests - Areas with <50 cm rainfall
+    d) Mangrove Forests - Himalayan foothills
+
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) வெப்பமண்டல பசுமை மாறா காடுகள் - >200 செ.மீ மழைப்பொழிவு உள்ள பகுதிகள்
+    b) வெப்பமண்டல இலையுதிர் காடுகள் - பருவமழைக் காடுகள்
+    c) முள் காடுகள் - <50 செ.மீ மழைப்பொழிவு உள்ள பகுதிகள்
+    d) சதுப்புநிலக் காடுகள் - இமயமலை அடிவாரம்
+
+    Answer: d (Mangrove Forests - Coastal areas, deltas / சதுப்புநிலக் காடுகள் - கடலோரப் பகுதிகள், டெல்டாக்கள்)
+
+11. Identify the wrongly matched pair:
+    a) IMD - Indian Meteorological Department
+    b) Jet Stream - Influences Indian Monsoon
+    c) Orographic Rainfall - Caused by mountain barriers
+    d) Cyclonic Rainfall - Most common in desert regions
+
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) IMD - இந்திய வானிலை ஆய்வு மையம்
+    b) ஜெட் காற்றோட்டம் - இந்திய பருவமழையை பாதிக்கிறது
+    c) மலைத்தடுப்பு மழை - மலைத்தொடர்களால் ஏற்படுகிறது
+    d) சூறாவளி மழை - பாலைவனப் பகுதிகளில் மிகவும் பொதுவானது
+
+    Answer: d (Cyclonic Rainfall - Less common in desert regions / சூறாவளி மழை - பாலைவனப் பகுதிகளில் அரிதானது)
+
+12. Identify the wrongly matched pair:
+    a) October Heat - High temperature and humidity after monsoon withdrawal
+    b) Western Disturbances - Rainfall in North-West India during winter
+    c) Inter Tropical Convergence Zone (ITCZ) - Shifts with apparent movement of the Sun
+    d) Burst of Monsoon - Gradual onset of rainfall
+
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) அக்டோபர் வெப்பம் - பருவமழை பின்வாங்கிய பின் அதிக வெப்பநிலை மற்றும் ஈரப்பதம்
+    b) மேற்கத்திய இடையூறுகள் - குளிர்காலத்தில் வடமேற்கு இந்தியாவில் மழை
+    c) வெப்பமண்டல ஒன்றிணைப்பு மண்டலம் (ITCZ) - சூரியனின் தோற்ற நகர்விற்கு ஏற்ப மாறுகிறது
+    d) பருவமழை வெடிப்பு - மழையின் படிப்படியான துவக்கம்
+
+    Answer: d (Burst of Monsoon - Sudden onset of rainfall / பருவமழை வெடிப்பு - மழையின் திடீர் துவக்கம்)
+
+---
+
+**3. Match the Following Questions (6 questions)**
+**3. பொருத்துக வகை வினாக்கள் (6 வினாக்கள்)**
+
+---
+
+13. Match List-I with List-II:
+    List-I (Phenomenon)
+    1. Mango Shower
+    2. Loo
+    3. Kalbaisakhi
+    4. October Heat
+    List-II (Region/Characteristic)
+    a. North Indian plains in summer
+    b. Bengal and Assam, thunderstorms
+    c. Post-monsoon thermal condition
+    d. Pre-monsoon showers in South India
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (நிகழ்வு)
+    1. மாம்பழத் தூறல்
+    2. லூ
+    3. கால்பைசாகி
+    4. அக்டோபர் வெப்பம்
+    பட்டியல்-II (பகுதி/பண்பு)
+    a. கோடையில் வட இந்திய சமவெளிகள்
+    b. வங்காளம் மற்றும் அஸ்ஸாம், இடியுடன் கூடிய மழை
+    c. பருவமழைக்குப் பிந்தைய வெப்ப நிலை
+    d. தென் இந்தியாவில் பருவமழைக்கு முந்தைய மழை
+
+    Options:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-b, 2-c, 3-d, 4-a
+
+    Answer: A
+
+14. Match List-I with List-II:
+    List-I (Rainfall Type)
+    1. Convectional Rainfall
+    2. Orographic Rainfall
+    3. Cyclonic Rainfall
+    4. Western Disturbances
+    List-II (Associated Feature/Region)
+    a. Windward side of mountains
+    b. Low-pressure systems
+    c. Winter rainfall in North-West India
+    d. Equatorial regions, afternoon showers
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (மழை வகை)
+    1. வெப்பச்சலன மழை
+    2. மலைத்தடுப்பு மழை
+    3. சூறாவளி மழை
+    4. மேற்கத்திய இடையூறுகள்
+    பட்டியல்-II (தொடர்புடைய அம்சம்/பகுதி)
+    a. மலைகளின் காற்று வீசும் பக்கம்
+    b. குறைந்த அழுத்த அமைப்புகள்
+    c. வடமேற்கு இந்தியாவில் குளிர்கால மழை
+    d. பூமத்திய ரேகை பகுதிகள், பிற்பகல் மழை
+
+    Options:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-a, 2-d, 3-c, 4-b
+    C) 1-b, 2-c, 3-a, 4-d
+    D) 1-c, 2-b, 3-d, 4-a
+
+    Answer: A
+
+15. Match List-I with List-II:
+    List-I (Climatic Region - Simplified Koppen)
+    1. Amw (Monsoon with short dry winter)
+    2. As (Monsoon with dry summer)
+    3. BWhw (Hot desert climate)
+    4. Cwg (Monsoon with dry winter, Gangetic plain type)
+    List-II (Characteristic Area)
+    a. Coromandel Coast
+    b. Western Rajasthan
+    c. Most of Indo-Gangetic plains
+    d. West coast of India south of Goa
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (காலநிலை மண்டலம் - எளிதாக்கப்பட்ட கோப்பென்)
+    1. Amw (குறுகிய வறண்ட குளிர்காலத்துடன் கூடிய பருவமழை)
+    2. As (வறண்ட கோடையுடன் கூடிய பருவமழை)
+    3. BWhw (வெப்ப பாலைவன காலநிலை)
+    4. Cwg (வறண்ட குளிர்காலத்துடன் கூடிய பருவமழை, கங்கை சமவெளி வகை)
+    பட்டியல்-II (சிறப்பியல்பு பகுதி)
+    a. சோழமண்டலக் கடற்கரை
+    b. மேற்கு ராஜஸ்தான்
+    c. பெரும்பாலான இந்தோ-கங்கை சமவெளிகள்
+    d. கோவாவிற்கு தெற்கே இந்தியாவின் மேற்கு கடற்கரை
+
+    Options:
+    A) 1-d, 2-a, 3-b, 4-c
+    B) 1-a, 2-b, 3-d, 4-c
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-b, 2-c, 3-d, 4-a
+
+    Answer: A
+
+16. Match List-I with List-II:
+    List-I (Monsoon Branch/System)
+    1. Arabian Sea Branch
+    2. Bay of Bengal Branch
+    3. Northeast Monsoon
+    4. Western Disturbances
+    List-II (Area of Influence)
+    a. Tamil Nadu coast (winter rain)
+    b. Punjab, Haryana (winter rain)
+    c. West Bengal, Northeast India
+    d. Western Ghats, Maharashtra, Gujarat
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (பருவமழைக் கிளை/அமைப்பு)
+    1. அரபிக்கடல் கிளை
+    2. வங்காள விரிகுடா கிளை
+    3. வடகிழக்கு பருவமழை
+    4. மேற்கத்திய இடையூறுகள்
+    பட்டியல்-II (பாதிப்பு பகுதி)
+    a. தமிழ்நாடு கடற்கரை (குளிர்கால மழை)
+    b. பஞ்சாப், ஹரியானா (குளிர்கால மழை)
+    c. மேற்கு வங்கம், வடகிழக்கு இந்தியா
+    d. மேற்கு தொடர்ச்சி மலைகள், மகாராஷ்டிரா, குஜராத்
+
+    Options:
+    A) 1-d, 2-c, 3-a, 4-b
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-c, 2-a, 3-d, 4-b
+    D) 1-b, 2-d, 3-a, 4-c
+
+    Answer: A
+
+17. Match List-I with List-II:
+    List-I (Instrument)
+    1. Thermometer
+    2. Barometer
+    3. Anemometer
+    4. Hygrometer
+    List-II (Measures)
+    a. Wind speed
+    b. Humidity
+    c. Temperature
+    d. Atmospheric pressure
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (கருவி)
+    1. வெப்பமானி (Thermometer)
+    2. காற்றழுத்தமானி (Barometer)
+    3. காற்றின் வேகமானி (Anemometer)
+    4. ஈரப்பதமானி (Hygrometer)
+    பட்டியல்-II (அளவிடுவது)
+    a. காற்றின் வேகம்
+    b. ஈரப்பதம்
+    c. வெப்பநிலை
+    d. வளிமண்டல அழுத்தம்
+
+    Options:
+    A) 1-c, 2-d, 3-a, 4-b
+    B) 1-d, 2-c, 3-b, 4-a
+    C) 1-a, 2-b, 3-c, 4-d
+    D) 1-b, 2-a, 3-d, 4-c
+
+    Answer: A
+
+18. Match List-I with List-II:
+    List-I (Season in India)
+    1. Cold Weather Season (Winter)
+    2. Hot Weather Season (Summer)
+    3. Southwest Monsoon Season (Rainy)
+    4. Retreating Monsoon Season
+    List-II (Primary Wind Direction / Phenomenon)
+    a. Southwesterly winds
+    b. Northeasterly winds (mainland) / Cyclones in Bay of Bengal
+    c. Northeast trade winds / Western Disturbances
+    d. Loo / Nor'westers
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (இந்தியாவின் பருவம்)
+    1. குளிர் காலம் (குளிர்காலம்)
+    2. வெப்ப காலம் (கோடை காலம்)
+    3. தென்மேற்கு பருவமழைக் காலம் (மழைக்காலம்)
+    4. பின்னடையும் பருவமழைக் காலம்
+    பட்டியல்-II (முதன்மை காற்றின் திசை / நிகழ்வு)
+    a. தென்மேற்கு காற்று
+    b. வடகிழக்கு காற்று (பெருநிலப்பரப்பு) / வங்காள விரிகுடாவில் சூறாவளிகள்
+    c. வடகிழக்கு வியாபாரக் காற்று / மேற்கத்திய இடையூறுகள்
+    d. லூ / நார்வெஸ்டர்கள்
+
+    Options:
+    A) 1-c, 2-d, 3-a, 4-b
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-a, 3-b, 4-c
+    D) 1-b, 2-c, 3-d, 4-a
+
+    Answer: A
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions)**
+**4. பலவுள் தெரிக வினாக்கள் (32 வினாக்கள்)**
+
+---
+
+19. The term 'Monsoon' is derived from which language?
+    a) Latin
+    b) Greek
+    c) Arabic
+    d) Persian
+
+19. 'மான்சூன்' என்ற சொல் எந்த மொழியிலிருந்து பெறப்பட்டது?
+    a) லத்தீன்
+    b) கிரேக்கம்
+    c) அரபு
+    d) பாரசீகம்
+    Answer: c
+
+20. Which of the following is the main cause of the Indian monsoon?
+    a) Differential heating of land and sea
+    b) Jet streams
+    c) Rotation of the Earth
+    d) Presence of Himalayas
+
+20. இந்தியப் பருவமழைக்கு முக்கியக் காரணம் எது?
+    a) நிலம் மற்றும் கடலின் வேறுபட்ட வெப்பமடைதல்
+    b) ஜெட் காற்றோட்டங்கள்
+    c) பூமியின் சுழற்சி
+    d) இமயமலையின் இருப்பு
+    Answer: a
+
+21. The Southwest Monsoon first hits which part of India?
+    a) Tamil Nadu coast
+    b) Kerala coast
+    c) Odisha coast
+    d) Gujarat coast
+
+21. தென்மேற்கு பருவமழை முதலில் இந்தியாவின் எந்தப் பகுதியைத் தாக்குகிறது?
+    a) தமிழ்நாடு கடற்கரை
+    b) கேரளக் கடற்கரை
+    c) ஒடிசா கடற்கரை
+    d) குஜராத் கடற்கரை
+    Answer: b
+
+22. 'Mango showers' are beneficial for the ripening of which crop?
+    a) Wheat
+    b) Rice
+    c) Mango
+    d) Cotton
+
+22. 'மாம்பழத் தூறல்' எந்தப் பயிர் பழுப்பதற்குப் பயனளிக்கிறது?
+    a) கோதுமை
+    b) அரிசி
+    c) மாம்பழம்
+    d) பருத்தி
+    Answer: c
+
+23. Which winds are responsible for winter rainfall in Tamil Nadu?
+    a) Southwest Monsoon winds
+    b) Northeast Monsoon winds
+    c) Westerly disturbances
+    d) Loo winds
+
+23. தமிழ்நாட்டில் குளிர்கால மழைக்கு காரணமான காற்று எது?
+    a) தென்மேற்கு பருவக்காற்று
+    b) வடகிழக்கு பருவக்காற்று
+    c) மேற்கத்திய இடையூறுகள்
+    d) லூ காற்று
+    Answer: b
+
+24. The place in India receiving the lowest average annual rainfall is:
+    a) Mawsynram
+    b) Cherrapunji
+    c) Jaisalmer
+    d) Leh
+
+24. இந்தியாவில் மிகக் குறைந்த சராசரி ஆண்டு மழைப்பொழிவைப் பெறும் இடம்:
+    a) மாசின்ராம்
+    b) சிரபுஞ்சி
+    c) ஜெய்சால்மர்
+    d) லே
+    Answer: d
+
+25. What is 'Kalbaisakhi'?
+    a) A type of soil
+    b) A local wind in summer in Bengal and Assam
+    c) A festival in Punjab
+    d) A river in South India
+
+25. 'கால்பைசாகி' என்றால் என்ன?
+    a) ஒரு வகை மண்
+    b) வங்காளம் மற்றும் அஸ்ஸாமில் கோடையில் வீசும் உள்ளூர் காற்று
+    c) பஞ்சாபில் ஒரு திருவிழா
+    d) தென்னிந்தியாவில் ஒரு நதி
+    Answer: b
+
+26. The Western Disturbances originate over the:
+    a) Arabian Sea
+    b) Bay of Bengal
+    c) Mediterranean Sea
+    d) Caspian Sea
+
+26. மேற்கத்திய இடையூறுகள் எங்கு உருவாகின்றன?
+    a) அரபிக்கடல்
+    b) வங்காள விரிகுடா
+    c) மத்திய தரைக்கடல்
+    d) காஸ்பியன் கடல்
+    Answer: c
+
+27. The normal date of onset of Southwest Monsoon in Kerala is:
+    a) May 15
+    b) June 1
+    c) June 15
+    d) July 1
+
+27. கேரளாவில் தென்மேற்கு பருவமழை தொடங்கும் सामान्य தேதி:
+    a) மே 15
+    b) ஜூன் 1
+    c) ஜூன் 15
+    d) ஜூலை 1
+    Answer: b
+
+28. Which of the following factors influences India's climate?
+    a) Latitude
+    b) Altitude
+    c) Distance from the sea
+    d) All of the above
+
+28. பின்வரும் காரணிகளில் எது இந்தியாவின் காலநிலையை பாதிக்கிறது?
+    a) அட்சரேகை
+    b) உயரம்
+    c) கடலிலிருந்து தூரம்
+    d) மேற்கூறிய அனைத்தும்
+    Answer: d
+
+29. The driest part of India lies in:
+    a) Western Rajasthan
+    b) Eastern Ghats
+    c) Deccan Plateau
+    d) Northeast India
+
+29. இந்தியாவின் வறண்ட பகுதி எங்கு அமைந்துள்ளது?
+    a) மேற்கு ராஜஸ்தான்
+    b) கிழக்கு தொடர்ச்சி மலைகள்
+    c) தக்காண பீடபூமி
+    d) வடகிழக்கு இந்தியா
+    Answer: a
+
+30. The Retreating Monsoon season in India is also known as:
+    a) Summer
+    b) Winter
+    c) Autumn
+    d) Spring
+
+30. இந்தியாவில் பின்னடையும் பருவமழைக் காலம் இவ்வாறு அழைக்கப்படுகிறது:
+    a) கோடைக்காலம்
+    b) குளிர்காலம்
+    c) இலையுதிர்காலம்
+    d) வசந்த காலம்
+    Answer: c
+
+31. Orographic rainfall is common in which of these regions?
+    a) Thar Desert
+    b) Western Ghats
+    c) Gangetic Plains
+    d) Coromandel Coast
+
+31. இந்த பிராந்தியங்களில் எதில் மலைத்தடுப்பு மழை பொதுவானது?
+    a) தார் பாலைவனம்
+    b) மேற்கு தொடர்ச்சி மலைகள்
+    c) கங்கைச் சமவெளிகள்
+    d) சோழமண்டலக் கடற்கரை
+    Answer: b
+
+32. The instrument used to measure atmospheric pressure is:
+    a) Thermometer
+    b) Anemometer
+    c) Barometer
+    d) Hygrometer
+
+32. வளிமண்டல அழுத்தத்தை அளவிடப் பயன்படும் கருவி:
+    a) வெப்பமானி
+    b) காற்றின் வேகமானி
+    c) காற்றழுத்தமானி
+    d) ஈரப்பதமானி
+    Answer: c
+
+33. The phenomenon of 'October Heat' is characterized by:
+    a) Low temperature and low humidity
+    b) High temperature and high humidity
+    c) Low temperature and high humidity
+    d) High temperature and low humidity
+
+33. 'அக்டோபர் வெப்பம்' என்ற நிகழ்வின் பண்பு:
+    a) குறைந்த வெப்பநிலை மற்றும் குறைந்த ஈரப்பதம்
+    b) அதிக வெப்பநிலை மற்றும் அதிக ஈரப்பதம்
+    c) குறைந்த வெப்பநிலை மற்றும் அதிக ஈரப்பதம்
+    d) அதிக வெப்பநிலை மற்றும் குறைந்த ஈரப்பதம்
+    Answer: b
+
+34. The 'Burst of Monsoon' refers to:
+    a) The gradual beginning of rains
+    b) The sudden violent onset of rains
+    c) The end of the monsoon season
+    d) Pre-monsoon showers
+
+34. 'பருவமழை வெடிப்பு' என்பது:
+    a) மழையின் படிப்படியான ஆரம்பம்
+    b) மழையின் திடீர் வன்முறை ஆரம்பம்
+    c) பருவமழை காலத்தின் முடிவு
+    d) பருவமழைக்கு முந்தைய மழை
+    Answer: b
+
+35. Which state receives the most rainfall from the Northeast Monsoon?
+    a) Kerala
+    b) Tamil Nadu
+    c) Karnataka
+    d) Maharashtra
+
+35. எந்த மாநிலம் வடகிழக்கு பருவமழையிலிருந்து அதிக மழைப்பொழிவைப் பெறுகிறது?
+    a) கேரளா
+    b) தமிழ்நாடு
+    c) கர்நாடகா
+    d) மகாராஷ்டிரா
+    Answer: b
+
+36. El Niño is a phenomenon that occurs in the:
+    a) Atlantic Ocean
+    b) Indian Ocean
+    c) Pacific Ocean
+    d) Arctic Ocean
+
+36. எல் நினோ என்ற நிகழ்வு எங்கு நிகழ்கிறது?
+    a) அட்லாண்டிக் பெருங்கடல்
+    b) இந்தியப் பெருங்கடல்
+    c) பசிபிக் பெருங்கடல்
+    d) ஆர்க்டிக் பெருங்கடல்
+    Answer: c
+
+37. The average annual rainfall in India is approximately:
+    a) 70 cm
+    b) 120 cm
+    c) 150 cm
+    d) 200 cm
+
+37. இந்தியாவில் சராசரி ஆண்டு மழைப்பொழிவு தோராயமாக:
+    a) 70 செ.மீ
+    b) 120 செ.மீ
+    c) 150 செ.மீ
+    d) 200 செ.மீ
+    Answer: b
+
+38. Which of these is NOT a major season in India as per IMD classification?
+    a) Cold Weather Season
+    b) Hot Weather Season
+    c) Advancing Monsoon Season
+    d) Polar Season
+
+38. IMD வகைப்பாட்டின்படி இவற்றில் எது இந்தியாவில் ஒரு முக்கிய பருவம் அல்ல?
+    a) குளிர் காலம்
+    b) வெப்ப காலம்
+    c) முன்னேறும் பருவமழைக் காலம்
+    d) துருவ காலம்
+    Answer: d
+
+39. The Loo winds are characteristic of which season in North India?
+    a) Winter
+    b) Summer
+    c) Monsoon
+    d) Autumn
+
+39. வட இந்தியாவில் 'லூ' காற்று எந்தப் பருவத்தின் சிறப்பியல்பு?
+    a) குளிர்காலம்
+    b) கோடைக்காலம்
+    c) பருவமழைக்காலம்
+    d) இலையுதிர்காலம்
+    Answer: b
+
+40. The Inter Tropical Convergence Zone (ITCZ) is a:
+    a) High-pressure belt
+    b) Low-pressure belt
+    c) Belt of calm winds
+    d) Belt of strong westerly winds
+
+40. வெப்பமண்டல ஒன்றிணைப்பு மண்டலம் (ITCZ) என்பது:
+    a) உயர் அழுத்த மண்டலம்
+    b) குறைந்த அழுத்த மண்டலம்
+    c) அமைதியான காற்று மண்டலம்
+    d) வலிமையான மேற்கத்திய காற்று மண்டலம்
+    Answer: b
+
+41. Cyclones in the Bay of Bengal are most common during:
+    a) January-February
+    b) May-June and October-November
+    c) July-August
+    d) December
+
+41. வங்காள விரிகுடாவில் சூறாவளிகள் பொதுவாக எந்தக் காலத்தில் ஏற்படும்?
+    a) ஜனவரி-பிப்ரவரி
+    b) மே-ஜூன் மற்றும் அக்டோபர்-நவம்பர்
+    c) ஜூலை-ஆகஸ்ட்
+    d) டிசம்பர்
+    Answer: b
+
+42. Which part of India experiences the highest diurnal range of temperature?
+    a) Coastal regions
+    b) Desert regions
+    c) Mountainous regions
+    d) Islands
+
+42. இந்தியாவின் எந்தப் பகுதி மிக அதிக தினசரி வெப்பநிலை வேறுபாட்டைக் கொண்டுள்ளது?
+    a) கடலோரப் பகுதிகள்
+    b) பாலைவனப் பகுதிகள்
+    c) மலைப்பாங்கான பகுதிகள்
+    d) தீவுகள்
+    Answer: b
+
+43. The climate of India is broadly described as:
+    a) Tropical Savanna
+    b) Tropical Monsoon
+    c) Temperate
+    d) Equatorial
+
+43. இந்தியாவின் காலநிலை பரவலாக இவ்வாறு விவரிக்கப்படுகிறது:
+    a) வெப்பமண்டல சவன்னா
+    b) வெப்பமண்டல பருவமழை
+    c) மிதவெப்ப மண்டலம்
+    d) பூமத்திய ரேகை
+    Answer: b
+
+44. The rainfall distribution in India is highly:
+    a) Uniform
+    b) Variable
+    c) Predictable
+    d) Consistent
+
+44. இந்தியாவில் மழைப்பொழிவுப் பரவல் மிகவும்:
+    a) சீரானது
+    b) மாறுபட்டது
+    c) கணிக்கக்கூடியது
+    d) நிலையானது
+    Answer: b
+
+45. Which of the following is a rain shadow region in India?
+    a) Windward side of Western Ghats
+    b) Leeward side of Western Ghats (e.g., parts of Deccan Plateau)
+    c) Brahmaputra Valley
+    d) Gangetic Delta
+
+45. பின்வருவனவற்றில் இந்தியாவில் மழை மறைவுப் பிரதேசம் எது?
+    a) மேற்கு தொடர்ச்சி மலையின் காற்று வீசும் பக்கம்
+    b) மேற்கு தொடர்ச்சி மலையின் காற்று வீசாப் பக்கம் (உதாரணமாக, தக்காண பீடபூமியின் சில பகுதிகள்)
+    c) பிரம்மபுத்திரா பள்ளத்தாக்கு
+    d) கங்கை டெல்டா
+    Answer: b
+
+46. Which irrigation source is most directly replenished by monsoon rains in many parts of India?
+    a) Canals (from monsoon-fed rivers)
+    b) Tubewells (from groundwater recharged by monsoon)
+    c) Tanks
+    d) Drip irrigation (method)
+
+46. இந்தியாவின் பல பகுதிகளில் பருவமழை நீரால் நேரடியாக நிரப்பப்படும் பாசன ஆதாரம் எது?
+    a) கால்வாய்கள் (பருவமழையால் நிரம்பும் ஆறுகளிலிருந்து)
+    b) ஆழ்துளைக் கிணறுகள் (பருவமழையால் நிலத்தடி நீர் மட்டம் உயருவதால்)
+    c) குளங்கள் (நீர் நிலைகள்)
+    d) சொட்டுநீர்ப் பாசனம் (முறை)
+    Answer: c
+
+47. What is the typical effect of La Niña on the Indian monsoon?
+    a) Weaker monsoon
+    b) Stronger monsoon
+    c) No effect
+    d) Delayed monsoon
+
+47. இந்தியப் பருவமழையில் லா நினாவின் பொதுவான விளைவு என்ன?
+    a) பலவீனமான பருவமழை
+    b) வலிமையான பருவமழை
+    c) விளைவு இல்லை
+    d) தாமதமான பருவமழை
+    Answer: b
+
+48. The northern plains of India receive winter rainfall due to:
+    a) Southwest Monsoon
+    b) Northeast Monsoon
+    c) Western Disturbances
+    d) Tropical Cyclones
+
+48. வட இந்தியச் சமவெளிகள் குளிர்கால மழையைப் பெறுவதற்குக் காரணம்:
+    a) தென்மேற்கு பருவமழை
+    b) வடகிழக்கு பருவமழை
+    c) மேற்கத்திய இடையூறுகள்
+    d) வெப்பமண்டல சூறாவளிகள்
+    Answer: c
+
+49. Which atmospheric layer is most important for weather phenomena?
+    a) Troposphere
+    b) Stratosphere
+    c) Mesosphere
+    d) Thermosphere
+
+49. வானிலை நிகழ்வுகளுக்கு மிக முக்கியமான வளிமண்டல அடுக்கு எது?
+    a) அடிவளிமண்டலம் (Troposphere)
+    b) படையடுக்கு (Stratosphere)
+    c) இடையடுக்கு (Mesosphere)
+    d) வெப்ப அடுக்கு (Thermosphere)
+    Answer: a
+
+50. The highest temperature in India is usually recorded in which month, just before the onset of monsoon over most parts?
+    a) March
+    b) April
+    c) May
+    d) June
+
+50. இந்தியாவின் பெரும்பாலான பகுதிகளில் பருவமழை தொடங்குவதற்கு சற்று முன்பு, அதிகபட்ச வெப்பநிலை பொதுவாக எந்த மாதத்தில் பதிவாகிறது?
+    a) மார்ச்
+    b) ஏப்ரல்
+    c) மே
+    d) ஜூன்
+    Answer: c

@@ -1,0 +1,840 @@
+1. The Central Vigilance Commission (CVC) was set up on the recommendation of which committee?
+a) Sarkaria Committee
+b) Santhanam Committee
+c) Balwant Rai Mehta Committee
+d) Ashok Mehta Committee
+
+1. மத்திய ஊழல் கண்காணிப்பு ஆணையம் (CVC) எந்தக் குழுவின் பரிந்துரையின் பேரில் அமைக்கப்பட்டது?
+அ) சர்க்காரியா குழு
+ஆ) சந்தானம் குழு
+இ) பல்வந்த் ராய் மேத்தா குழு
+ஈ) அசோக் மேத்தா குழு
+
+Answer: b
+---
+2. In which year was the Central Vigilance Commission (CVC) established?
+a) 1962
+b) 1964
+c) 1968
+d) 1971
+
+2. மத்திய ஊழல் கண்காணிப்பு ஆணையம் (CVC) எந்த ஆண்டு நிறுவப்பட்டது?
+அ) 1962
+ஆ) 1964
+இ) 1968
+ஈ) 1971
+
+Answer: b
+---
+3. When was the Central Vigilance Commission (CVC) given a statutory status?
+a) 1998
+b) 2000
+c) 2003
+d) 2005
+
+3. மத்திய ஊழல் கண்காணிப்பு ஆணையத்திற்கு (CVC) எப்போது சட்டப்பூர்வ அந்தஸ்து வழங்கப்பட்டது?
+அ) 1998
+ஆ) 2000
+இ) 2003
+ஈ) 2005
+
+Answer: c
+---
+4. Who appoints the Central Vigilance Commissioner?
+a) The Prime Minister
+b) The Chief Justice of India
+c) The President of India
+d) The Parliament
+
+4. மத்திய ஊழல் கண்காணிப்பு ஆணையரை நியமிப்பவர் யார்?
+அ) பிரதமர்
+ஆ) இந்திய தலைமை நீதிபதி
+இ) இந்தியக் குடியரசுத் தலைவர்
+ஈ) நாடாளுமன்றம்
+
+Answer: c
+---
+5. The Lokpal and Lokayuktas Act was passed in which year?
+a) 2011
+b) 2012
+c) 2013
+d) 2014
+
+5. லோக்பால் மற்றும் லோக்ஆயுக்தா சட்டம் எந்த ஆண்டு நிறைவேற்றப்பட்டது?
+அ) 2011
+ஆ) 2012
+இ) 2013
+ஈ) 2014
+
+Answer: c
+---
+6. The institution of Lokpal is a type of ______.
+a) Judicial Body
+b) Ombudsman
+c) Executive Body
+d) Legislative Body
+
+6. லோக்பால் அமைப்பு ஒரு வகையான ______.
+அ) நீதித்துறை அமைப்பு
+ஆ) குறைதீர்ப்பாளர் (Ombudsman)
+இ) நிர்வாக அமைப்பு
+ஈ) சட்டமன்ற அமைப்பு
+
+Answer: b
+---
+7. Which was the first state in India to establish the institution of Lokayukta?
+a) Tamil Nadu
+b) Kerala
+c) Maharashtra
+d) Odisha
+
+7. இந்தியாவில் லோக்ஆயுக்தா அமைப்பை நிறுவிய முதல் மாநிலம் எது?
+அ) தமிழ்நாடு
+ஆ) கேரளா
+இ) மகாராஷ்டிரா
+ஈ) ஒடிசா
+
+Answer: c
+---
+8. Who appoints the Lokayukta in a state?
+a) The Chief Minister
+b) The Governor
+c) The President
+d) The Chief Justice of the High Court
+
+8. ஒரு மாநிலத்தில் லோக்ஆயுக்தாவை நியமிப்பவர் யார்?
+அ) முதலமைச்சர்
+ஆ) ஆளுநர்
+இ) குடியரசுத் தலைவர்
+ஈ) உயர் நீதிமன்றத்தின் தலைமை நீதிபதி
+
+Answer: b
+---
+9. The Prevention of Corruption Act was enacted in which year?
+a) 1986
+b) 1988
+c) 1991
+d) 1993
+
+9. ஊழல் தடுப்புச் சட்டம் எந்த ஆண்டு இயற்றப்பட்டது?
+அ) 1986
+ஆ) 1988
+இ) 1991
+ஈ) 1993
+
+Answer: b
+---
+10. The Right to Information Act, a key tool for ensuring transparency, was passed in ______.
+a) 2002
+b) 2005
+c) 2007
+d) 2009
+
+10. வெளிப்படைத்தன்மையை உறுதி செய்வதற்கான ஒரு முக்கிய கருவியான தகவல் அறியும் உரிமைச் சட்டம் ______ இல் நிறைவேற்றப்பட்டது.
+அ) 2002
+ஆ) 2005
+இ) 2007
+ஈ) 2009
+
+Answer: b
+---
+11. The Central Bureau of Investigation (CBI) was established in which year?
+a) 1947
+b) 1950
+c) 1963
+d) 1975
+
+11. மத்திய புலனாய்வுத் துறை (CBI) எந்த ஆண்டு நிறுவப்பட்டது?
+அ) 1947
+ஆ) 1950
+இ) 1963
+ஈ) 1975
+
+Answer: c
+---
+12. The CBI derives its powers to investigate from which Act?
+a) Central Bureau of Investigation Act, 1963
+b) Delhi Special Police Establishment Act, 1946
+c) Prevention of Corruption Act, 1988
+d) Criminal Procedure Code
+
+12. சிபிஐ எந்தச் சட்டத்திலிருந்து தனது புலனாய்வு அதிகாரங்களைப் பெறுகிறது?
+அ) மத்திய புலனாய்வுத் துறை சட்டம், 1963
+ஆ) டெல்லி சிறப்பு காவல் அமைப்பு சட்டம், 1946
+இ) ஊழல் தடுப்புச் சட்டம், 1988
+ஈ) குற்றவியல் நடைமுறைச் சட்டம்
+
+Answer: b
+---
+13. The Director of CBI is appointed by a committee consisting of the Prime Minister, the Leader of Opposition in Lok Sabha, and ______.
+a) The President of India
+b) The Home Minister
+c) The Chief Justice of India
+d) The Cabinet Secretary
+
+13. சிபிஐ இயக்குநர், பிரதமர், மக்களவை எதிர்க்கட்சித் தலைவர் மற்றும் ______ ஆகியோரைக் கொண்ட குழுவால் நியமிக்கப்படுகிறார்.
+அ) இந்தியக் குடியரசுத் தலைவர்
+ஆ) உள்துறை அமைச்சர்
+இ) இந்திய தலைமை நீதிபதி
+ஈ) அமைச்சரவை செயலாளர்
+
+Answer: c
+---
+14. The term 'Ombudsman' originated in which country?
+a) UK
+b) USA
+c) Sweden
+d) France
+
+14. 'குறைதீர்ப்பாளர்' (Ombudsman) என்ற சொல் எந்த நாட்டில் உருவானது?
+அ) இங்கிலாந்து
+ஆ) அமெரிக்கா
+இ) சுவீடன்
+ஈ) பிரான்ஸ்
+
+Answer: c
+---
+15. Which agency is primarily responsible for enforcing the Prevention of Money Laundering Act (PMLA) in India?
+a) Central Bureau of Investigation (CBI)
+b) National Investigation Agency (NIA)
+c) Enforcement Directorate (ED)
+d) Serious Fraud Investigation Office (SFIO)
+
+15. இந்தியாவில் பணமோசடி தடுப்புச் சட்டத்தை (PMLA) செயல்படுத்துவதற்கு முதன்மையாகப் பொறுப்பான நிறுவனம் எது?
+அ) மத்திய புலனாய்வுத் துறை (CBI)
+ஆ) தேசிய புலனாய்வு முகமை (NIA)
+இ) அமலாக்க இயக்குனரகம் (ED)
+ஈ) தீவிர மோசடி விசாரணை அலுவலகம் (SFIO)
+
+Answer: c
+---
+16. The Whistle Blowers Protection Act was passed by the Parliament of India in the year ______.
+a) 2010
+b) 2011
+c) 2014
+d) 2016
+
+16. தகவல் அளிப்போர் பாதுகாப்புச் சட்டம் (Whistle Blowers Protection Act) இந்திய நாடாளுமன்றத்தால் ______ ஆண்டில் நிறைவேற்றப்பட்டது.
+அ) 2010
+ஆ) 2011
+இ) 2014
+ஈ) 2016
+
+Answer: c
+---
+17. The Benami Transactions (Prohibition) Act was originally enacted in ______.
+a) 1988
+b) 1992
+c) 2002
+d) 2016
+
+17. பினாமி பரிவர்த்தனைகள் (தடுப்பு) சட்டம் முதலில் ______ இல் இயற்றப்பட்டது.
+அ) 1988
+ஆ) 1992
+இ) 2002
+ஈ) 2016
+
+Answer: a
+---
+18. The term of office for the Central Vigilance Commissioner is ______.
+a) 5 years or 65 years of age, whichever is earlier
+b) 4 years or 65 years of age, whichever is earlier
+c) 6 years or 65 years of age, whichever is earlier
+d) 3 years or 60 years of age, whichever is earlier
+
+18. மத்திய ஊழல் கண்காணிப்பு ஆணையரின் பதவிக்காலம் ______.
+அ) 5 ஆண்டுகள் அல்லது 65 வயது, இதில் எது முந்தையதோ அது
+ஆ) 4 ஆண்டுகள் அல்லது 65 வயது, இதில் எது முந்தையதோ அது
+இ) 6 ஆண்டுகள் அல்லது 65 வயது, இதில் எது முந்தையதோ அது
+ஈ) 3 ஆண்டுகள் அல்லது 60 வயது, இதில் எது முந்தையதோ அது
+
+Answer: b
+---
+19. Which international NGO publishes the "Corruption Perception Index"?
+a) Amnesty International
+b) Human Rights Watch
+c) World Bank
+d) Transparency International
+
+19. "ஊழல் கருத்து குறியீட்டை" (Corruption Perception Index) வெளியிடும் சர்வதேச தன்னார்வ தொண்டு நிறுவனம் எது?
+அ) அம்னெஸ்டி இன்டர்நேஷனல்
+ஆ) மனித உரிமைகள் கண்காணிப்பகம்
+இ) உலக வங்கி
+ஈ) டிரான்ஸ்பரன்சி இன்டர்நேஷனல்
+
+Answer: d
+---
+20. The CVC submits its annual report to the ______.
+a) Prime Minister
+b) Parliament
+c) President
+d) Supreme Court
+
+20. மத்திய ஊழல் கண்காணிப்பு ஆணையம் தனது ஆண்டு அறிக்கையை ______ இடம் சமர்ப்பிக்கிறது.
+அ) பிரதமர்
+ஆ) நாடாளுமன்றம்
+இ) குடியரசுத் தலைவர்
+ஈ) உச்ச நீதிமன்றம்
+
+Answer: c
+---
+21. Who coined the term 'Lokpal'?
+a) Jawaharlal Nehru
+b) C. D. Deshmukh
+c) L. M. Singhvi
+d) Morarji Desai
+
+21. 'லோக்பால்' என்ற சொல்லை உருவாக்கியவர் யார்?
+அ) ஜவஹர்லால் நேரு
+ஆ) சி.டி. தேஷ்முக்
+இ) எல்.எம். சிங்வி
+ஈ) மொரார்ஜி தேசாய்
+
+Answer: c
+---
+22. What is the main objective of 'Vigilance Awareness Week'?
+a) To arrest corrupt officials
+b) To promote integrity and public awareness
+c) To celebrate the foundation of CVC
+d) To conduct raids
+
+22. 'கண்காணிப்பு விழிப்புணர்வு வாரத்தின்' முக்கிய நோக்கம் என்ன?
+அ) ஊழல் அதிகாரிகளைக் கைது செய்வது
+ஆ) நேர்மை மற்றும் பொது விழிப்புணர்வை ஊக்குவிப்பது
+இ) சிவிசி-யின் நிறுவன தினத்தைக் கொண்டாடுவது
+ஈ) சோதனைகள் நடத்துவது
+
+Answer: b
+---
+23. The Tamil Nadu Lokayukta Act was enacted in the year ______.
+a) 2016
+b) 2017
+c) 2018
+d) 2019
+
+23. தமிழ்நாடு லோக்ஆயுக்தா சட்டம் ______ ஆண்டில் இயற்றப்பட்டது.
+அ) 2016
+ஆ) 2017
+இ) 2018
+ஈ) 2019
+
+Answer: c
+---
+24. The Second Administrative Reforms Commission (ARC), which gave recommendations on ethics in governance, was headed by ______.
+a) M. Veerappa Moily
+b) Manmohan Singh
+c) A. P. J. Abdul Kalam
+d) Bimal Jalan
+
+24. நிர்வாகத்தில் நெறிமுறைகள் குறித்து பரிந்துரைகளை வழங்கிய இரண்டாவது நிர்வாக சீர்திருத்த ஆணையத்தின் (ARC) தலைவர் யார்?
+அ) எம். வீரப்ப மொய்லி
+ஆ) மன்மோகன் சிங்
+இ) ஏ.பி.ஜே. அப்துல் கலாம்
+ஈ) பிமல் ஜலான்
+
+Answer: a
+---
+25. Under the Lokpal Act, 2013, the Lokpal shall consist of a Chairperson and a maximum of ______ members.
+a) Five
+b) Six
+c) Eight
+d) Ten
+
+25. லோக்பால் சட்டம், 2013-ன் கீழ், லோக்பால் ஒரு தலைவர் மற்றும் அதிகபட்சமாக ______ உறுப்பினர்களைக் கொண்டிருக்கும்.
+அ) ஐந்து
+ஆ) ஆறு
+இ) எட்டு
+ஈ) பத்து
+
+Answer: c
+---
+26. India ratified the United Nations Convention against Corruption (UNCAC) in ______.
+a) 2005
+b) 2008
+c) 2011
+d) 2014
+
+26. இந்தியா ஐக்கிய நாடுகளின் ஊழலுக்கு எதிரான மாநாட்டை (UNCAC) ______ இல் ஏற்றுக்கொண்டது.
+அ) 2005
+ஆ) 2008
+இ) 2011
+ஈ) 2014
+
+Answer: c
+---
+27. The concept of 'Social Audit' is most closely associated with which of the following?
+a) Corporate Governance
+b) Accountability and Transparency
+c) Judicial Review
+d) Election Reforms
+
+27. 'சமூக தணிக்கை' என்ற கருத்து பின்வருவனவற்றில் எதனுடன் மிகவும் நெருக்கமாக தொடர்புடையது?
+அ) பெருநிறுவன ஆளுகை
+ஆ) பொறுப்புக்கூறல் மற்றும் வெளிப்படைத்தன்மை
+இ) நீதித்துறை ஆய்வு
+ஈ) தேர்தல் சீர்திருத்தங்கள்
+
+Answer: b
+---
+28. The Prevention of Money Laundering Act (PMLA) was enacted in the year ______.
+a) 1999
+b) 2002
+c) 2005
+d) 2009
+
+28. பணமோசடி தடுப்புச் சட்டம் (PMLA) ______ ஆண்டில் இயற்றப்பட்டது.
+அ) 1999
+ஆ) 2002
+இ) 2005
+ஈ) 2009
+
+Answer: b
+---
+29. Which of the following is NOT part of the selection committee for the Central Vigilance Commissioner?
+a) The Prime Minister
+b) The Minister of Home Affairs
+c) The Leader of the Opposition in the Lok Sabha
+d) The Speaker of the Lok Sabha
+
+29. பின்வருவனவற்றில் மத்திய ஊழல் கண்காணிப்பு ஆணையரைத் தேர்ந்தெடுக்கும் குழுவில் இல்லாதவர் யார்?
+அ) பிரதமர்
+ஆ) உள்துறை அமைச்சர்
+இ) மக்களவை எதிர்க்கட்சித் தலைவர்
+ஈ) மக்களவைத் தலைவர்
+
+Answer: d
+---
+30. The motto of the Central Bureau of Investigation (CBI) is ______.
+a) Service, Security, Brotherhood
+b) Truth, Duty, Valour
+c) Industry, Impartiality, Integrity
+d) Protection of the Virtuous, Destruction of the Wicked
+
+30. மத்திய புலனாய்வுத் துறையின் (CBI) குறிக்கோள் ______.
+அ) சேவை, பாதுகாப்பு, சகோதரத்துவம்
+ஆ) உண்மை, கடமை, வீரம்
+இ) உழைப்பு, நடுநிலை, நேர்மை
+ஈ) நல்லோரைக் காத்தல், தீயோரை அழித்தல்
+
+Answer: c
+---
+31. 'Integrity Pact' is a tool developed to prevent corruption in ______.
+a) Public procurement
+b) Judicial appointments
+c) Private sector hiring
+d) Educational institutions
+
+31. 'நேர்மை ஒப்பந்தம்' (Integrity Pact) என்பது ______ துறையில் ஊழலைத் தடுப்பதற்காக உருவாக்கப்பட்ட ஒரு கருவியாகும்.
+அ) பொதுக் கொள்முதல்
+ஆ) நீதித்துறை நியமனங்கள்
+இ) தனியார் துறை ஆட்சேர்ப்பு
+ஈ) கல்வி நிறுவனங்கள்
+
+Answer: a
+---
+32. The term "caged parrot" was used by the Supreme Court to describe the status of which agency?
+a) Enforcement Directorate
+b) Central Vigilance Commission
+c) Central Bureau of Investigation
+d) National Investigation Agency
+
+32. "கூண்டுக் கிளி" என்ற சொல்லை உச்ச நீதிமன்றம் எந்த அமைப்பின் நிலையை விவரிக்க பயன்படுத்தியது?
+அ) அமலாக்க இயக்குனரகம்
+ஆ) மத்திய ஊழல் கண்காணிப்பு ஆணையம்
+இ) மத்திய புலனாய்வுத் துறை
+ஈ) தேசிய புலனாய்வு முகமை
+
+Answer: c
+---
+33. The Lokpal has superintendence and direction over which agency for cases referred by it?
+a) Only State Police
+b) Only Enforcement Directorate
+c) The CBI
+d) The National Investigation Agency
+
+33. லோக்பால், தன்னால் παραπεμφθείς வழக்குகளுக்கு எந்த நிறுவனத்தின் மீது மேற்பார்வை மற்றும் வழிகாட்டுதல் அதிகாரத்தைக் கொண்டுள்ளது?
+அ) மாநில காவல்துறை மட்டும்
+ஆ) அமலாக்க இயக்குனரகம் மட்டும்
+இ) சிபிஐ
+ஈ) தேசிய புலனாய்வு முகமை
+
+Answer: c
+---
+34. The concept of e-governance primarily helps in reducing corruption by ______.
+a) Increasing paperwork
+b) Reducing direct contact between citizens and officials
+c) Making procedures more complex
+d) Limiting access to information
+
+34. மின்-ஆளுமை என்ற கருத்து, முதன்மையாக ______ மூலம் ஊழலைக் குறைக்க உதவுகிறது.
+அ) காகிதப் பணிகளை அதிகரிப்பதன் மூலம்
+ஆ) குடிமக்களுக்கும் அதிகாரிகளுக்கும் இடையிலான நேரடித் தொடர்பைக் குறைப்பதன் மூலம்
+இ) நடைமுறைகளை மேலும் சிக்கலாக்குவதன் மூலம்
+ஈ) தகவலுக்கான அணுகலைக் கட்டுப்படுத்துவதன் மூலம்
+
+Answer: b
+---
+35. The Prevention of Corruption (Amendment) Act, 2018 made which of the following a criminal offence?
+a) Criticizing the government
+b) Giving a bribe
+c) Receiving a gift from a relative
+d) Protesting peacefully
+
+35. ஊழல் தடுப்பு (திருத்த) சட்டம், 2018 பின்வருவனவற்றில் எதை ஒரு குற்றச் செயலாக மாற்றியது?
+அ) அரசாங்கத்தை விமர்சிப்பது
+ஆ) இலஞ்சம் கொடுப்பது
+இ) உறவினரிடமிருந்து பரிசு பெறுவது
+ஈ) அமைதியான முறையில் போராட்டம் நடத்துவது
+
+Answer: b
+---
+36. Which state was the first to pass a Lokayukta Act (in 1970), even though it was implemented later?
+a) Maharashtra
+b) Bihar
+c) Uttar Pradesh
+d) Odisha
+
+36. லோக்ஆயுக்தா சட்டத்தை (1970 இல்) முதன்முதலில் நிறைவேற்றிய மாநிலம் எது (அது பின்னர் செயல்படுத்தப்பட்டாலும்)?
+அ) மகாராஷ்டிரா
+ஆ) பீகார்
+இ) உத்தரப் பிரதேசம்
+ஈ) ஒடிசா
+
+Answer: d
+---
+37. The 'Right to Service Acts' enacted by various states aim to ______.
+a) Guarantee government jobs
+b) Provide essential services to citizens in a time-bound manner
+c) Ensure free legal aid
+d) Regulate private companies
+
+37. பல்வேறு மாநிலங்களால் இயற்றப்பட்ட 'சேவை பெறும் உரிமைச் சட்டங்கள்' ______ ஐ நோக்கமாகக் கொண்டுள்ளன.
+அ) அரசு வேலைகளுக்கு உத்தரவாதம் அளித்தல்
+ஆ) குடிமக்களுக்கு அத்தியாவசிய சேவைகளை ஒரு காலக்கெடுவுக்குள் வழங்குதல்
+இ) இலவச சட்ட உதவியை உறுதி செய்தல்
+ஈ) தனியார் நிறுவனங்களை ஒழுங்குபடுத்துதல்
+
+Answer: b
+---
+38. Who among the following is NOT covered under the jurisdiction of the Lokpal?
+a) Prime Minister
+b) Members of Parliament
+c) Group A, B, C, D officers
+d) Members of the Judiciary
+
+38. பின்வருபவர்களில் யார் லோக்பாலின் அதிகார வரம்பிற்குள் வரவில்லை?
+அ) பிரதமர்
+ஆ) நாடாளுமன்ற உறுப்பினர்கள்
+இ) குழு ஏ, பி, சி, டி அதிகாரிகள்
+ஈ) நீதித்துறை உறுப்பினர்கள்
+
+Answer: d
+---
+39. The Central Bureau of Investigation (CBI) functions under the administrative control of which ministry?
+a) Ministry of Home Affairs
+b) Prime Minister's Office
+c) Ministry of Personnel, Public Grievances and Pensions
+d) Ministry of Law and Justice
+
+39. மத்திய புலனாய்வுத் துறை (CBI) எந்த அமைச்சகத்தின் நிர்வாகக் கட்டுப்பாட்டின் கீழ் செயல்படுகிறது?
+அ) உள்துறை அமைச்சகம்
+ஆ) பிரதமர் அலுவலகம்
+இ) பணியாளர், பொதுக் குறைகள் மற்றும் ஓய்வூதிய அமைச்சகம்
+ஈ) சட்டம் மற்றும் நீதி அமைச்சகம்
+
+Answer: c
+---
+40. What is a primary requirement for a complaint to be considered by the Lokpal?
+a) It must be filed by a lawyer
+b) It must be against a public servant
+c) It must involve a financial loss of over 1 crore
+d) It must be reported in a newspaper first
+
+40. லோக்பாலால் ஒரு புகார் பரிசீலிக்கப்படுவதற்கு முதன்மையான தேவை என்ன?
+அ) அது ஒரு வழக்கறிஞரால் தாக்கல் செய்யப்பட வேண்டும்
+ஆ) அது ஒரு பொது ஊழியருக்கு எதிராக இருக்க வேண்டும்
+இ) அதில் 1 கோடிக்கு மேல் நிதி இழப்பு சம்பந்தப்பட்டிருக்க வேண்டும்
+ஈ) அது முதலில் ஒரு செய்தித்தாள் இல் வெளியிடப்பட்டிருக்க வேண்டும்
+
+Answer: b
+---
+41. A 'Benami' property is a property ______.
+a) which is inherited
+b) which is purchased in the name of another person
+c) which is located in a foreign country
+d) which is under dispute
+
+41. 'பினாமி' சொத்து என்பது ______.
+அ) பரம்பரையாக வந்த சொத்து
+ஆ) மற்றொரு நபரின் பெயரில் வாங்கப்பட்ட சொத்து
+இ) வெளிநாட்டில் அமைந்துள்ள சொத்து
+ஈ) சர்ச்சையில் உள்ள சொத்து
+
+Answer: b
+---
+42. The Santhanam Committee was appointed by which Prime Minister?
+a) Jawaharlal Nehru
+b) Lal Bahadur Shastri
+c) Indira Gandhi
+d) Morarji Desai
+
+42. சந்தானம் குழு எந்தப் பிரதமரால் நியமிக்கப்பட்டது?
+அ) ஜவஹர்லால் நேரு
+ஆ) லால் பகதூர் சாஸ்திரி
+இ) இந்திரா காந்தி
+ஈ) மொரார்ஜி தேசாய்
+
+Answer: b
+---
+43. What is the status of the Central Vigilance Commission (CVC)?
+a) A constitutional body
+b) A statutory body
+c) An executive body
+d) A judicial body
+
+43. மத்திய ஊழல் கண்காணிப்பு ஆணையத்தின் (CVC) நிலை என்ன?
+அ) ஒரு அரசியலமைப்பு அமைப்பு
+ஆ) ஒரு சட்டப்பூர்வ அமைப்பு
+இ) ஒரு நிர்வாக அமைப்பு
+ஈ) ஒரு நீதித்துறை அமைப்பு
+
+Answer: b
+---
+44. Who was the first Chairperson of the Lokpal of India?
+a) Justice Dipak Misra
+b) Justice Pinaki Chandra Ghose
+c) Justice Ranjan Gogoi
+d) Justice T. S. Thakur
+
+44. இந்தியாவின் முதல் லோக்பால் தலைவர் யார்?
+அ) நீதிபதி தீபக் மிஸ்ரா
+ஆ) நீதிபதி பினாகி சந்திர கோஸ்
+இ) நீதிபதி ரஞ்சன் கோகோய்
+ஈ) நீதிபதி டி.எஸ். தாக்கூர்
+
+Answer: b
+---
+45. The term 'Quid pro quo' in the context of corruption means ______.
+a) Acting in good faith
+b) Something for something
+c) Beyond the powers
+d) For the public good
+
+45. ஊழலின் பின்னணியில் 'Quid pro quo' என்ற சொல்லின் பொருள் ______.
+அ) நல்ல நம்பிக்கையுடன் செயல்படுதல்
+ஆ) ஒன்றுக்கு ஒன்று
+இ) அதிகாரங்களுக்கு அப்பாற்பட்டது
+ஈ) பொது நன்மைக்காக
+
+Answer: b
+---
+46. The All India Services are covered for disciplinary action by which body?
+a) Supreme Court
+b) Lokpal
+c) Central Vigilance Commission
+d) Union Public Service Commission
+
+46. அகில இந்திய சேவைகள் எந்த அமைப்பால் ஒழுங்கு நடவடிக்கைக்கு உட்படுத்தப்படுகின்றன?
+அ) உச்ச நீதிமன்றம்
+ஆ) லோக்பால்
+இ) மத்திய ஊழல் கண்காணிப்பு ஆணையம்
+ஈ) மத்திய அரசுப் பணியாளர் தேர்வாணையம்
+
+Answer: c
+---
+47. Which Article of the Constitution of India is seen as the source of the Right to Information?
+a) Article 14
+b) Article 21
+c) Article 19(1)(a)
+d) Article 32
+
+47. இந்திய அரசியலமைப்பின் எந்தப் பிரிவு தகவல் அறியும் உரிமையின் மூலமாகக் கருதப்படுகிறது?
+அ) பிரிவு 14
+ஆ) பிரிவு 21
+இ) பிரிவு 19(1)(a)
+ஈ) பிரிவு 32
+
+Answer: c
+---
+48. The "Zero Tolerance" policy is often associated with the fight against ______.
+a) Poverty
+b) Illiteracy
+c) Corruption
+d) Unemployment
+
+48. "சகிப்புத்தன்மையின்மை" (Zero Tolerance) கொள்கை பெரும்பாலும் ______ க்கு எதிரான போராட்டத்துடன் தொடர்புடையது.
+அ) வறுமை
+ஆ) எழுத்தறிவின்மை
+இ) ஊழல்
+ஈ) வேலையின்மை
+
+Answer: c
+---
+49. The Director of Enforcement (ED) is appointed by a committee headed by the ______.
+a) Prime Minister
+b) Home Minister
+c) Finance Minister
+d) Central Vigilance Commissioner
+
+49. அமலாக்க இயக்குனரகத்தின் (ED) இயக்குநர் ______ தலைமையிலான குழுவால் நியமிக்கப்படுகிறார்.
+அ) பிரதமர்
+ஆ) உள்துறை அமைச்சர்
+இ) நிதி அமைச்சர்
+ஈ) மத்திய ஊழல் கண்காணிப்பு ஆணையர்
+
+Answer: d
+---
+50. What does 'CBI' stand for?
+a) Central Board of Investigation
+b) Central Bureau of Investigation
+c) Central Bureau of Intelligence
+d) Central Board of Inquiry
+
+50. 'CBI' என்பதன் விரிவாக்கம் என்ன?
+அ) சென்ட்ரல் போர்டு ஆஃப் இன்வெஸ்டிகேஷன்
+ஆ) சென்ட்ரல் பீரோ ஆஃப் இன்வெஸ்டிகேஷன்
+இ) சென்ட்ரல் பீரோ ஆஃப் இன்டலிஜென்ஸ்
+ஈ) சென்ட்ரல் போர்டு ஆஃப் என்குயரி
+
+Answer: b
+---
+51. The First Administrative Reforms Commission (ARC) which recommended Lokpal and Lokayukta was headed by?
+a) K. Santhanam
+b) Morarji Desai
+c) B.P. Mandal
+d) L. M. Singhvi
+
+51. லோக்பால் மற்றும் லோக்ஆயுக்தாவைப் பரிந்துரைத்த முதல் நிர்வாக சீர்திருத்த ஆணையத்தின் (ARC) தலைவர் யார்?
+அ) கே. சந்தானம்
+ஆ) மொரார்ஜி தேசாய்
+இ) பி.பி. மண்டல்
+ஈ) எல்.எம். சிங்வி
+
+Answer: b
+---
+52. Which act provides a legal framework for taking action against public servants who acquire assets disproportionate to their known sources of income?
+a) Right to Information Act
+b) Prevention of Corruption Act
+c) Benami Transactions Act
+d) Whistle Blowers Protection Act
+
+52. பொது ஊழியர்கள் தங்கள் அறியப்பட்ட வருமான ஆதாரங்களுக்கு அதிகமாக சொத்துக்களைப் பெற்றால், அவர்கள் மீது நடவடிக்கை எடுக்க சட்டப்பூர்வ கட்டமைப்பை வழங்கும் சட்டம் எது?
+அ) தகவல் அறியும் உரிமைச் சட்டம்
+ஆ) ஊழல் தடுப்புச் சட்டம்
+இ) பினாமி பரிவர்த்தனைகள் சட்டம்
+ஈ) தகவல் அளிப்போர் பாதுகாப்புச் சட்டம்
+
+Answer: b
+---
+53. The term 'Lokayukta' is an Indian equivalent of which global institution?
+a) Attorney General
+b) Solicitor General
+c) Ombudsman
+d) Public Prosecutor
+
+53. 'லோக்ஆயுக்தா' என்ற சொல் எந்த உலகளாவிய நிறுவனத்திற்கு இணையான இந்தியச் சொல்லாகும்?
+அ) அட்டர்னி ஜெனரல்
+ஆ) சொலிசிட்டர் ஜெனரல்
+இ) குறைதீர்ப்பாளர் (Ombudsman)
+ஈ) அரசு வழக்கறிஞர்
+
+Answer: c
+---
+54. The jurisdiction of Lokpal extends to which of the following?
+a) The Prime Minister and Ministers
+b) The Judiciary
+c) State Government officials
+d) Private citizens not associated with government work
+
+54. லோக்பாலின் அதிகார வரம்பு பின்வருவனவற்றில் எதற்குப் பொருந்தும்?
+அ) பிரதமர் மற்றும் அமைச்சர்கள்
+ஆ) நீதித்துறை
+இ) மாநில அரசு அதிகாரிகள்
+ஈ) அரசுப் பணிகளுடன் தொடர்பில்லாத தனியார் குடிமக்கள்
+
+Answer: a
+---
+55. The CVC is a ______.
+a) Single-member body
+b) Two-member body
+c) Multi-member body
+d) Ten-member body
+
+55. மத்திய ஊழல் கண்காணிப்பு ஆணையம் என்பது ஒரு ______.
+அ) ஒரு நபர் அமைப்பு
+ஆ) இரு நபர் அமைப்பு
+இ) பல-உறுப்பினர் அமைப்பு
+ஈ) பத்து-உறுப்பினர் அமைப்பு
+
+Answer: c
+---
+56. Which of these is a key feature of the Right to Information Act, 2005?
+a) Promoting secrecy in governance
+b) Increasing government control
+c) Ensuring transparency and accountability
+d) Limiting citizen participation
+
+56. இவற்றில் எது தகவல் அறியும் உரிமைச் சட்டம், 2005-ன் முக்கிய அம்சமாகும்?
+அ) நிர்வாகத்தில் இரகசியத்தன்மையை ஊக்குவித்தல்
+ஆ) அரசாங்கக் கட்டுப்பாட்டை அதிகரித்தல்
+இ) வெளிப்படைத்தன்மை மற்றும் பொறுப்புக்கூறலை உறுதி செய்தல்
+ஈ) குடிமக்கள் பங்களிப்பைக் கட்டுப்படுத்துதல்
+
+Answer: c
+---
+57. Who heads the committee for the appointment of the Director of the Enforcement Directorate?
+a) Prime Minister
+b) Home Minister
+c) Finance Minister
+d) Central Vigilance Commissioner
+
+57. அமலாக்க இயக்குனரகத்தின் இயக்குநரை நியமிக்கும் குழுவிற்கு யார் தலைமை தாங்குகிறார்?
+அ) பிரதமர்
+ஆ) உள்துறை அமைச்சர்
+இ) நிதி அமைச்சர்
+ஈ) மத்திய ஊழல் கண்காணிப்பு ஆணையர்
+
+Answer: d
+---
+58. What is the main purpose of the Whistle Blowers Protection Act, 2014?
+a) To punish whistleblowers
+b) To establish a mechanism to receive complaints and protect the identity of the complainant
+c) To investigate financial frauds only
+d) To regulate media reporting
+
+58. தகவல் அளிப்போர் பாதுகாப்புச் சட்டம், 2014-ன் முக்கிய நோக்கம் என்ன?
+அ) தகவல் அளிப்போரைத் தண்டிப்பது
+ஆ) புகார்களைப் பெறுவதற்கும், புகார்தாரரின் அடையாளத்தைப் பாதுகாப்பதற்கும் ஒரு வழிமுறையை நிறுவுவது
+இ) நிதி மோசடிகளை மட்டும் விசாரிப்பது
+ஈ) ஊடக அறிக்கைகளை ஒழுங்குபடுத்துவது
+
+Answer: b
+---
+59. Which commission's report is considered a landmark in India's fight against corruption, leading to the CVC's formation?
+a) Sarkaria Commission
+b) Mandal Commission
+c) Santhanam Commission
+d) Shah Commission
+
+59. எந்த ஆணையத்தின் அறிக்கை இந்தியாவின் ஊழலுக்கு எதிரான போராட்டத்தில் ஒரு மைல்கல்லாகக் கருதப்படுகிறது, இது CVC-யின் உருவாக்கத்திற்கு வழிவகுத்தது?
+அ) சர்க்காரியா ஆணையம்
+ஆ) மண்டல் ஆணையம்
+இ) சந்தானம் ஆணையம்
+ஈ) ஷா ஆணையம்
+
+Answer: c
+---
+60. The Lokpal and Lokayuktas Act, 2013, came into force on ______.
+a) 1st January 2013
+b) 16th January 2014
+c) 26th January 2013
+d) 15th August 2014
+
+60. லோக்பால் மற்றும் லோக்ஆயுக்தா சட்டம், 2013, ______ அன்று நடைமுறைக்கு வந்தது.
+அ) 1 ஜனவரி 2013
+ஆ) 16 ஜனவரி 2014
+இ) 26 ஜனவரி 2013
+ஈ) 15 ஆகஸ்ட் 2014
+
+Answer: b
+---

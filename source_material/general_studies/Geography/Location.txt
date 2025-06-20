@@ -1,0 +1,923 @@
+**Overall Topic for Question Generation: Earth Location (Geography)**
+
+---
+
+**1. Assertion and Reason Questions (6 questions):**
+
+**Question 1:**
+**Assertion (A):** Latitudes are imaginary circles running parallel to the Equator.
+**Reason (R):** The Equator is the longest latitude.
+
+**கூற்று (A):** அட்சரேகைகள் பூமத்தியரேகைக்கு இணையாக ஓடும் கற்பனையான வட்டங்கள்.
+**காரணம் (R):** பூமத்தியரேகை மிக நீளமான அட்சரேகை ஆகும்.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: b
+
+**Question 2:**
+**Assertion (A):** The Prime Meridian passes through Greenwich, London.
+**Reason (R):** All countries calculate their standard time based on the Prime Meridian.
+
+**கூற்று (A):** முதன்மை தீர்க்கரேகை லண்டனில் உள்ள கிரீன்விச் வழியாக செல்கிறது.
+**காரணம் (R):** அனைத்து நாடுகளும் முதன்மை தீர்க்கரேகையை அடிப்படையாகக் கொண்டு தங்கள் திட்ட நேரத்தைக் கணக்கிடுகின்றன.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: a
+
+**Question 3:**
+**Assertion (A):** The International Date Line is a straight line following the 180° meridian.
+**Reason (R):** It is drawn to avoid dividing land masses and island groups.
+
+**கூற்று (A):** பன்னாட்டு நாள் கோடு 180° தீர்க்கரேகையைப் பின்பற்றும் ஒரு நேர்கோடு ஆகும்.
+**காரணம் (R):** நிலப்பகுதிகள் மற்றும் தீவுக் கூட்டங்களைப் பிரிப்பதைத் தவிர்க்க இது வரையப்பட்டுள்ளது.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: d
+
+**Question 4:**
+**Assertion (A):** The Earth is divided into 24 time zones.
+**Reason (R):** Each time zone generally covers 15 degrees of longitude.
+
+**கூற்று (A):** பூமி 24 நேர மண்டலங்களாக பிரிக்கப்பட்டுள்ளது.
+**காரணம் (R):** ஒவ்வொரு நேர மண்டலமும் பொதுவாக 15 பாகை தீர்க்கரேகையை உள்ளடக்கியது.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: a
+
+**Question 5:**
+**Assertion (A):** The Tropic of Cancer is located at 23.5° South latitude.
+**Reason (R):** It marks the southernmost point where the sun can be directly overhead.
+
+**கூற்று (A):** கடகரேகை 23.5° தெற்கு அட்சரேகையில் அமைந்துள்ளது.
+**காரணம் (R):** இது சூரியன் நேரடியாக தலைக்கு மேலே இருக்கக்கூடிய தென்கோடி புள்ளியைக் குறிக்கிறது.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: e
+
+**Question 6:**
+**Assertion (A):** Longitudes are also known as meridians.
+**Reason (R):** All longitudes converge at the North and South Poles.
+
+**கூற்று (A):** தீர்க்கரேகைகள் மெரிடியன்கள் என்றும் அழைக்கப்படுகின்றன.
+**காரணம் (R):** அனைத்து தீர்க்கரேகைகளும் வட மற்றும் தென் துருவங்களில் ஒன்றிணைகின்றன.
+
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+Answer: a
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions):**
+
+**Question 7:**
+Identify the wrongly matched pair:
+a) Equator - 0° Latitude
+b) Prime Meridian - 0° Longitude
+c) Tropic of Capricorn - 23.5° North Latitude
+d) Arctic Circle - 66.5° North Latitude
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) பூமத்தியரேகை - 0° அட்சரேகை
+b) முதன்மை தீர்க்கரேகை - 0° தீர்க்கரேகை
+c) மகரரேகை - 23.5° வடக்கு அட்சரேகை
+d) ஆர்டிக் வட்டம் - 66.5° வடக்கு அட்சரேகை
+
+Answer: c (Tropic of Capricorn - 23.5° South Latitude / மகரரேகை - 23.5° தெற்கு அட்சரேகை)
+
+**Question 8:**
+Identify the wrongly matched pair:
+a) Latitude - Angular distance north or south of the Equator
+b) Longitude - Angular distance east or west of the Prime Meridian
+c) Grid System - Network of parallels and meridians
+d) International Date Line - 0° Longitude
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) அட்சரேகை - பூமத்தியரேகைக்கு வடக்கு அல்லது தெற்கே உள்ள கோண தூரம்
+b) தீர்க்கரேகை - முதன்மை தீர்க்கரேகைக்கு கிழக்கு அல்லது மேற்கே உள்ள கோண தூரம்
+c) கட்ட அமைப்பு - அட்சரேகைகள் மற்றும் தீர்க்கரேகைகளின் வலையமைப்பு
+d) பன்னாட்டு நாள் கோடு - 0° தீர்க்கரேகை
+
+Answer: d (International Date Line - Roughly 180° Longitude / பன்னாட்டு நாள் கோடு - தோராயமாக 180° தீர்க்கரேகை)
+
+**Question 9:**
+Identify the wrongly matched pair:
+a) Northern Hemisphere - Hemisphere north of the Equator
+b) Southern Hemisphere - Hemisphere south of the Equator
+c) Eastern Hemisphere - Hemisphere east of the International Date Line
+d) Western Hemisphere - Hemisphere west of the Prime Meridian
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) வட அரைக்கோளம் - பூமத்தியரேகைக்கு வடக்கே உள்ள அரைக்கோளம்
+b) தென் அரைக்கோளம் - பூமத்தியரேகைக்கு தெற்கே உள்ள அரைக்கோளம்
+c) கிழக்கு அரைக்கோளம் - பன்னாட்டு நாள் கோட்டிற்கு கிழக்கே உள்ள அரைக்கோளம்
+d) மேற்கு அரைக்கோளம் - முதன்மை தீர்க்கரேகைக்கு மேற்கே உள்ள அரைக்கோளம்
+
+Answer: c (Eastern Hemisphere - Hemisphere east of the Prime Meridian / கிழக்கு அரைக்கோளம் - முதன்மை தீர்க்கரேகைக்கு கிழக்கே உள்ள அரைக்கோளம்)
+
+**Question 10:**
+Identify the wrongly matched pair:
+a) Greenwich Mean Time (GMT) - Time at Prime Meridian
+b) Indian Standard Time (IST) - UTC +5:30
+c) Time Zone - Region observing a uniform standard time
+d) Local Time - Varies with latitude
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) கிரீன்விச் சராசரி நேரம் (GMT) - முதன்மை தீர்க்கரேகையில் உள்ள நேரம்
+b) இந்திய திட்ட நேரம் (IST) - UTC +5:30
+c) நேர மண்டலம் - ஒரே சீரான திட்ட நேரத்தைக் கடைப்பிடிக்கும் பகுதி
+d) உள்ளூர் நேரம் - அட்சரேகைக்கு ஏற்ப மாறுபடும்
+
+Answer: d (Local Time - Varies with longitude / உள்ளூர் நேரம் - தீர்க்கரேகைக்கு ஏற்ப மாறுபடும்)
+
+**Question 11:**
+Identify the wrongly matched pair:
+a) Parallels of Latitude - Run East-West
+b) Meridians of Longitude - Run North-South
+c) Equator - Divides Earth into Northern and Southern Hemispheres
+d) Prime Meridian - Divides Earth into Eastern and Western Hemispheres at 180°
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) அட்சரேகைக் கோடுகள் - கிழக்கு-மேற்காக ஓடுகின்றன
+b) தீர்க்கரேகைக் கோடுகள் - வடக்கு-தெற்காக ஓடுகின்றன
+c) பூமத்தியரேகை - பூமியை வட மற்றும் தென் அரைக்கோளங்களாகப் பிரிக்கிறது
+d) முதன்மை தீர்க்கரேகை - பூமியை கிழக்கு மற்றும் மேற்கு அரைக்கோளங்களாக 180° இல் பிரிக்கிறது
+
+Answer: d (Prime Meridian - Divides Earth into Eastern and Western Hemispheres at 0° Longitude / முதன்மை தீர்க்கரேகை - பூமியை கிழக்கு மற்றும் மேற்கு அரைக்கோளங்களாக 0° தீர்க்கரேகையில் பிரிக்கிறது)
+
+**Question 12:**
+Identify the wrongly matched pair:
+a) Antipodes - Opposite points on Earth's surface
+b) GPS - Global Positioning System, uses satellites for location
+c) Cartography - Science of map making
+d) Geoid - Perfect spherical shape of Earth
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) எதிர்முனைகள் - பூமியின் மேற்பரப்பில் எதிர் எதிர் புள்ளிகள்
+b) GPS - உலகளாவிய இருப்பிட அமைப்பு, இருப்பிடத்திற்காக செயற்கைக்கோள்களைப் பயன்படுத்துகிறது
+c) வரைபடவியல் - வரைபடம் உருவாக்கும் அறிவியல்
+d) புவிவடிவம் - பூமியின் சரியான கோள வடிவம்
+
+Answer: d (Geoid - Actual, slightly irregular shape of Earth / புவிவடிவம் - பூமியின் உண்மையான, சற்றே ஒழுங்கற்ற வடிவம்)
+
+---
+
+**3. Match the Following Questions (6 questions):**
+
+**Question 13:**
+Match List-I with List-II:
+List-I
+1.  Equator
+2.  Prime Meridian
+3.  Tropic of Cancer
+4.  Antarctic Circle
+
+List-II
+a. 0° Longitude
+b. 66.5° South Latitude
+c. 0° Latitude
+d. 23.5° North Latitude
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I
+1. பூமத்தியரேகை
+2. முதன்மை தீர்க்கரேகை
+3. கடகரேகை
+4. அண்டார்க்டிக் வட்டம்
+
+பட்டியல்-II
+a. 0° தீர்க்கரேகை
+b. 66.5° தெற்கு அட்சரேகை
+c. 0° அட்சரேகை
+d. 23.5° வடக்கு அட்சரேகை
+
+Options:
+A) 1-c, 2-a, 3-d, 4-b
+B) 1-a, 2-c, 3-b, 4-d
+C) 1-c, 2-d, 3-a, 4-b
+D) 1-d, 2-a, 3-c, 4-b
+
+Answer: A
+
+**Question 14:**
+Match List-I (Concept) with List-II (Term/Location):
+List-I
+1.  Lines of equal latitude
+2.  Lines of equal longitude
+3.  Point of 0° latitude, 0° longitude
+4.  180° Meridian
+
+List-II
+a. Meridian
+b. Gulf of Guinea (approx.)
+c. Parallel
+d. International Date Line (approx.)
+
+பட்டியல்-I (கருத்து) ஐ பட்டியல்-II (சொல்/இடம்) உடன் பொருத்துக:
+பட்டியல்-I
+1. சம அட்சரேகைக் கோடுகள்
+2. சம தீர்க்கரேகைக் கோடுகள்
+3. 0° அட்சரேகை, 0° தீர்க்கரேகை புள்ளி
+4. 180° தீர்க்கரேகை
+
+பட்டியல்-II
+a. மெரிடியன் (தீர்க்கரேகை)
+b. கினியா வளைகுடா (தோராயமாக)
+c. பேரலல் (அட்சரேகை)
+d. பன்னாட்டு நாள் கோடு (தோராயமாக)
+
+Options:
+A) 1-a, 2-c, 3-d, 4-b
+B) 1-c, 2-a, 3-b, 4-d
+C) 1-c, 2-b, 3-a, 4-d
+D) 1-d, 2-a, 3-b, 4-c
+
+Answer: B
+
+**Question 15:**
+Match List-I (Direction) with List-II (Reference/Observation):
+List-I
+1.  North Pole
+2.  South Pole
+3.  Direction of Earth's Rotation
+4.  Apparent movement of Sun
+
+List-II
+a. 90° South Latitude
+b. West to East
+c. East to West
+d. 90° North Latitude
+
+பட்டியல்-I (திசை) ஐ பட்டியல்-II (குறிப்பு/கவனிப்பு) உடன் பொருத்துக:
+பட்டியல்-I
+1. வட துருவம்
+2. தென் துருவம்
+3. பூமியின் சுழற்சி திசை
+4. சூரியனின் தோற்ற நகர்வு
+
+பட்டியல்-II
+a. 90° தெற்கு அட்சரேகை
+b. மேற்கிலிருந்து கிழக்கு
+c. கிழக்கிலிருந்து மேற்கு
+d. 90° வடக்கு அட்சரேகை
+
+Options:
+A) 1-d, 2-a, 3-b, 4-c
+B) 1-a, 2-d, 3-c, 4-b
+C) 1-d, 2-a, 3-c, 4-b
+D) 1-a, 2-d, 3-b, 4-c
+
+Answer: A
+
+**Question 16:**
+Match List-I (Location Aspect) with List-II (Value/Place):
+List-I
+1.  Standard Time of India
+2.  Greenwich
+3.  Total number of time zones
+4.  Degrees per time zone (approx.)
+
+List-II
+a. United Kingdom
+b. 24
+c. 82.5° E Longitude
+d. 15°
+
+பட்டியல்-I (இருப்பிட அம்சம்) ஐ பட்டியல்-II (மதிப்பு/இடம்) உடன் பொருத்துக:
+பட்டியல்-I
+1. இந்தியாவின் திட்ட நேரம்
+2. கிரீன்விச்
+3. மொத்த நேர மண்டலங்களின் எண்ணிக்கை
+4. ஒரு நேர மண்டலத்திற்கான பாகைகள் (தோராயமாக)
+
+பட்டியல்-II
+a. ஐக்கிய இராச்சியம்
+b. 24
+c. 82.5° கிழக்கு தீர்க்கரேகை
+d. 15°
+
+Options:
+A) 1-c, 2-a, 3-b, 4-d
+B) 1-a, 2-c, 3-d, 4-b
+C) 1-c, 2-d, 3-a, 4-b
+D) 1-d, 2-b, 3-c, 4-a
+
+Answer: A
+
+**Question 17:**
+Match List-I (Hemisphere) with List-II (Primary Hemispheres for given countries):
+List-I
+1.  India's location
+2.  Australia's location
+3.  Brazil's location
+4.  Greenland's location
+
+List-II
+a. Southern and Eastern Hemisphere
+b. Northern and Eastern Hemisphere
+c. Northern and Western Hemisphere
+d. Southern and Western Hemisphere
+
+பட்டியல்-I (அரைக்கோளம்) ஐ பட்டியல்-II (கொடுக்கப்பட்ட நாடுகளுக்கான முதன்மை அரைக்கோளங்கள்) உடன் பொருத்துக:
+பட்டியல்-I
+1. இந்தியாவின் அமைவிடம்
+2. ஆஸ்திரேலியாவின் அமைவிடம்
+3. பிரேசிலின் அமைவிடம்
+4. கிரீன்லாந்தின் அமைவிடம்
+
+பட்டியல்-II
+a. தென் மற்றும் கிழக்கு அரைக்கோளம்
+b. வட மற்றும் கிழக்கு அரைக்கோளம்
+c. வட மற்றும் மேற்கு அரைக்கோளம்
+d. தென் மற்றும் மேற்கு அரைக்கோளம்
+
+Options:
+A) 1-b, 2-a, 3-d, 4-c
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-d, 3-a, 4-c
+D) 1-c, 2-a, 3-d, 4-b
+
+Answer: A
+
+**Question 18:**
+Match List-I (Geographical Feature) with List-II (Name):
+List-I
+1.  Largest Continent
+2.  Largest Ocean
+3.  Smallest Continent
+4.  Line separating day and night on Earth
+
+List-II
+a. Australia
+b. Terminator
+c. Asia
+d. Pacific Ocean
+
+பட்டியல்-I (புவியியல் அம்சம்) ஐ பட்டியல்-II (பெயர்) உடன் பொருத்துக:
+பட்டியல்-I
+1. மிகப்பெரிய கண்டம்
+2. மிகப்பெரிய பெருங்கடல்
+3. மிகச்சிறிய கண்டம்
+4. பூமியில் பகலையும் இரவையும் பிரிக்கும் கோடு
+
+பட்டியல்-II
+a. ஆஸ்திரேலியா
+b. ஒளிர்வு எல்லைக்கோடு (டெர்மினேட்டர்)
+c. ஆசியா
+d. பசிபிக் பெருங்கடல்
+
+Options:
+A) 1-c, 2-d, 3-a, 4-b
+B) 1-d, 2-c, 3-b, 4-a
+C) 1-c, 2-a, 3-d, 4-b
+D) 1-a, 2-b, 3-c, 4-d
+
+Answer: A
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions):**
+
+**Question 19:**
+What is the latitude of the Equator?
+a) 90° N
+b) 0°
+c) 90° S
+d) 180°
+
+பூமத்தியரேகையின் அட்சரேகை என்ன?
+a) 90° வடக்கு
+b) 0°
+c) 90° தெற்கு
+d) 180°
+
+Answer: b
+
+**Question 20:**
+The Prime Meridian passes through which city?
+a) Paris
+b) New York
+c) Greenwich
+d) Tokyo
+
+முதன்மை தீர்க்கரேகை எந்த நகரத்தின் வழியாக செல்கிறது?
+a) பாரிஸ்
+b) நியூயார்க்
+c) கிரீன்விச்
+d) டோக்கியோ
+
+Answer: c
+
+**Question 21:**
+Lines of latitude are also known as:
+a) Meridians
+b) Parallels
+c) Longitudes
+d) Great Circles
+
+அட்சரேகைக் கோடுகள் இவ்வாறு அழைக்கப்படுகின்றன:
+a) மெரிடியன்கள் (தீர்க்கரேகைகள்)
+b) பேரலல்கள் (இணை கோடுகள்)
+c) தீர்க்கரேகைகள்
+d) பெருவட்டங்கள்
+
+Answer: b
+
+**Question 22:**
+The Tropic of Capricorn is located at:
+a) 23.5° N
+b) 66.5° S
+c) 23.5° S
+d) 0°
+
+மகரரேகை அமைந்துள்ள இடம்:
+a) 23.5° வடக்கு
+b) 66.5° தெற்கு
+c) 23.5° தெற்கு
+d) 0°
+
+Answer: c
+
+**Question 23:**
+What is the approximate shape of the Earth?
+a) Perfect Sphere
+b) Flat Disc
+c) Geoid (Oblate Spheroid)
+d) Cube
+
+பூமியின் தோராயமான வடிவம் என்ன?
+a) சரியான கோளம்
+b) தட்டையான வட்டு
+c) புவிவடிவம் (மேடு பள்ளமான கோளம்)
+d) கனசதுரம்
+
+Answer: c
+
+**Question 24:**
+How many degrees of longitude does the Earth rotate in one hour?
+a) 10°
+b) 15°
+c) 20°
+d) 24°
+
+பூமி ஒரு மணி நேரத்தில் எத்தனை பாகை தீர்க்கரேகையை சுழல்கிறது?
+a) 10°
+b) 15°
+c) 20°
+d) 24°
+
+Answer: b
+
+**Question 25:**
+The International Date Line generally follows which meridian?
+a) 0°
+b) 90° E
+c) 90° W
+d) 180°
+
+பன்னாட்டு நாள் கோடு பொதுவாக எந்த தீர்க்கரேகையைப் பின்பற்றுகிறது?
+a) 0°
+b) 90° கிழக்கு
+c) 90° மேற்கு
+d) 180°
+
+Answer: d
+
+**Question 26:**
+Which of these is the largest continent by area?
+a) Africa
+b) North America
+c) Asia
+d) Europe
+
+பரப்பளவில் மிகப்பெரிய கண்டம் எது?
+a) ஆப்பிரிக்கா
+b) வட அமெரிக்கா
+c) ஆசியா
+d) ஐரோப்பா
+
+Answer: c
+
+**Question 27:**
+The point on the Earth's surface directly above the focus of an earthquake is called:
+a) Epicenter
+b) Hypocenter
+c) Focus point
+d) Seismic center
+
+பூகம்பத்தின் மையப்புள்ளிக்கு நேர் மேலே பூமியின் மேற்பரப்பில் உள்ள புள்ளி இவ்வாறு அழைக்கப்படுகிறது:
+a) நிலநடுக்க மேல் மையம் (எபிசென்டர்)
+b) நிலநடுக்க கீழ் மையம் (ஹைப்போசென்டர்)
+c) மையப்புள்ளி
+d) நில அதிர்வு மையம்
+
+Answer: a
+
+**Question 28:**
+Which imaginary line divides India into almost two equal parts?
+a) Equator
+b) Tropic of Capricorn
+c) Tropic of Cancer
+d) Arctic Circle
+
+எந்த கற்பனைக் கோடு இந்தியாவை ஏறக்குறைய இரண்டு சம பாகங்களாகப் பிரிக்கிறது?
+a) பூமத்தியரேகை
+b) மகரரேகை
+c) கடகரேகை
+d) ஆர்டிக் வட்டம்
+
+Answer: c
+
+**Question 29:**
+The angular distance east or west of the Prime Meridian is called:
+a) Latitude
+b) Altitude
+c) Longitude
+d) Declination
+
+முதன்மை தீர்க்கரேகைக்கு கிழக்கே அல்லது மேற்கே உள்ள கோண தூரம் இவ்வாறு அழைக்கப்படுகிறது:
+a) அட்சரேகை
+b) உயரம்
+c) தீர்க்கரேகை
+d) சரிவு
+
+Answer: c
+
+**Question 30:**
+Which ocean is the largest and deepest?
+a) Atlantic Ocean
+b) Indian Ocean
+c) Arctic Ocean
+d) Pacific Ocean
+
+மிகப்பெரிய மற்றும் ஆழமான பெருங்கடல் எது?
+a) அட்லாண்டிக் பெருங்கடல்
+b) இந்தியப் பெருங்கடல்
+c) ஆர்டிக் பெருங்கடல்
+d) பசிபிக் பெருங்கடல்
+
+Answer: d
+
+**Question 31:**
+The Equator divides the Earth into which two hemispheres?
+a) Eastern and Western
+b) Northern and Southern
+c) Upper and Lower
+d) Land and Water
+
+பூமத்தியரேகை பூமியை எந்த இரண்டு அரைக்கோளங்களாகப் பிரிக்கிறது?
+a) கிழக்கு மற்றும் மேற்கு
+b) வட மற்றும் தென்
+c) மேல் மற்றும் கீழ்
+d) நிலம் மற்றும் நீர்
+
+Answer: b
+
+**Question 32:**
+The standard meridian for Indian Standard Time (IST) is:
+a) 82.5° W
+b) 82.5° E
+c) 90° E
+d) 75.5° W
+
+இந்திய திட்ட நேரத்திற்கான (IST) திட்ட தீர்க்கரேகை:
+a) 82.5° மேற்கு
+b) 82.5° கிழக்கு
+c) 90° கிழக்கு
+d) 75.5° மேற்கு
+
+Answer: b
+
+**Question 33:**
+What is the term for the network of latitudes and longitudes on a globe or map?
+a) Cartogram
+b) Grid system
+c) Topography
+d) Projection
+
+ஒரு புவிக்கோளம் அல்லது வரைபடத்தில் உள்ள அட்சரேகைகள் மற்றும் தீர்க்கரேகைகளின் வலையமைப்பிற்கான சொல் என்ன?
+a) கார்டோகிராம்
+b) கட்ட அமைப்பு
+c) நிலப்பரப்பியல்
+d) வீழல்முறை
+
+Answer: b
+
+**Question 34:**
+The Arctic Circle is located at:
+a) 66.5° S
+b) 23.5° N
+c) 66.5° N
+d) 90° N
+
+ஆர்டிக் வட்டம் அமைந்துள்ள இடம்:
+a) 66.5° தெற்கு
+b) 23.5° வடக்கு
+c) 66.5° வடக்கு
+d) 90° வடக்கு
+
+Answer: c
+
+**Question 35:**
+If it is 12 noon at Greenwich, what will be the time at 15° E longitude?
+a) 11 AM
+b) 1 PM
+c) 12 Noon
+d) 2 PM
+
+கிரீன்விச்சில் மதியம் 12 மணி என்றால், 15° கிழக்கு தீர்க்கரேகையில் நேரம் என்னவாக இருக்கும்?
+a) காலை 11 மணி
+b) மதியம் 1 மணி
+c) மதியம் 12 மணி
+d) மதியம் 2 மணி
+
+Answer: b
+
+**Question 36:**
+Which of the following is a Great Circle?
+a) Tropic of Cancer
+b) Arctic Circle
+c) Equator
+d) All parallels of latitude
+
+பின்வருவனவற்றில் எது பெருவட்டம்?
+a) கடகரேகை
+b) ஆர்டிக் வட்டம்
+c) பூமத்தியரேகை
+d) அனைத்து அட்சரேகைக் கோடுகளும்
+
+Answer: c
+
+**Question 37:**
+The distance between two consecutive longitudes at the poles is:
+a) Maximum
+b) Minimum (Zero)
+c) Same as at Equator
+d) Undefined
+
+துருவங்களில் அடுத்தடுத்த இரண்டு தீர்க்கரேகைகளுக்கு இடையிலான தூரம்:
+a) அதிகபட்சம்
+b) குறைந்தபட்சம் (பூஜ்ஜியம்)
+c) பூமத்தியரேகையில் உள்ளதைப் போன்றே
+d) வரையறுக்கப்படாதது
+
+Answer: b
+
+**Question 38:**
+The continent of Antarctica is primarily located in which hemisphere?
+a) Northern Hemisphere
+b) Southern Hemisphere
+c) Eastern Hemisphere
+d) Western Hemisphere
+
+அண்டார்டிகா கண்டம் முதன்மையாக எந்த அரைக்கோளத்தில் அமைந்துள்ளது?
+a) வட அரைக்கோளம்
+b) தென் அரைக்கோளம்
+c) கிழக்கு அரைக்கோளம்
+d) மேற்கு அரைக்கோளம்
+
+Answer: b
+
+**Question 39:**
+What is the approximate circumference of the Earth at the Equator?
+a) 10,000 km
+b) 20,000 km
+c) 30,000 km
+d) 40,000 km
+
+பூமத்தியரேகையில் பூமியின் தோராயமான சுற்றளவு என்ன?
+a) 10,000 கி.மீ
+b) 20,000 கி.மீ
+c) 30,000 கி.மீ
+d) 40,000 கி.மீ
+
+Answer: d
+
+**Question 40:**
+The 'Roaring Forties' are strong westerly winds found in:
+a) The Arctic region
+b) The Northern Temperate Zone
+c) The Southern Hemisphere, between 40° and 50° latitude
+d) The Equatorial belt
+
+'கர்ஜிக்கும் நாற்பதுகள்' (Roaring Forties) எனப்படும் வலிமையான மேற்கு காற்று எங்கு காணப்படுகிறது?
+a) ஆர்டிக் பகுதி
+b) வட மிதவெப்ப மண்டலம்
+c) தென் அரைக்கோளம், 40° மற்றும் 50° அட்சரேகைக்கு இடையில்
+d) பூமத்தியரேகைப் பட்டை
+
+Answer: c
+
+**Question 41:**
+Which country has the largest number of time zones?
+a) USA
+b) Russia
+c) Canada
+d) France (including overseas territories)
+
+அதிக எண்ணிக்கையிலான நேர மண்டலங்களைக் கொண்ட நாடு எது?
+a) அமெரிக்கா
+b) ரஷ்யா
+c) கனடா
+d) பிரான்ஸ் (கடல்கடந்த பிரதேசங்கள் உட்பட)
+
+Answer: d
+
+**Question 42:**
+The term 'antipodes' refers to:
+a) Points at the same latitude
+b) Points at the same longitude
+c) Points diametrically opposite to each other on the Earth's surface
+d) Neighboring points
+
+'எதிர்முனைகள்' (antipodes) என்ற சொல் எதைக் குறிக்கிறது?
+a) ஒரே அட்சரேகையில் உள்ள புள்ளிகள்
+b) ஒரே தீர்க்கரேகையில் உள்ள புள்ளிகள்
+c) பூமியின் மேற்பரப்பில் ஒன்றுக்கொன்று நேர் எதிர்மாறான புள்ளிகள்
+d) அருகிலுள்ள புள்ளிகள்
+
+Answer: c
+
+**Question 43:**
+The Sun is directly overhead at the Tropic of Cancer on:
+a) December 22nd
+b) March 21st
+c) June 21st
+d) September 23rd
+
+சூரியன் கடகரேகையில் நேரடியாக தலைக்கு மேலே இருக்கும் நாள்:
+a) டிசம்பர் 22
+b) மார்ச் 21
+c) ஜூன் 21
+d) செப்டம்பர் 23
+
+Answer: c
+
+**Question 44:**
+Which of these is NOT a primary cardinal direction?
+a) North
+b) South
+c) East
+d) Northeast
+
+இவற்றில் எது முதன்மை திசை அல்ல?
+a) வடக்கு
+b) தெற்கு
+c) கிழக்கு
+d) வடகிழக்கு
+
+Answer: d
+
+**Question 45:**
+The axis of the Earth is tilted at an angle of:
+a) 0° from the perpendicular to its orbital plane
+b) 23.5° from the perpendicular to its orbital plane
+c) 66.5° from the perpendicular to its orbital plane
+d) 90° from the perpendicular to its orbital plane
+
+பூமியின் அச்சு அதன் சுற்றுப்பாதை தளத்திற்கு செங்குத்தாக இருந்து எந்த கோணத்தில் சாய்ந்துள்ளது?
+a) 0°
+b) 23.5°
+c) 66.5°
+d) 90°
+
+Answer: b
+
+**Question 46:**
+The location of a place described by its latitude and longitude is its:
+a) Relative location
+b) Absolute location
+c) Situational location
+d) Nominal location
+
+ஒரு இடத்தின் அமைவிடம் அதன் அட்சரேகை மற்றும் தீர்க்கரேகையால் விவரிக்கப்படுவது:
+a) சார்பு அமைவிடம்
+b) தனித்த அமைவிடம் (முழுமையான அமைவிடம்)
+c) சூழ்நிலை அமைவிடம்
+d) பெயரளவு அமைவிடம்
+
+Answer: b
+
+**Question 47:**
+Which continent lies in all four hemispheres (Northern, Southern, Eastern, Western)?
+a) Asia
+b) Africa
+c) South America
+d) Europe
+
+நான்கு அரைக்கோளங்களிலும் (வடக்கு, தெற்கு, கிழக்கு, மேற்கு) அமைந்துள்ள கண்டம் எது?
+a) ஆசியா
+b) ஆப்பிரிக்கா
+c) தென் அமெரிக்கா
+d) ஐரோப்பா
+
+Answer: b
+
+**Question 48:**
+The imaginary line on the Earth's surface that separates daylight from darkness is called:
+a) Terminator
+b) Equinox line
+c) Solstice line
+d) Horizon line
+
+பூமியின் மேற்பரப்பில் பகலொளியையும் இருளையும் பிரிக்கும் கற்பனைக் கோடு இவ்வாறு அழைக்கப்படுகிறது:
+a) ஒளிர்வு எல்லைக்கோடு (டெர்மினேட்டர்)
+b) சம இரவுபகல் கோடு
+c) அயனान्तக் கோடு
+d) தொடுவானக் கோடு
+
+Answer: a
+
+**Question 49:**
+The area between the Tropic of Cancer and the Tropic of Capricorn is known as the:
+a) Torrid Zone
+b) Temperate Zone
+c) Frigid Zone
+d) Polar Zone
+
+கடகரேகைக்கும் மகரரேகைக்கும் இடைப்பட்ட பகுதி இவ்வாறு அழைக்கப்படுகிறது:
+a) வெப்ப மண்டலம்
+b) மிதவெப்ப மண்டலம்
+c) குளிர் மண்டலம்
+d) துருவ மண்டலம்
+
+Answer: a
+
+**Question 50:**
+The 0° longitude is also known as:
+a) International Date Line
+b) Equator
+c) Greenwich Meridian
+d) Tropic of Longitude
+
+0° தீர்க்கரேகை இவ்வாறு அழைக்கப்படுகிறது:
+a) பன்னாட்டு நாள் கோடு
+b) பூமத்தியரேகை
+c) கிரீன்விச் தீர்க்கரேகை (முதன்மை தீர்க்கரேகை)
+d) தீர்க்கரேகையின் அயனக்கோடு
+
+Answer: c
