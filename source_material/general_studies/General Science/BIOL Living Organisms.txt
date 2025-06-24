@@ -1,0 +1,637 @@
+**Overall Topic: Classification of Living Organisms**
+**மொத்த தலைப்பு: உயிரினங்களின் வகைப்பாடு**
+
+---
+
+**1. Assertion and Reason Questions (6 questions)**
+**1. கூற்று மற்றும் காரணம் வினாக்கள் (6 வினாக்கள்)**
+
+---
+
+1.  **Assertion (A):** Whittaker proposed the Five Kingdom Classification.
+    **Reason (R):** The Five Kingdom Classification includes Monera, Protista, Fungi, Plantae, and Animalia.
+
+    **கூற்று (A):** விட்டேக்கர் ஐந்து உலக வகைப்பாட்டை முன்மொழிந்தார்.
+    **காரணம் (R):** ஐந்து உலக வகைப்பாட்டில் மொனிரா, புரோட்டிஸ்டா, பூஞ்சைகள், தாவரங்கள் மற்றும் விலங்குகள் ஆகியவை அடங்கும்.
+
+    Options:
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+    e) Both A and R are false.
+
+    விருப்பத்தேர்வுகள்:
+    a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+    b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+    c) A உண்மை, ஆனால் R தவறு.
+    d) A தவறு, ஆனால் R உண்மை.
+    e) A மற்றும் R இரண்டும் தவறு.
+    Answer: b
+    விடை: b
+
+2.  **Assertion (A):** Viruses are classified under the Kingdom Monera.
+    **Reason (R):** Viruses are acellular organisms that can only reproduce inside a living host cell.
+
+    **கூற்று (A):** வைரஸ்கள் மொனிரா உலகத்தின் கீழ் வகைப்படுத்தப்பட்டுள்ளன.
+    **காரணம் (R):** வைரஸ்கள் என்பவை உயிரற்ற செல்களற்ற உயிரினங்கள், அவை உயிருள்ள ஓம்புயிர் செல்லுக்குள் மட்டுமே இனப்பெருக்கம் செய்ய முடியும்.
+
+    Options:
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+    e) Both A and R are false.
+
+    விருப்பத்தேர்வுகள்:
+    a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+    b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+    c) A உண்மை, ஆனால் R தவறு.
+    d) A தவறு, ஆனால் R உண்மை.
+    e) A மற்றும் R இரண்டும் தவறு.
+    Answer: d
+    விடை: d
+
+3.  **Assertion (A):** Binomial nomenclature gives each organism two names.
+    **Reason (R):** The first name in binomial nomenclature is the species name and the second is the genus name.
+
+    **கூற்று (A):** இருசொல் பெயரீடு முறை ஒவ்வொரு உயிரிக்கும் இரண்டு பெயர்களை அளிக்கிறது.
+    **காரணம் (R):** இருசொல் பெயரீட்டில் முதல் பெயர் சிற்றினப் பெயராகவும், இரண்டாவது பெயர் பேரினப் பெயராகவும் இருக்கும்.
+
+    Options:
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+    e) Both A and R are false.
+
+    விருப்பத்தேர்வுகள்:
+    a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+    b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+    c) A உண்மை, ஆனால் R தவறு.
+    d) A தவறு, ஆனால் R உண்மை.
+    e) A மற்றும் R இரண்டும் தவறு.
+    Answer: c
+    விடை: c
+
+4.  **Assertion (A):** Fungi are heterotrophic organisms.
+    **Reason (R):** Fungi lack chlorophyll and cannot perform photosynthesis.
+
+    **கூற்று (A):** பூஞ்சைகள் பிறசார்பு ஊட்ட உயிரினங்கள் ஆகும்.
+    **காரணம் (R):** பூஞ்சைகளில் பச்சையம் இல்லை மற்றும் அவை ஒளிச்சேர்க்கை செய்ய இயலாது.
+
+    Options:
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+    e) Both A and R are false.
+
+    விருப்பத்தேர்வுகள்:
+    a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+    b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+    c) A உண்மை, ஆனால் R தவறு.
+    d) A தவறு, ஆனால் R உண்மை.
+    e) A மற்றும் R இரண்டும் தவறு.
+    Answer: a
+    விடை: a
+
+5.  **Assertion (A):** Bryophytes are called amphibians of the plant kingdom.
+    **Reason (R):** Bryophytes require water for fertilization.
+
+    **கூற்று (A):** பிரையோஃபைட்டுகள் தாவர உலகின் இருவாழ்விகள் என்று அழைக்கப்படுகின்றன.
+    **காரணம் (R):** பிரையோஃபைட்டுகளுக்கு கருவுறுதலுக்கு நீர் தேவைப்படுகிறது.
+
+    Options:
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+    e) Both A and R are false.
+
+    விருப்பத்தேர்வுகள்:
+    a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+    b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+    c) A உண்மை, ஆனால் R தவறு.
+    d) A தவறு, ஆனால் R உண்மை.
+    e) A மற்றும் R இரண்டும் தவறு.
+    Answer: a
+    விடை: a
+
+6.  **Assertion (A):** All vertebrates are chordates.
+    **Reason (R):** All chordates are vertebrates.
+
+    **கூற்று (A):** அனைத்து முதுகெலும்பிகளும் முதுகுநாணிகளே.
+    **காரணம் (R):** அனைத்து முதுகுநாணிகளும் முதுகெலும்பிகளே.
+
+    Options:
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+    e) Both A and R are false.
+
+    விருப்பத்தேர்வுகள்:
+    a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A-யின் சரியான விளக்கம்.
+    b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A-யின் சரியான விளக்கம் அல்ல.
+    c) A உண்மை, ஆனால் R தவறு.
+    d) A தவறு, ஆனால் R உண்மை.
+    e) A மற்றும் R இரண்டும் தவறு.
+    Answer: c
+    விடை: c
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions)**
+**2. தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியும் வினாக்கள் (6 வினாக்கள்)**
+
+---
+
+7.  Identify the wrongly matched pair:
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Monera - Prokaryotic / மொனிரா - புரோகேரியாட்டிக்
+    b) Fungi - Autotrophic / பூஞ்சைகள் - தற்சார்பு ஊட்டமுறை
+    c) Protista - Eukaryotic / புரோட்டிஸ்டா - யூகேரியாட்டிக்
+    d) Animalia - Heterotrophic / விலங்குகள் - பிறசார்பு ஊட்டமுறை
+    Answer: b (Fungi - Heterotrophic / Saprophytic)
+    விடை: b (பூஞ்சைகள் - பிறசார்பு ஊட்டமுறை / மட்குண்ணி)
+
+8.  Identify the wrongly matched pair:
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Carolus Linnaeus - Binomial Nomenclature / கரோலஸ் லின்னேயஸ் - இருசொல் பெயரீடு
+    b) R.H. Whittaker - Five Kingdom Classification / ஆர்.எச். விட்டேக்கர் - ஐந்து உலக வகைப்பாடு
+    c) Theophrastus - Father of Botany / தியோஃப்ராஸ்டஸ் - தாவரவியலின் தந்தை
+    d) Aristotle - Father of Taxonomy / அரிஸ்டாட்டில் - வகைப்பாட்டியலின் தந்தை
+    Answer: d (Aristotle - Father of Biology/Zoology; Linnaeus is Father of Taxonomy)
+    விடை: d (அரிஸ்டாட்டில் - உயிரியலின்/ விலங்கியலின் தந்தை; லின்னேயஸ் வகைப்பாட்டியலின் தந்தை)
+
+9.  Identify the wrongly matched pair regarding plant groups:
+    தாவரக் குழுக்கள் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Algae - Thallophyta / பாசிகள் - தாலோஃபைட்டா
+    b) Bryophytes - Vascular tissues absent / பிரையோஃபைட்டுகள் - வாஸ்குலார் திசுக்கள் இல்லை
+    c) Pteridophytes - Seeds present / டெரிடோஃபைட்டுகள் - விதைகள் உள்ளன
+    d) Gymnosperms - Naked seeds / ஜிம்னோஸ்பெர்ம்கள் - திறந்த விதைகள்
+    Answer: c (Pteridophytes - Seeds absent)
+    விடை: c (டெரிடோஃபைட்டுகள் - விதைகள் இல்லை)
+
+10. Identify the wrongly matched pair regarding animal phyla:
+    விலங்குத் தொகுதிகள் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Porifera - Canal system / போரிஃபெரா - கால்வாய் மண்டலம்
+    b) Coelenterata - Cnidoblasts / சீலென்டிரேட்டா - நெமடோசிஸ்ட்கள் (கொட்டும் செல்கள்)
+    c) Platyhelminthes - True coelom / பிளாட்டிஹெல்மின்தஸ் - உண்மையான உடற்குழி
+    d) Arthropoda - Jointed appendages / கணுக்காலிகள் - இணைந்த இணை உறுப்புகள்
+    Answer: c (Platyhelminthes - Acoelomates / உடற்குழியற்றவை)
+    விடை: c (பிளாட்டிஹெல்மின்தஸ் - உடற்குழியற்றவை)
+
+11. Identify the wrongly matched pair:
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Bacteria - Prokaryotic / பாக்டீரியா - புரோகேரியாட்டிக்
+    b) Amoeba - Protista / அமீபா - புரோட்டிஸ்டா
+    c) Mushroom - Plantae / காளான் - தாவர உலகம்
+    d) Yeast - Fungi / ஈஸ்ட் - பூஞ்சைகள்
+    Answer: c (Mushroom - Fungi)
+    விடை: c (காளான் - பூஞ்சைகள்)
+
+12. Identify the wrongly matched pair regarding modes of nutrition:
+    ஊட்டச்சத்து முறைகள் தொடர்பான தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) Green plants - Autotrophic / பசுந்தாவரங்கள் - தற்சார்பு ஊட்டமுறை
+    b) Animals - Heterotrophic / விலங்குகள் - பிறசார்பு ஊட்டமுறை
+    c) Fungi - Saprophytic / பூஞ்சைகள் - மட்குண்ணி ஊட்டமுறை
+    d) Cuscuta (Dodder) - Chemosynthetic / கஸ்குட்டா (சடதாரி) - வேதிச்சேர்க்கை ஊட்டமுறை
+    Answer: d (Cuscuta - Parasitic)
+    விடை: d (கஸ்குட்டா - ஒட்டுண்ணி)
+
+---
+
+**3. Match the Following Questions (6 questions)**
+**3. பொருத்துக வினாக்கள் (6 வினாக்கள்)**
+
+---
+
+13. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    List-I (Taxonomic Rank) / பட்டியல்-I (வகைப்பாட்டு படிநிலை)
+    1. Species / சிற்றினம்
+    2. Genus / பேரினம்
+    3. Family / குடும்பம்
+    4. Kingdom / உலகம் (பேருலகம்)
+
+    List-II (Example / Characteristic) / பட்டியல்-II (எடுத்துக்காட்டு / பண்பு)
+    a. Felidae / ஃபெலிடே
+    b. Basic unit of classification / வகைப்பாட்டின் அடிப்படை அலகு
+    c. Animalia / விலங்கு உலகம்
+    d. Felis / ஃபெலிஸ்
+
+    Options / தேர்வுகள்:
+    A) 1-b, 2-d, 3-a, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-b, 4-a
+    D) 1-c, 2-a, 3-d, 4-b
+    Answer: A
+    விடை: A (Species - Basic unit of classification, Genus - Felis, Family - Felidae, Kingdom - Animalia)
+    (தமிழ் பொருத்தம்: 1. சிற்றினம் - வகைப்பாட்டின் அடிப்படை அலகு, 2. பேரினம் - ஃபெலிஸ், 3. குடும்பம் - ஃபெலிடே, 4. உலகம் - விலங்கு உலகம்)
+
+14. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    List-I (Organism) / பட்டியல்-I (உயிரினம்)
+    1. Bacteria / பாக்டீரியா
+    2. Amoeba / அமீபா
+    3. Mushroom / காளான்
+    4. Mango tree / மாமரம்
+
+    List-II (Kingdom) / பட்டியல்-II (உலகம்/பேருலகம்)
+    a. Protista / புரோட்டிஸ்டா
+    b. Fungi / பூஞ்சைகள்
+    c. Plantae / தாவரங்கள்
+    d. Monera / மொனிரா
+
+    Options / தேர்வுகள்:
+    A) 1-a, 2-b, 3-c, 4-d
+    B) 1-d, 2-a, 3-b, 4-c
+    C) 1-b, 2-c, 3-d, 4-a
+    D) 1-c, 2-d, 3-a, 4-b
+    Answer: B
+    விடை: B
+
+15. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    List-I (Phylum/Group) / பட்டியல்-I (தொகுதி/குழு)
+    1. Porifera / போரிஃபெரா
+    2. Annelida / வளைதசைப்புழுக்கள் (அன்னலிடா)
+    3. Mollusca / மெல்லுடலிகள் (மொலஸ்கா)
+    4. Echinodermata / முட்தோலிகள் (எக்கினோடெர்மேட்டா)
+
+    List-II (Characteristic Feature) / பட்டியல்-II (சிறப்பியல்பு)
+    a. Metameric segmentation / கண்ட அமைப்பு (மெட்டாமெரிக் கண்டங்கள்)
+    b. Water vascular system / நீர்க் குழல் மண்டலம்
+    c. Cellular level of organization / செல் அளவிலான கட்டமைப்பு
+    d. Muscular foot / தசைப் பாதம்
+
+    Options / தேர்வுகள்:
+    A) 1-c, 2-a, 3-d, 4-b
+    B) 1-a, 2-d, 3-b, 4-c
+    C) 1-b, 2-c, 3-a, 4-d
+    D) 1-d, 2-b, 3-c, 4-a
+    Answer: A
+    விடை: A
+
+16. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    List-I (Plant Group) / பட்டியல்-I (தாவரக் குழு)
+    1. Algae / பாசிகள்
+    2. Bryophytes / பிரையோஃபைட்டுகள்
+    3. Pteridophytes / டெரிடோஃபைட்டுகள்
+    4. Gymnosperms / ஜிம்னோஸ்பெர்ம்கள்
+
+    List-II (Example) / பட்டியல்-II (எடுத்துக்காட்டு)
+    a. Fern / பெரணி
+    b. Cycas / சைகஸ்
+    c. Spirogyra / ஸ்பைரோகைரா
+    d. Moss (Funaria) / மாஸ் (ஃபியுனேரியா)
+
+    Options / தேர்வுகள்:
+    A) 1-a, 2-b, 3-c, 4-d
+    B) 1-c, 2-d, 3-a, 4-b
+    C) 1-d, 2-a, 3-b, 4-c
+    D) 1-b, 2-c, 3-d, 4-a
+    Answer: B
+    விடை: B
+
+17. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    List-I (Disease Causing Agent) / பட்டியல்-I (நோய் உண்டாக்கும் காரணி)
+    1. Virus / வைரஸ்
+    2. Bacterium / பாக்டீரியம்
+    3. Fungus / பூஞ்சை
+    4. Protozoan / புரோட்டோசோவா
+
+    List-II (Disease) / பட்டியல்-II (நோய்)
+    a. Ringworm / படர்தாமரை
+    b. Malaria / மலேரியா
+    c. Common cold / சாதாரண சளி
+    d. Typhoid / டைபாய்டு
+
+    Options / தேர்வுகள்:
+    A) 1-a, 2-b, 3-d, 4-c
+    B) 1-b, 2-a, 3-c, 4-d
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-d, 2-c, 3-b, 4-a
+    Answer: C
+    விடை: C
+
+18. Match List-I with List-II:
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    List-I (Vertebrate Class) / பட்டியல்-I (முதுகெலும்பி வகுப்பு)
+    1. Pisces / மீன்கள்
+    2. Amphibia / இருவாழ்விகள்
+    3. Reptilia / ஊர்வன
+    4. Aves / பறவைகள்
+
+    List-II (Characteristic) / பட்டியல்-II (பண்பு)
+    a. Feathers / இறகுகள்
+    b. Scales and dry skin / செதில்கள் மற்றும் உலர்ந்த தோல்
+    c. Gills throughout life, fins / வாழ்நாள் முழுவதும் செவுள்கள், துடுப்புகள்
+    d. Moist skin, can live on land and water / ஈரமான தோல், நிலத்திலும் நீரிலும் வாழும்
+
+    Options / தேர்வுகள்:
+    A) 1-c, 2-d, 3-b, 4-a
+    B) 1-d, 2-c, 3-a, 4-b
+    C) 1-a, 2-b, 3-d, 4-c
+    D) 1-b, 2-a, 3-c, 4-d
+    Answer: A
+    விடை: A
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions)**
+**4. பலவுள் தெரிவு வினாக்கள் (32 வினாக்கள்)**
+
+---
+
+19. Who is known as the "Father of Taxonomy"?
+    "வகைப்பாட்டியலின் தந்தை" என்று அழைக்கப்படுபவர் யார்?
+    a) Aristotle / அரிஸ்டாட்டில்
+    b) Theophrastus / தியோஃப்ராஸ்டஸ்
+    c) Carolus Linnaeus / கரோலஸ் லின்னேயஸ்
+    d) R.H. Whittaker / ஆர்.எச். விட்டேக்கர்
+    Answer: c
+    விடை: c
+
+20. The basic unit of classification is:
+    வகைப்பாட்டின் அடிப்படை அலகு:
+    a) Genus / பேரினம்
+    b) Species / சிற்றினம்
+    c) Family / குடும்பம்
+    d) Kingdom / உலகம் (பேருலகம்)
+    Answer: b
+    விடை: b
+
+21. Which of the following is a prokaryotic kingdom?
+    பின்வருவனவற்றில் எது புரோகேரியாட்டிக் உலகம் (பேருலகம்)?
+    a) Protista / புரோட்டிஸ்டா
+    b) Fungi / பூஞ்சைகள்
+    c) Monera / மொனிரா
+    d) Plantae / தாவரங்கள்
+    Answer: c
+    விடை: c
+
+22. Organisms that can prepare their own food are called:
+    தங்கள் உணவைத் தாங்களே தயாரித்துக் கொள்ளக்கூடிய உயிரினங்கள் இவ்வாறு அழைக்கப்படுகின்றன:
+    a) Heterotrophs / பிறசார்பு ஊட்ட உயிரிகள்
+    b) Saprophytes / மட்குண்ணிகள்
+    c) Autotrophs / தற்சார்பு ஊட்ட உயிரிகள்
+    d) Parasites / ஒட்டுண்ணிகள்
+    Answer: c
+    விடை: c
+
+23. In the five kingdom classification, unicellular eukaryotic organisms are placed in:
+    ஐந்து உலக வகைப்பாட்டில், ஒரு செல் யூகேரியாட்டிக் உயிரினங்கள் எதில் வைக்கப்பட்டுள்ளன:
+    a) Monera / மொனிரா
+    b) Protista / புரோட்டிஸ்டா
+    c) Fungi / பூஞ்சைகள்
+    d) Plantae / தாவரங்கள்
+    Answer: b
+    விடை: b
+
+24. The cell wall of fungi is mainly composed of:
+    பூஞ்சைகளின் செல் சுவர் முக்கியமாக எதனால் ஆனது?
+    a) Cellulose / செல்லுலோஸ்
+    b) Chitin / கைட்டின்
+    c) Peptidoglycan / பெப்டிடோகிளைக்கான்
+    d) Lignin / லிக்னின்
+    Answer: b
+    விடை: b
+
+25. Which of the following plant groups lacks true roots, stem, and leaves?
+    பின்வரும் எந்த தாவரக் குழுவில் உண்மையான வேர்கள், தண்டு மற்றும் இலைகள் இல்லை?
+    a) Bryophytes / பிரையோஃபைட்டுகள்
+    b) Pteridophytes / டெரிடோஃபைட்டுகள்
+    c) Gymnosperms / ஜிம்னோஸ்பெர்ம்கள்
+    d) Algae (Thallophytes) / பாசிகள் (தாலோஃபைட்டுகள்)
+    Answer: d
+    விடை: d
+
+26. Vascular tissues (xylem and phloem) are first found in which plant group?
+    வாஸ்குலார் திசுக்கள் (சைலம் மற்றும் ஃபுளோயம்) முதன்முதலில் எந்த தாவரக் குழுவில் காணப்படுகின்றன?
+    a) Algae / பாசிகள்
+    b) Bryophytes / பிரையோஃபைட்டுகள்
+    c) Pteridophytes / டெரிடோஃபைட்டுகள்
+    d) Fungi / பூஞ்சைகள்
+    Answer: c
+    விடை: c
+
+27. Plants that bear naked seeds belong to the group:
+    திறந்த விதைகளைக் கொண்ட தாவரங்கள் எந்தக் குழுவைச் சேர்ந்தவை?
+    a) Angiosperms / ஆஞ்சியோஸ்பெர்ம்கள்
+    b) Gymnosperms / ஜிம்னோஸ்பெர்ம்கள்
+    c) Pteridophytes / டெரிடோஃபைட்டுகள்
+    d) Bryophytes / பிரையோஃபைட்டுகள்
+    Answer: b
+    விடை: b
+
+28. The largest phylum in the animal kingdom is:
+    விலங்கு உலகின் மிகப்பெரிய தொகுதி:
+    a) Mollusca / மெல்லுடலிகள்
+    b) Annelida / வளைதசைப்புழுக்கள்
+    c) Arthropoda / கணுக்காலிகள்
+    d) Chordata / முதுகுநாணிகள்
+    Answer: c
+    விடை: c
+
+29. Which of the following is a cold-blooded animal?
+    பின்வருவனவற்றில் எது குளிர் இரத்தப் பிராணி?
+    a) Pigeon / புறா
+    b) Whale / திமிங்கலம்
+    c) Lizard / பல்லி
+    d) Human / மனிதன்
+    Answer: c
+    விடை: c
+
+30. The scientific name of humans is:
+    மனிதனின் அறிவியல் பெயர்:
+    a) Mangifera indica / மாஞ்சிஃபெரா இண்டிகா
+    b) Homo sapiens / ஹோமோ சேபியன்ஸ்
+    c) Rana tigrina / ரானா டைகிரினா
+    d) Felis catus / ஃபெலிஸ் கேட்டஸ்
+    Answer: b
+    விடை: b
+
+31. Lichens are a symbiotic association between:
+    லைக்கன்கள் எவற்றுக்கு இடையேயான ஒருங்குயிர் வாழ்க்கை முறையாகும்:
+    a) Fungi and Bacteria / பூஞ்சைகள் மற்றும் பாக்டீரியாக்கள்
+    b) Algae and Bacteria / பாசிகள் மற்றும் பாக்டீரியாக்கள்
+    c) Algae and Fungi / பாசிகள் மற்றும் பூஞ்சைகள்
+    d) Fungi and Roots of higher plants / பூஞ்சைகள் மற்றும் உயர் தாவரங்களின் வேர்கள்
+    Answer: c
+    விடை: c
+
+32. Which of the following is not a characteristic of Kingdom Animalia?
+    பின்வருவனவற்றில் எது விலங்கு உலகத்தின் பண்பு அல்ல?
+    a) Multicellular / பல செல் அமைப்பு
+    b) Eukaryotic / யூகேரியாட்டிக்
+    c) Presence of cell wall / செல் சுவர் இருப்பது
+    d) Heterotrophic nutrition / பிறசார்பு ஊட்டமுறை
+    Answer: c
+    விடை: c
+
+33. The system of naming organisms with two names (generic and specific) is called:
+    உயிரினங்களுக்கு இரண்டு பெயர்களுடன் (பேரின மற்றும் சிற்றின) பெயரிடும் முறை இவ்வாறு அழைக்கப்படுகிறது:
+    a) Trinomial nomenclature / மும்சொல் பெயரீடு
+    b) Binomial nomenclature / இருசொல் பெயரீடு
+    c) Polynomial nomenclature / பலசொல் பெயரீடு
+    d) Vernacular nomenclature / வட்டாரப் பெயரீடு
+    Answer: b
+    விடை: b
+
+34. In the hierarchy of classification, which rank is placed between Phylum and Order?
+    வகைப்பாட்டின் படிநிலைகளில், தொகுதிக்கும் வரிசைக்கும் இடையில் எந்த படிநிலை உள்ளது?
+    a) Genus / பேரினம்
+    b) Family / குடும்பம்
+    c) Class / வகுப்பு
+    d) Species / சிற்றினம்
+    Answer: c
+    விடை: c
+
+35. Which of these organisms belongs to Phylum Porifera?
+    இந்த உயிரினங்களில் எது போரிஃபெரா தொகுதியைச் சேர்ந்தது?
+    a) Hydra / ஹைட்ரா
+    b) Earthworm / மண்புழு
+    c) Sponge / கடற்பஞ்சு
+    d) Starfish / நட்சத்திர மீன்
+    Answer: c
+    விடை: c
+
+36. Cnidoblasts or stinging cells are characteristic of:
+    நெமடோசிஸ்ட்கள் அல்லது கொட்டும் செல்கள் எதன் சிறப்பியல்பு?
+    a) Platyhelminthes / தட்டைப்புழுக்கள்
+    b) Coelenterata (Cnidaria) / சீலென்டிரேட்டா (னிடேரியா)
+    c) Annelida / வளைதசைப்புழுக்கள்
+    d) Arthropoda / கணுக்காலிகள்
+    Answer: b
+    விடை: b
+
+37. Earthworms belong to the phylum:
+    மண்புழுக்கள் எந்த தொகுதியைச் சேர்ந்தவை?
+    a) Nematoda / உருளைப்புழுக்கள்
+    b) Annelida / வளைதசைப்புழுக்கள்
+    c) Arthropoda / கணுக்காலிகள்
+    d) Mollusca / மெல்லுடலிகள்
+    Answer: b
+    விடை: b
+
+38. Which of the following is an example of a jawless vertebrate?
+    பின்வருவனவற்றில் தாடையற்ற முதுகெலும்பிக்கு எடுத்துக்காட்டு எது?
+    a) Shark / சுறா
+    b) Lamprey / லாம்பிரே
+    c) Rohu fish / ரோகு மீன்
+    d) Frog / தவளை
+    Answer: b
+    விடை: b
+
+39. Birds belong to the class:
+    பறவைகள் எந்த வகுப்பைச் சேர்ந்தவை?
+    a) Reptilia / ஊர்வன
+    b) Aves / பறப்பன (ஏவ்ஸ்)
+    c) Mammalia / பாலூட்டிகள்
+    d) Amphibia / இருவாழ்விகள்
+    Answer: b
+    விடை: b
+
+40. The term 'Biology' was introduced by:
+    'உயிரியல்' என்ற சொல்லை அறிமுகப்படுத்தியவர்கள்:
+    a) Aristotle and Theophrastus / அரிஸ்டாட்டில் மற்றும் தியோஃப்ராஸ்டஸ்
+    b) Lamarck and Treviranus / லாமார்க் மற்றும் டிரெவிரானஸ்
+    c) Linnaeus and Whittaker / லின்னேயஸ் மற்றும் விட்டேக்கர்
+    d) Darwin and Wallace / டார்வின் மற்றும் வாலஸ்
+    Answer: b
+    விடை: b
+
+41. Which of the following is a characteristic feature of mammals?
+    பின்வருவனவற்றில் பாலூட்டிகளின் சிறப்பியல்பு எது?
+    a) Feathers / இறகுகள்
+    b) Mammary glands / பால் சுரப்பிகள்
+    c) Scales / செதில்கள்
+    d) Three-chambered heart / மூன்று அறைகள் கொண்ட இதயம்
+    Answer: b
+    விடை: b
+
+42. Mycology is the study of:
+    மைக்காலஜி என்பது எதைப் பற்றிய ஆய்வு?
+    a) Algae / பாசிகள்
+    b) Fungi / பூஞ்சைகள்
+    c) Bacteria / பாக்டீரியாக்கள்
+    d) Viruses / வைரஸ்கள்
+    Answer: b
+    விடை: b
+
+43. Which of the following is an egg-laying mammal?
+    பின்வருவனவற்றில் முட்டையிடும் பாலூட்டி எது?
+    a) Kangaroo / கங்காரு
+    b) Bat / வௌவால்
+    c) Platypus / பிளாட்டிபஸ்
+    d) Whale / திமிங்கலம்
+    Answer: c
+    விடை: c
+
+44. The "Five Kingdom Classification" was proposed in the year:
+    "ஐந்து உலக வகைப்பாடு" எந்த ஆண்டில் முன்மொழியப்பட்டது?
+    a) 1959
+    b) 1969
+    c) 1758
+    d) 1866
+    Answer: b
+    விடை: b
+
+45. Which of the following is NOT a criterion for the Five Kingdom Classification?
+    பின்வருவனவற்றில் ஐந்து உலக வகைப்பாட்டிற்கான அளவுகோல் அல்லாதது எது?
+    a) Cell structure (Prokaryotic/Eukaryotic) / செல் அமைப்பு (புரோகேரியாட்டிக்/யூகேரியாட்டிக்)
+    b) Mode of nutrition / ஊட்டச்சத்து முறை
+    c) Body organization (Unicellular/Multicellular) / உடல் அமைப்பு (ஒருசெல்/பலசெல்)
+    d) Habitat (Aquatic/Terrestrial) / வாழிடம் (நீர்வாழ்/நிலவாழ்)
+    Answer: d
+    விடை: d
+
+46. A group of closely related species is called:
+    நெருங்கிய தொடர்புடைய சிற்றினங்களின் குழு இவ்வாறு அழைக்கப்படுகிறது:
+    a) Order / வரிசை
+    b) Class / வகுப்பு
+    c) Family / குடும்பம்
+    d) Genus / பேரினம்
+    Answer: d
+    விடை: d
+
+47. Which of the following kingdoms contains organisms with a chitinous cell wall?
+    பின்வரும் எந்த உலகத்தில் கைட்டின் செல் சுவர் கொண்ட உயிரினங்கள் உள்ளன?
+    a) Monera / மொனிரா
+    b) Protista / புரோட்டிஸ்டா
+    c) Fungi / பூஞ்சைகள்
+    d) Plantae / தாவரங்கள்
+    Answer: c
+    விடை: c
+
+48. Ferns belong to which group of plants?
+    பெரணிகள் எந்த தாவரக் குழுவைச் சேர்ந்தவை?
+    a) Bryophytes / பிரையோஃபைட்டுகள்
+    b) Pteridophytes / டெரிடோஃபைட்டுகள்
+    c) Gymnosperms / ஜிம்னோஸ்பெர்ம்கள்
+    d) Angiosperms / ஆஞ்சியோஸ்பெர்ம்கள்
+    Answer: b
+    விடை: b
+
+49. The presence of a notochord is a characteristic feature of:
+    முதுகுநாண் இருப்பது எதன் சிறப்பியல்பு?
+    a) Phylum Annelida / வளைதசைப்புழுக்கள் தொகுதி
+    b) Phylum Arthropoda / கணுக்காலிகள் தொகுதி
+    c) Phylum Mollusca / மெல்லுடலிகள் தொகுதி
+    d) Phylum Chordata / முதுகுநாணிகள் தொகுதி
+    Answer: d
+    விடை: d
+
+50. Which of these is a flowering plant?
+    இவற்றில் எது பூக்கும் தாவரம்?
+    a) Moss / மாஸ்
+    b) Fern / பெரணி
+    c) Pine tree / பைன் மரம்
+    d) Hibiscus / செம்பருத்தி
+    Answer: d
+    விடை: d

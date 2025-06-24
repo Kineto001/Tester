@@ -1,0 +1,815 @@
+**Overall Topic for Question Generation: Fertilizers and Pesticides**
+
+**1. Assertion and Reason Questions (6 questions):**
+
+1.
+**Assertion (A):** Green manuring improves soil fertility.
+**Reason (R):** Green manure crops fix atmospheric nitrogen and add organic matter to the soil.
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** பசுந்தாள் உரம் மண் வளத்தை மேம்படுத்துகிறது.
+**காரணம் (R):** பசுந்தாள் உரப் பயிர்கள் வளிமண்டல நைட்ரஜனை நிலைநிறுத்தி, மண்ணில் அங்ககப் பொருட்களை சேர்க்கின்றன.
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+**Answer: a**
+
+2.
+**Assertion (A):** DDT is an organochlorine insecticide that has been banned in many countries.
+**Reason (R):** DDT causes biomagnification in food chains and has adverse effects on non-target organisms.
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** டி.டி.டி என்பது பல நாடுகளில் தடைசெய்யப்பட்ட ஒரு ஆர்கனோகுளோரின் பூச்சிக்கொல்லியாகும்.
+**காரணம் (R):** டி.டி.டி உணவுச் சங்கிலிகளில் உயிரியல் உருப்பெருக்கத்தை ஏற்படுத்துகிறது மற்றும் இலக்கு அல்லாத உயிரினங்களில் பாதகமான விளைவுகளை ஏற்படுத்துகிறது.
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+**Answer: a**
+
+3.
+**Assertion (A):** Urea is a complex fertilizer.
+**Reason (R):** Complex fertilizers supply only one primary nutrient.
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** யூரியா ஒரு கலப்பு உரம்.
+**காரணம் (R):** கலப்பு உரங்கள் ஒரே ஒரு முதன்மை ஊட்டச்சத்தை மட்டுமே வழங்குகின்றன.
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+**Answer: e** (Urea is a straight fertilizer. Complex fertilizers supply more than one primary nutrient.)
+
+4.
+**Assertion (A):** Biofertilizers are living microorganisms that enhance plant growth.
+**Reason (R):** Biofertilizers can fix atmospheric nitrogen and solubilize phosphorus.
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** உயிரி உரங்கள் தாவர வளர்ச்சியை மேம்படுத்தும் வாழும் நுண்ணுயிரிகளாகும்.
+**காரணம் (R):** உயிரி உரங்கள் வளிமண்டல நைட்ரஜனை நிலைநிறுத்தவும், பாஸ்பரஸைக் கரைக்கவும் முடியும்.
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+**Answer: a**
+
+5.
+**Assertion (A):** Herbicides are used to control insects.
+**Reason (R):** Herbicides selectively kill unwanted plants (weeds).
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** களைக்கொல்லிகள் பூச்சிகளைக் கட்டுப்படுத்தப் பயன்படுகின்றன.
+**காரணம் (R):** களைக்கொல்லிகள் தேவையற்ற தாவரங்களை (களைகள்) தேர்ந்தெடுத்துக் கொல்லும்.
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+**Answer: d**
+
+6.
+**Assertion (A):** Excessive use of nitrogenous fertilizers can lead to eutrophication.
+**Reason (R):** Eutrophication is the depletion of oxygen in water bodies due to algal bloom.
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று (A):** நைட்ரஜன் உரங்களை அதிகமாகப் பயன்படுத்துவது மிகைஊட்ட eutrophication) வழிவகுக்கும்.
+**காரணம் (R):** மிகைஊட்ட eutrophication) என்பது பாசிப் பெருக்கத்தால் நீர்நிலைகளில் ஆக்ஸிஜன் குறைவதாகும்.
+a) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+c) A சரி, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R சரி.
+e) A மற்றும் R இரண்டும் தவறு.
+**Answer: a**
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions):**
+
+7. Identify the wrongly matched pair:
+a) Urea - Nitrogen fertilizer (யூரியா - நைட்ரஜன் உரம்)
+b) Superphosphate - Phosphatic fertilizer (சூப்பர்பாஸ்பேட் - பாஸ்பேடிக் உரம்)
+c) Malathion - Fungicide (மாலத்தியான் - பூஞ்சாணக்கொல்லி)
+d) Neem cake - Organic manure (வேப்பம் பிண்ணாக்கு - அங்கக உரம்)
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) யூரியா - நைட்ரஜன் உரம்
+b) சூப்பர்பாஸ்பேட் - பாஸ்பேடிக் உரம்
+c) மாலத்தியான் - பூஞ்சாணக்கொல்லி
+d) வேப்பம் பிண்ணாக்கு - அங்கக உரம்
+**Answer: c (Malathion - Insecticide / மாலத்தியான் - பூச்சிக்கொல்லி)**
+
+8. Identify the wrongly matched pair:
+a) Rhizobium - Nitrogen fixation (ரைசோபியம் - நைட்ரஜன் நிலைப்படுத்தல்)
+b) Azolla - Biofertilizer (அசோலா - உயிரி உரம்)
+c) 2,4-D - Insecticide (2,4-டி - பூச்சிக்கொல்லி)
+d) BHC - Organochlorine pesticide (பி.எச்.சி - ஆர்கனோகுளோரின் பூச்சிக்கொல்லி)
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) ரைசோபியம் - நைட்ரஜன் நிலைப்படுத்தல்
+b) அசோலா - உயிரி உரம்
+c) 2,4-டி - பூச்சிக்கொல்லி
+d) பி.எச்.சி - ஆர்கனோகுளோரின் பூச்சிக்கொல்லி
+**Answer: c (2,4-D - Herbicide / 2,4-டி - களைக்கொல்லி)**
+
+9. Identify the wrongly matched pair:
+a) NPK - Complex fertilizer (NPK - கலப்பு உரம்)
+b) Vermicompost - Chemical fertilizer (மண்புழு உரம் - இரசாயன உரம்)
+c) Carbaryl - Carbamate insecticide (கார்பரில் - கார்பமேட் பூச்சிக்கொல்லி)
+d) Bordeaux mixture - Fungicide (போர்டோ கலவை - பூஞ்சாணக்கொல்லி)
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) NPK - கலப்பு உரம்
+b) மண்புழு உரம் - இரசாயன உரம்
+c) கார்பரில் - கார்பமேட் பூச்சிக்கொல்லி
+d) போர்டோ கலவை - பூஞ்சாணக்கொல்லி
+**Answer: b (Vermicompost - Organic manure / மண்புழு உரம் - அங்கக உரம்)**
+
+10. Identify the wrongly matched pair:
+a) Rodenticide - Kills rats (எலிக்கொல்லி - எலிகளைக் கொல்லும்)
+b) Fungicide - Kills fungi (பூஞ்சாணக்கொல்லி - பூஞ்சைகளைக் கொல்லும்)
+c) Herbicide - Kills insects (களைக்கொல்லி - பூச்சிகளைக் கொல்லும்)
+d) Insecticide - Kills insects (பூச்சிக்கொல்லி - பூச்சிகளைக் கொல்லும்)
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) எலிக்கொல்லி - எலிகளைக் கொல்லும்
+b) பூஞ்சாணக்கொல்லி - பூஞ்சைகளைக் கொல்லும்
+c) களைக்கொல்லி - பூச்சிகளைக் கொல்லும்
+d) பூச்சிக்கொல்லி - பூச்சிகளைக் கொல்லும்
+**Answer: c (Herbicide - Kills weeds/unwanted plants / களைக்கொல்லி - களைகள்/தேவையற்ற தாவரங்களைக் கொல்லும்)**
+
+11. Identify the wrongly matched pair:
+a) Bio-pesticide - Bacillus thuringiensis (உயிரி பூச்சிக்கொல்லி - பேசில்லஸ் துринஜெனிசிஸ்)
+b) Green manure - Sunnhemp (பசுந்தாள் உரம் - சணப்பு)
+c) Micronutrient - Nitrogen (நுண்ணூட்டச்சத்து - நைட்ரஜன்)
+d) Systemic pesticide - Absorbed by plant (உட்தாங்கும் பூச்சிக்கொல்லி - தாவரத்தால் உறிஞ்சப்படுகிறது)
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) உயிரி பூச்சிக்கொல்லி - பேசில்லஸ் துринஜெனிசிஸ்
+b) பசுந்தாள் உரம் - சணப்பு
+c) நுண்ணூட்டச்சத்து - நைட்ரஜன்
+d) உட்தாங்கும் பூச்சிக்கொல்லி - தாவரத்தால் உறிஞ்சப்படுகிறது
+**Answer: c (Micronutrient - Zinc, Iron etc. / Nitrogen - Macronutrient / நுண்ணூட்டச்சத்து - துத்தநாகம், இரும்பு போன்றவை / நைட்ரஜன் - பேரூட்டச்சத்து)**
+
+12. Identify the wrongly matched pair:
+a) DAP - Diammonium Phosphate (டி.ஏ.பி - டைஅம்மோனியம் பாஸ்பேட்)
+b) MOP - Muriate of Potash (எம்.ஓ.பி - மியூரியேட் ஆஃப் பொட்டாஷ்)
+c) SSP - Single Super Potash (எஸ்.எஸ்.பி - சிங்கிள் சூப்பர் பொட்டாஷ்)
+d) FYM - Farm Yard Manure (எஃப்.ஒய்.எம் - பண்ணை எரு)
+
+தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+a) டி.ஏ.பி - டைஅம்மோனியம் பாஸ்பேட்
+b) எம்.ஓ.பி - மியூரியேட் ஆஃப் பொட்டாஷ்
+c) எஸ்.எஸ்.பி - சிங்கிள் சூப்பர் பொட்டாஷ்
+d) எஃப்.ஒய்.எம் - பண்ணை எரு
+**Answer: c (SSP - Single Super Phosphate / எஸ்.எஸ்.பி - சிங்கிள் சூப்பர் பாஸ்பேட்)**
+
+---
+
+**3. Match the Following Questions (6 questions):**
+
+13. Match List-I with List-II:
+List-I (Pesticide Type)
+1. Insecticide
+2. Fungicide
+3. Herbicide
+4. Rodenticide
+
+List-II (Example)
+a. 2,4-D
+b. Zinc Phosphide
+c. Malathion
+d. Copper Oxychloride
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (பூச்சிக்கொல்லி வகை)
+1. பூச்சிக்கொல்லி (பூச்சிகளுக்கு)
+2. பூஞ்சாணக்கொல்லி
+3. களைக்கொல்லி
+4. எலிக்கொல்லி
+
+பட்டியல்-II (எடுத்துக்காட்டு)
+a. 2,4-டி
+b. ஜிங்க் பாஸ்பைடு
+c. மாலத்தியான்
+d. காப்பர் ஆக்ஸிகுளோரைடு
+
+Options:
+A) 1-c, 2-d, 3-a, 4-b
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-d, 2-c, 3-b, 4-a
+D) 1-b, 2-a, 3-d, 4-c
+**Answer: A**
+
+14. Match List-I with List-II:
+List-I (Nutrient)
+1. Nitrogen
+2. Phosphorus
+3. Potassium
+4. Sulphur
+
+List-II (Deficiency Symptom/Role)
+a. Yellowing of older leaves
+b. Activates enzymes, disease resistance
+c. Component of some amino acids
+d. Promotes root development
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (ஊட்டச்சத்து)
+1. நைட்ரஜன்
+2. பாஸ்பரஸ்
+3. பொட்டாசியம்
+4. கந்தகம்
+
+பட்டியல்-II (குறைபாட்டு அறிகுறி/பங்கு)
+a. பழைய இலைகள் மஞ்சள் ஆதல்
+b. நொதிகளை செயல்படுத்துதல், நோய் எதிர்ப்பு சக்தி
+c. சில அமினோ அமிலங்களின் கூறு
+d. வேர் வளர்ச்சியை ஊக்குவிக்கிறது
+
+Options:
+A) 1-a, 2-d, 3-b, 4-c
+B) 1-d, 2-a, 3-c, 4-b
+C) 1-c, 2-b, 3-d, 4-a
+D) 1-b, 2-c, 3-a, 4-d
+**Answer: A**
+
+15. Match List-I with List-II:
+List-I (Biofertilizer)
+1. Rhizobium
+2. Azotobacter
+3. Blue Green Algae
+4. Mycorrhiza
+
+List-II (Characteristic)
+a. Free-living nitrogen fixer in soil
+b. Symbiotic nitrogen fixer in paddy fields
+c. Symbiotic nitrogen fixer in legumes
+d. Phosphorus solubilization and uptake
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (உயிரி உரம்)
+1. ரைசோபியம்
+2. அசோட்டோபாக்டர்
+3. நீலப் பச்சை பாசி
+4. மைக்கோரைசா
+
+பட்டியல்-II (பண்பு)
+a. மண்ணில் தனித்து வாழும் நைட்ரஜன் நிலைப்படுத்தி
+b. நெல் வயல்களில் cộng زیستی நைட்ரஜன் நிலைப்படுத்தி
+c. பயறு வகைகளில் cộng زیستی நைட்ரஜன் நிலைப்படுத்தி
+d. பாஸ்பரஸ் கரைத்தல் மற்றும் உறிஞ்சுதல்
+
+Options:
+A) 1-a, 2-c, 3-b, 4-d
+B) 1-c, 2-a, 3-b, 4-d
+C) 1-b, 2-d, 3-a, 4-c
+D) 1-d, 2-b, 3-c, 4-a
+**Answer: B**
+
+16. Match List-I with List-II:
+List-I (Fertilizer Type)
+1. Straight Fertilizer
+2. Complex Fertilizer
+3. Mixed Fertilizer
+4. Organic Manure
+
+List-II (Example/Description)
+a. Supplies N, P, and K
+b. Urea
+c. Farm Yard Manure
+d. Physical mixture of straight fertilizers
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (உர வகை)
+1. நேரடி உரம்
+2. கூட்டு உரம்
+3. கலவை உரம்
+4. அங்கக உரம்
+
+பட்டியல்-II (எடுத்துக்காட்டு/விளக்கம்)
+a. N, P, மற்றும் K ஐ வழங்குகிறது
+b. யூரியா
+c. பண்ணை எரு
+d. நேரடி உரங்களின் भौतिकக் கலவை
+
+Options:
+A) 1-b, 2-a, 3-d, 4-c
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-c, 2-d, 3-a, 4-b
+D) 1-d, 2-c, 3-b, 4-a
+**Answer: A**
+
+17. Match List-I with List-II:
+List-I (Pesticide Group)
+1. Organochlorine
+2. Organophosphate
+3. Carbamate
+4. Pyrethroid
+
+List-II (Example)
+a. Malathion
+b. Cypermethrin
+c. DDT
+d. Carbofuran
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (பூச்சிக்கொல்லி குழு)
+1. ஆர்கனோகுளோரின்
+2. ஆர்கனோபாஸ்பேட்
+3. கார்பமேட்
+4. பைரித்ராய்டு
+
+பட்டியல்-II (எடுத்துக்காட்டு)
+a. மாலத்தியான்
+b. சைபர்மெத்ரின்
+c. டி.டி.டி
+d. கார்போபியூரான்
+
+Options:
+A) 1-a, 2-c, 3-d, 4-b
+B) 1-b, 2-d, 3-a, 4-c
+C) 1-c, 2-a, 3-d, 4-b
+D) 1-d, 2-b, 3-c, 4-a
+**Answer: C**
+
+18. Match List-I with List-II:
+List-I (Term)
+1. Eutrophication
+2. Biomagnification
+3. IPM
+4. LD50
+
+List-II (Associated Concept)
+a. Toxicity measure of pesticide
+b. Algal bloom due to excess nutrients
+c. Concentration of pesticide in food chain
+d. Eco-friendly pest control
+
+பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+பட்டியல்-I (பதம்)
+1. மிகைஊட்ட eutrophication)
+2. உயிரியல் உருப்பெருக்கம்
+3. IPM
+4. LD50
+
+பட்டியல்-II (தொடர்புடைய கருத்து)
+a. பூச்சிக்கொல்லியின் நச்சுத்தன்மை அளவு
+b. அதிகப்படியான ஊட்டச்சத்துக்களால் பாசிப் பெருக்கம்
+c. உணவுச் சங்கிலியில் பூச்சிக்கொல்லியின் செறிவு
+d. சூழலுக்கு உகந்த பூச்சி கட்டுப்பாடு
+
+Options:
+A) 1-d, 2-a, 3-c, 4-b
+B) 1-c, 2-b, 3-a, 4-d
+C) 1-a, 2-d, 3-b, 4-c
+D) 1-b, 2-c, 3-d, 4-a
+**Answer: D**
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions):**
+
+19. Which of the following is a primary macronutrient for plants?
+a) Iron
+b) Nitrogen
+c) Zinc
+d) Copper
+
+பின்வருவனவற்றில் தாவரங்களுக்கு முதன்மை பேரூட்டச்சத்து எது?
+a) இரும்பு
+b) நைட்ரஜன்
+c) துத்தநாகம்
+d) தாமிரம்
+**Answer: b**
+
+20. DAP (Diammonium Phosphate) fertilizer primarily supplies:
+a) Nitrogen and Potassium
+b) Nitrogen and Phosphorus
+c) Phosphorus and Potassium
+d) Only Nitrogen
+
+டி.ஏ.பி (டைஅம்மோனியம் பாஸ்பேட்) உரம் முதன்மையாக வழங்குவது:
+a) நைட்ரஜன் மற்றும் பொட்டாசியம்
+b) நைட்ரஜன் மற்றும் பாஸ்பரஸ்
+c) பாஸ்பரஸ் மற்றும் பொட்டாசியம்
+d) நைட்ரஜன் மட்டும்
+**Answer: b**
+
+21. Which of the following is an example of a bio-pesticide?
+a) DDT
+b) Malathion
+c) Bacillus thuringiensis (Bt)
+d) 2,4-D
+
+பின்வருவனவற்றில் உயிரி பூச்சிக்கொல்லிக்கு உதாரணம் எது?
+a) டி.டி.டி
+b) மாலத்தியான்
+c) பேசில்லஸ் துринஜெனிசிஸ் (பி.டி)
+d) 2,4-டி
+**Answer: c**
+
+22. The term 'NPK' in fertilizers refers to:
+a) Sodium, Phosphorus, Potassium
+b) Nitrogen, Phosphorus, Kalium (Potassium)
+c) Nitrogen, Phosphate, Krypton
+d) Nickel, Phosphorus, Potassium
+
+உரங்களில் 'NPK' என்ற சொல் குறிப்பது:
+a) சோடியம், பாஸ்பரஸ், பொட்டாசியம்
+b) நைட்ரஜன், பாஸ்பரஸ், காலியம் (பொட்டாசியம்)
+c) நைட்ரஜன், பாஸ்பேட், கிரிப்டான்
+d) நிக்கல், பாஸ்பரஸ், பொட்டாசியம்
+**Answer: b**
+
+23. Which of the following is an organophosphate insecticide?
+a) Endosulfan
+b) Carbaryl
+c) Malathion
+d) Cypermethrin
+
+பின்வருவனவற்றில் ஆர்கனோபாஸ்பேட் பூச்சிக்கொல்லி எது?
+a) எண்டோசல்பான்
+b) கார்பரில்
+c) மாலத்தியான்
+d) சைபர்மெத்ரின்
+**Answer: c**
+
+24. Vermicompost is prepared using:
+a) Fungi
+b) Bacteria
+c) Earthworms
+d) Algae
+
+மண்புழு உரம் எதைப் பயன்படுத்தி தயாரிக்கப்படுகிறது?
+a) பூஞ்சைகள்
+b) பாக்டீரியாக்கள்
+c) மண்புழுக்கள்
+d) பாசிகள்
+**Answer: c**
+
+25. A chemical used to kill weeds is called:
+a) Insecticide
+b) Fungicide
+c) Herbicide
+d) Rodenticide
+
+களைகளைக் கொல்லப் பயன்படும் இரசாயனம் இவ்வாறு அழைக்கப்படுகிறது:
+a) பூச்சிக்கொல்லி
+b) பூஞ்சாணக்கொல்லி
+c) களைக்கொல்லி
+d) எலிக்கொல்லி
+**Answer: c**
+
+26. Which of the following is a synthetic pyrethroid insecticide?
+a) DDT
+b) BHC
+c) Cypermethrin
+d) Carbofuran
+
+பின்வருவனவற்றில் செயற்கை பைரித்ராய்டு பூச்சிக்கொல்லி எது?
+a) டி.டி.டி
+b) பி.எச்.சி
+c) சைபர்மெத்ரின்
+d) கார்போபியூரான்
+**Answer: c**
+
+27. Blue Green Algae are used as biofertilizers because they can:
+a) Solubilize phosphate
+b) Fix atmospheric nitrogen
+c) Control plant diseases
+d) Improve soil structure
+
+நீலப் பச்சை பாசிகள் உயிரி உரங்களாகப் பயன்படுத்தப்படுகின்றன, ஏனெனில் அவை:
+a) பாஸ்பேட்டைக் கரைக்கும்
+b) வளிமண்டல நைட்ரஜனை நிலைநிறுத்தும்
+c) தாவர நோய்களைக் கட்டுப்படுத்தும்
+d) மண் அமைப்பை மேம்படுத்தும்
+**Answer: b**
+
+28. The main component of Muriate of Potash (MOP) is:
+a) Potassium Sulphate
+b) Potassium Nitrate
+c) Potassium Chloride
+d) Potassium Carbonate
+
+மியூரியேட் ஆஃப் பொட்டாஷ் (MOP) இன் முக்கிய கூறு:
+a) பொட்டாசியம் சல்பேட்
+b) பொட்டாசியம் நைட்ரேட்
+c) பொட்டாசியம் குளோரைடு
+d) பொட்டாசியம் கார்பனேட்
+**Answer: c**
+
+29. Bordeaux mixture, a commonly used fungicide, is a mixture of:
+a) Copper sulphate and Lime
+b) Sulphur and Lime
+c) Zinc sulphate and Lime
+d) Copper sulphate and Sulphur
+
+பொதுவாகப் பயன்படுத்தப்படும் பூஞ்சாணக்கொல்லியான போர்டோ கலவை, இதன் கலவையாகும்:
+a) காப்பர் சல்பேட் மற்றும் சுண்ணாம்பு
+b) கந்தகம் மற்றும் சுண்ணாம்பு
+c) ஜிங்க் சல்பேட் மற்றும் சுண்ணாம்பு
+d) காப்பர் சல்பேட் மற்றும் கந்தகம்
+**Answer: a**
+
+30. 'Integrated Pest Management' (IPM) primarily aims to:
+a) Eradicate all pests completely
+b) Rely solely on chemical pesticides
+c) Minimize pesticide use and promote eco-friendly methods
+d) Use only biological control methods
+
+'ஒருங்கிணைந்த பூச்சி மேலாண்மை' (IPM) முதன்மையாக இதன் நோக்கம்:
+a) அனைத்து பூச்சிகளையும் முற்றிலுமாக ஒழிப்பது
+b) இரசாயன பூச்சிக்கொல்லிகளை மட்டுமே நம்பியிருப்பது
+c) பூச்சிக்கொல்லி பயன்பாட்டைக் குறைத்து சூழலுக்கு உகந்த முறைகளை ஊக்குவிப்பது
+d) உயிரியல் கட்டுப்பாட்டு முறைகளை மட்டுமே பயன்படுத்துவது
+**Answer: c**
+
+31. Which plant nutrient is crucial for chlorophyll formation and protein synthesis?
+a) Potassium
+b) Phosphorus
+c) Nitrogen
+d) Calcium
+
+பச்சையம் உருவாக்கம் மற்றும் புரத தொகுப்புக்கு முக்கியமான தாவர ஊட்டச்சத்து எது?
+a) பொட்டாசியம்
+b) பாஸ்பரஸ்
+c) நைட்ரஜன்
+d) கால்சியம்
+**Answer: c**
+
+32. Which of these is NOT a method of pesticide application?
+a) Spraying
+b) Dusting
+c) Fumigation
+d) Photosynthesis
+
+பின்வருவனவற்றில் பூச்சிக்கொல்லி பயன்பாட்டு முறை அல்லாதது எது?
+a) தெளித்தல்
+b) தூவுதல்
+c) புகையூட்டம்
+d) ஒளிச்சேர்க்கை
+**Answer: d**
+
+33. The biofertilizer Azolla is often used in the cultivation of:
+a) Wheat
+b) Rice
+c) Sugarcane
+d) Cotton
+
+அசோலா என்ற உயிரி உரம் பெரும்பாலும் இதன் சாகுபடியில் பயன்படுத்தப்படுகிறது:
+a) கோதுமை
+b) நெல்
+c) கரும்பு
+d) பருத்தி
+**Answer: b**
+
+34. Pesticides that are absorbed by the plant and translocated to other parts are called:
+a) Contact pesticides
+b) Stomach pesticides
+c) Systemic pesticides
+d) Fumigants
+
+தாவரத்தால் உறிஞ்சப்பட்டு மற்ற பாகங்களுக்கு கொண்டு செல்லப்படும் பூச்சிக்கொல்லிகள் இவ்வாறு அழைக்கப்படுகின்றன:
+a) தொடு பூச்சிக்கொல்லிகள்
+b) வயிற்று நச்சு பூச்சிக்கொல்லிகள்
+c) உட்தாங்கும் பூச்சிக்கொல்லிகள்
+d) புகையூட்டிகள்
+**Answer: c**
+
+35. Which of the following is a micronutrient for plants?
+a) Nitrogen
+b) Phosphorus
+c) Potassium
+d) Boron
+
+பின்வருவனவற்றில் தாவரங்களுக்கு நுண்ணூட்டச்சத்து எது?
+a) நைட்ரஜன்
+b) பாஸ்பரஸ்
+c) பொட்டாசியம்
+d) போரான்
+**Answer: d**
+
+36. "Farm Yard Manure" (FYM) is a type of:
+a) Chemical fertilizer
+b) Biofertilizer
+c) Organic manure
+d) Green manure
+
+"பண்ணை எரு" (FYM) என்பது ஒரு வகை:
+a) இரசாயன உரம்
+b) உயிரி உரம்
+c) அங்கக உரம்
+d) பசுந்தாள் உரம்
+**Answer: c**
+
+37. The pesticide BHC (Benzene Hexachloride) belongs to which group?
+a) Organophosphate
+b) Carbamate
+c) Organochlorine
+d) Pyrethroid
+
+பூச்சிக்கொல்லி BHC (பென்சீன் ஹெக்ஸாகுளோரைடு) எந்தக் குழுவைச் சேர்ந்தது?
+a) ஆர்கனோபாஸ்பேட்
+b) கார்பமேட்
+c) ஆர்கனோகுளோரின்
+d) பைரித்ராய்டு
+**Answer: c**
+
+38. Which element is known as the "key to life" for plants and is a major component of ATP?
+a) Nitrogen
+b) Phosphorus
+c) Potassium
+d) Calcium
+
+தாவரங்களுக்கு "வாழ்வின் திறவுகோல்" என்று அழைக்கப்படும் மற்றும் ATP இன் முக்கிய அங்கமாக இருக்கும் தனிமம் எது?
+a) நைட்ரஜன்
+b) பாஸ்பரஸ்
+c) பொட்டாசியம்
+d) கால்சியம்
+**Answer: b**
+
+39. Neem-based pesticides are considered:
+a) Synthetic chemical pesticides
+b) Biopesticides
+c) Inorganic pesticides
+d) Organophosphate pesticides
+
+வேம்பு அடிப்படையிலான பூச்சிக்கொல்லிகள் இவ்வாறு கருதப்படுகின்றன:
+a) செயற்கை இரசாயன பூச்சிக்கொல்லிகள்
+b) உயிரி பூச்சிக்கொல்லிகள்
+c) கனிம பூச்சிக்கொல்லிகள்
+d) ஆர்கனோபாஸ்பேட் பூச்சிக்கொல்லிகள்
+**Answer: b**
+
+40. The process by which certain pesticides become more concentrated in organisms at successively higher trophic levels of a food chain is known as:
+a) Eutrophication
+b) Biodegradation
+c) Biomagnification
+d) Nitrification
+
+உணவுச் சங்கிலியின் அடுத்தடுத்த உயர் ஊட்ட நிலைகளில் உள்ள உயிரினங்களில் சில பூச்சிக்கொல்லிகள் அதிக செறிவூட்டப்படும் செயல்முறை இவ்வாறு அறியப்படுகிறது:
+a) மிகைஊட்ட eutrophication)
+b) உயிரியல் சிதைவு
+c) உயிரியல் உருப்பெருக்கம்
+d) நைட்ரஜன் ஆக்கம்
+**Answer: c**
+
+41. What is the primary function of potassium (K) in plants?
+a) Chlorophyll synthesis
+b) Root growth
+c) Enzyme activation and stomatal regulation
+d) Protein synthesis
+
+தாவரங்களில் பொட்டாசியத்தின் (K) முதன்மை செயல்பாடு என்ன?
+a) பச்சையம் உருவாக்கம்
+b) வேர் வளர்ச்சி
+c) நொதி செயல்பாடு மற்றும் இலைத்துளை ஒழுங்குமுறை
+d) புரத தொகுப்பு
+**Answer: c**
+
+42. Carbofuran is a type of:
+a) Fungicide
+b) Herbicide
+c) Insecticide (Carbamate)
+d) Rodenticide
+
+கார்போபியூரான் என்பது ஒரு வகை:
+a) பூஞ்சாணக்கொல்லி
+b) களைக்கொல்லி
+c) பூச்சிக்கொல்லி (கார்பமேட்)
+d) எலிக்கொல்லி
+**Answer: c**
+
+43. Which of the following is NOT an organic fertilizer?
+a) Compost
+b) Urea
+c) Green manure
+d) Vermicompost
+
+பின்வருவனவற்றில் அங்கக உரம் அல்லாதது எது?
+a) மட்கிய உரம்
+b) யூரியா
+c) பசுந்தாள் உரம்
+d) மண்புழு உரம்
+**Answer: b**
+
+44. The toxicity of a pesticide is often expressed by:
+a) pH value
+b) NPK ratio
+c) LD50 value
+d) EC value
+
+ஒரு பூச்சிக்கொல்லியின் நச்சுத்தன்மை பெரும்பாலும் இதன் மூலம் வெளிப்படுத்தப்படுகிறது:
+a) pH மதிப்பு
+b) NPK விகிதம்
+c) LD50 மதிப்பு
+d) EC மதிப்பு
+**Answer: c** (Lethal Dose, 50%)
+
+45. Leguminous plants like peas and beans have root nodules containing:
+a) Azotobacter
+b) Mycorrhiza
+c) Rhizobium
+d) Blue Green Algae
+
+பட்டாணி மற்றும் பீன்ஸ் போன்ற பயறு வகை தாவரங்கள் வேர் முடிச்சுகளில் இதனைக் கொண்டுள்ளன:
+a) அசோட்டோபாக்டர்
+b) மைக்கோரைசா
+c) ரைசோபியம்
+d) நீலப் பச்சை பாசி
+**Answer: c**
+
+46. Single Super Phosphate (SSP) primarily provides which nutrient to plants?
+a) Nitrogen
+b) Phosphorus
+c) Potassium
+d) Sulphur
+
+சிங்கிள் சூப்பர் பாஸ்பேட் (SSP) முதன்மையாக தாவரங்களுக்கு எந்த ஊட்டச்சத்தை வழங்குகிறது?
+a) நைட்ரஜன்
+b) பாஸ்பரஸ்
+c) பொட்டாசியம்
+d) கந்தகம்
+**Answer: b** (Also contains Calcium and Sulphur, but primary is P)
+
+47. The term "biocide" generally refers to a chemical substance capable of:
+a) Promoting plant growth
+b) Killing living organisms
+c) Enhancing soil fertility
+d) Fixing atmospheric nitrogen
+
+"உயிர்க்கொல்லி" (biocide) என்ற சொல் பொதுவாக எதைக் குறிக்கிறது:
+a) தாவர வளர்ச்சியை ஊக்குவித்தல்
+b) வாழும் உயிரினங்களைக் கொல்லுதல்
+c) மண் வளத்தை மேம்படுத்துதல்
+d) வளிமண்டல நைட்ரஜனை நிலைநிறுத்துதல்
+**Answer: b**
+
+48. An example of a fumigant pesticide is:
+a) Sulphur powder
+b) Copper sulphate
+c) Aluminium phosphide
+d) Neem oil
+
+புகையூட்டி பூச்சிக்கொல்லிக்கு ஒரு உதாரணம்:
+a) கந்தகத் தூள்
+b) காப்பர் சல்பேட்
+c) அலுமினியம் பாஸ்பைடு
+d) வேப்பெண்ணெய்
+**Answer: c**
+
+49. Which of these practices is a key component of organic farming regarding pest control?
+a) Prophylactic spraying of synthetic pesticides
+b) Use of genetically modified pest-resistant crops
+c) Encouraging natural predators and using biopesticides
+d) Application of broad-spectrum chemical herbicides
+
+பூச்சிக் கட்டுப்பாட்டைப் பொறுத்தவரை, இந்த நடைமுறைகளில் எது அங்கக வேளாண்மையின் முக்கிய அங்கமாகும்?
+a) செயற்கை பூச்சிக்கொல்லிகளை முன்கூட்டியே தடுப்பு முறையாக தெளித்தல்
+b) மரபணு மாற்றப்பட்ட பூச்சி எதிர்ப்பு பயிர்களைப் பயன்படுத்துதல்
+c) இயற்கை எதிரிகளை ஊக்குவித்தல் மற்றும் உயிரி பூச்சிக்கொல்லிகளைப் பயன்படுத்துதல்
+d) பரந்த-கொத்து இரசாயன களைக்கொல்லிகளைப் பயன்படுத்துதல்
+**Answer: c**
+
+50. A fertilizer that supplies two or more primary nutrients is called:
+a) Straight fertilizer
+b) Complex fertilizer
+c) Simple fertilizer
+d) Micronutrient fertilizer
+
+இரண்டு அல்லது அதற்கு மேற்பட்ட முதன்மை ஊட்டச்சத்துக்களை வழங்கும் உரம் இவ்வாறு அழைக்கப்படுகிறது:
+a) நேரடி உரம்
+b) கூட்டு உரம் (அல்லது கலப்பு உரம்)
+c) எளிய உரம்
+d) நுண்ணூட்டச்சத்து உரம்
+**Answer: b**

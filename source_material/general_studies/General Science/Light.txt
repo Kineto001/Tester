@@ -1,0 +1,436 @@
+**Topic: Light (ஒளி)**
+
+**Assertion and Reason (கூற்று மற்றும் காரணம்)** (1-6)
+
+**Instructions:** For each question, an Assertion (A) and a Reason (R) are given. Choose the correct option from the choices provided below each question.
+**வழிமுறைகள்:** ஒவ்வொரு கேள்விக்கும், ஒரு கூற்று (A) மற்றும் ஒரு காரணம் (R) கொடுக்கப்பட்டுள்ளது. ஒவ்வொரு கேள்விக்கும் கீழே கொடுக்கப்பட்டுள்ள விருப்பங்களிலிருந்து சரியான விருப்பத்தைத் தேர்ந்தெடுக்கவும்.
+
+1.  Assertion (A): The sky appears blue during the daytime.
+    Reason (R): Blue light is scattered more than other colours by the air molecules in the atmosphere.
+    கூற்று (A): பகல் நேரத்தில் வானம் நீல நிறமாகத் தெரிகிறது.
+    காரணம் (R): வளிமண்டலத்தில் உள்ள காற்று மூலக்கூறுகளால் மற்ற வண்ணங்களை விட நீல ஒளி அதிகமாக சிதறடிக்கப்படுகிறது.
+
+    Options / விருப்பங்கள்:
+    a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, மேலும் R என்பது A இன் சரியான விளக்கம்.
+    b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+    c) A is true, but R is false. / A உண்மை, ஆனால் R தவறு.
+    d) A is false, but R is true. / A தவறு, ஆனால் R உண்மை.
+    e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+    Answer: a
+
+2.  Assertion (A): A convex mirror is used as a rear-view mirror in vehicles.
+    Reason (R): A convex mirror always forms an erect, virtual, and diminished image, providing a wider field of view.
+    கூற்று (A): வாகனங்களில் பின்னோக்கிப் பார்க்கும் கண்ணாடியாக குவி ஆடி பயன்படுத்தப்படுகிறது.
+    காரணம் (R): குவி ஆடி எப்போதும் நேரான, மாய மற்றும் சிறிய பிம்பத்தை உருவாக்குகிறது, இது பரந்த பார்வை புலத்தை வழங்குகிறது.
+
+    Options / விருப்பங்கள்:
+    a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, மேலும் R என்பது A இன் சரியான விளக்கம்.
+    b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+    c) A is true, but R is false. / A உண்மை, ஆனால் R தவறு.
+    d) A is false, but R is true. / A தவறு, ஆனால் R உண்மை.
+    e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+    Answer: a
+
+3.  Assertion (A): Diamond sparkles brilliantly.
+    Reason (R): Diamond has a very high refractive index, leading to total internal reflection of light multiple times.
+    கூற்று (A): வைரம் பிரகாசமாக மின்னுகிறது.
+    காரணம் (R): வைரம் மிக அதிக ஒளிவிலகல் எண்ணைக் கொண்டுள்ளது, இது ஒளியின் பலமுறை முழு அக எதிரொளிப்புக்கு வழிவகுக்கிறது.
+
+    Options / விருப்பங்கள்:
+    a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, மேலும் R என்பது A இன் சரியான விளக்கம்.
+    b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+    c) A is true, but R is false. / A உண்மை, ஆனால் R தவறு.
+    d) A is false, but R is true. / A தவறு, ஆனால் R உண்மை.
+    e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+    Answer: a
+
+4.  Assertion (A): A red object appears red in white light.
+    Reason (R): The red object absorbs all colours of white light except red, which it reflects.
+    கூற்று (A): ஒரு சிவப்பு பொருள் வெள்ளை ஒளியில் சிவப்பாகத் தெரிகிறது.
+    காரணம் (R): சிவப்பு பொருள் சிவப்பு நிறத்தைத் தவிர வெள்ளை ஒளியின் அனைத்து வண்ணங்களையும் உறிஞ்சி, சிவப்பை மட்டும் பிரதிபலிக்கிறது.
+
+    Options / விருப்பங்கள்:
+    a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, மேலும் R என்பது A இன் சரியான விளக்கம்.
+    b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+    c) A is true, but R is false. / A உண்மை, ஆனால் R தவறு.
+    d) A is false, but R is true. / A தவறு, ஆனால் R உண்மை.
+    e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+    Answer: a
+
+5.  Assertion (A): Myopia can be corrected by using a concave lens.
+    Reason (R): A concave lens diverges the light rays before they enter the eye, allowing the image to be formed on the retina.
+    கூற்று (A): கிட்டப்பார்வையை குழி லென்ஸ் மூலம் சரிசெய்யலாம்.
+    காரணம் (R): குழி லென்ஸ் கண்ணுக்குள் நுழைவதற்கு முன்பு ஒளிக்கதிர்களை விரிவடையச் செய்கிறது, இதனால் பிம்பம் விழித்திரையில் உருவாக அனுமதிக்கிறது.
+
+    Options / விருப்பங்கள்:
+    a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, மேலும் R என்பது A இன் சரியான விளக்கம்.
+    b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+    c) A is true, but R is false. / A உண்மை, ஆனால் R தவறு.
+    d) A is false, but R is true. / A தவறு, ஆனால் R உண்மை.
+    e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+    Answer: a
+
+6.  Assertion (A): We cannot see objects in a completely dark room.
+    Reason (R): Objects become visible when light from a source reflects off them and enters our eyes.
+    கூற்று (A): முற்றிலும் இருட்டான அறையில் நம்மால் பொருட்களைப் பார்க்க முடியாது.
+    காரணம் (R): ஒரு மூலத்திலிருந்து வரும் ஒளி பொருட்களின் மீது பட்டு பிரதிபலித்து நம் கண்களுக்குள் நுழையும்போது பொருள்கள் தெரியும்.
+
+    Options / விருப்பங்கள்:
+    a) Both A and R are true, and R is the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, மேலும் R என்பது A இன் சரியான விளக்கம்.
+    b) Both A and R are true, but R is not the correct explanation of A. / A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+    c) A is true, but R is false. / A உண்மை, ஆனால் R தவறு.
+    d) A is false, but R is true. / A தவறு, ஆனால் R உண்மை.
+    e) Both A and R are false. / A மற்றும் R இரண்டும் தவறு.
+    Answer: a
+
+---
+
+**Wrongly Matched Pairs (தவறாகப் பொருத்தப்பட்ட இணைகள்)** (7-12)
+
+Find the wrongly matched pair. / தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்.
+
+7.  a) Myopia - Concave lens / கிட்டப்பார்வை - குழி லென்ஸ்
+    b) Hypermetropia - Convex lens / தூரப்பார்வை - குவி லென்ஸ்
+    c) Presbyopia - Bifocal lens / வெள்ளெழுத்து - இருகுவிய லென்ஸ்
+    d) Astigmatism - Spherical lens / சிதறல் பார்வை - கோளக லென்ஸ்
+    Answer: d (Astigmatism is corrected by cylindrical lens / சிதறல் பார்வை உருளை லென்ஸ் மூலம் சரிசெய்யப்படுகிறது)
+
+8.  a) Rainbow - Dispersion / வானவில் - நிறப்பிரிகை
+    b) Twinkling of stars - Atmospheric refraction / நட்சத்திரங்கள் மின்னுதல் - வளிமண்டல ஒளிவிலகல்
+    c) Blue colour of sky - Scattering / வானத்தின் நீல நிறம் - சிதறல்
+    d) Mirage - Reflection / கானல் நீர் - எதிரொளிப்பு
+    Answer: d (Mirage is due to total internal reflection and refraction / கானல் நீர் முழு அக எதிரொளிப்பு மற்றும் ஒளிவிலகல் காரணமாகும்)
+
+9.  a) Speed of light in vacuum - 3 x 10⁸ m/s / வெற்றிடத்தில் ஒளியின் வேகம் - 3 x 10⁸ மீ/வி
+    b) Primary colours of light - Red, Green, Blue / ஒளியின் முதன்மை நிறங்கள் - சிவப்பு, பச்சை, நீலம்
+    c) Unit of power of lens - Watt / லென்ஸின் திறன் அலகு - வாட்
+    d) Phenomenon used in optical fibres - Total Internal Reflection / ஒளியிழைகளில் பயன்படுத்தப்படும் நிகழ்வு - முழு அக எதிரொளிப்பு
+    Answer: c (Unit of power of lens is Dioptre / லென்ஸின் திறன் அலகு டயாப்டர்)
+
+10. a) Convex lens - Converging lens / குவி லென்ஸ் - குவிக்கும் லென்ஸ்
+    b) Concave lens - Diverging lens / குழி லென்ஸ் - விரிக்கும் லென்ஸ்
+    c) Plane mirror - Virtual and erect image / சமதள ஆடி - மாய மற்றும் நேரான பிம்பம்
+    d) Concave mirror - Always forms virtual image / குழி ஆடி - எப்போதும் மாய பிம்பத்தை உருவாக்கும்
+    Answer: d (Concave mirror can form real images too / குழி ஆடி மெய் பிம்பங்களையும் உருவாக்க முடியும்)
+
+11. a) Periscope - Reflection / பெரிஸ்கோப் - எதிரொளிப்பு
+    b) Kaleidoscope - Multiple reflections / கலீடாஸ்கோப் - பன்முக எதிரொளிப்புகள்
+    c) Human eye lens - Concave lens / மனித கண் லென்ஸ் - குழி லென்ஸ்
+    d) Magnifying glass - Convex lens / உருப்பெருக்கி ஆடி - குவி லென்ஸ்
+    Answer: c (Human eye lens is a convex lens / மனித கண் லென்ஸ் ஒரு குவி லென்ஸ்)
+
+12. a) Light travels in - Straight line / ஒளி பயணிக்கும் பாதை - நேர்கோடு
+    b) Sun - Natural source of light / சூரியன் - இயற்கையான ஒளி மூலம்
+    c) Moon - Luminous body / சந்திரன் - ஒளிரும் பொருள்
+    d) Shadow formation - Opaque object blocking light / நிழல் உருவாதல் - ஒளிபுகா பொருள் ஒளியைத் தடுப்பது
+    Answer: c (Moon is a non-luminous body; it reflects sunlight / சந்திரன் ஒளிராத பொருள்; அது சூரிய ஒளியை பிரதிபலிக்கிறது)
+
+---
+
+**Match the Following (பொருத்துக)** (13-18)
+
+13. Match the optical instrument with its primary use. / ஒளியியல் கருவியை அதன் முதன்மைப் பயன்பாட்டுடன் பொருத்தவும்.
+    1. Telescope / தொலைநோக்கி       a. To see very small objects / மிகச் சிறிய பொருட்களைக் காண
+    2. Microscope / நுண்ணோக்கி     b. To see distant objects / தொலைதூரப் பொருட்களைக் காண
+    3. Periscope / பெரிஸ்கோப்        c. Used in submarines to see objects above water surface / நீர்மூழ்கிக் கப்பல்களில் நீரின் மேற்பரப்புக்கு மேலே உள்ள பொருட்களைக் காணப் பயன்படுகிறது
+    4. Spectacles / மூக்குக்கண்ணாடி   d. To correct defects of vision / பார்வைக் குறைபாடுகளை சரிசெய்ய
+
+    Options:
+    A) 1-b, 2-a, 3-c, 4-d
+    B) 1-a, 2-b, 3-d, 4-c
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-d, 2-c, 3-b, 4-a
+    Answer: A
+
+14. Match the phenomenon with its cause. / நிகழ்வை அதன் காரணத்துடன் பொருத்தவும்.
+    1. Twinkling of stars / நட்சத்திரங்கள் மின்னுதல்       a. Scattering of light / ஒளியின் சிதறல்
+    2. Blue colour of the sky / வானத்தின் நீல நிறம்       b. Dispersion of light / ஒளியின் நிறப்பிரிகை
+    3. Formation of a rainbow / வானவில் உருவாதல்        c. Atmospheric refraction / வளிமண்டல ஒளிவிலகல்
+    4. Reddish appearance of sun at sunrise/sunset / சூரிய உதயம்/அஸ்தமனத்தில் சூரியன் செந்நிறமாக தோன்றுதல் d. Scattering of light (Rayleigh scattering) / ஒளியின் சிதறல் (ரேலே சிதறல்)
+
+    Options:
+    A) 1-a, 2-b, 3-c, 4-d
+    B) 1-c, 2-a, 3-b, 4-d
+    C) 1-b, 2-d, 3-a, 4-c
+    D) 1-d, 2-c, 3-b, 4-a
+    Answer: B (Note: 4 is also scattering, but specifically Rayleigh scattering where shorter wavelengths are scattered more, leaving longer wavelengths like red to reach us when the sun is at the horizon.)
+
+15. Match the type of mirror/lens with its property. / ஆடி/லென்ஸ் வகையை அதன் பண்புடன் பொருத்தவும்.
+    1. Concave Mirror / குழி ஆடி          a. Diverging lens / விரிக்கும் லென்ஸ்
+    2. Convex Mirror / குவி ஆடி           b. Converging mirror / குவிக்கும் ஆடி
+    3. Concave Lens / குழி லென்ஸ்         c. Diverging mirror / விரிக்கும் ஆடி
+    4. Convex Lens / குவி லென்ஸ்          d. Converging lens / குவிக்கும் லென்ஸ்
+
+    Options:
+    A) 1-b, 2-c, 3-a, 4-d
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-c, 2-d, 3-b, 4-a
+    D) 1-d, 2-a, 3-c, 4-b
+    Answer: A
+
+16. Match the term with its definition. / சொல்லை அதன் வரையறையுடன் பொருத்தவும்.
+    1. Reflection / எதிரொளிப்பு      a. Bending of light when it passes from one medium to another / ஒளி ஒரு ஊடகத்திலிருந்து மற்றொரு ஊடகத்திற்குச் செல்லும்போது வளைதல்
+    2. Refraction / ஒளிவிலகல்       b. Splitting of white light into its constituent colours / வெள்ளை ஒளியை அதன் கூறு நிறங்களாகப் பிரித்தல்
+    3. Dispersion / நிறப்பிரிகை      c. Bouncing back of light from a surface / ஒரு மேற்பரப்பில் இருந்து ஒளி திரும்பி வருதல்
+    4. Scattering / சிதறல்         d. Spreading of light in various directions by particles / துகள்களால் ஒளி பல்வேறு திசைகளில் பரவுதல்
+
+    Options:
+    A) 1-d, 2-a, 3-c, 4-b
+    B) 1-c, 2-a, 3-b, 4-d
+    C) 1-b, 2-c, 3-d, 4-a
+    D) 1-a, 2-d, 3-b, 4-c
+    Answer: B
+
+17. Match the eye defect with its description. / கண் குறைபாட்டை அதன் விளக்கத்துடன் பொருத்தவும்.
+    1. Myopia / கிட்டப்பார்வை                   a. Difficulty in seeing near objects clearly / அருகிலுள்ள பொருட்களை தெளிவாகப் பார்ப்பதில் சிரமம்
+    2. Hypermetropia / தூரப்பார்வை          b. Clouding of the eye lens / கண் லென்ஸில் மேகம் படர்தல்
+    3. Presbyopia / வெள்ளெழுத்து              c. Difficulty in seeing distant objects clearly / தொலைதூரப் பொருட்களை தெளிவாகப் பார்ப்பதில் சிரமம்
+    4. Cataract / கண்புரை                     d. Age-related difficulty in focusing on near objects / வயது தொடர்பான அருகிலுள்ள பொருட்களில் கவனம் செலுத்துவதில் சிரமம்
+
+    Options:
+    A) 1-c, 2-a, 3-d, 4-b
+    B) 1-a, 2-c, 3-b, 4-d
+    C) 1-d, 2-b, 3-a, 4-c
+    D) 1-b, 2-d, 3-c, 4-a
+    Answer: A
+
+18. Match the light property with the instrument/phenomenon. / ஒளியின் பண்பை கருவி/நிகழ்வுடன் பொருத்தவும்.
+    1. Rectilinear propagation / நேர்கோட்டுப் பரவல்  a. Rainbow formation / வானவில் உருவாதல்
+    2. Total Internal Reflection / முழு அக எதிரொளிப்பு   b. Pinhole camera / ஊசித்துளை கேமரா
+    3. Dispersion / நிறப்பிரிகை                     c. Optical Fibres / ஒளியிழைகள்
+    4. Refraction / ஒளிவிலகல்                      d. Bending of a pencil in water / நீரில் பென்சில் வளைந்து தெரிதல்
+
+    Options:
+    A) 1-a, 2-c, 3-b, 4-d
+    B) 1-b, 2-c, 3-a, 4-d
+    C) 1-c, 2-a, 3-d, 4-b
+    D) 1-d, 2-b, 3-c, 4-a
+    Answer: B
+
+---
+
+**Multiple Choice Questions (சரியான விடையைத் தேர்ந்தெடு)** (19-50)
+
+19. Light travels fastest in: / ஒளி மிக வேகமாக பயணிப்பது:
+    a) Water / நீர்
+    b) Air / காற்று
+    c) Glass / கண்ணாடி
+    d) Vacuum / வெற்றிடம்
+    Answer: d
+
+20. The splitting of white light into its seven constituent colours is called: / வெள்ளை ஒளி அதன் ஏழு கூறு நிறங்களாகப் பிரிவது இவ்வாறு அழைக்கப்படுகிறது:
+    a) Reflection / எதிரொளிப்பு
+    b) Refraction / ஒளிவிலகல்
+    c) Dispersion / நிறப்பிரிகை
+    d) Scattering / சிதறல்
+    Answer: c
+
+21. Which of the following is a natural source of light? / பின்வருவனவற்றில் எது இயற்கையான ஒளி மூலம்?
+    a) Electric bulb / மின்சார பல்பு
+    b) Candle / மெழுகுவர்த்தி
+    c) Sun / சூரியன்
+    d) Torchlight / டார்ச்லைட்
+    Answer: c
+
+22. The image formed by a plane mirror is always: / சமதள ஆடியால் உருவாகும் பிம்பம் எப்போதும்:
+    a) Real and inverted / மெய் மற்றும் தலைகீழ்
+    b) Virtual and erect / மாய மற்றும் நேரானது
+    c) Real and erect / மெய் மற்றும் நேரானது
+    d) Virtual and inverted / மாய மற்றும் தலைகீழ்
+    Answer: b
+
+23. The phenomenon responsible for the twinkling of stars is: / நட்சத்திரங்கள் மின்னுவதற்குக் காரணமான நிகழ்வு:
+    a) Dispersion of light / ஒளியின் நிறப்பிரிகை
+    b) Atmospheric refraction / வளிமண்டல ஒளிவிலகல்
+    c) Total internal reflection / முழு அக எதிரொளிப்பு
+    d) Scattering of light / ஒளியின் சிதறல்
+    Answer: b
+
+24. A lens that is thicker at the center and thinner at the edges is a: / மையத்தில் தடிமனாகவும் ஓரங்களில் மெல்லியதாகவும் இருக்கும் லென்ஸ்:
+    a) Concave lens / குழி லென்ஸ்
+    b) Convex lens / குவி லென்ஸ்
+    c) Plano-concave lens / சமதள-குழி லென்ஸ்
+    d) Plano-convex lens / சமதள-குவி லென்ஸ்
+    Answer: b
+
+25. The unit of power of a lens is: / லென்ஸின் திறனின் அலகு:
+    a) Meter / மீட்டர்
+    b) Watt / வாட்
+    c) Dioptre / டயாப்டர்
+    d) Joule / ஜூல்
+    Answer: c
+
+26. Which colour of light scatters the most in the atmosphere? / வளிமண்டலத்தில் எந்த நிற ஒளி அதிகமாக சிதறடிக்கப்படுகிறது?
+    a) Red / சிவப்பு
+    b) Green / பச்சை
+    c) Blue / நீலம்
+    d) Yellow / மஞ்சள்
+    Answer: c
+
+27. The defect of vision in which a person cannot see distant objects clearly is: / ஒரு நபர் தொலைதூரப் பொருட்களைத் தெளிவாகப் பார்க்க முடியாத பார்வைக் குறைபாடு:
+    a) Hypermetropia / தூரப்பார்வை
+    b) Myopia / கிட்டப்பார்வை
+    c) Presbyopia / வெள்ளெழுத்து
+    d) Astigmatism / சிதறல் பார்வை
+    Answer: b
+
+28. An object that does not emit its own light is called: / சொந்தமாக ஒளியை வெளியிடாத பொருள் இவ்வாறு அழைக்கப்படுகிறது:
+    a) Luminous object / ஒளிரும் பொருள்
+    b) Non-luminous object / ஒளிராத பொருள்
+    c) Transparent object / ஒளிபுகும் பொருள்
+    d) Opaque object / ஒளிபுகா பொருள்
+    Answer: b
+
+29. The bending of light as it passes from one medium to another is called: / ஒளி ஒரு ஊடகத்திலிருந்து மற்றொரு ஊடகத்திற்குச் செல்லும்போது வளைவது இவ்வாறு அழைக்கப்படுகிறது:
+    a) Reflection / எதிரொளிப்பு
+    b) Refraction / ஒளிவிலகல்
+    c) Diffraction / விளிம்பு விளைவு
+    d) Interference / குறுக்கீட்டு விளைவு
+    Answer: b
+
+30. Which part of the human eye controls the amount of light entering the eye? / மனித கண்ணின் எந்தப் பகுதி கண்ணுக்குள் நுழையும் ஒளியின் அளவைக் கட்டுப்படுத்துகிறது?
+    a) Cornea / கார்னியா (விழிவெண்படலம்)
+    b) Iris / ஐரிஸ் (கருவிழி)
+    c) Pupil / பியூப்பில் (கண் பாவை)
+    d) Retina / ரெட்டினா (விழித்திரை)
+    Answer: b (The iris controls the size of the pupil) / ஐரிஸ் கண் பாவையின் அளவைக் கட்டுப்படுத்துகிறது
+
+31. A device used to see objects around corners or over obstacles is: / மூலைகளிலோ அல்லது தடைகளுக்கு மேலாகவோ பொருட்களைப் பார்க்கப் பயன்படும் சாதனம்:
+    a) Telescope / தொலைநோக்கி
+    b) Microscope / நுண்ணோக்கி
+    c) Periscope / பெரிஸ்கோப்
+    d) Kaleidoscope / கலீடாஸ்கோப்
+    Answer: c
+
+32. The image formed on the retina of the human eye is: / மனித கண்ணின் விழித்திரையில் உருவாகும் பிம்பம்:
+    a) Virtual and erect / மாய மற்றும் நேரானது
+    b) Real and erect / மெய் மற்றும் நேரானது
+    c) Virtual and inverted / மாய மற்றும் தலைகீழ்
+    d) Real and inverted / மெய் மற்றும் தலைகீழ்
+    Answer: d
+
+33. The speed of light in vacuum is approximately: / வெற்றிடத்தில் ஒளியின் வேகம் தோராயமாக:
+    a) 3 x 10⁵ km/s / 3 x 10⁵ கிமீ/வி
+    b) 3 x 10⁸ m/s / 3 x 10⁸ மீ/வி
+    c) 3 x 10⁸ km/hr / 3 x 10⁸ கிமீ/மணி
+    d) 3 x 10⁵ m/s / 3 x 10⁵ மீ/வி
+    Answer: b
+
+34. Which mirror is used by dentists to see an enlarged image of teeth? / பல் மருத்துவர்கள் பற்களின் பெரிதாக்கப்பட்ட பிம்பத்தைக் காண எந்த ஆடியைப் பயன்படுத்துகிறார்கள்?
+    a) Concave mirror / குழி ஆடி
+    b) Convex mirror / குவி ஆடி
+    c) Plane mirror / சமதள ஆடி
+    d) Cylindrical mirror / உருளை ஆடி
+    Answer: a
+
+35. The colourful pattern seen on a CD is due to: / குறுந்தகட்டில் (CD) காணப்படும் வண்ணமயமான அமைப்பு இதற்குக் காரணம்:
+    a) Reflection / எதிரொளிப்பு
+    b) Refraction / ஒளிவிலகல்
+    c) Dispersion / நிறப்பிரிகை
+    d) Diffraction / விளிம்பு விளைவு
+    Answer: d
+
+36. Materials that allow light to pass through them completely are called: / ஒளியைத் தம்மூடு முழுமையாகச் செல்ல அனுமதிக்கும் பொருட்கள் இவ்வாறு அழைக்கப்படுகின்றன:
+    a) Opaque / ஒளிபுகா
+    b) Translucent / பகுதி ஒளிபுகும்
+    c) Transparent / ஒளிபுகும்
+    d) Luminous / ஒளிரும்
+    Answer: c
+
+37. The angle of incidence is equal to the angle of reflection. This is the law of: / படுகோணம் எதிரொளிப்புக் கோணத்திற்கு சமம். இது _______ விதி:
+    a) Refraction / ஒளிவிலகல்
+    b) Reflection / எதிரொளிப்பு
+    c) Dispersion / நிறப்பிரிகை
+    d) Scattering / சிதறல்
+    Answer: b
+
+38. A mirage is an example of: / கானல் நீர் இதற்கான ஒரு எடுத்துக்காட்டு:
+    a) Dispersion of light / ஒளியின் நிறப்பிரிகை
+    b) Scattering of light / ஒளியின் சிதறல்
+    c) Total internal reflection and refraction / முழு அக எதிரொளிப்பு மற்றும் ஒளிவிலகல்
+    d) Diffraction of light / ஒளியின் விளிம்பு விளைவு
+    Answer: c
+
+39. The focal length of a plane mirror is: / ஒரு சமதள ஆடியின் குவியத்தூரம்:
+    a) Zero / பூஜ்ஜியம்
+    b) Infinity / முடிவிலி
+    c) Equal to its radius of curvature / அதன் வளைவு ஆரத்திற்கு சமம்
+    d) Negative / எதிர்மறை
+    Answer: b
+
+40. When white light passes through a prism, which colour deviates the least? / வெள்ளை ஒளி ஒரு முப்பட்டகத்தின் வழியாகச் செல்லும்போது, எந்த நிறம் குறைந்தபட்சம் விலகலடைகிறது?
+    a) Violet / ஊதா
+    b) Blue / நீலம்
+    c) Green / பச்சை
+    d) Red / சிவப்பு
+    Answer: d
+
+41. The primary colours of light are: / ஒளியின் முதன்மை நிறங்கள்:
+    a) Red, Yellow, Blue / சிவப்பு, மஞ்சள், நீலம்
+    b) Red, Green, Blue / சிவப்பு, பச்சை, நீலம்
+    c) Red, Green, Yellow / சிவப்பு, பச்சை, மஞ்சள்
+    d) Orange, Green, Violet / ஆரஞ்சு, பச்சை, ஊதா
+    Answer: b
+
+42. An example of a luminous object is: / ஒளிரும் பொருளுக்கு ஒரு எடுத்துக்காட்டு:
+    a) Moon / சந்திரன்
+    b) Planet / கிரகம்
+    c) Star / நட்சத்திரம்
+    d) Mirror / ஆடி
+    Answer: c
+
+43. The ability of the eye to focus on both near and distant objects is called: / அருகிலுள்ள மற்றும் தொலைதூரப் பொருட்கள் இரண்டிலும் கவனம் செலுத்தும் கண்ணின் திறன் இவ்வாறு அழைக்கப்படுகிறது:
+    a) Persistence of vision / பார்வை நீட்டிப்பு
+    b) Accommodation / ஏற்பமைவுத்திறன்
+    c) Astigmatism / சிதறல் பார்வை
+    d) Myopia / கிட்டப்பார்வை
+    Answer: b
+
+44. Shadows are formed because: / நிழல்கள் உருவாகக் காரணம்:
+    a) Light travels in a curved path / ஒளி வளைந்த பாதையில் பயணிக்கிறது
+    b) Opaque objects reflect light / ஒளிபுகா பொருள்கள் ஒளியைப் பிரதிபலிக்கின்றன
+    c) Light travels in a straight line and opaque objects block it / ஒளி நேர்கோட்டில் பயணிக்கிறது மற்றும் ஒளிபுகா பொருள்கள் அதைத் தடுக்கின்றன
+    d) Light bends around opaque objects / ஒளி ஒளிபுகா பொருட்களைச் சுற்றி வளைகிறது
+    Answer: c
+
+45. The phenomenon of light bouncing off a smooth, polished surface is called: / மென்மையான, பளபளப்பான மேற்பரப்பில் இருந்து ஒளி பட்டுத் திரும்பு நிகழ்வு இவ்வாறு அழைக்கப்படுகிறது:
+    a) Refraction / ஒளிவிலகல்
+    b) Dispersion / நிறப்பிரிகை
+    c) Reflection / எதிரொளிப்பு
+    d) Scattering / சிதறல்
+    Answer: c
+
+46. Which lens is also known as a diverging lens? / எந்த லென்ஸ் விரிக்கும் லென்ஸ் என்றும் அழைக்கப்படுகிறது?
+    a) Convex lens / குவி லென்ஸ்
+    b) Concave lens / குழி லென்ஸ்
+    c) Bifocal lens / இருகுவிய லென்ஸ்
+    d) Cylindrical lens / உருளை லென்ஸ்
+    Answer: b
+
+47. The sensation of vision in the human eye persists for about: / மனித கண்ணில் பார்வையின் உணர்வு எவ்வளவு நேரம் நீடிக்கும்:
+    a) 1/10th of a second / ஒரு வினாடியில் 1/10 பங்கு
+    b) 1/16th of a second / ஒரு வினாடியில் 1/16 பங்கு
+    c) 1/20th of a second / ஒரு வினாடியில் 1/20 பங்கு
+    d) 1 second / 1 வினாடி
+    Answer: b (This is known as persistence of vision / இது பார்வை நீட்டிப்பு என அழைக்கப்படுகிறது)
+
+48. If the power of a lens is +2D, its focal length is: / ஒரு லென்ஸின் திறன் +2D எனில், அதன் குவியத்தூரம்:
+    a) +50 cm
+    b) -50 cm
+    c) +0.5 cm
+    d) -0.5 cm
+    Answer: a (P = 1/f (in meters), so f = 1/P = 1/2 = 0.5 m = 50 cm)
+
+49. When light enters from a rarer medium to a denser medium, it bends: / ஒளி அடர்குறை ஊடகத்திலிருந்து அடர்மிகு ஊடகத்திற்குள் நுழையும்போது, அது வளைகிறது:
+    a) Towards the normal / செங்குத்துக்கோட்டை நோக்கி
+    b) Away from the normal / செங்குத்துக்கோட்டிலிருந்து விலகி
+    c) Along the normal / செங்குத்துக்கோட்டின் வழியே
+    d) It does not bend / அது வளைவதில்லை
+    Answer: a
+
+50. The band of seven colours obtained when white light is dispersed by a prism is called: / வெள்ளை ஒளி ஒரு முப்பட்டகத்தால் நிறப்பிரிகை அடையும்போது கிடைக்கும் ஏழு வண்ணங்களின் பட்டை இவ்வாறு அழைக்கப்படுகிறது:
+    a) Image / பிம்பம்
+    b) Spectrum / நிறமாலை
+    c) Shadow / நிழல்
+    d) Reflection / எதிரொளிப்பு
+    Answer: b

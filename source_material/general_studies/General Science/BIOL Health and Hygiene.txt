@@ -1,0 +1,769 @@
+Overall Topic for Question Generation: Health and Hygiene
+
+**1. Assertion and Reason Questions (6 questions)**
+
+1.
+Assertion (A): Regular handwashing with soap and water is crucial for preventing the spread of infectious diseases.
+Reason (R): Soap helps to break down the grease and dirt that harbor germs, and water rinses them away.
+
+கூற்று (A): தொற்று நோய்கள் பரவுவதைத் தடுக்க சோப்பு மற்றும் தண்ணீருடன் regulerவாக கை கழுவுதல் மிகவும் முக்கியமானது.
+காரணம் (R): சோப்பு கிருமிகள் தங்கியிருக்கும் கிரீஸ் மற்றும் அழுக்கைப் உடைக்க உதவுகிறது, மேலும் தண்ணீர் அவற்றை அடித்துச் செல்கிறது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+Answer: a
+
+2.
+Assertion (A): A balanced diet is essential for good health.
+Reason (R): A balanced diet provides all necessary nutrients in the correct proportions, which is only important for athletes.
+
+கூற்று (A): நல்ல ஆரோக்கியத்திற்கு சரிவிகித உணவு அவசியம்.
+காரணம் (R): சரிவிகித உணவு அனைத்து அத்தியாவசிய ஊட்டச்சத்துக்களையும் சரியான விகிதத்தில் வழங்குகிறது, இது விளையாட்டு வீரர்களுக்கு மட்டுமே முக்கியமானது.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+Answer: c
+
+3.
+Assertion (A): Mosquitoes are vectors for diseases like malaria and dengue.
+Reason (R): Mosquitoes transmit pathogens when they bite an infected person and then bite a healthy person.
+
+கூற்று (A): மலேரியா மற்றும் டெங்கு போன்ற நோய்களுக்கு கொசுக்கள் கடத்திகளாக செயல்படுகின்றன.
+காரணம் (R): கொசுக்கள் பாதிக்கப்பட்ட ஒருவரைக் கடித்துவிட்டு, பின்னர் ஆரோக்கியமான ஒருவரைக் கடிக்கும்போது நோய்க்கிருமிகளைப் பரப்புகின்றன.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+Answer: a
+
+4.
+Assertion (A): Vaccination helps the body to develop immunity against specific diseases without causing the illness.
+Reason (R): Vaccines contain live, virulent pathogens that stimulate a strong immune response.
+
+கூற்று (A): தடுப்பூசி போடுவதால் நோயை ஏற்படுத்தாமல் குறிப்பிட்ட நோய்களுக்கு எதிராக உடலின் நோய் எதிர்ப்பு சக்தியை வளர்க்க உதவுகிறது.
+காரணம் (R): தடுப்பூசிகளில் உயிருள்ள, வீரியமான நோய்க்கிருமிகள் உள்ளன, அவை வலுவான நோயெதிர்ப்பு சக்தியைத் தூண்டுகின்றன.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+Answer: c (Vaccines contain weakened or killed pathogens, or parts of pathogens)
+
+5.
+Assertion (A): Consuming contaminated water can lead to diseases like cholera and typhoid.
+Reason (R): These diseases are caused by viruses present in contaminated water.
+
+கூற்று (A): அசுத்தமான நீரைக் குடிப்பதால் காலரா மற்றும் டைபாய்டு போன்ற நோய்கள் ஏற்படலாம்.
+காரணம் (R): இந்த நோய்கள் அசுத்தமான நீரில் இருக்கும் வைரஸ்களால் ஏற்படுகின்றன.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+Answer: c (Cholera and Typhoid are primarily caused by bacteria, not viruses, though contaminated water can carry viruses too for other diseases.)
+
+6.
+Assertion (A): Proper disposal of waste is important for maintaining public health.
+Reason (R): Improper waste disposal can lead to the breeding of flies and rodents, which can spread diseases.
+
+கூற்று (A): பொது சுகாதாரத்தைப் பேணுவதற்கு கழிவுகளை முறையாக அகற்றுவது முக்கியம்.
+காரணம் (R): முறையற்ற கழிவு மேலாண்மை ஈக்கள் மற்றும் கொறித்துண்ணிகள் பெருக வழிவகுக்கும், அவை நோய்களைப் பரப்பலாம்.
+
+Options:
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+Answer: a
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions)**
+
+7. Identify the wrongly matched pair:
+    a) Vitamin C - Scurvy
+    b) Vitamin D - Rickets
+    c) Vitamin B1 - Pellagra
+    d) Vitamin A - Night blindness
+
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) வைட்டமின் C - ஸ்கர்வி
+    b) வைட்டமின் D - ரிக்கெட்ஸ்
+    c) வைட்டமின் B1 - பெல்லாக்ரா
+    d) வைட்டமின் A - மாலைக்கண் நோய்
+
+    Answer: c (Corrected match: Vitamin B1 - Beriberi; Vitamin B3 (Niacin) - Pellagra)
+
+8. Identify the wrongly matched pair:
+    a) Bacteria - Tuberculosis
+    b) Virus - Common Cold
+    c) Protozoa - Malaria
+    d) Fungus - Typhoid
+
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) பாக்டீரியா - காசநோய்
+    b) வைரஸ் - சாதாரண சளி
+    c) புரோட்டோசோவா - மலேரியா
+    d) பூஞ்சை - டைபாய்டு
+
+    Answer: d (Corrected match: Fungus - Ringworm; Bacteria - Typhoid)
+
+9. Identify the wrongly matched pair:
+    a) Iodine deficiency - Goitre
+    b) Iron deficiency - Anemia
+    c) Calcium deficiency - Osteoporosis
+    d) Protein deficiency - Night blindness
+
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) அயோடின் குறைபாடு - முன்கழுத்துக் கழலை
+    b) இரும்புச்சத்து குறைபாடு - இரத்த சோகை
+    c) கால்சியம் குறைபாடு - ஆஸ்டியோபோரோசிஸ்
+    d) புரதக் குறைபாடு - மாலைக்கண் நோய்
+
+    Answer: d (Corrected match: Protein deficiency - Kwashiorkor/Marasmus; Vitamin A deficiency - Night blindness)
+
+10. Identify the wrongly matched pair regarding hygiene practices:
+    a) Handwashing - Prevents germ transmission
+    b) Brushing teeth - Prevents dental caries
+    c) Covering mouth while coughing - Prevents airborne disease spread
+    d) Sharing personal towels - Promotes skin health
+
+    சுகாதாரப் பழக்கவழக்கங்கள் குறித்த தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக:
+    a) கை கழுவுதல் - கிருமிப் பரவலைத் தடுக்கிறது
+    b) பல் துலக்குதல் - பல் சொத்தையைத் தடுக்கிறது
+    c) இருமும்போது வாயை மூடுதல் - காற்றில் பரவும் நோய்களைத் தடுக்கிறது
+    d) தனிப்பட்ட துண்டுகளைப் பகிர்தல் - தோல் ஆரோக்கியத்தை மேம்படுத்துகிறது
+
+    Answer: d (Corrected match: Sharing personal towels - Can spread infections)
+
+11. Identify the wrongly matched pair (Disease - Mode of Transmission):
+    a) Cholera - Contaminated water
+    b) Influenza - Droplet infection
+    c) AIDS - Mosquito bite
+    d) Rabies - Animal bite
+
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக (நோய் - பரவும் விதம்):
+    a) காலரா - அசுத்தமான நீர்
+    b) இன்ஃப்ளூயன்ஸா - நீர்த்துளி தொற்று
+    c) எய்ட்ஸ் - கொசுக்கடி
+    d) ரேபிஸ் - விலங்கு கடி
+
+    Answer: c (Corrected match: AIDS - Blood transfusion, sexual contact, mother to child)
+
+12. Identify the wrongly matched pair (Nutrient - Rich Food Source):
+    a) Vitamin A - Carrot
+    b) Calcium - Milk
+    c) Iron - Spinach
+    d) Vitamin C - Rice
+
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறிக (ஊட்டச்சத்து - செறிவான உணவு மூலம்):
+    a) வைட்டமின் A - கேரட்
+    b) கால்சியம் - பால்
+    c) இரும்புச்சத்து - கீரை
+    d) வைட்டமின் C - அரிசி
+
+    Answer: d (Corrected match: Vitamin C - Citrus fruits like orange, lemon)
+
+**3. Match the Following Questions (6 questions)**
+
+13. Match List-I with List-II:
+    List-I (Disease)               List-II (Causative Agent)
+    1. Tuberculosis                a. Virus
+    2. Ringworm                    b. Protozoa
+    3. Malaria                     c. Fungus
+    4. Polio                       d. Bacteria
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (நோய்)                பட்டியல்-II (காரணி)
+    1. காசநோய்                     a. வைரஸ்
+    2. படர்தாமரை                   b. புரோட்டோசோவா
+    3. மலேரியா                     c. பூஞ்சை
+    4. போலியோ                     d. பாக்டீரியா
+
+    Options:
+    A) 1-d, 2-c, 3-b, 4-a
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-a, 3-b, 4-c
+    D) 1-c, 2-d, 3-a, 4-b
+
+    Answer: A
+
+14. Match List-I with List-II:
+    List-I (Vitamin)               List-II (Deficiency Disease)
+    1. Vitamin K                   a. Beriberi
+    2. Vitamin B1                  b. Scurvy
+    3. Vitamin C                   c. Night blindness
+    4. Vitamin A                   d. Delayed blood clotting
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (வைட்டமின்)            பட்டியல்-II (குறைபாட்டு நோய்)
+    1. வைட்டமின் K                 a. பெரிபெரி
+    2. வைட்டமின் B1                b. ஸ்கர்வி
+    3. வைட்டமின் C                 c. மாலைக்கண் நோய்
+    4. வைட்டமின் A                 d. தாமதமான இரத்த உறைவு
+
+    Options:
+    A) 1-a, 2-b, 3-d, 4-c
+    B) 1-d, 2-a, 3-b, 4-c
+    C) 1-b, 2-c, 3-a, 4-d
+    D) 1-c, 2-d, 3-b, 4-a
+
+    Answer: B
+
+15. Match List-I with List-II:
+    List-I (Hygiene Practice)      List-II (Benefit)
+    1. Using clean toilets         a. Prevents foodborne illness
+    2. Proper food storage         b. Prevents dental problems
+    3. Regular bathing             c. Prevents spread of intestinal parasites
+    4. Brushing teeth twice a day  d. Removes body odour and dead skin cells
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (சுகாதாரப் பழக்கம்)      பட்டியல்-II (பயன்)
+    1. சுத்தமான கழிப்பறைகளைப் பயன்படுத்துதல் a. உணவுவழி நோய்களைத் தடுக்கிறது
+    2. முறையான உணவு சேமிப்பு          b. பல் பிரச்சனைகளைத் தடுக்கிறது
+    3. வழக்கமான குளியல்              c. குடல் ஒட்டுண்ணிகள் பரவுவதைத் தடுக்கிறது
+    4. ஒரு நாளைக்கு இருமுறை பல் துலக்குதல் d. உடல் துர்நாற்றம் மற்றும் இறந்த சரும செல்களை நீக்குகிறது
+
+    Options:
+    A) 1-c, 2-a, 3-d, 4-b
+    B) 1-a, 2-c, 3-b, 4-d
+    C) 1-d, 2-b, 3-a, 4-c
+    D) 1-b, 2-d, 3-c, 4-a
+
+    Answer: A
+
+16. Match List-I with List-II:
+    List-I (Type of Waste)         List-II (Example)
+    1. Biodegradable waste         a. Plastic bottles
+    2. Non-biodegradable waste     b. Used needles
+    3. Hazardous waste             c. Vegetable peels
+    4. E-waste                     d. Old computer parts
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (கழிவு வகை)          பட்டியல்-II (உதாரணம்)
+    1. மக்கும் கழிவு               a. பிளாஸ்டிக் பாட்டில்கள்
+    2. மக்காத கழிவு               b. பயன்படுத்திய ஊசிகள்
+    3. அபாயகரமான கழிவு            c. காய்கறித் தோல்கள்
+    4. மின்னணுக் கழிவு             d. பழைய கணினி பாகங்கள்
+
+    Options:
+    A) 1-a, 2-c, 3-d, 4-b
+    B) 1-c, 2-a, 3-b, 4-d
+    C) 1-b, 2-d, 3-a, 4-c
+    D) 1-d, 2-b, 3-c, 4-a
+
+    Answer: B
+
+17. Match List-I with List-II:
+    List-I (Nutrient)              List-II (Primary Function)
+    1. Carbohydrates               a. Body building and repair
+    2. Proteins                    b. Energy source
+    3. Fats                        c. Protection against diseases
+    4. Vitamins                    d. Stored energy, insulation
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (ஊட்டச்சத்து)           பட்டியல்-II (முதன்மைப் பணி)
+    1. கார்போஹைட்ரேட்டுகள்         a. உடல் கட்டமைப்பு மற்றும் பழுது
+    2. புரதங்கள்                   b. ஆற்றல் மூலம்
+    3. கொழுப்புகள்                  c. நோய்களுக்கு எதிரான பாதுகாப்பு
+    4. வைட்டமின்கள்                d. சேமிக்கப்பட்ட ஆற்றல், காப்பு
+
+    Options:
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-b, 4-a
+    D) 1-c, 2-d, 3-a, 4-b
+
+    Answer: A
+
+18. Match List-I with List-II:
+    List-I (Vector)                List-II (Disease Transmitted)
+    1. Aedes mosquito              a. Plague
+    2. Anopheles mosquito          b. Dengue
+    3. Rat flea                    c. Sleeping sickness
+    4. Tsetse fly                  d. Malaria
+
+    பட்டியல்-I ஐ பட்டியல்-II உடன் பொருத்துக:
+    பட்டியல்-I (கடத்தி)               பட்டியல்-II (பரவும் நோய்)
+    1. ஏடிஸ் கொசு                 a. பிளேக்
+    2. அனோபிலிஸ் கொசு           b. டெங்கு
+    3. எலி உண்ணி                  c. தூக்க வியாதி
+    4. செட்சே ஈ                  d. மலேரியா
+
+    Options:
+    A) 1-d, 2-b, 3-c, 4-a
+    B) 1-b, 2-d, 3-a, 4-c
+    C) 1-c, 2-a, 3-d, 4-b
+    D) 1-a, 2-c, 3-b, 4-d
+
+    Answer: B
+
+**4. Standard Multiple Choice Questions (32 questions)**
+
+19. Which of the following diseases is caused by a virus?
+    a) Typhoid
+    b) Cholera
+    c) Influenza
+    d) Tuberculosis
+
+    பின்வரும் நோய்களில் எது வைரஸால் ஏற்படுகிறது?
+    a) டைபாய்டு
+    b) காலரா
+    c) இன்ஃப்ளூயன்ஸா
+    d) காசநோய்
+
+    Answer: c
+
+20. Deficiency of Iodine leads to:
+    a) Anemia
+    b) Goitre
+    c) Scurvy
+    d) Rickets
+
+    அயோடின் குறைபாடு எந்த நோய்க்கு வழிவகுக்கிறது?
+    a) இரத்த சோகை
+    b) முன்கழுத்துக் கழலை
+    c) ஸ்கர்வி
+    d) ரிக்கெட்ஸ்
+
+    Answer: b
+
+21. Which component of a balanced diet is known as a 'body-building' food?
+    a) Carbohydrates
+    b) Fats
+    c) Proteins
+    d) Vitamins
+
+    சரிவிகித உணவின் எந்த கூறு 'உடல் கட்டமைப்பு' உணவு என்று அழைக்கப்படுகிறது?
+    a) கார்போஹைட்ரேட்டுகள்
+    b) கொழுப்புகள்
+    c) புரதங்கள்
+    d) வைட்டமின்கள்
+
+    Answer: c
+
+22. The "Universal Solvent" important for many bodily functions is:
+    a) Milk
+    b) Blood
+    c) Water
+    d) Juice
+
+    பல உடல் செயல்பாடுகளுக்கு முக்கியமான "உலகளாவிய கரைப்பான்" எது?
+    a) பால்
+    b) இரத்தம்
+    c) தண்ணீர்
+    d) சாறு
+
+    Answer: c
+
+23. What is the primary purpose of vaccination?
+    a) To treat diseases
+    b) To provide nutrients
+    c) To prevent diseases by building immunity
+    d) To kill all bacteria in the body
+
+    தடுப்பூசியின் முதன்மை நோக்கம் என்ன?
+    a) நோய்களுக்கு சிகிச்சையளிக்க
+    b) ஊட்டச்சத்துக்களை வழங்க
+    c) நோய் எதிர்ப்பு சக்தியை உருவாக்குவதன் மூலம் நோய்களைத் தடுக்க
+    d) உடலில் உள்ள அனைத்து பாக்டீரியாக்களையும் கொல்ல
+
+    Answer: c
+
+24. Which of these is a non-communicable disease?
+    a) Common cold
+    b) Diabetes
+    c) Measles
+    d) Chickenpox
+
+    பின்வருவனவற்றில் எது தொற்றா நோய்?
+    a) சாதாரண சளி
+    b) நீரிழிவு நோய்
+    c) தட்டம்மை
+    d) சின்னம்மை
+
+    Answer: b
+
+25. The best way to prevent the spread of germs through hands is:
+    a) Wiping hands on clothes
+    b) Washing hands with soap and water
+    c) Shaking hands frequently
+    d) Keeping hands dry
+
+    கைகள் மூலம் கிருமிகள் பரவுவதைத் தடுப்பதற்கான சிறந்த வழி:
+    a) துணிகளில் கைகளைத் துடைப்பது
+    b) சோப்பு மற்றும் தண்ணீரில் கைகளைக் கழுவுதல்
+    c) அடிக்கடி கைகுலுக்குதல்
+    d) கைகளை உலர வைத்தல்
+
+    Answer: b
+
+26. Rickets in children is caused by the deficiency of:
+    a) Vitamin A
+    b) Vitamin B12
+    c) Vitamin C
+    d) Vitamin D
+
+    குழந்தைகளுக்கு ரிக்கெட்ஸ் நோய் எந்த வைட்டமின் குறைபாட்டால் ஏற்படுகிறது?
+    a) வைட்டமின் A
+    b) வைட்டமின் B12
+    c) வைட்டமின் C
+    d) வைட்டமின் D
+
+    Answer: d
+
+27. Which of the following is a water-borne disease?
+    a) Malaria
+    b) Dengue
+    c) Cholera
+    d) Influenza
+
+    பின்வருவனவற்றில் எது நீரினால் பரவும் நோய்?
+    a) மலேரியா
+    b) டெங்கு
+    c) காலரா
+    d) இன்ஃப்ளூயன்ஸா
+
+    Answer: c
+
+28. Personal hygiene includes:
+    a) Keeping the surroundings clean
+    b) Regular bathing and brushing teeth
+    c) Proper waste disposal
+    d) Drinking boiled water
+
+    தனிப்பட்ட சுகாதாரம் என்பது:
+    a) சுற்றுப்புறத்தை சுத்தமாக வைத்திருத்தல்
+    b) வழக்கமான குளியல் மற்றும் பல் துலக்குதல்
+    c) முறையான கழிவு அகற்றுதல்
+    d) கொதிக்க வைத்த நீரைக் குடித்தல்
+
+    Answer: b
+
+29. Which mineral is essential for the formation of hemoglobin in blood?
+    a) Calcium
+    b) Iodine
+    c) Iron
+    d) Sodium
+
+    இரத்தத்தில் ஹீமோகுளோபின் உருவாக எந்த கனிமம் அவசியம்?
+    a) கால்சியம்
+    b) அயோடின்
+    c) இரும்புச்சத்து
+    d) சோடியம்
+
+    Answer: c
+
+30. ORS (Oral Rehydration Solution) is given to patients suffering from:
+    a) Fever
+    b) Cough
+    c) Dehydration due to diarrhoea
+    d) Headache
+
+    ORS (வாய்வழி நீரேற்றக் கரைசல்) எந்த நோயாளிகளுக்கு வழங்கப்படுகிறது?
+    a) காய்ச்சல்
+    b) இருமல்
+    c) வயிற்றுப்போக்கு காரணமாக ஏற்படும் நீரிழப்பு
+    d) தலைவலி
+
+    Answer: c
+
+31. The main source of energy for our body is:
+    a) Proteins
+    b) Vitamins
+    c) Carbohydrates
+    d) Minerals
+
+    நமது உடலுக்கு ஆற்றலின் முக்கிய ஆதாரம்:
+    a) புரதங்கள்
+    b) வைட்டமின்கள்
+    c) கார்போஹைட்ரேட்டுகள்
+    d) கனிமங்கள்
+
+    Answer: c
+
+32. Which of these practices helps in maintaining good dental hygiene?
+    a) Eating sugary foods frequently
+    b) Brushing teeth once a week
+    c) Rinsing mouth after every meal
+    d) Avoiding fruits
+
+    நல்ல பல் சுகாதாரத்தைப் பேணுவதற்கு இந்த பழக்கவழக்கங்களில் எது உதவுகிறது?
+    a) சர்க்கரை உணவுகளை அடிக்கடி சாப்பிடுவது
+    b) வாரத்திற்கு ஒரு முறை பல் துலக்குவது
+    c) ஒவ்வொரு உணவிற்குப் பிறகும் வாய் கொப்பளிப்பது
+    d) பழங்களைத் தவிர்ப்பது
+
+    Answer: c
+
+33. Malaria is transmitted by:
+    a) Housefly
+    b) Female Anopheles mosquito
+    c) Aedes mosquito
+    d) Sandfly
+
+    மலேரியா எதன் மூலம் பரவுகிறது?
+    a) வீட்டு ஈ
+    b) பெண் அனோபிலிஸ் கொசு
+    c) ஏடிஸ் கொசு
+    d) மணல் ஈ
+
+    Answer: b
+
+34. Lack of Vitamin C in the diet causes:
+    a) Beriberi
+    b) Scurvy
+    c) Pellagra
+    d) Anemia
+
+    உணவில் வைட்டமின் C குறைபாடு எதை ஏற்படுத்துகிறது?
+    a) பெரிபெரி
+    b) ஸ்கர்வி
+    c) பெல்லாக்ரா
+    d) இரத்த சோகை
+
+    Answer: b
+
+35. Maintaining cleanliness in our surroundings is known as:
+    a) Personal hygiene
+    b) Environmental hygiene
+    c) Food hygiene
+    d) Mental hygiene
+
+    நமது சுற்றுப்புறத்தில் தூய்மையைப் பேணுவது இவ்வாறு அழைக்கப்படுகிறது:
+    a) தனிப்பட்ட சுகாதாரம்
+    b) சுற்றுச்சூழல் சுகாதாரம்
+    c) உணவு சுகாதாரம்
+    d) மன சுகாதாரம்
+
+    Answer: b
+
+36. BCG vaccine is given to protect against which disease?
+    a) Polio
+    b) Measles
+    c) Tuberculosis
+    d) Hepatitis B
+
+    BCG தடுப்பூசி எந்த நோயிலிருந்து பாதுகாக்க வழங்கப்படுகிறது?
+    a) போலியோ
+    b) தட்டம்மை
+    c) காசநோய்
+    d) ஹெபடைடிஸ் B
+
+    Answer: c
+
+37. Which of the following is a good source of Vitamin A?
+    a) Lemon
+    b) Carrot
+    c) Rice
+    d) Sugar
+
+    பின்வருவனவற்றில் வைட்டமின் A-யின் நல்ல ஆதாரம் எது?
+    a) எலுமிச்சை
+    b) கேரட்
+    c) அரிசி
+    d) சர்க்கரை
+
+    Answer: b
+
+38. The process of cleaning hands with soap and water is called:
+    a) Sanitation
+    b) Handwashing
+    c) Sterilization
+    d) Disinfection
+
+    சோப்பு மற்றும் தண்ணீருடன் கைகளை சுத்தம் செய்யும் செயல்முறை இவ்வாறு அழைக்கப்படுகிறது:
+    a) துப்புரவு
+    b) கை கழுவுதல்
+    c) கிருமி நீக்கம் (முழுமையாக)
+    d) தொற்று நீக்கம்
+
+    Answer: b
+
+39. Which of the following diseases is NOT spread by mosquitoes?
+    a) Dengue
+    b) Chikungunya
+    c) Malaria
+    d) Typhoid
+
+    பின்வரும் நோய்களில் எது கொசுக்களால் பரவுவதில்லை?
+    a) டெங்கு
+    b) சிக்குன்குனியா
+    c) மலேரியா
+    d) டைபாய்டு
+
+    Answer: d
+
+40. A diet that contains all nutrients in adequate amounts is called:
+    a) Junk food
+    b) Balanced diet
+    c) Fast food
+    d) Unhealthy diet
+
+    அனைத்து ஊட்டச்சத்துக்களையும் போதுமான அளவில் கொண்ட உணவு இவ்வாறு அழைக்கப்படுகிறது:
+    a) நொறுக்குத் தீனி
+    b) சரிவிகித உணவு
+    c) துரித உணவு
+    d) ஆரோக்கியமற்ற உணவு
+
+    Answer: b
+
+41. Swachh Bharat Abhiyan is a campaign related to:
+    a) Education
+    b) Cleanliness and Hygiene
+    c) Healthcare access
+    d) Road safety
+
+    ஸ்வச் பாரத் அபியான் எதனுடன் தொடர்புடைய பிரச்சாரம்?
+    a) கல்வி
+    b) தூய்மை மற்றும் சுகாதாரம்
+    c) சுகாதார அணுகல்
+    d) சாலைப் பாதுகாப்பு
+
+    Answer: b
+
+42. The first aid given for minor burns is to:
+    a) Apply oil or butter
+    b) Hold the burnt area under cool running water
+    c) Cover with a thick cloth immediately
+    d) Prick the blisters
+
+    சிறிய தீக்காயங்களுக்கு வழங்கப்படும் முதலுதவி:
+    a) எண்ணெய் அல்லது வெண்ணெய் தடவுதல்
+    b) தீக்காயம்பட்ட பகுதியை குளிர்ச்சியான ஓடும் நீரின் கீழ் வைத்திருத்தல்
+    c) உடனடியாக தடிமனான துணியால் மூடுதல்
+    d) கொப்புளங்களைக் குத்துதல்
+
+    Answer: b
+
+43. Goitre is characterized by the swelling of the:
+    a) Liver
+    b) Spleen
+    c) Thyroid gland
+    d) Pancreas
+
+    முன்கழுத்துக் கழலை எதன் வீக்கத்தால் வகைப்படுத்தப்படுகிறது?
+    a) கல்லீரல்
+    b) மண்ணீரல்
+    c) தைராய்டு சுரப்பி
+    d) கணையம்
+
+    Answer: c
+
+44. Proteins are made up of smaller units called:
+    a) Glucose
+    b) Fatty acids
+    c) Amino acids
+    d) Nucleic acids
+
+    புரதங்கள் எந்த சிறிய அலகுகளால் ஆனவை?
+    a) குளுக்கோஸ்
+    b) கொழுப்பு அமிலங்கள்
+    c) அமினோ அமிலங்கள்
+    d) நியூக்ளிக் அமிலங்கள்
+
+    Answer: c
+
+45. The commonest cause of dental caries (tooth decay) is:
+    a) Lack of calcium
+    b) Acid produced by bacteria acting on sugar
+    c) Eating hard foods
+    d) Not drinking enough water
+
+    பல் சொத்தைக்கு (பல் சிதைவு) மிகவும் பொதுவான காரணம்:
+    a) கால்சியம் குறைபாடு
+    b) சர்க்கரையின் மீது செயல்படும் பாக்டீரியாக்களால் உற்பத்தி செய்யப்படும் அமிலம்
+    c) கடினமான உணவுகளை உண்ணுதல்
+    d) போதுமான தண்ணீர் குடிக்காதது
+
+    Answer: b
+
+46. Which of the following is essential for strong bones and teeth?
+    a) Iron
+    b) Sodium
+    c) Calcium
+    d) Potassium
+
+    வலுவான எலும்புகள் மற்றும் பற்களுக்கு பின்வருவனவற்றில் எது அவசியம்?
+    a) இரும்புச்சத்து
+    b) சோடியம்
+    c) கால்சியம்
+    d) பொட்டாசியம்
+
+    Answer: c
+
+47. Communicable diseases are those that:
+    a) Do not spread from person to person
+    b) Spread from one person to another
+    c) Occur only in old age
+    d) Are caused by nutritional deficiencies
+
+    தொற்று நோய்கள் என்பவை:
+    a) ஒருவரிடமிருந்து மற்றொருவருக்கு பரவாதவை
+    b) ஒருவரிடமிருந்து மற்றொருவருக்கு பரவக்கூடியவை
+    c) முதுமையில் மட்டுமே ஏற்படுபவை
+    d) ஊட்டச்சத்துக் குறைபாடுகளால் ஏற்படுபவை
+
+    Answer: b
+
+48. Stagnant water is a breeding ground for:
+    a) Rats
+    b) Cockroaches
+    c) Mosquitoes
+    d) Houseflies
+
+    தேங்கி நிற்கும் நீர் எதன் இனப்பெருக்க இடமாகும்?
+    a) எலிகள்
+    b) கரப்பான் பூச்சிகள்
+    c) கொசுக்கள்
+    d) வீட்டு ஈக்கள்
+
+    Answer: c
+
+49. The "Sunshine Vitamin" is:
+    a) Vitamin A
+    b) Vitamin C
+    c) Vitamin D
+    d) Vitamin E
+
+    "சூரிய ஒளி வைட்டமின்" என்பது:
+    a) வைட்டமின் A
+    b) வைட்டமின் C
+    c) வைட்டமின் D
+    d) வைட்டமின் E
+
+    Answer: c
+
+50. What is the full form of AIDS?
+    a) Acquired Immune Disease Syndrome
+    b) Auto Immune Deficiency Syndrome
+    c) Acquired Immunodeficiency Syndrome
+    d) Acute Immunodeficiency Sickness
+
+    AIDS என்பதன் முழு விரிவாக்கம் என்ன?
+    a) பெறப்பட்ட நோய் எதிர்ப்பு நோய் அறிகுறி
+    b) தானியங்கி நோய் எதிர்ப்பு குறைபாடு அறிகுறி
+    c) பெறப்பட்ட நோய் எதிர்ப்பு சக்தி குறைபாடு அறிகுறி
+    d) கடுமையான நோய் எதிர்ப்பு சக்தி குறைபாடு நோய்
+
+    Answer: c

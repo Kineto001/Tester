@@ -1,0 +1,591 @@
+**ஊட்டச்சத்து (Nutrition) - TNPSC Group 4 MCQ**
+
+**1. கூற்று மற்றும் காரணம் வகை வினாக்கள் (Assertion and Reason Questions) (6 வினாக்கள்):**
+
+1.  **English:**
+    Assertion (A): Rickets is common in children due to Vitamin D deficiency.
+    Reason (R): Vitamin D helps in the absorption of calcium from food.
+    Options:
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+    e) Both A and R are false.
+
+    **Tamil:**
+    கூற்று (A): வைட்டமின் D குறைபாடு காரணமாக குழந்தைகளுக்கு ரிக்கெட்ஸ் நோய் பொதுவாக ஏற்படுகிறது.
+    காரணம் (R): வைட்டமின் D உணவிலிருந்து கால்சியத்தை உறிஞ்சுவதற்கு உதவுகிறது.
+    விருப்பங்கள்:
+    a) A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+    b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+    c) A சரி, ஆனால் R தவறு.
+    d) A தவறு, ஆனால் R சரி.
+    e) A மற்றும் R இரண்டும் தவறு.
+    **Answer: a**
+
+2.  **English:**
+    Assertion (A): A balanced diet is essential for good health.
+    Reason (R): A balanced diet provides all necessary nutrients in correct proportions.
+    Options:
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+    e) Both A and R are false.
+
+    **Tamil:**
+    கூற்று (A): நல்ல ஆரோக்கியத்திற்கு சரிவிகித உணவு அவசியம்.
+    காரணம் (R): சரிவிகித உணவு அனைத்து அத்தியாவசிய ஊட்டச்சத்துக்களையும் சரியான விகிதத்தில் வழங்குகிறது.
+    விருப்பங்கள்:
+    a) A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+    b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+    c) A சரி, ஆனால் R தவறு.
+    d) A தவறு, ஆனால் R சரி.
+    e) A மற்றும் R இரண்டும் தவறு.
+    **Answer: a**
+
+3.  **English:**
+    Assertion (A): Goitre is caused by the deficiency of iodine.
+    Reason (R): Iodine is a component of the thyroxine hormone.
+    Options:
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+    e) Both A and R are false.
+
+    **Tamil:**
+    கூற்று (A): அயோடின் குறைபாட்டால் முன்கழுத்துக் கழலை (காய்ட்டர்) ஏற்படுகிறது.
+    காரணம் (R): அயோடின் தைராக்ஸின் ஹார்மோனின் ஒரு அங்கமாகும்.
+    விருப்பங்கள்:
+    a) A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+    b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+    c) A சரி, ஆனால் R தவறு.
+    d) A தவறு, ஆனால் R சரி.
+    e) A மற்றும் R இரண்டும் தவறு.
+    **Answer: a**
+
+4.  **English:**
+    Assertion (A): Fruits and vegetables are important sources of vitamins and minerals.
+    Reason (R): Vitamins and minerals are macronutrients.
+    Options:
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+    e) Both A and R are false.
+
+    **Tamil:**
+    கூற்று (A): பழங்கள் மற்றும் காய்கறிகள் வைட்டமின்கள் மற்றும் தாது உப்புக்களின் முக்கிய ஆதாரங்களாகும்.
+    காரணம் (R): வைட்டமின்கள் மற்றும் தாது உப்புக்கள் பெரும் ஊட்டச்சத்துக்கள் (macronutrients) ஆகும்.
+    விருப்பங்கள்:
+    a) A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+    b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+    c) A சரி, ஆனால் R தவறு.
+    d) A தவறு, ஆனால் R சரி.
+    e) A மற்றும் R இரண்டும் தவறு.
+    **Answer: c** (Reason is false, they are micronutrients / காரணம் தவறு, அவை நுண் ஊட்டச்சத்துக்கள்)
+
+5.  **English:**
+    Assertion (A): Fats provide more energy per gram than carbohydrates.
+    Reason (R): Fats are difficult to digest and should be avoided completely.
+    Options:
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+    e) Both A and R are false.
+
+    **Tamil:**
+    கூற்று (A): கார்போஹைட்ரேட்டுகளை விட கொழுப்புகள் ஒரு கிராமுக்கு அதிக ஆற்றலை வழங்குகின்றன.
+    காரணம் (R): கொழுப்புகள் ஜீரணிக்க கடினமானவை மற்றும் முற்றிலும் தவிர்க்கப்பட வேண்டும்.
+    விருப்பங்கள்:
+    a) A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+    b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+    c) A சரி, ஆனால் R தவறு.
+    d) A தவறு, ஆனால் R சரி.
+    e) A மற்றும் R இரண்டும் தவறு.
+    **Answer: c** (Reason is false, fats are essential in moderation / காரணம் தவறு, கொழுப்புகள் மிதமான அளவில் அவசியம்)
+
+6.  **English:**
+    Assertion (A): Fiber in the diet helps prevent constipation.
+    Reason (R): Fiber is digested and absorbed in the small intestine.
+    Options:
+    a) Both A and R are true, and R is the correct explanation of A.
+    b) Both A and R are true, but R is not the correct explanation of A.
+    c) A is true, but R is false.
+    d) A is false, but R is true.
+    e) Both A and R are false.
+
+    **Tamil:**
+    கூற்று (A): உணவில் உள்ள நார்ச்சத்து மலச்சிக்கலைத் தடுக்க உதவுகிறது.
+    காரணம் (R): நார்ச்சத்து சிறுகுடலில் ஜீரணிக்கப்பட்டு உறிஞ்சப்படுகிறது.
+    விருப்பங்கள்:
+    a) A மற்றும் R இரண்டும் சரி, மேலும் R என்பது A-யின் சரியான விளக்கம்.
+    b) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A-யின் சரியான விளக்கமல்ல.
+    c) A சரி, ஆனால் R தவறு.
+    d) A தவறு, ஆனால் R சரி.
+    e) A மற்றும் R இரண்டும் தவறு.
+    **Answer: c** (Reason is false, fiber is largely indigestible / காரணம் தவறு, நார்ச்சத்து பெரும்பாலும் ஜீரணிக்க முடியாதது)
+
+---
+
+**2. தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியும் வினாக்கள் (Identify the Wrongly Matched Pair Questions) (6 வினாக்கள்):**
+
+7.  **English:**
+    Identify the wrongly matched pair:
+    a) Protein - Kwashiorkor
+    b) Iron - Anaemia
+    c) Vitamin C - Pellagra
+    d) Iodine - Goitre
+
+    **Tamil:**
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) புரதம் - குவாஷியோர்கர்
+    b) இரும்புச்சத்து - இரத்த சோகை
+    c) வைட்டமின் C - பெல்லாக்ரா
+    d) அயோடின் - முன்கழுத்துக் கழலை
+    **Answer: c** (Vitamin C - Scurvy; Pellagra - Vitamin B3 deficiency / வைட்டமின் C - ஸ்கர்வி; பெல்லாக்ரா - வைட்டமின் B3 குறைபாடு)
+
+8.  **English:**
+    Identify the wrongly matched pair:
+    a) Carbohydrate - Rice
+    b) Fat - Ghee
+    c) Protein - Pulses
+    d) Vitamin B12 - Citrus fruits
+
+    **Tamil:**
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) கார்போஹைட்ரேட் - அரிசி
+    b) கொழுப்பு - நெய்
+    c) புரதம் - பருப்பு வகைகள்
+    d) வைட்டமின் B12 - சிட்ரஸ் பழங்கள்
+    **Answer: d** (Vitamin B12 - Animal products, fortified foods; Citrus fruits - Vitamin C / வைட்டமின் B12 - விலங்கு பொருட்கள், செறிவூட்டப்பட்ட உணவுகள்; சிட்ரஸ் பழங்கள் - வைட்டமின் C)
+
+9.  **English:**
+    Identify the wrongly matched pair:
+    a) Marasmus - Protein-energy malnutrition
+    b) Scurvy - Vitamin C deficiency
+    c) Beriberi - Vitamin B1 deficiency
+    d) Night blindness - Vitamin B2 deficiency
+
+    **Tamil:**
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) மராஸ்மஸ் - புரத ஆற்றல் ஊட்டச்சத்துக் குறைபாடு
+    b) ஸ்கர்வி - வைட்டமின் C குறைபாடு
+    c) பெரிபெரி - வைட்டமின் B1 குறைபாடு
+    d) மாலைக்கண் நோய் - வைட்டமின் B2 குறைபாடு
+    **Answer: d** (Night blindness - Vitamin A deficiency / மாலைக்கண் நோய் - வைட்டமின் A குறைபாடு)
+
+10. **English:**
+    Identify the wrongly matched pair:
+    a) Calcium - Bone formation
+    b) Sodium - Nerve function
+    c) Fluorine - Prevents dental caries
+    d) Phosphorus - Oxygen transport
+
+    **Tamil:**
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) கால்சியம் - எலும்பு உருவாக்கம்
+    b) சோடியம் - நரம்பு செயல்பாடு
+    c) ஃபுளோரின் - பல் சொத்தையைத் தடுக்கிறது
+    d) பாஸ்பரஸ் - ஆக்ஸிஜன் போக்குவரத்து
+    **Answer: d** (Phosphorus - Bone and teeth formation, ATP; Oxygen transport - Iron / பாஸ்பரஸ் - எலும்பு மற்றும் பல் உருவாக்கம், ATP; ஆக்ஸிஜன் போக்குவரத்து - இரும்பு)
+
+11. **English:**
+    Identify the wrongly matched pair:
+    a) Water-soluble vitamin - Vitamin B
+    b) Fat-soluble vitamin - Vitamin K
+    c) Energy-giving food - Carbohydrates
+    d) Protective food - Fats
+
+    **Tamil:**
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) நீரில் கரையும் வைட்டமின் - வைட்டமின் B
+    b) கொழுப்பில் கரையும் வைட்டமின் - வைட்டமின் K
+    c) ஆற்றல் தரும் உணவு - கார்போஹைட்ரேட்டுகள்
+    d) பாதுகாப்பு உணவு - கொழுப்புகள்
+    **Answer: d** (Protective food - Vitamins and Minerals / Fruits and Vegetables / பாதுகாப்பு உணவு - வைட்டமின்கள் மற்றும் தாது உப்புக்கள் / பழங்கள் மற்றும் காய்கறிகள்)
+
+12. **English:**
+    Identify the wrongly matched pair:
+    a) Amylase - Starch digestion
+    b) Pepsin - Protein digestion
+    c) Lipase - Fat digestion
+    d) Trypsin - Carbohydrate digestion
+
+    **Tamil:**
+    தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) அமிலேஸ் - ஸ்டார்ச் செரிமானம்
+    b) பெப்சின் - புரத செரிமானம்
+    c) லிப்பேஸ் - கொழுப்பு செரிமானம்
+    d) டிரிப்சின் - கார்போஹைட்ரேட் செரிமானம்
+    **Answer: d** (Trypsin - Protein digestion / டிரிப்சின் - புரத செரிமானம்)
+
+---
+
+**3. பொருத்துக வகை வினாக்கள் (Match the Following Questions) (6 வினாக்கள்):**
+
+13. **English:**
+    Match List-I (Nutrient) with List-II (Deficiency Disease):
+    List-I                List-II
+    1. Vitamin A            a. Beriberi
+    2. Vitamin B1           b. Scurvy
+    3. Vitamin C            c. Night blindness
+    4. Vitamin D            d. Rickets
+    Options:
+    A) 1-c, 2-a, 3-b, 4-d
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-a, 4-b
+    D) 1-b, 2-d, 3-c, 4-a
+
+    **Tamil:**
+    பட்டியல்-I (ஊட்டச்சத்து) உடன் பட்டியல்-II (குறைபாட்டு நோய்) ஐப் பொருத்தவும்:
+    பட்டியல்-I              பட்டியல்-II
+    1. வைட்டமின் A          அ. பெரிபெரி
+    2. வைட்டமின் B1         ஆ. ஸ்கர்வி
+    3. வைட்டமின் C          இ. மாலைக்கண் நோய்
+    4. வைட்டமின் D          ஈ. ரிக்கெட்ஸ்
+    விருப்பங்கள்:
+    A) 1-இ, 2-அ, 3-ஆ, 4-ஈ
+    B) 1-அ, 2-ஆ, 3-இ, 4-ஈ
+    C) 1-ஈ, 2-இ, 3-அ, 4-ஆ
+    D) 1-ஆ, 2-ஈ, 3-இ, 4-அ
+    **Answer: A**
+
+14. **English:**
+    Match List-I (Food Component) with List-II (Function):
+    List-I                List-II
+    1. Carbohydrates        a. Body building
+    2. Proteins             b. Insulation and energy reserve
+    3. Fats                 c. Provides energy
+    4. Vitamins             d. Regulate body functions
+    Options:
+    A) 1-a, 2-c, 3-d, 4-b
+    B) 1-c, 2-a, 3-b, 4-d
+    C) 1-b, 2-d, 3-a, 4-c
+    D) 1-d, 2-b, 3-c, 4-a
+
+    **Tamil:**
+    பட்டியல்-I (உணவுக் கூறு) உடன் பட்டியல்-II (பணி) ஐப் பொருத்தவும்:
+    பட்டியல்-I              பட்டியல்-II
+    1. கார்போஹைட்ரேட்டுகள்   அ. உடல் கட்டமைப்பு
+    2. புரதங்கள்            ஆ. வெப்பக்காப்பு மற்றும் ஆற்றல் சேமிப்பு
+    3. கொழுப்புகள்           இ. ஆற்றலை வழங்குகிறது
+    4. வைட்டமின்கள்         ஈ. உடல் செயல்பாடுகளை ஒழுங்குபடுத்துதல்
+    விருப்பங்கள்:
+    A) 1-அ, 2-இ, 3-ஈ, 4-ஆ
+    B) 1-இ, 2-அ, 3-ஆ, 4-ஈ
+    C) 1-ஆ, 2-ஈ, 3-அ, 4-இ
+    D) 1-ஈ, 2-ஆ, 3-இ, 4-அ
+    **Answer: B**
+
+15. **English:**
+    Match List-I (Mineral) with List-II (Rich Source):
+    List-I                List-II
+    1. Iron                 a. Milk
+    2. Calcium              b. Iodized Salt
+    3. Iodine               c. Green leafy vegetables
+    4. Potassium            d. Banana
+    Options:
+    A) 1-c, 2-a, 3-b, 4-d
+    B) 1-a, 2-b, 3-d, 4-c
+    C) 1-b, 2-c, 3-a, 4-d
+    D) 1-d, 2-a, 3-c, 4-b
+
+    **Tamil:**
+    பட்டியல்-I (தாது உப்பு) உடன் பட்டியல்-II (செறிவான மூலம்) ஐப் பொருத்தவும்:
+    பட்டியல்-I              பட்டியல்-II
+    1. இரும்புச்சத்து          அ. பால்
+    2. கால்சியம்             ஆ. அயோடின் கலந்த உப்பு
+    3. அயோடின்             இ. கீரை வகைகள்
+    4. பொட்டாசியம்          ஈ. வாழைப்பழம்
+    விருப்பங்கள்:
+    A) 1-இ, 2-அ, 3-ஆ, 4-ஈ
+    B) 1-அ, 2-ஆ, 3-ஈ, 4-இ
+    C) 1-ஆ, 2-இ, 3-அ, 4-ஈ
+    D) 1-ஈ, 2-அ, 3-இ, 4-ஆ
+    **Answer: A**
+
+16. **English:**
+    Match List-I (Vitamin) with List-II (Chemical Name):
+    List-I                List-II
+    1. Vitamin B1           a. Ascorbic Acid
+    2. Vitamin C            b. Retinol
+    3. Vitamin A            c. Thiamine
+    4. Vitamin E            d. Tocopherol
+    Options:
+    A) 1-a, 2-b, 3-d, 4-c
+    B) 1-b, 2-d, 3-c, 4-a
+    C) 1-c, 2-a, 3-b, 4-d
+    D) 1-d, 2-c, 3-a, 4-b
+
+    **Tamil:**
+    பட்டியல்-I (வைட்டமின்) உடன் பட்டியல்-II (வேதிப்பெயர்) ஐப் பொருத்தவும்:
+    பட்டியல்-I              பட்டியல்-II
+    1. வைட்டமின் B1         அ. அஸ்கார்பிக் அமிலம்
+    2. வைட்டமின் C          ஆ. ரெட்டினால்
+    3. வைட்டமின் A          இ. தையமின்
+    4. வைட்டமின் E          ஈ. டோக்கோஃபெரால்
+    விருப்பங்கள்:
+    A) 1-அ, 2-ஆ, 3-ஈ, 4-இ
+    B) 1-ஆ, 2-ஈ, 3-இ, 4-அ
+    C) 1-இ, 2-அ, 3-ஆ, 4-ஈ
+    D) 1-ஈ, 2-இ, 3-அ, 4-ஆ
+    **Answer: C**
+
+17. **English:**
+    Match List-I (Disease) with List-II (Nutrient Involved):
+    List-I                List-II
+    1. Anaemia              a. Vitamin D
+    2. Goitre               b. Protein
+    3. Kwashiorkor          c. Iodine
+    4. Osteomalacia         d. Iron
+    Options:
+    A) 1-d, 2-c, 3-b, 4-a
+    B) 1-c, 2-d, 3-a, 4-b
+    C) 1-a, 2-b, 3-d, 4-c
+    D) 1-b, 2-a, 3-c, 4-d
+
+    **Tamil:**
+    பட்டியல்-I (நோய்) உடன் பட்டியல்-II (தொடர்புடைய ஊட்டச்சத்து) ஐப் பொருத்தவும்:
+    பட்டியல்-I              பட்டியல்-II
+    1. இரத்த சோகை          அ. வைட்டமின் D
+    2. முன்கழுத்துக் கழலை   ஆ. புரதம்
+    3. குவாஷியோர்கர்        இ. அயோடின்
+    4. ஆஸ்டியோமலாசியா     ஈ. இரும்புச்சத்து
+    விருப்பங்கள்:
+    A) 1-ஈ, 2-இ, 3-ஆ, 4-அ
+    B) 1-இ, 2-ஈ, 3-அ, 4-ஆ
+    C) 1-அ, 2-ஆ, 3-ஈ, 4-இ
+    D) 1-ஆ, 2-அ, 3-இ, 4-ஈ
+    **Answer: A**
+
+18. **English:**
+    Match List-I (Food Group) with List-II (Primary Nutrient):
+    List-I                List-II
+    1. Cereals              a. Proteins
+    2. Pulses               b. Fats
+    3. Oilseeds             c. Vitamins & Minerals
+    4. Fruits               d. Carbohydrates
+    Options:
+    A) 1-a, 2-d, 3-c, 4-b
+    B) 1-d, 2-a, 3-b, 4-c
+    C) 1-c, 2-b, 3-a, 4-d
+    D) 1-b, 2-c, 3-d, 4-a
+
+    **Tamil:**
+    பட்டியல்-I (உணவுக் குழு) உடன் பட்டியல்-II (முதன்மை ஊட்டச்சத்து) ஐப் பொருத்தவும்:
+    பட்டியல்-I              பட்டியல்-II
+    1. தானியங்கள்           அ. புரதங்கள்
+    2. பருப்பு வகைகள்       ஆ. கொழுப்புகள்
+    3. எண்ணெய் வித்துக்கள்   இ. வைட்டமின்கள் & தாது உப்புக்கள்
+    4. பழங்கள்              ஈ. கார்போஹைட்ரேட்டுகள்
+    விருப்பங்கள்:
+    A) 1-அ, 2-ஈ, 3-இ, 4-ஆ
+    B) 1-ஈ, 2-அ, 3-ஆ, 4-இ
+    C) 1-இ, 2-ஆ, 3-அ, 4-ஈ
+    D) 1-ஆ, 2-இ, 3-ஈ, 4-அ
+    **Answer: B**
+
+---
+
+**4. சாதாரண பலவுள் தெரிக வினாக்கள் (Standard Multiple Choice Questions) (32 வினாக்கள்):**
+
+19. **English:** Which nutrient is known as a 'body-building' food?
+    a) Carbohydrates b) Proteins c) Fats d) Vitamins
+    **Tamil:** 'உடல் கட்டமைக்கும் உணவு' என்று அழைக்கப்படும் ஊட்டச்சத்து எது?
+    a) கார்போஹைட்ரேட்டுகள் b) புரதங்கள் c) கொழுப்புகள் d) வைட்டமின்கள்
+    **Answer: b**
+
+20. **English:** Which of the following is a rich source of Vitamin C?
+    a) Milk b) Amla (Gooseberry) c) Carrot d) Egg
+    **Tamil:** பின்வருவனவற்றில் வைட்டமின் C செறிவாக உள்ள மூலம் எது?
+    a) பால் b) நெல்லிக்காய் c) கேரட் d) முட்டை
+    **Answer: b**
+
+21. **English:** The deficiency of which mineral causes anaemia?
+    a) Calcium b) Iodine c) Iron d) Phosphorus
+    **Tamil:** எந்த தாது உப்பின் குறைபாட்டால் இரத்த சோகை ஏற்படுகிறது?
+    a) கால்சியம் b) அயோடின் c) இரும்புச்சத்து d) பாஸ்பரஸ்
+    **Answer: c**
+
+22. **English:** Which of these is an energy-giving nutrient?
+    a) Water b) Vitamins c) Carbohydrates d) Minerals
+    **Tamil:** இவற்றுள் ஆற்றல் தரும் ஊட்டச்சத்து எது?
+    a) நீர் b) வைட்டமின்கள் c) கார்போஹைட்ரேட்டுகள் d) தாது உப்புக்கள்
+    **Answer: c**
+
+23. **English:** Scurvy is caused by the deficiency of:
+    a) Vitamin A b) Vitamin B c) Vitamin C d) Vitamin D
+    **Tamil:** ஸ்கர்வி நோய் எந்த வைட்டமின் குறைபாட்டால் ஏற்படுகிறது?
+    a) வைட்டமின் A b) வைட்டமின் B c) வைட்டமின் C d) வைட்டமின் D
+    **Answer: c**
+
+24. **English:** Which vitamin is synthesized in the skin in the presence of sunlight?
+    a) Vitamin A b) Vitamin B c) Vitamin C d) Vitamin D
+    **Tamil:** சூரிய ஒளியின் முன்னிலையில் தோலில் எந்த வைட்டமின் தயாரிக்கப்படுகிறது?
+    a) வைட்டமின் A b) வைட்டமின் B c) வைட்டமின் C d) வைட்டமின் D
+    **Answer: d**
+
+25. **English:** The main function of carbohydrates is to provide:
+    a) Energy b) Growth c) Repair d) Protection
+    **Tamil:** கார்போஹைட்ரேட்டுகளின் முக்கிய பணி:
+    a) ஆற்றலை வழங்குதல் b) வளர்ச்சியை அளித்தல் c) பழுதுபார்த்தல் d) பாதுகாத்தல்
+    **Answer: a**
+
+26. **English:** Which of the following is NOT a fat-soluble vitamin?
+    a) Vitamin A b) Vitamin B6 c) Vitamin D d) Vitamin E
+    **Tamil:** பின்வருவனவற்றில் கொழுப்பில் கரையாத வைட்டமின் எது?
+    a) வைட்டமின் A b) வைட்டமின் B6 c) வைட்டமின் D d) வைட்டமின் E
+    **Answer: b**
+
+27. **English:** Goitre is a disease related to which gland?
+    a) Pituitary b) Adrenal c) Thyroid d) Pancreas
+    **Tamil:** முன்கழுத்துக் கழலை (காய்ட்டர்) எந்த சுரப்பியுடன் தொடர்புடைய நோய்?
+    a) பிட்யூட்டரி b) அட்ரினல் c) தைராய்டு d) கணையம்
+    **Answer: c**
+
+28. **English:** Marasmus is a severe form of malnutrition caused by deficiency of:
+    a) Only protein b) Only calories c) Protein and calories d) Vitamins
+    **Tamil:** மராஸ்மஸ் என்பது எந்த ஊட்டச்சத்துக் குறைபாட்டால் ஏற்படும் கடுமையான ஊட்டச்சத்தின்மை நிலை?
+    a) புரதம் மட்டும் b) கலோரிகள் மட்டும் c) புரதம் மற்றும் கலோரிகள் d) வைட்டமின்கள்
+    **Answer: c**
+
+29. **English:** Which part of the plant is rich in starch?
+    a) Leaves b) Stem c) Roots and Seeds d) Flowers
+    **Tamil:** தாவரத்தின் எந்தப் பகுதியில் ஸ்டார்ச் அதிகமாக உள்ளது?
+    a) இலைகள் b) தண்டு c) வேர்கள் மற்றும் விதைகள் d) மலர்கள்
+    **Answer: c**
+
+30. **English:** The nutrient that helps in blood clotting is:
+    a) Vitamin K b) Vitamin E c) Vitamin B12 d) Folic acid
+    **Tamil:** இரத்தம் உறைதலுக்கு உதவும் ஊட்டச்சத்து:
+    a) வைட்டமின் K b) வைட்டமின் E c) வைட்டமின் B12 d) ஃபோலிக் அமிலம்
+    **Answer: a**
+
+31. **English:** Roughage in the diet primarily helps in:
+    a) Providing energy b) Building muscles c) Proper bowel movement d) Enhancing taste
+    **Tamil:** உணவில் உள்ள நார்ச்சத்து முதன்மையாக எதற்கு உதவுகிறது?
+    a) ஆற்றலை வழங்குதல் b) தசைகளை உருவாக்குதல் c) சரியான குடல் இயக்கம் d) சுவையை அதிகரித்தல்
+    **Answer: c**
+
+32. **English:** Which of the following food items is a good source of dietary fiber?
+    a) Polished rice b) White bread c) Whole grains d) Sugar
+    **Tamil:** பின்வரும் உணவுப் பொருட்களில் எது உணவு நார்ச்சத்தின் நல்ல மூலம்?
+    a) தீட்டப்பட்ட அரிசி b) வெள்ளை ரொட்டி c) முழு தானியங்கள் d) சர்க்கரை
+    **Answer: c**
+
+33. **English:** The "Sunshine Vitamin" is:
+    a) Vitamin A b) Vitamin C c) Vitamin D d) Vitamin K
+    **Tamil:** "சூரிய ஒளி வைட்டமின்" என்பது:
+    a) வைட்டமின் A b) வைட்டமின் C c) வைட்டமின் D d) வைட்டமின் K
+    **Answer: c**
+
+34. **English:** Pellagra is caused by the deficiency of:
+    a) Niacin (Vitamin B3) b) Thiamine (Vitamin B1) c) Riboflavin (Vitamin B2) d) Pyridoxine (Vitamin B6)
+    **Tamil:** பெல்லாக்ரா நோய் எந்த வைட்டமின் குறைபாட்டால் ஏற்படுகிறது?
+    a) நியாசின் (வைட்டமின் B3) b) தையமின் (வைட்டமின் B1) c) ரிபோஃபிளேவின் (வைட்டமின் B2) d) பைரிடாக்சின் (வைட்டமின் B6)
+    **Answer: a**
+
+35. **English:** Which mineral is essential for the formation of haemoglobin?
+    a) Calcium b) Sodium c) Iron d) Potassium
+    **Tamil:** ஹீமோகுளோபின் உருவாவதற்கு அவசியமான தாது உப்பு எது?
+    a) கால்சியம் b) சோடியம் c) இரும்புச்சத்து d) பொட்டாசியம்
+    **Answer: c**
+
+36. **English:** A balanced diet should contain:
+    a) Only carbohydrates and fats
+    b) Only proteins and vitamins
+    c) All nutrients in adequate amounts
+    d) Mainly fruits and vegetables
+    **Tamil:** ஒரு சரிவிகித உணவு எதைக் கொண்டிருக்க வேண்டும்?
+    a) கார்போஹைட்ரேட்டுகள் மற்றும் கொழுப்புகள் மட்டும்
+    b) புரதங்கள் மற்றும் வைட்டமின்கள் மட்டும்
+    c) அனைத்து ஊட்டச்சத்துக்களும் போதுமான அளவில்
+    d) முக்கியமாக பழங்கள் மற்றும் காய்கறிகள்
+    **Answer: c**
+
+37. **English:** Which of the following is considered a complete protein source?
+    a) Wheat b) Rice c) Egg d) Lentils
+    **Tamil:** பின்வருவனவற்றில் எது முழுமையான புரத மூலமாகக் கருதப்படுகிறது?
+    a) கோதுமை b) அரிசி c) முட்டை d) பருப்பு
+    **Answer: c**
+
+38. **English:** Night blindness is caused due to the deficiency of:
+    a) Vitamin C b) Vitamin D c) Vitamin A d) Vitamin B12
+    **Tamil:** மாலைக்கண் நோய் எந்த வைட்டமின் குறைபாட்டால் ஏற்படுகிறது?
+    a) வைட்டமின் C b) வைட்டமின் D c) வைட்டமின் A d) வைட்டமின் B12
+    **Answer: c**
+
+39. **English:** What is the primary role of water in the human body?
+    a) Provide energy b) Act as a solvent and transport medium c) Build muscles d) Store fat
+    **Tamil:** மனித உடலில் நீரின் முதன்மைப் பங்கு என்ன?
+    a) ஆற்றலை வழங்குதல் b) கரைப்பானாகவும் போக்குவரத்து ஊடகமாகவும் செயல்படுதல் c) தசைகளை உருவாக்குதல் d) கொழுப்பை சேமித்தல்
+    **Answer: b**
+
+40. **English:** Rickets affects primarily:
+    a) Skin b) Bones c) Eyes d) Nerves
+    **Tamil:** ரிக்கெட்ஸ் நோய் முதன்மையாக எதைப் பாதிக்கிறது?
+    a) தோல் b) எலும்புகள் c) கண்கள் d) நரம்புகள்
+    **Answer: b**
+
+41. **English:** Which of the following is a macronutrient?
+    a) Vitamin C b) Iron c) Protein d) Zinc
+    **Tamil:** பின்வருவனவற்றில் பெரும் ஊட்டச்சத்து (macronutrient) எது?
+    a) வைட்டமின் C b) இரும்புச்சத்து c) புரதம் d) துத்தநாகம்
+    **Answer: c**
+
+42. **English:** An immediate source of energy is:
+    a) Glucose b) Protein c) Fat d) Starch
+    **Tamil:** உடனடி ஆற்றல் மூலம் எது?
+    a) குளுக்கோஸ் b) புரதம் c) கொழுப்பு d) ஸ்டார்ச்
+    **Answer: a**
+
+43. **English:** Which of the following diseases is NOT caused by nutrient deficiency?
+    a) Scurvy b) Beriberi c) Tuberculosis d) Anaemia
+    **Tamil:** பின்வரும் நோய்களில் எது ஊட்டச்சத்துக் குறைபாட்டால் ஏற்படுவதில்லை?
+    a) ஸ்கர்வி b) பெரிபெரி c) காசநோய் d) இரத்த சோகை
+    **Answer: c**
+
+44. **English:** The process of converting food into simpler substances that can be absorbed by the body is called:
+    a) Respiration b) Circulation c) Digestion d) Excretion
+    **Tamil:** உணவை உடல் உறிஞ்சக்கூடிய எளிய பொருட்களாக மாற்றும் செயல்முறை இவ்வாறு அழைக்கப்படுகிறது:
+    a) சுவாசம் b) சுற்றோட்டம் c) செரிமானம் d) கழிவு நீக்கம்
+    **Answer: c**
+
+45. **English:** Which nutrient is stored in adipose tissue?
+    a) Protein b) Carbohydrate c) Fat d) Vitamins
+    **Tamil:** எந்த ஊட்டச்சத்து அடிபோஸ் திசுக்களில் சேமிக்கப்படுகிறது?
+    a) புரதம் b) கார்போஹைட்ரேட் c) கொழுப்பு d) வைட்டமின்கள்
+    **Answer: c**
+
+46. **English:** Iodine is primarily found in:
+    a) Fruits b) Cereals c) Seafood and iodized salt d) Pulses
+    **Tamil:** அயோடின் முதன்மையாக எதில் காணப்படுகிறது?
+    a) பழங்கள் b) தானியங்கள் c) கடல் உணவுகள் மற்றும் அயோடின் கலந்த உப்பு d) பருப்பு வகைகள்
+    **Answer: c**
+
+47. **English:** Which vitamin helps in the absorption of calcium?
+    a) Vitamin A b) Vitamin B c) Vitamin C d) Vitamin D
+    **Tamil:** கால்சியம் உறிஞ்சுதலுக்கு எந்த வைட்டமின் உதவுகிறது?
+    a) வைட்டமின் A b) வைட்டமின் B c) வைட்டமின் C d) வைட்டமின் D
+    **Answer: d**
+
+48. **English:** Kwashiorkor is more common in:
+    a) Infants below one year b) Children between 1-5 years c) Adults d) Elderly people
+    **Tamil:** குவாஷியோர்கர் நோய் யாருக்கு பொதுவாக ஏற்படுகிறது?
+    a) ஒரு வயதுக்குட்பட்ட குழந்தைகள் b) 1-5 வயதுக்குட்பட்ட குழந்தைகள் c) பெரியவர்கள் d) வயதானவர்கள்
+    **Answer: b**
+
+49. **English:** The most abundant mineral in the human body is:
+    a) Iron b) Calcium c) Sodium d) Iodine
+    **Tamil:** மனித உடலில் அதிக அளவில் காணப்படும் தாது உப்பு எது?
+    a) இரும்புச்சத்து b) கால்சியம் c) சோடியம் d) அயோடின்
+    **Answer: b**
+
+50. **English:** Which of the following is a symptom of iron deficiency anaemia?
+    a) Swelling of gums b) Fatigue and weakness c) Night blindness d) Skin rashes
+    **Tamil:** பின்வருவனவற்றில் இரும்புச்சத்து குறைபாடு இரத்த சோகையின் அறிகுறி எது?
+    a) ஈறுகளில் வீக்கம் b) சோர்வு மற்றும் பலவீனம் c) மாலைக்கண் நோய் d) தோல் தடிப்புகள்
+    **Answer: b**

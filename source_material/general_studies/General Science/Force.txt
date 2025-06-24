@@ -1,0 +1,772 @@
+Topic: Force (விசை)
+
+**Assertion and Reason (கூற்று மற்றும் காரணம்)**
+
+1.  **Assertion (A):** A cricketer pulls his hands backwards while catching a fast-moving cricket ball.
+    **Reason (R):** Doing so increases the time of impact, thus reducing the force exerted by the ball on the hands.
+
+    A) Both A and R are true, and R is the correct explanation of A.
+    B) Both A and R are true, but R is not the correct explanation of A.
+    C) A is true, but R is false.
+    D) A is false, but R is true.
+    E) Both A and R are false.
+
+    **கூற்று (A):** ஒரு கிரிக்கெட் வீரர் வேகமாக வரும் கிரிக்கெட் பந்தைப் பிடிக்கும்போது தனது கைகளைப் பின்னோக்கி இழுக்கிறார்.
+    **காரணம் (R):** அவ்வாறு செய்வதால் தாக்கும் நேரம் அதிகரிக்கிறது, இதனால் பந்து கையால் செலுத்தப்படும் விசை குறைகிறது.
+
+    A) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+    B) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+    C) A சரி, ஆனால் R தவறு.
+    D) A தவறு, ஆனால் R சரி.
+    E) A மற்றும் R இரண்டும் தவறு.
+
+2.  **Assertion (A):** It is easier to roll a barrel than to pull it.
+    **Reason (R):** Rolling friction is smaller than sliding friction.
+
+    A) Both A and R are true, and R is the correct explanation of A.
+    B) Both A and R are true, but R is not the correct explanation of A.
+    C) A is true, but R is false.
+    D) A is false, but R is true.
+    E) Both A and R are false.
+
+    **கூற்று (A):** ஒரு பீப்பாயை இழுப்பதை விட உருட்டுவது எளிது.
+    **காரணம் (R):** உருளும் உராய்வு சறுக்கு உராய்வை விட சிறியது.
+
+    A) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+    B) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+    C) A சரி, ஆனால் R தவறு.
+    D) A தவறு, ஆனால் R சரி.
+    E) A மற்றும் R இரண்டும் தவறு.
+
+3.  **Assertion (A):** When a bus suddenly starts, passengers tend to fall backward.
+    **Reason (R):** This is due to inertia of rest.
+
+    A) Both A and R are true, and R is the correct explanation of A.
+    B) Both A and R are true, but R is not the correct explanation of A.
+    C) A is true, but R is false.
+    D) A is false, but R is true.
+    E) Both A and R are false.
+
+    **கூற்று (A):** ஒரு பேருந்து திடீரென புறப்படும்போது, பயணிகள் பின்னோக்கி சாய்கின்றனர்.
+    **காரணம் (R):** இது ஓய்வு நிலைமம் காரணமாகும்.
+
+    A) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+    B) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+    C) A சரி, ஆனால் R தவறு.
+    D) A தவறு, ஆனால் R சரி.
+    E) A மற்றும் R இரண்டும் தவறு.
+
+4.  **Assertion (A):** The SI unit of force is Newton.
+    **Reason (R):** Force is a vector quantity.
+
+    A) Both A and R are true, and R is the correct explanation of A.
+    B) Both A and R are true, but R is not the correct explanation of A.
+    C) A is true, but R is false.
+    D) A is false, but R is true.
+    E) Both A and R are false.
+
+    **கூற்று (A):** விசையின் SI அலகு நியூட்டன் ஆகும்.
+    **காரணம் (R):** விசை ஒரு திசையன் (வெக்டர்) அளவு.
+
+    A) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+    B) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+    C) A சரி, ஆனால் R தவறு.
+    D) A தவறு, ஆனால் R சரி.
+    E) A மற்றும் R இரண்டும் தவறு.
+
+5.  **Assertion (A):** Friction is a necessary evil.
+    **Reason (R):** Friction causes wear and tear of machinery, but we cannot walk without friction.
+
+    A) Both A and R are true, and R is the correct explanation of A.
+    B) Both A and R are true, but R is not the correct explanation of A.
+    C) A is true, but R is false.
+    D) A is false, but R is true.
+    E) Both A and R are false.
+
+    **கூற்று (A):** உராய்வு ஒரு அவசியமான தீமை.
+    **காரணம் (R):** உராய்வு இயந்திரங்களின் தேய்மானத்தை ஏற்படுத்துகிறது, ஆனால் உராய்வு இல்லாமல் நம்மால் நடக்க முடியாது.
+
+    A) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+    B) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+    C) A சரி, ஆனால் R தவறு.
+    D) A தவறு, ஆனால் R சரி.
+    E) A மற்றும் R இரண்டும் தவறு.
+
+6.  **Assertion (A):** A force is required to keep an object moving with uniform velocity.
+    **Reason (R):** According to Newton's first law, an object in motion stays in motion.
+
+    A) Both A and R are true, and R is the correct explanation of A.
+    B) Both A and R are true, but R is not the correct explanation of A.
+    C) A is true, but R is false.
+    D) A is false, but R is true.
+    E) Both A and R are false.
+
+    **கூற்று (A):** ஒரு பொருளை சீரான திசைவேகத்தில் நகர்த்த ஒரு விசை தேவைப்படுகிறது.
+    **காரணம் (R):** நியூட்டனின் முதல் விதிப்படி, இயக்கத்தில் உள்ள ஒரு பொருள் இயக்கத்திலேயே இருக்கும்.
+
+    A) A மற்றும் R இரண்டும் சரி, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+    B) A மற்றும் R இரண்டும் சரி, ஆனால் R என்பது A இன் சரியான விளக்கமல்ல.
+    C) A சரி, ஆனால் R தவறு.
+    D) A தவறு, ஆனால் R சரி.
+    E) A மற்றும் R இரண்டும் தவறு.
+
+---
+
+**Wrongly Matched Pairs (தவறாகப் பொருந்திய இணைகள்)**
+
+7.  Find the wrongly matched pair:
+    A) Muscular force - Contact force
+    B) Gravitational force - Non-contact force
+    C) Frictional force - Non-contact force
+    D) Magnetic force - Non-contact force
+
+    தவறாகப் பொருந்திய இணையைக் கண்டறிக:
+    A) தசை விசை - தொடு விசை
+    B) ஈர்ப்பு விசை - தொடா விசை
+    C) உராய்வு விசை - தொடா விசை
+    D) காந்த விசை - தொடா விசை
+
+8.  Find the wrongly matched pair regarding effects of force:
+    A) Squeezing a lemon - Change in shape
+    B) Kicking a football - Change in state of motion
+    C) Stretching a rubber band - Change in size
+    D) Pushing a wall - Change in mass
+
+    விசையின் விளைவுகள் குறித்த தவறான இணையை கண்டறிக:
+    A) எலுமிச்சையைப் பிழிதல் - வடிவ மாற்றம்
+    B) கால்பந்தை உதைத்தல் - இயக்க நிலை மாற்றம்
+    C) ரப்பர் பேண்டை நீட்டுதல் - அளவு மாற்றம்
+    D) சுவரைத் தள்ளுதல் - நிறை மாற்றம்
+
+9.  Find the wrongly matched pair:
+    A) Newton's First Law - Inertia
+    B) Newton's Second Law - F = ma
+    C) Newton's Third Law - Conservation of momentum
+    D) Unit of Force - Newton
+
+    தவறாகப் பொருந்திய இணையைக் கண்டறிக:
+    A) நியூட்டனின் முதல் விதி - நிலைமம்
+    B) நியூட்டனின் இரண்டாம் விதி - F = ma
+    C) நியூட்டனின் மூன்றாம் விதி - உந்த அழிவின்மை விதி
+    D) விசையின் அலகு - நியூட்டன்
+
+10. Find the wrongly matched pair:
+    A) Force - Vector quantity
+    B) Mass - Scalar quantity
+    C) Pressure - Vector quantity
+    D) Work - Scalar quantity
+
+    தவறாகப் பொருந்திய இணையைக் கண்டறிக:
+    A) விசை - திசையன் அளவு
+    B) நிறை - திசையிலா அளவு
+    C) அழுத்தம் - திசையன் அளவு
+    D) வேலை - திசையிலா அளவு
+
+11. Find the wrongly matched pair regarding types of friction:
+    A) Object at rest - Static friction
+    B) Object rolling - Rolling friction
+    C) Object sliding - Kinetic friction
+    D) Object in air - Normal friction
+
+    உராய்வின் வகைகள் குறித்த தவறான இணையை கண்டறிக:
+    A) ஓய்வில் உள்ள பொருள் - நிலை உராய்வு
+    B) உருளும் பொருள் - உருளும் உராய்வு
+    C) சறுக்கும் பொருள் - இயக்க உராய்வு
+    D) காற்றில் உள்ள பொருள் - செங்குத்து உராய்வு
+
+12. Find the wrongly matched pair:
+    A) Pulling a cart - Muscular force
+    B) Apple falling from a tree - Gravitational force
+    C) Iron nails attracted to a magnet - Electrostatic force
+    D) Rubbed comb attracting paper bits - Electrostatic force
+
+    தவறாகப் பொருந்திய இணையைக் கண்டறிக:
+    A) வண்டியை இழுத்தல் - தசை விசை
+    B) மரத்திலிருந்து ஆப்பிள் விழுதல் - ஈர்ப்பு விசை
+    C) காந்தத்தால் இரும்பு ஆணிகள் ஈர்க்கப்படுதல் - நிலைமின்னியல் விசை
+    D) தேய்க்கப்பட்ட சீப்பு காகிதத் துண்டுகளை ஈர்த்தல் - நிலைமின்னியல் விசை
+
+---
+
+**Match the Following (பொருத்துக)**
+
+13. Match the following:
+    1. Newton's First Law      a. F = ma
+    2. Newton's Second Law     b. Action and Reaction
+    3. Newton's Third Law      c. Inertia
+    4. Unit of Force           d. Newton
+
+    A) 1-c, 2-a, 3-b, 4-d
+    B) 1-a, 2-c, 3-d, 4-b
+    C) 1-b, 2-d, 3-a, 4-c
+    D) 1-d, 2-b, 3-c, 4-a
+
+    பொருத்துக:
+    1. நியூட்டனின் முதல் விதி     a. F = ma
+    2. நியூட்டனின் இரண்டாம் விதி  b. வினை மற்றும் எதிர்வினை
+    3. நியூட்டனின் மூன்றாம் விதி  c. நிலைமம்
+    4. விசையின் அலகு           d. நியூட்டன்
+
+    A) 1-c, 2-a, 3-b, 4-d
+    B) 1-a, 2-c, 3-d, 4-b
+    C) 1-b, 2-d, 3-a, 4-c
+    D) 1-d, 2-b, 3-c, 4-a
+
+14. Match the following:
+    1. Contact Force        a. Gravitational force
+    2. Non-contact Force    b. Frictional force
+    3. Balanced Forces      c. Change in state of motion
+    4. Unbalanced Forces    d. No change in state of motion
+
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-b, 4-a
+    D) 1-c, 2-d, 3-a, 4-b
+
+    பொருத்துக:
+    1. தொடு விசை           a. ஈர்ப்பு விசை
+    2. தொடா விசை          b. உராய்வு விசை
+    3. சமன்பட்ட விசைகள்       c. இயக்க நிலையில் மாற்றம்
+    4. சமன்படாத விசைகள்     d. இயக்க நிலையில் மாற்றமில்லை
+
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-d, 2-c, 3-b, 4-a
+    D) 1-c, 2-d, 3-a, 4-b
+
+15. Match the following:
+    1. Push or Pull           a. Friction
+    2. Opposes motion         b. Force
+    3. Tendency to resist change in state of motion c. Newton
+    4. SI unit of force       d. Inertia
+
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-d, 2-c, 3-b, 4-a
+
+    பொருத்துக:
+    1. தள்ளுதல் அல்லது இழுத்தல்   a. உராய்வு
+    2. இயக்கத்தை எதிர்க்கும்     b. விசை
+    3. இயக்க நிலை மாற்றத்தை எதிர்க்கும் தன்மை c. நியூட்டன்
+    4. விசையின் SI அலகு        d. நிலைமம்
+
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-d, 2-c, 3-b, 4-a
+
+16. Match the following related to friction:
+    1. Reduces friction        a. Grooves in tyres
+    2. Increases friction      b. Lubricants
+    3. Static friction         c. Object is moving
+    4. Kinetic friction        d. Object is at rest
+
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-d, 2-c, 3-b, 4-a
+
+    பொருத்துக (உராய்வு தொடர்பானது):
+    1. உராய்வைக் குறைப்பது     a. டயர்களில் உள்ள பள்ளங்கள்
+    2. உராய்வை அதிகரிப்பது    b. மசகு எண்ணெய்
+    3. நிலை உராய்வு          c. பொருள் நகர்கிறது
+    4. இயக்க உராய்வு         d. பொருள் ஓய்வில் உள்ளது
+
+    A) 1-b, 2-a, 3-d, 4-c
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-c, 2-d, 3-a, 4-b
+    D) 1-d, 2-c, 3-b, 4-a
+
+17. Match the following forces with their nature:
+    1. Force by a stretched spring  a. Gravitational
+    2. Force between two magnets    b. Muscular
+    3. Force exerted by Earth       c. Elastic
+    4. Force used to lift a bucket  d. Magnetic
+
+    A) 1-c, 2-d, 3-a, 4-b
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-b, 2-a, 3-d, 4-c
+    D) 1-d, 2-c, 3-b, 4-a
+
+    பொருத்துக (விசைகளை அவற்றின் தன்மையுடன்):
+    1. நீட்டப்பட்ட சுருள்வில்லின் விசை  a. ஈர்ப்பு
+    2. இரண்டு காந்தங்களுக்கு இடையேயான விசை b. தசை
+    3. பூமி செலுத்தும் விசை          c. மீள்விசை
+    4. வாளியைத் தூக்கப் பயன்படும் விசை d. காந்த
+
+    A) 1-c, 2-d, 3-a, 4-b
+    B) 1-a, 2-b, 3-c, 4-d
+    C) 1-b, 2-a, 3-d, 4-c
+    D) 1-d, 2-c, 3-b, 4-a
+
+18. Match the following terms with their definitions:
+    1. Momentum             a. Force per unit area
+    2. Impulse              b. Product of mass and velocity
+    3. Pressure             c. Change in momentum
+    4. Work                 d. Force x displacement
+
+    A) 1-b, 2-c, 3-a, 4-d
+    B) 1-a, 2-d, 3-c, 4-b
+    C) 1-c, 2-a, 3-d, 4-b
+    D) 1-d, 2-b, 3-a, 4-c
+
+    பொருத்துக (சொற்களை அவற்றின் வரையறைகளுடன்):
+    1. உந்தம்               a. ஓரலகு பரப்பில் செயல்படும் விசை
+    2. கணத்தாக்கு விசை      b. நிறை மற்றும் திசைவேகத்தின் பெருக்கற்பலன்
+    3. அழுத்தம்             c. உந்தத்தில் மாற்றம்
+    4. வேலை                d. விசை x இடப்பெயர்ச்சி
+
+    A) 1-b, 2-c, 3-a, 4-d
+    B) 1-a, 2-d, 3-c, 4-b
+    C) 1-c, 2-a, 3-d, 4-b
+    D) 1-d, 2-b, 3-a, 4-c
+
+---
+
+**Multiple Choice Questions (சரியான விடையைத் தேர்ந்தெடு)**
+
+19. Force can change the:
+    A) Shape of an object
+    B) Speed of an object
+    C) Direction of motion of an object
+    D) All of the above
+
+    விசை மாற்றக்கூடியது:
+    A) பொருளின் வடிவம்
+    B) பொருளின் வேகம்
+    C) பொருளின் இயக்கத் திசை
+    D) மேலே உள்ள அனைத்தும்
+
+20. The SI unit of force is named after:
+    A) Albert Einstein
+    B) Isaac Newton
+    C) Galileo Galilei
+    D) Michael Faraday
+
+    விசையின் SI அலகு யாருடைய பெயரால் அழைக்கப்படுகிறது?
+    A) ஆல்பர்ட் ஐன்ஸ்டீன்
+    B) ஐசக் நியூட்டன்
+    C) கலிலியோ கலிலி
+    D) மைக்கேல் ஃபாரடே
+
+21. Which of the following is a non-contact force?
+    A) Frictional force
+    B) Muscular force
+    C) Gravitational force
+    D) Normal force
+
+    பின்வருவனவற்றில் எது தொடா விசை?
+    A) உராய்வு விசை
+    B) தசை விசை
+    C) ஈர்ப்பு விசை
+    D) செங்குத்து விசை
+
+22. The force exerted by our muscles is called:
+    A) Gravitational force
+    B) Magnetic force
+    C) Muscular force
+    D) Frictional force
+
+    நமது தசைகளால் செலுத்தப்படும் விசை:
+    A) ஈர்ப்பு விசை
+    B) காந்த விசை
+    C) தசை விசை
+    D) உராய்வு விசை
+
+23. The force that opposes the motion of an object is:
+    A) Applied force
+    B) Gravitational force
+    C) Frictional force
+    D) Magnetic force
+
+    ஒரு பொருளின் இயக்கத்தை எதிர்க்கும் விசை:
+    A) செலுத்தப்பட்ட விசை
+    B) ஈர்ப்பு விசை
+    C) உராய்வு விசை
+    D) காந்த விசை
+
+24. 1 Newton is equal to:
+    A) 1 kg m/s²
+    B) 1 g cm/s²
+    C) 1 kg m/s
+    D) 1 dyne
+
+    1 நியூட்டன் என்பது:
+    A) 1 கிகி மீ/வி²
+    B) 1 கி செமீ/வி²
+    C) 1 கிகி மீ/வி
+    D) 1 டைன்
+
+25. Newton's first law of motion is also known as the law of:
+    A) Action-Reaction
+    B) Inertia
+    C) Acceleration
+    D) Momentum
+
+    நியூட்டனின் முதல் இயக்க விதி இவ்வாறு அழைக்கப்படுகிறது:
+    A) வினை-எதிர்வினை விதி
+    B) நிலைம விதி
+    C) முடுக்க விதி
+    D) உந்த விதி
+
+26. When an object is at rest or in uniform motion, the net force acting on it is:
+    A) Positive
+    B) Negative
+    C) Zero
+    D) Infinite
+
+    ஒரு பொருள் ஓய்வில் இருக்கும்போது அல்லது சீரான இயக்கத்தில் இருக்கும்போது, அதன் மீது செயல்படும் நிகர விசை:
+    A) நேர்மறை
+    B) எதிர்மறை
+    C) பூஜ்ஜியம்
+    D) முடிவிலி
+
+27. Which of the following helps in reducing friction?
+    A) Making surfaces rough
+    B) Using lubricants
+    C) Increasing the area of contact
+    D) Increasing the weight of the object
+
+    பின்வருவனவற்றில் எது உராய்வைக் குறைக்க உதவுகிறது?
+    A) பரப்புகளை கரடுமுரடாக மாற்றுதல்
+    B) மசகு எண்ணெய்களைப் பயன்படுத்துதல்
+    C) தொடும் பரப்பை அதிகரித்தல்
+    D) பொருளின் எடையை அதிகரித்தல்
+
+28. The force responsible for the revolution of planets around the Sun is:
+    A) Magnetic force
+    B) Electrostatic force
+    C) Gravitational force
+    D) Frictional force
+
+    சூரியனைச் சுற்றி கோள்கள் சுழல்வதற்குக் காரணமான விசை:
+    A) காந்த விசை
+    B) நிலைமின்னியல் விசை
+    C) ஈர்ப்பு விசை
+    D) உராய்வு விசை
+
+29. Pressure is defined as:
+    A) Force × Area
+    B) Force / Area
+    C) Area / Force
+    D) Mass × Acceleration
+
+    அழுத்தம் இவ்வாறு வரையறுக்கப்படுகிறது:
+    A) விசை × பரப்பு
+    B) விசை / பரப்பு
+    C) பரப்பு / விசை
+    D) நிறை × முடுக்கம்
+
+30. The force exerted by a charged body on another charged or uncharged body is known as:
+    A) Magnetic force
+    B) Gravitational force
+    C) Electrostatic force
+    D) Muscular force
+
+    ஒரு மின்னூட்டம் பெற்ற பொருள் மற்றொரு மின்னூட்டம் பெற்ற அல்லது பெறாத பொருளின் மீது செலுத்தும் விசை:
+    A) காந்த விசை
+    B) ஈர்ப்பு விசை
+    C) நிலைமின்னியல் விசை
+    D) தசை விசை
+
+31. A push or pull on an object is called:
+    A) Pressure
+    B) Work
+    C) Force
+    D) Energy
+
+    ஒரு பொருளின் மீதான தள்ளுதல் அல்லது இழுத்தல் இவ்வாறு அழைக்கப்படுகிறது:
+    A) அழுத்தம்
+    B) வேலை
+    C) விசை
+    D) ஆற்றல்
+
+32. If two forces act in opposite directions on an object, the net force is:
+    A) The sum of the two forces
+    B) The difference between the two forces
+    C) The product of the two forces
+    D) Zero always
+
+    இரண்டு விசைகள் ஒரு பொருளின் மீது எதிர் திசைகளில் செயல்பட்டால், நிகர விசை:
+    A) இரண்டு விசைகளின் கூடுதல்
+    B) இரண்டு விசைகளுக்கு இடையிலான வேறுபாடு
+    C) இரண்டு விசைகளின் பெருக்கற்பலன்
+    D) எப்போதும் பூஜ்ஜியம்
+
+33. Inertia depends on the _________ of an object.
+    A) Speed
+    B) Mass
+    C) Volume
+    D) Shape
+
+    நிலைமம் ஒரு பொருளின் _________ சார்ந்தது.
+    A) வேகம்
+    B) நிறை
+    C) பருமன்
+    D) வடிவம்
+
+34. Which type of friction comes into play when an object just starts to move from rest?
+    A) Sliding friction
+    B) Rolling friction
+    C) Static friction
+    D) Fluid friction
+
+    ஒரு பொருள் ஓய்விலிருந்து நகரத் தொடங்கும் போது எந்த வகை உராய்வு செயல்படுகிறது?
+    A) சறுக்கு உராய்வு
+    B) உருளும் உராய்வு
+    C) நிலை உராய்வு
+    D) பாய்ம உராய்வு
+
+35. The strength of a force is usually expressed by its:
+    A) Direction
+    B) Magnitude
+    C) Point of application
+    D) Effect
+
+    ஒரு விசையின் வலிமை பொதுவாக அதன் _________ மூலம் வெளிப்படுத்தப்படுகிறது.
+    A) திசை
+    B) எண்மதிப்பு
+    C) செயல்படும் புள்ளி
+    D) விளைவு
+
+36. Which law of motion gives the measure of force?
+    A) Newton's First Law
+    B) Newton's Second Law
+    C) Newton's Third Law
+    D) Law of Gravitation
+
+    எந்த இயக்க விதி விசையின் அளவைக் கொடுக்கிறது?
+    A) நியூட்டனின் முதல் விதி
+    B) நியூட்டனின் இரண்டாம் விதி
+    C) நியூட்டனின் மூன்றாம் விதி
+    D) ஈர்ப்பு விதி
+
+37. When a force F acts on a body of mass m, the acceleration produced is a. The relation is given by:
+    A) F = m/a
+    B) F = a/m
+    C) F = ma
+    D) F = m + a
+
+    ஒரு m நிறையுள்ள பொருளின் மீது F என்ற விசை செயல்படும்போது, a என்ற முடுக்கம் உருவாகிறது. தொடர்பு இவ்வாறு கொடுக்கப்பட்டுள்ளது:
+    A) F = m/a
+    B) F = a/m
+    C) F = ma
+    D) F = m + a
+
+38. The CGS unit of force is:
+    A) Newton
+    B) Dyne
+    C) Joule
+    D) Erg
+
+    விசையின் CGS அலகு:
+    A) நியூட்டன்
+    B) டைன்
+    C) ஜூல்
+    D) எர்க்
+
+39. "Every action has an equal and opposite reaction." This statement is:
+    A) Newton's First Law
+    B) Newton's Second Law
+    C) Newton's Third Law
+    D) Principle of conservation of energy
+
+    "ஒவ்வொரு வினைக்கும் சமமான மற்றும் எதிர் வினை உண்டு." இந்த கூற்று:
+    A) நியூட்டனின் முதல் விதி
+    B) நியூட்டனின் இரண்டாம் விதி
+    C) நியூட்டனின் மூன்றாம் விதி
+    D) ஆற்றல் அழிவின்மை தத்துவம்
+
+40. Friction can be increased by:
+    A) Polishing the surface
+    B) Using ball bearings
+    C) Making the surface rough
+    D) Applying oil
+
+    உராய்வை அதிகரிக்கலாம்:
+    A) பரப்பை மெருகூட்டுவதன் மூலம்
+    B) பந்து தாங்கிகளைப் பயன்படுத்துவதன் மூலம்
+    C) பரப்பை கரடுமுரடாக மாற்றுவதன் மூலம்
+    D) எண்ணெய் தடவுவதன் மூலம்
+
+41. The force that always acts towards the center of the Earth is:
+    A) Magnetic force
+    B) Frictional force
+    C) Gravitational force
+    D) Muscular force
+
+    எப்போதும் பூமியின் மையத்தை நோக்கி செயல்படும் விசை:
+    A) காந்த விசை
+    B) உராய்வு விசை
+    C) ஈர்ப்பு விசை
+    D) தசை விசை
+
+42. Which of these is NOT an effect of force?
+    A) Change the direction of motion
+    B) Change the speed of motion
+    C) Change the shape of an object
+    D) Change the mass of an object
+
+    இவற்றில் எது விசையின் விளைவு அல்ல?
+    A) இயக்கத்தின் திசையை மாற்றுதல்
+    B) இயக்கத்தின் வேகத்தை மாற்றுதல்
+    C) பொருளின் வடிவத்தை மாற்றுதல்
+    D) பொருளின் நிறையை மாற்றுதல்
+
+43. The force acting on a unit area of a surface is called:
+    A) Energy
+    B) Pressure
+    C) Work
+    D) Power
+
+    ஒரு பரப்பின் ஓரலகு பரப்பில் செயல்படும் விசை:
+    A) ஆற்றல்
+    B) அழுத்தம்
+    C) வேலை
+    D) திறன்
+
+44. If the applied force on an object is doubled and its mass is halved, its acceleration will be:
+    A) Halved
+    B) Doubled
+    C) Quadrupled (Four times)
+    D) Remains the same
+
+    ஒரு பொருளின் மீது செலுத்தப்படும் விசை இரட்டிப்பாக்கப்பட்டு அதன் நிறை பாதியாகக் குறைக்கப்பட்டால், அதன் முடுக்கம்:
+    A) பாதியாகக் குறையும்
+    B) இரட்டிப்பாகும்
+    C) நான்கு மடங்காகும்
+    D) மாறாமல் இருக்கும்
+
+45. The force exerted by the floor on an object placed on it is an example of:
+    A) Frictional force
+    B) Normal force
+    C) Gravitational force
+    D) Tension force
+
+    தரையில் வைக்கப்பட்டுள்ள ஒரு பொருளின் மீது தரை செலுத்தும் விசை இதற்கு ஒரு உதாரணம்:
+    A) உராய்வு விசை
+    B) செங்குத்து விசை
+    C) ஈர்ப்பு விசை
+    D) இழுவிசை
+
+46. A body is said to be under balanced forces when the resultant force acting on the body is:
+    A) Unity
+    B) Zero
+    C) Greater than unity
+    D) Less than unity but not zero
+
+    ஒரு பொருளின் மீது செயல்படும் விளைவு விசை ________ ஆக இருக்கும்போது, அப்பொருள் சமன்பட்ட விசைகளின் கீழ் இருப்பதாகக் கூறப்படுகிறது.
+    A) ஒன்று
+    B) பூஜ்ஜியம்
+    C) ஒன்றை விட அதிகம்
+    D) ஒன்றை விட குறைவு ஆனால் பூஜ்ஜியம் அல்ல
+
+47. When a carpet is beaten with a stick, dust particles come out. This is due to:
+    A) Inertia of motion
+    B) Inertia of rest
+    C) Frictional force
+    D) Gravitational force
+
+    ஒரு கம்பளத்தை தடியால் அடிக்கும்போது, தூசி துகள்கள் வெளியேறும். இது எதனால்?
+    A) இயக்க நிலைமம்
+    B) ஓய்வு நிலைமம்
+    C) உராய்வு விசை
+    D) ஈர்ப்பு விசை
+
+48. The force that enables us to walk on the ground is:
+    A) Gravitational force
+    B) Muscular force
+    C) Frictional force
+    D) Normal force
+
+    தரையில் நடக்க நமக்கு உதவும் விசை:
+    A) ஈர்ப்பு விசை
+    B) தசை விசை
+    C) உராய்வு விசை
+    D) செங்குத்து விசை
+
+49. Which type of force is responsible for holding an apple to a tree before it falls?
+    A) Gravitational force (pulling it down)
+    B) Force exerted by the stem (holding it up)
+    C) Frictional force
+    D) Magnetic force
+
+    ஆப்பிள் விழுவதற்கு முன்பு மரத்தில் பிடித்து வைத்திருப்பதற்கு எந்த வகை விசை காரணமாகும்?
+    A) ஈர்ப்பு விசை (கீழே இழுப்பது)
+    B) தண்டு செலுத்தும் விசை (மேலே பிடித்து வைத்திருப்பது)
+    C) உராய்வு விசை
+    D) காந்த விசை
+
+50. The product of mass and velocity is known as:
+    A) Force
+    B) Impulse
+    C) Momentum
+    D) Work
+
+    நிறை மற்றும் திசைவேகத்தின் பெருக்கற்பலன் இவ்வாறு அறியப்படுகிறது:
+    A) விசை
+    B) கணத்தாக்கு விசை
+    C) உந்தம்
+    D) வேலை
+
+---
+**Answers (விடைகள்)**
+
+**Assertion and Reason (கூற்று மற்றும் காரணம்)**
+1.  A
+2.  A
+3.  A
+4.  B (Both are true statements, but R is not the explanation for A)
+5.  A
+6.  D (A is false - in an ideal scenario without friction, no force is needed. R is true.)
+
+**Wrongly Matched Pairs (தவறாகப் பொருந்திய இணைகள்)**
+7.  C (Frictional force is a contact force / உராய்வு விசை ஒரு தொடு விசை)
+8.  D (Pushing a wall does not change its mass / சுவரைத் தள்ளுவதால் அதன் நிறை மாறாது)
+9.  C (Newton's Third Law is Action-Reaction / நியூட்டனின் மூன்றாம் விதி வினை-எதிர்வினை)
+10. C (Pressure is a scalar quantity / அழுத்தம் ஒரு திசையிலா அளவு)
+11. D (Normal friction is not a standard classification; fluid friction applies to objects in air/liquids / செங்குத்து உராய்வு ஒரு நிலையான வகைப்பாடு அல்ல; பாய்ம உராய்வு காற்று/திரவங்களில் உள்ள பொருட்களுக்கு பொருந்தும்)
+12. C (Iron nails attracted to a magnet is Magnetic force / காந்தத்தால் இரும்பு ஆணிகள் ஈர்க்கப்படுதல் காந்த விசை)
+
+**Match the Following (பொருத்துக)**
+13. A
+14. A
+15. A
+16. A
+17. A
+18. A
+
+**Multiple Choice Questions (சரியான விடையைத் தேர்ந்தெடு)**
+19. D
+20. B
+21. C
+22. C
+23. C
+24. A
+25. B
+26. C
+27. B
+28. C
+29. B
+30. C
+31. C
+32. B
+33. B
+34. C
+35. B
+36. B
+37. C
+38. B
+39. C
+40. C
+41. C
+42. D
+43. B
+44. C (F=ma, so a=F/m. New a' = (2F)/(m/2) = 4(F/m) = 4a)
+45. B
+46. B
+47. B
+48. C
+49. B
+50. C

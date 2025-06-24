@@ -1,0 +1,549 @@
+Environmental Science MCQs for TNPSC Group 4 Level
+
+**1. Assertion and Reason Questions (6 questions)**
+
+**General Options for Assertion and Reason Questions:**
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+e) Both A and R are false.
+
+**கூற்று மற்றும் காரணம் வகை வினாக்களுக்கான பொதுவான விருப்பத்தேர்வுகள்:**
+a) A மற்றும் R இரண்டும் உண்மை, மற்றும் R என்பது A இன் சரியான விளக்கம்.
+b) A மற்றும் R இரண்டும் உண்மை, ஆனால் R என்பது A இன் சரியான விளக்கம் அல்ல.
+c) A உண்மை, ஆனால் R தவறு.
+d) A தவறு, ஆனால் R உண்மை.
+e) A மற்றும் R இரண்டும் தவறு.
+
+---
+
+1.
+**Assertion (A):** Deforestation leads to soil erosion.
+**Reason (R):** Tree roots bind the soil particles together.
+
+**கூற்று (A):** காடழிப்பு மண் அரிப்புக்கு வழிவகுக்கிறது.
+**காரணம் (R):** மரத்தின் வேர்கள் மண் துகள்களை ஒன்றாக பிணைக்கின்றன.
+Answer: a
+
+2.
+**Assertion (A):** The use of CFCs has been widely reduced.
+**Reason (R):** CFCs cause depletion of the ozone layer.
+
+**கூற்று (A):** CFC-களின் பயன்பாடு பெருமளவில் குறைக்கப்பட்டுள்ளது.
+**காரணம் (R):** CFC-கள் ஓசோன் படல சிதைவை ஏற்படுத்துகின்றன.
+Answer: a
+
+3.
+**Assertion (A):** Eutrophication leads to an increase in aquatic biodiversity.
+**Reason (R):** Eutrophication is caused by excess nutrients in water bodies, leading to algal blooms.
+
+**கூற்று (A):** மிகைஊட்டநிலை (Eutrophication) நீர்வாழ் பல்லுயிர் பெருக்கத்திற்கு வழிவகுக்கிறது.
+**காரணம் (R):** நீர்நிலைகளில் அதிகப்படியான ஊட்டச்சத்துக்கள் இருப்பதால் மிகைஊட்டநிலை ஏற்படுகிறது, இது பாசிப் பெருக்கத்திற்கு வழிவகுக்கிறது.
+Answer: d
+
+4.
+**Assertion (A):** Renewable energy sources are considered sustainable for long-term use.
+**Reason (R):** They are replenished naturally over a relatively short period.
+
+**கூற்று (A):** புதுப்பிக்கத்தக்க ஆற்றல் மூலங்கள் நீண்ட கால பயன்பாட்டிற்கு நீடித்தவையாக கருதப்படுகின்றன.
+**காரணம் (R):** அவை ஒப்பீட்டளவில் குறுகிய காலத்தில் இயற்கையாகவே நிரப்பப்படுகின்றன.
+Answer: a
+
+5.
+**Assertion (A):** Acid rain damages historical monuments.
+**Reason (R):** Acid rain contains pollutants like sulfur dioxide and nitrogen oxides which react with marble.
+
+**கூற்று (A):** அமில மழை வரலாற்று சின்னங்களை சேதப்படுத்துகிறது.
+**காரணம் (R):** அமில மழையில் கந்தக டை ஆக்சைடு மற்றும் நைட்ரஜன் ஆக்சைடுகள் போன்ற மாசுபடுத்திகள் உள்ளன, அவை பளிங்குக்கற்களுடன் வினைபுரிகின்றன.
+Answer: a
+
+6.
+**Assertion (A):** Planting more trees can help reduce global warming.
+**Reason (R):** Trees release oxygen during photosynthesis.
+
+**கூற்று (A):** அதிக மரங்களை நடுவதால் புவி வெப்பமடைதலைக் குறைக்க உதவும்.
+**காரணம் (R):** மரங்கள் ஒளிச்சேர்க்கையின் போது ஆக்ஸிஜனை வெளியிடுகின்றன.
+Answer: b (While true that trees release oxygen, the primary reason they reduce global warming is by absorbing CO2, a greenhouse gas.)
+
+---
+
+**2. Identify the Wrongly Matched Pair Questions (6 questions)**
+
+7.
+**English:** Identify the wrongly matched pair:
+    a) Bhopal Gas Tragedy - Methyl Isocyanate
+    b) Minamata Disease - Mercury
+    c) Itai-Itai Disease - Lead
+    d) Blue Baby Syndrome - Nitrates
+**Tamil:** தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) போபால் விஷவாயு சோகம் - மெத்தில் ஐசோசயனேட்
+    b) மினமாட்டா நோய் - பாதரசம்
+    c) இடாய்-இடாய் நோய் - ஈயம்
+    d) நீலக்குழந்தை நோய் - நைட்ரேட்டுகள்
+Answer: c (Corrected match: Itai-Itai Disease - Cadmium / இடாய்-இடாய் நோய் - காட்மியம்)
+
+8.
+**English:** Identify the wrongly matched pair:
+    a) Kyoto Protocol - Climate Change
+    b) Montreal Protocol - Ozone Layer Protection
+    c) Ramsar Convention - Wetland Conservation
+    d) Stockholm Convention - Biodiversity Conservation
+**Tamil:** தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) கியோட்டோ நெறிமுறை - காலநிலை மாற்றம்
+    b) மாண்ட்ரியல் நெறிமுறை - ஓசோன் படல பாதுகாப்பு
+    c) ராம்சர் சாசனம் - ஈரநிலப் பாதுகாப்பு
+    d) ஸ்டாக்ஹோம் சாசனம் - பல்லுயிர் பாதுகாப்பு
+Answer: d (Corrected match: Stockholm Convention - Persistent Organic Pollutants / ஸ்டாக்ஹோம் சாசனம் - நிலைத்த கரிம மாசுபடுத்திகள்)
+
+9.
+**English:** Identify the wrongly matched pair:
+    a) Chipko Movement - Tree Conservation
+    b) Appiko Movement - Forest Conservation
+    c) Narmada Bachao Andolan - Dam Construction Opposition
+    d) Silent Valley Movement - Air Pollution Control
+**Tamil:** தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) சிப்கோ இயக்கம் - மரப் பாதுகாப்பு
+    b) அப்பிக்கோ இயக்கம் - வனப் பாதுகாப்பு
+    c) நர்மதா பச்சாவ் அந்தோலன் - அணை கட்டுமான எதிர்ப்பு
+    d) அமைதிப் பள்ளத்தாக்கு இயக்கம் - காற்று மாசுக் கட்டுப்பாடு
+Answer: d (Corrected match: Silent Valley Movement - Forest Conservation / அமைதிப் பள்ளத்தாக்கு இயக்கம் - வனப் பாதுகாப்பு)
+
+10.
+**English:** Identify the wrongly matched pair:
+    a) National Park - In-situ conservation
+    b) Botanical Garden - Ex-situ conservation
+    c) Wildlife Sanctuary - Ex-situ conservation
+    d) Biosphere Reserve - In-situ conservation
+**Tamil:** தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) தேசியப் பூங்கா - உள்ளிடப் பாதுகாப்பு
+    b) தாவரவியல் பூங்கா - வெளிச் சூழல் பாதுகாப்பு
+    c) வனவிலங்கு சரணாலயம் - வெளிச் சூழல் பாதுகாப்பு
+    d) உயிர்க்கோளக் காப்பகம் - உள்ளிடப் பாதுகாப்பு
+Answer: c (Corrected match: Wildlife Sanctuary - In-situ conservation / வனவிலங்கு சரணாலயம் - உள்ளிடப் பாதுகாப்பு)
+
+11.
+**English:** Identify the wrongly matched pair:
+    a) Air Pollutant - Carbon Monoxide
+    b) Water Pollutant - Arsenic
+    c) Soil Pollutant - Pesticides
+    d) Noise Pollutant - Methane
+**Tamil:** தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) காற்று மாசுபடுத்தி - கார்பன் மோனாக்சைடு
+    b) நீர் மாசுபடுத்தி - ஆர்சனிக்
+    c) மண் மாசுபடுத்தி - பூச்சிக்கொல்லிகள்
+    d) ஒலி மாசுபடுத்தி - மீத்தேன்
+Answer: d (Corrected match: Noise Pollutant - Loud Sounds / ஒலி மாசுபடுத்தி - உரத்த ஒலிகள்)
+
+12.
+**English:** Identify the wrongly matched pair:
+    a) World Environment Day - June 5th
+    b) Earth Day - April 22nd
+    c) World Water Day - March 22nd
+    d) World Ozone Day - October 16th
+**Tamil:** தவறாகப் பொருத்தப்பட்ட இணையைக் கண்டறியவும்:
+    a) உலக சுற்றுச்சூழல் தினம் - ஜூன் 5
+    b) புவி தினம் - ஏப்ரல் 22
+    c) உலக நீர் தினம் - மார்ச் 22
+    d) உலக ஓசோன் தினம் - அக்டோபர் 16
+Answer: d (Corrected match: World Ozone Day - September 16th / உலக ஓசோன் தினம் - செப்டம்பர் 16)
+
+---
+
+**3. Match the Following Questions (6 questions)**
+
+13.
+**English:**
+List-I (Pollutant) List-II (Effect)
+1. Carbon Monoxide a. Ozone depletion
+2. Sulphur Dioxide b. Global warming
+3. Chlorofluorocarbons c. Acid rain
+4. Carbon Dioxide d. Reduces oxygen carrying capacity of blood
+
+Options:
+A) 1-d, 2-c, 3-a, 4-b
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-d, 3-a, 4-c
+D) 1-c, 2-a, 3-d, 4-b
+
+**Tamil:**
+பட்டியல்-I (மாசுபடுத்தி) பட்டியல்-II (விளைவு)
+1. கார்பன் மோனாக்சைடு a. ஓசோன் சிதைவு
+2. கந்தக டை ஆக்சைடு b. புவி வெப்பமடைதல்
+3. குளோரோபுளோரோகார்பன்கள் c. அமில மழை
+4. கார்பன் டை ஆக்சைடு d. இரத்தத்தின் ஆக்ஸிஜன் எடுத்துச் செல்லும் திறனைக் குறைக்கிறது
+
+விருப்பத்தேர்வுகள்:
+A) 1-d, 2-c, 3-a, 4-b
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-d, 3-a, 4-c
+D) 1-c, 2-a, 3-d, 4-b
+Answer: A
+
+14.
+**English:**
+List-I (Environmental Movement) List-II (Associated Person/State)
+1. Chipko Movement a. Medha Patkar
+2. Narmada Bachao Andolan b. Sunderlal Bahuguna
+3. Appiko Movement c. Kerala
+4. Silent Valley Movement d. Pandurang Hegde
+
+Options:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-d, 2-c, 3-b, 4-a
+D) 1-c, 2-d, 3-a, 4-b
+
+**Tamil:**
+பட்டியல்-I (சுற்றுச்சூழல் இயக்கம்) பட்டியல்-II (தொடர்புடைய நபர்/மாநிலம்)
+1. சிப்கோ இயக்கம் a. மேதா பட்கர்
+2. நர்மதா பச்சாவ் அந்தோலன் b. சுந்தர்லால் பகுகுணா
+3. அப்பிக்கோ இயக்கம் c. கேரளா
+4. அமைதிப் பள்ளத்தாக்கு இயக்கம் d. பாண்டுரங் ஹெக்டே
+
+விருப்பத்தேர்வுகள்:
+A) 1-a, 2-b, 3-c, 4-d
+B) 1-b, 2-a, 3-d, 4-c
+C) 1-d, 2-c, 3-b, 4-a
+D) 1-c, 2-d, 3-a, 4-b
+Answer: B
+
+15.
+**English:**
+List-I (Type of Resource) List-II (Example)
+1. Renewable Resource a. Coal
+2. Non-Renewable Resource b. Forests
+3. Biotic Resource c. Sunlight
+4. Abiotic Resource d. Rocks
+
+Options:
+A) 1-c, 2-a, 3-b, 4-d
+B) 1-a, 2-c, 3-d, 4-b
+C) 1-b, 2-d, 3-a, 4-c
+D) 1-d, 2-b, 3-c, 4-a
+
+**Tamil:**
+பட்டியல்-I (வளத்தின் வகை) பட்டியல்-II (எடுத்துக்காட்டு)
+1. புதுப்பிக்கத்தக்க வளம் a. நிலக்கரி
+2. புதுப்பிக்க இயலாத வளம் b. காடுகள்
+3. உயிரி வளம் c. சூரிய ஒளி
+4. உயிரற்ற வளம் d. பாறைகள்
+
+விருப்பத்தேர்வுகள்:
+A) 1-c, 2-a, 3-b, 4-d
+B) 1-a, 2-c, 3-d, 4-b
+C) 1-b, 2-d, 3-a, 4-c
+D) 1-d, 2-b, 3-c, 4-a
+Answer: A
+
+16.
+**English:**
+List-I (Protected Area) List-II (Primary Focus)
+1. National Park a. Conservation of specific species
+2. Wildlife Sanctuary b. Conservation of overall biodiversity and genetic resources
+3. Biosphere Reserve c. Protection of flora, fauna, and historical objects
+4. Zoological Park d. Ex-situ conservation and public education
+
+Options:
+A) 1-b, 2-c, 3-a, 4-d
+B) 1-c, 2-a, 3-b, 4-d
+C) 1-a, 2-b, 3-d, 4-c
+D) 1-d, 2-a, 3-c, 4-b
+
+**Tamil:**
+பட்டியல்-I (பாதுகாக்கப்பட்ட பகுதி) பட்டியல்-II (முதன்மை நோக்கம்)
+1. தேசியப் பூங்கா a. குறிப்பிட்ட உயிரினங்களின் பாதுகாப்பு
+2. வனவிலங்கு சரணாலயம் b. ஒட்டுமொத்த பல்லுயிர் மற்றும் மரபணு வளங்களின் பாதுகாப்பு
+3. உயிர்க்கோளக் காப்பகம் c. தாவரங்கள், விலங்கினங்கள் மற்றும் வரலாற்றுப் பொருட்களின் பாதுகாப்பு
+4. விலங்கியல் பூங்கா d. வெளிச் சூழல் பாதுகாப்பு மற்றும் பொதுக் கல்வி
+
+விருப்பத்தேர்வுகள்:
+A) 1-b, 2-c, 3-a, 4-d
+B) 1-c, 2-a, 3-b, 4-d (Note: National Park is c, Wildlife Sanctuary is a, Biosphere is b, Zoological park is d)
+C) 1-a, 2-b, 3-d, 4-c
+D) 1-d, 2-a, 3-c, 4-b
+Answer: B
+
+17.
+**English:**
+List-I (Greenhouse Gas) List-II (Source)
+1. Carbon Dioxide a. Refrigerants, aerosols
+2. Methane b. Combustion of fossil fuels, deforestation
+3. Nitrous Oxide c. Agricultural activities, biomass burning
+4. Chlorofluorocarbons (CFCs) d. Wetlands, livestock, natural gas leaks
+
+Options:
+A) 1-d, 2-c, 3-a, 4-b
+B) 1-b, 2-d, 3-c, 4-a
+C) 1-c, 2-a, 3-d, 4-b
+D) 1-a, 2-b, 3-c, 4-d
+
+**Tamil:**
+பட்டியல்-I (பசுமைக்குடில் வாயு) பட்டியல்-II (மூலம்)
+1. கார்பன் டை ஆக்சைடு a. குளிரூட்டிகள், ஏரோசோல்கள்
+2. மீத்தேன் b. புதைபடிவ எரிபொருட்களை எரித்தல், காடழிப்பு
+3. நைட்ரஸ் ஆக்சைடு c. விவசாய நடவடிக்கைகள், உயிர்ப் பொருட்களை எரித்தல்
+4. குளோரோபுளோரோகார்பன்கள் (CFCs) d. சதுப்பு நிலங்கள், கால்நடைகள், இயற்கை எரிவாயு கசிவுகள்
+
+விருப்பத்தேர்வுகள்:
+A) 1-d, 2-c, 3-a, 4-b
+B) 1-b, 2-d, 3-c, 4-a
+C) 1-c, 2-a, 3-d, 4-b
+D) 1-a, 2-b, 3-c, 4-d
+Answer: B
+
+18.
+**English:**
+List-I (Disease) List-II (Causative Pollutant)
+1. Minamata a. Cadmium
+2. Itai-Itai b. Nitrate
+3. Blue Baby Syndrome c. Fluoride
+4. Skeletal Fluorosis d. Mercury
+
+Options:
+A) 1-d, 2-a, 3-b, 4-c
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-c, 3-d, 4-a
+D) 1-c, 2-d, 3-a, 4-b
+
+**Tamil:**
+பட்டியல்-I (நோய்) பட்டியல்-II (காரணமான மாசுபடுத்தி)
+1. மினமாட்டா a. காட்மியம்
+2. இடாய்-இடாய் b. நைட்ரேட்
+3. நீலக்குழந்தை நோய் c. புளோரைடு
+4. எலும்பு புளோரோசிஸ் d. பாதரசம்
+
+விருப்பத்தேர்வுகள்:
+A) 1-d, 2-a, 3-b, 4-c
+B) 1-a, 2-b, 3-c, 4-d
+C) 1-b, 2-c, 3-d, 4-a
+D) 1-c, 2-d, 3-a, 4-b
+Answer: A
+
+---
+
+**4. Standard Multiple Choice Questions (32 questions)**
+
+19.
+**English:** Which of the following is a primary producer in a terrestrial ecosystem?
+    a) Snake b) Grasshopper c) Green plants d) Fungus
+**Tamil:** நிலப்பரப்பு சூழ்நிலை மண்டலத்தில் முதன்மை உற்பத்தியாளர் எது?
+    a) பாம்பு b) வெட்டுக்கிளி c) பசுந்தாவரங்கள் d) பூஞ்சை
+Answer: c
+
+20.
+**English:** The main cause of ozone layer depletion is:
+    a) Carbon dioxide b) Sulphur dioxide c) Chlorofluorocarbons d) Methane
+**Tamil:** ஓசோன் படல சிதைவுக்கு முக்கிய காரணம்:
+    a) கார்பன் டை ஆக்சைடு b) கந்தக டை ஆக்சைடு c) குளோரோபுளோரோகார்பன்கள் d) மீத்தேன்
+Answer: c
+
+21.
+**English:** Which of the following is a biodegradable pollutant?
+    a) Plastic b) DDT c) Sewage d) Heavy metals
+**Tamil:** பின்வருவனவற்றில் எது மக்கும் தன்மையுடைய மாசுபடுத்தி?
+    a) பிளாஸ்டிக் b) டி.டி.டீ c) கழிவுநீர் d) கன உலோகங்கள்
+Answer: c
+
+22.
+**English:** The term "Ecology" was coined by:
+    a) A.G. Tansley b) Ernst Haeckel c) Charles Darwin d) E.P. Odum
+**Tamil:** "சூழலியல்" (Ecology) என்ற சொல்லை உருவாக்கியவர்:
+    a) ஏ.ஜி. டான்ஸ்லி b) எர்ன்ஸ்ட் ஹேக்கல் c) சார்லஸ் டார்வின் d) ஈ.பி. ஓடம்
+Answer: b
+
+23.
+**English:** What is the main component of Biogas?
+    a) Methane b) Ethane c) Propane d) Butane
+**Tamil:** உயிர்வாயுவின் (Biogas) முக்கிய கூறு என்ன?
+    a) மீத்தேன் b) ஈத்தேன் c) புரோபேன் d) பியூட்டேன்
+Answer: a
+
+24.
+**English:** The Chipko movement was primarily aimed at:
+    a) Water conservation b) Soil conservation c) Forest conservation d) Air pollution control
+**Tamil:** சிப்கோ இயக்கம் முதன்மையாக எதை நோக்கமாகக் கொண்டது?
+    a) நீர் பாதுகாப்பு b) மண் பாதுகாப்பு c) வனப் பாதுகாப்பு d) காற்று மாசுக் கட்டுப்பாடு
+Answer: c
+
+25.
+**English:** Which of the following is NOT a greenhouse gas?
+    a) Carbon dioxide b) Methane c) Nitrous oxide d) Oxygen
+**Tamil:** பின்வருவனவற்றில் எது பசுமைக்குடில் வாயு அல்ல?
+    a) கார்பன் டை ஆக்சைடு b) மீத்தேன் c) நைட்ரஸ் ஆக்சைடு d) ஆக்ஸிஜன்
+Answer: d
+
+26.
+**English:** BOD stands for:
+    a) Biological Oxygen Demand b) Biochemical Oxygen Demand c) Biotic Oxygen Demand d) Bacterial Oxygen Demand
+**Tamil:** BOD என்பதன் விரிவாக்கம்:
+    a) உயிரியல் ஆக்ஸிஜன் தேவை b) உயிர்வேதிய ஆக்சிஜன் தேவை c) உயிரி ஆக்ஸிஜன் தேவை d) பாக்டீரியல் ஆக்ஸிஜன் தேவை
+Answer: b
+
+27.
+**English:** The transition zone between two ecosystems is called:
+    a) Ecotone b) Ecotype c) Niche d) Biome
+**Tamil:** இரண்டு சூழ்நிலை மண்டலங்களுக்கு இடையிலான இடைநிலை மண்டலம் இவ்வாறு அழைக்கப்படுகிறது:
+    a) சூழல்நிலை இடைப்பகுதி (Ecotone) b) சூழல் வகை (Ecotype) c) சூழல்நிலை வாழ்ிடம் (Niche) d) பாயம் (Biome)
+Answer: a
+
+28.
+**English:** The largest ecosystem on Earth is:
+    a) Forest ecosystem b) Grassland ecosystem c) Marine ecosystem d) Desert ecosystem
+**Tamil:** பூமியில் உள்ள மிகப்பெரிய சூழ்நிலை மண்டலம்:
+    a) காட்டு சூழ்நிலை மண்டலம் b) புல்வெளி சூழ்நிலை மண்டலம் c) கடல் சூழ்நிலை மண்டலம் d) பாலைவன சூழ்நிலை மண்டலம்
+Answer: c
+
+29.
+**English:** "Silent Spring" a book that highlighted the dangers of pesticides, was written by:
+    a) Rachel Carson b) Wangari Maathai c) Medha Patkar d) Arundhati Roy
+**Tamil:** பூச்சிக்கொல்லிகளின் அபாயங்களை எடுத்துரைத்த "அமைதியான வசந்தம்" (Silent Spring) என்ற புத்தகத்தை எழுதியவர்:
+    a) ரேச்சல் கார்சன் b) வாங்கரி மாதாய் c) மேதா பட்கர் d) அருந்ததி ராய்
+Answer: a
+
+30.
+**English:** Which of the following is an example of ex-situ conservation?
+    a) National Park b) Wildlife Sanctuary c) Seed Bank d) Biosphere Reserve
+**Tamil:** பின்வருவனவற்றில் எது வெளிச் சூழல் பாதுகாப்பிற்கு (ex-situ conservation) ஒரு எடுத்துக்காட்டு?
+    a) தேசியப் பூங்கா b) வனவிலங்கு சரணாலயம் c) விதை வங்கி d) உயிர்க்கோளக் காப்பகம்
+Answer: c
+
+31.
+**English:** The phenomenon of "Acid Rain" is primarily caused by the atmospheric presence of:
+    a) Ozone and Methane b) Carbon dioxide and Carbon monoxide c) Sulphur dioxide and Nitrogen oxides d) CFCs and HFCs
+**Tamil:** "அமில மழை" நிகழ்வு முதன்மையாக வளிமண்டலத்தில் எதன் இருப்பு காரணமாக ஏற்படுகிறது?
+    a) ஓசோன் மற்றும் மீத்தேன் b) கார்பன் டை ஆக்சைடு மற்றும் கார்பன் மோனாக்சைடு c) கந்தக டை ஆக்சைடு மற்றும் நைட்ரஜன் ஆக்சைடுகள் d) CFC-கள் மற்றும் HFC-கள்
+Answer: c
+
+32.
+**English:** The "Three R's" for waste management are:
+    a) Reduce, Reuse, Recycle b) Read, Reorganize, Rewrite c) Remove, Repair, Restore d) Resist, React, Reform
+**Tamil:** கழிவு மேலாண்மைக்கான "மூன்று R-கள்" எவை?
+    a) குறைத்தல், மீண்டும் பயன்படுத்துதல், மறுசுழற்சி செய்தல் b) படித்தல், மறுசீரமைத்தல், மீண்டும் எழுதுதல் c) அகற்றுதல், சரிசெய்தல், மீட்டெடுத்தல் d) எதிர்த்தல், வினைபுரிதல், சீர்திருத்துதல்
+Answer: a
+
+33.
+**English:** Which of these is a non-renewable source of energy?
+    a) Solar energy b) Wind energy c) Coal d) Tidal energy
+**Tamil:** இவற்றில் எது புதுப்பிக்க இயலாத ஆற்றல் மூலம்?
+    a) சூரிய ஆற்றல் b) காற்று ஆற்றல் c) நிலக்கரி d) ஓத ஆற்றல்
+Answer: c
+
+34.
+**English:** The functional role of an organism in its environment is called its:
+    a) Habitat b) Niche c) Ecotone d) Population
+**Tamil:** ஒரு உயிரினத்தின் சூழலில் அதன் செயல்பாட்டுப் பங்கு இவ்வாறு அழைக்கப்படுகிறது:
+    a) வாழிடம் (Habitat) b) சூழல்நிலை வாழ்ிடம் (Niche) c) சூழல்நிலை இடைப்பகுதி (Ecotone) d) உயிர்த்தொகை (Population)
+Answer: b
+
+35.
+**English:** Minamata disease is caused by poisoning with:
+    a) Lead b) Mercury c) Arsenic d) Cadmium
+**Tamil:** மினமாட்டா நோய் எதனால் ஏற்படும் நச்சுத்தன்மையால் ஏற்படுகிறது?
+    a) ஈயம் b) பாதரசம் c) ஆர்சனிக் d) காட்மியம்
+Answer: b
+
+36.
+**English:** The Montreal Protocol is related to the:
+    a) Protection of ozone layer b) Reduction of greenhouse gas emissions c) Conservation of biodiversity d) Control of transboundary movement of hazardous wastes
+**Tamil:** மாண்ட்ரியல் நெறிமுறை எதனுடன் தொடர்புடையது?
+    a) ஓசோன் படலப் பாதுகாப்பு b) பசுமைக்குடில் வாயு வெளியேற்றத்தைக் குறைத்தல் c) பல்லுயிர் பாதுகாப்பு d) அபாயகரமான கழிவுகளின் எல்லை தாண்டிய இயக்கத்தைக் கட்டுப்படுத்துதல்
+Answer: a
+
+37.
+**English:** The study of interrelationship between living organisms and their environment is known as:
+    a) Ethology b) Ecology c) Entomology d) Euphenics
+**Tamil:** வாழும் உயிரினங்களுக்கும் அவற்றின் சூழலுக்கும் இடையிலான தொடர்பைப் பற்றிய ஆய்வு இவ்வாறு அறியப்படுகிறது:
+    a) விலங்கு நடத்தையியல் (Ethology) b) சூழலியல் (Ecology) c) பூச்சியியல் (Entomology) d) நற்பண்பியல் (Euphenics)
+Answer: b
+
+38.
+**English:** Which gas is responsible for the Bhopal Gas Tragedy?
+    a) Methyl Isocyanate (MIC) b) Phosgene c) Carbon Monoxide d) Sulphur Dioxide
+**Tamil:** போபால் விஷவாயு சோகத்திற்கு காரணமான வாயு எது?
+    a) மெத்தில் ஐசோசயனேட் (MIC) b) பாஸ்ஜீன் c) கார்பன் மோனாக்சைடு d) கந்தக டை ஆக்சைடு
+Answer: a
+
+39.
+**English:** The primary source of energy in most ecosystems is:
+    a) Geothermal energy b) Chemical energy c) Solar energy d) Wind energy
+**Tamil:** பெரும்பாலான சூழ்நிலை மண்டலங்களில் ஆற்றலின் முதன்மை மூலம்:
+    a) புவிவெப்ப ஆற்றல் b) வேதி ஆற்றல் c) சூரிய ஆற்றல் d) காற்று ஆற்றல்
+Answer: c
+
+40.
+**English:** A food web consists of:
+    a) A single food chain b) Interconnected food chains c) Only producers and consumers d) Only decomposers
+**Tamil:** உணவு வலை என்பது:
+    a) ஒரு ஒற்றை உணவுச் சங்கிலி b) ஒன்றோடொன்று இணைக்கப்பட்ட உணவுச் சங்கிலிகள் c) உற்பத்தியாளர்கள் மற்றும் நுகர்வோர் மட்டும் d) சிதைப்பவைகள் மட்டும்
+Answer: b
+
+41.
+**English:** Deforestation generally decreases:
+    a) Soil erosion b) Global warming c) Rainfall d) Drought
+**Tamil:** காடழிப்பு பொதுவாக எதைக் குறைக்கிறது?
+    a) மண் அரிப்பு b) புவி வெப்பமடைதல் c) மழைப்பொழிவு d) வறட்சி
+Answer: c
+
+42.
+**English:** Which of the following is a major cause of water-borne diseases?
+    a) Air pollution b) Soil pollution c) Contaminated water d) Noise pollution
+**Tamil:** பின்வருவனவற்றில் நீரினால் பரவும் நோய்களுக்கு முக்கிய காரணம் எது?
+    a) காற்று மாசுபாடு b) மண் மாசுபாடு c) அசுத்தமான நீர் d) ஒலி மாசுபாடு
+Answer: c
+
+43.
+**English:** The Taj Mahal is being affected by:
+    a) Noise pollution b) Water pollution c) Air pollution (Acid rain) d) Soil pollution
+**Tamil:** தாஜ்மஹால் எதனால் பாதிக்கப்படுகிறது?
+    a) ஒலி மாசுபாடு b) நீர் மாசுபாடு c) காற்று மாசுபாடு (அமில மழை) d) மண் மாசுபாடு
+Answer: c
+
+44.
+**English:** What is the main purpose of a wildlife sanctuary?
+    a) Tourism b) Research c) Protection of specific animal species d) Timber production
+**Tamil:** வனவிலங்கு சரணாலயத்தின் முக்கிய நோக்கம் என்ன?
+    a) சுற்றுலா b) ஆராய்ச்சி c) குறிப்பிட்ட விலங்கு இனங்களின் பாதுகாப்பு d) மரக்கட்டை உற்பத்தி
+Answer: c
+
+45.
+**English:** The layer of atmosphere closest to the Earth's surface is:
+    a) Stratosphere b) Mesosphere c) Troposphere d) Thermosphere
+**Tamil:** பூமியின் மேற்பரப்புக்கு மிக அருகில் உள்ள வளிமண்டல அடுக்கு:
+    a) அடுக்கு மண்டலம் (Stratosphere) b) இடை மண்டலம் (Mesosphere) c) கீழ் அடுக்கு (Troposphere) d) வெப்ப மண்டலம் (Thermosphere)
+Answer: c
+
+46.
+**English:** The process of converting waste materials into new materials and objects is called:
+    a) Incineration b) Landfilling c) Composting d) Recycling
+**Tamil:** கழிவுப் பொருட்களை புதிய பொருட்களாகவும் பொருள்களாகவும் மாற்றும் செயல்முறை இவ்வாறு அழைக்கப்படுகிறது:
+    a) எரித்துச் சாம்பலாக்குதல் b) நிலத்தில் நிரப்புதல் c) உரமாக்குதல் d) மறுசுழற்சி
+Answer: d
+
+47.
+**English:** Which of the following is an example of a man-made ecosystem?
+    a) Forest b) Pond c) Aquarium d) Grassland
+**Tamil:** பின்வருவனவற்றில் எது மனிதனால் உருவாக்கப்பட்ட சூழ்நிலை மண்டலத்திற்கு எடுத்துக்காட்டு?
+    a) காடு b) குளம் c) மீன் தொட்டி (Aquarium) d) புல்வெளி
+Answer: c
+
+48.
+**English:** The World Environment Day is celebrated on:
+    a) June 5th b) July 5th c) April 22nd d) March 21st
+**Tamil:** உலக சுற்றுச்சூழல் தினம் எப்போது கொண்டாடப்படுகிறது?
+    a) ஜூன் 5 b) ஜூலை 5 c) ஏப்ரல் 22 d) மார்ச் 21
+Answer: a
+
+49.
+**English:** Green Muffler scheme is related to the reduction of:
+    a) Air pollution b) Water pollution c) Noise pollution d) Soil pollution
+**Tamil:** பசுமை ஒலித்தடுப்பான் (Green Muffler) திட்டம் எதைக் குறைப்பதுடன் தொடர்புடையது?
+    a) காற்று மாசுபாடு b) நீர் மாசுபாடு c) ஒலி மாசுபாடு d) மண் மாசுபாடு
+Answer: c
+
+50.
+**English:** The main air pollutant in metropolitan cities is:
+    a) CO2 b) SO2 c) CO (Carbon Monoxide) d) O3 (Ozone)
+**Tamil:** பெருநகரங்களில் முக்கிய காற்று மாசுபடுத்தி எது?
+    a) CO2 b) SO2 c) CO (கார்பன் மோனாக்சைடு) d) O3 (ஓசோன்)
+Answer: c

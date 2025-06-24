@@ -1,0 +1,485 @@
+**TNPSC Group 4 Style Questions: General Scientific Laws in Motion**
+
+**Assertion and Reason (Questions 1-6)**
+
+**Instructions:**
+A. Both A and R are true, and R is the correct explanation of A.
+B. Both A and R are true, but R is not the correct explanation of A.
+C. A is true, but R is false.
+D. A is false, but R is true.
+E. Both A and R are false.
+
+1.
+Assertion (A): A passenger in a moving bus tends to fall forward when the bus suddenly stops.
+Reason (R): The passenger's upper body continues to be in a state of motion due to inertia of motion.
+கூற்று (A): ஓடும் பேருந்தில் உள்ள பயணி பேருந்து திடீரென நின்றால் முன்னோக்கி விழ முனைகிறார்.
+காரணம் (R): பயணிகளின் மேல் உடல் இயக்க நிலைமம் காரணமாக இயக்க நிலையிலேயே தொடர்கிறது.
+   Answer: A
+
+2.
+Assertion (A): Newton's third law of motion is applicable to both bodies in a pair of interacting bodies.
+Reason (R): The forces of action and reaction always act on the same body.
+கூற்று (A): நியூட்டனின் மூன்றாம் இயக்க விதி ஒரு ஜோடி ஊடாடும் பொருட்களின் இரு பொருட்களுக்கும் பொருந்தும்.
+காரணம் (R): செயல் மற்றும் எதிர்ச்செயல் விசைகள் எப்போதும் ஒரே பொருளின் மீது செயல்படுகின்றன.
+   Answer: C
+
+3.
+Assertion (A): The total momentum of an isolated system of interacting particles is conserved.
+Reason (R): The law of conservation of momentum is a consequence of Newton's second and third laws.
+கூற்று (A): ஊடாடும் துகள்களின் ஒரு தனிமைப்படுத்தப்பட்ட அமைப்பின் மொத்த உந்தம் பாதுகாக்கப்படுகிறது.
+காரணம் (R): உந்த அழிவின்மை விதி நியூட்டனின் இரண்டாம் மற்றும் மூன்றாம் விதிகளின் விளைவாகும்.
+   Answer: A
+
+4.
+Assertion (A): Work done by gravitational force on a body moving along a closed loop is zero.
+Reason (R): Gravitational force is a conservative force.
+கூற்று (A): ஒரு மூடிய வளையத்தில் நகரும் ஒரு பொருளின் மீது ஈர்ப்பு விசையால் செய்யப்படும் வேலை பூஜ்ஜியமாகும்.
+காரணம் (R): ஈர்ப்பு விசை ஒரு ஆற்றல் மாற்றா விசையாகும்.
+   Answer: A
+
+5.
+Assertion (A): A rocket works on the principle of conservation of linear momentum.
+Reason (R): For a system with no external force, the linear momentum remains constant.
+கூற்று (A): ராக்கெட் நேர்கோட்டு உந்த அழிவின்மை தத்துவத்தின் அடிப்படையில் செயல்படுகிறது.
+காரணம் (R): புறவிசை ஏதும் செயல்படாத அமைப்பிற்கு, நேர்கோட்டு உந்தம் மாறாமல் இருக்கும்.
+   Answer: A
+
+6.
+Assertion (A): Kepler's second law states that a planet sweeps out equal areas in equal intervals of time.
+Reason (R): This is due to the conservation of angular momentum of the planet around the Sun.
+கூற்று (A): கெப்லரின் இரண்டாம் விதி ஒரு கிரகம் சம கால இடைவெளிகளில் சம பரப்பளவுகளை கடக்கிறது என்று கூறுகிறது.
+காரணம் (R): இது சூரியனைச் சுற்றியுள்ள கிரகத்தின் கோண உந்தம் பாதுகாக்கப்படுவதால் ஏற்படுகிறது.
+   Answer: A
+
+**Wrongly Matched Pairs (Questions 7-12)**
+
+7. Identify the wrongly matched pair:
+   தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியவும்:
+   A. Inertia of rest - A book on a table / ஓய்வு நிலைமம் - மேசையில் உள்ள புத்தகம்
+   B. Inertia of motion - An athlete running a short distance after crossing the finish line / இயக்க நிலைமம் - ஒரு தடகள வீரர் இறுதிக் கோட்டைக் கடந்த பிறகும் சிறிது தூரம் ஓடுவது
+   C. Inertia of direction - Mud flying off a rotating wheel tangentially / திசை நிலைமம் - சுழலும் சக்கரத்திலிருந்து சேறு தொடுகோட்டுத் திசையில் சிதறுவது
+   D. Newton's First Law - F = ma / நியூட்டனின் முதல் விதி - F = ma
+   Answer: D (Newton's First Law is the law of inertia; F=ma is Newton's Second Law)
+
+8. Identify the wrongly matched pair regarding units:
+   அலகுகள் தொடர்பான தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியவும்:
+   A. Force - Newton / விசை - நியூட்டன்
+   B. Work - Joule / வேலை - ஜூல்
+   C. Power - Watt / திறன் - வாட்
+   D. Momentum - Newton-second / உந்தம் - நியூட்டன்-வினாடி
+   Answer: D (Momentum is kg m/s. Newton-second is Impulse, which is change in momentum)
+
+9. Identify the wrongly matched pair:
+   தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியவும்:
+   A. Law of Gravitation - Isaac Newton / ஈர்ப்பு விதி - ஐசக் நியூட்டன்
+   B. Laws of Planetary Motion - Johannes Kepler / கோள் இயக்க விதிகள் - ஜோகன்னஸ் கெப்லர்
+   C. Principle of Buoyancy - Archimedes / மிதப்புத் தத்துவம் - ஆர்க்கிமிடிஸ்
+   D. Theory of Relativity - Galileo Galilei / சார்பியல் கோட்பாடு - கலிலியோ கலிலி
+   Answer: D (Theory of Relativity - Albert Einstein)
+
+10. Identify the wrongly matched pair concerning energy transformation:
+    ஆற்றல் மாற்றம் தொடர்பான தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியவும்:
+    A. Electric motor - Electrical energy to Mechanical energy / மின் மோட்டார் - மின் ஆற்றல் இயந்திர ஆற்றலாக
+    B. Generator - Mechanical energy to Electrical energy / மின்னாக்கி - இயந்திர ஆற்றல் மின் ஆற்றலாக
+    C. Photosynthesis - Light energy to Chemical energy / ஒளிச்சேர்க்கை - ஒளி ஆற்றல் வேதி ஆற்றலாக
+    D. Loudspeaker - Sound energy to Electrical energy / ஒலிபெருக்கி - ஒலி ஆற்றல் மின் ஆற்றலாக
+    Answer: D (Loudspeaker - Electrical energy to Sound energy)
+
+11. Identify the wrongly matched pair of physical quantity and its nature:
+    இயற்பியல் அளவு மற்றும் அதன் தன்மை குறித்த தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியவும்:
+    A. Distance - Scalar quantity / தொலைவு - ஸ்கேலார் அளவு
+    B. Displacement - Vector quantity / இடப்பெயர்ச்சி - வெக்டார் அளவு
+    C. Speed - Vector quantity / வேகம் - வெக்டார் அளவு
+    D. Acceleration - Vector quantity / முடுக்கம் - வெக்டார் அளவு
+    Answer: C (Speed is a scalar quantity; Velocity is a vector quantity)
+
+12. Identify the wrongly matched pair regarding types of forces:
+    விசைகளின் வகைகள் தொடர்பான தவறாகப் பொருந்தப்பட்ட இணையைக் கண்டறியவும்:
+    A. Frictional force - Opposes motion / உராய்வு விசை - இயக்கத்தை எதிர்க்கிறது
+    B. Gravitational force - Always attractive / ஈர்ப்பு விசை - எப்போதும் கவர்ச்சி விசை
+    C. Centripetal force - Acts away from the center of circular path / மையநோக்கு விசை - வட்டப் பாதையின் மையத்திலிருந்து விலகிச் செயல்படுகிறது
+    D. Nuclear force - Strongest force in nature / அணுக்கரு விசை - இயற்கையில் வலிமையான விசை
+    Answer: C (Centripetal force acts towards the center of the circular path)
+
+**Match the Following (Questions 13-18)**
+
+**Instructions:** Match List I with List II and select the correct answer using the codes given below.
+பட்டியல் I ஐ பட்டியல் II உடன் பொருத்தி, கீழே கொடுக்கப்பட்டுள்ள குறியீடுகளைப் பயன்படுத்தி சரியான பதிலைத் தேர்ந்தெடுக்கவும்.
+
+13.
+List I / பட்டியல் I (Law/Principle / விதி/கோட்பாடு)
+   1. Newton's First Law / நியூட்டனின் முதல் விதி
+   2. Newton's Second Law / நியூட்டனின் இரண்டாம் விதி
+   3. Newton's Third Law / நியூட்டனின் மூன்றாம் விதி
+   4. Law of Conservation of Momentum / உந்த அழிவின்மை விதி
+
+List II / பட்டியல் II (Concept / கருத்து)
+   a. For every action, there is an equal and opposite reaction / ஒவ்வொரு வினைக்கும் சமமான மற்றும் எதிர் வினை உண்டு
+   b. F = ma
+   c. Inertia / நிலைமம்
+   d. Total momentum before collision equals total momentum after collision / மோதலுக்கு முந்தைய மொத்த உந்தம் மோதலுக்குப் பிந்தைய மொத்த உந்தத்திற்கு சமம்
+
+   Codes / குறியீடுகள்:
+   A) 1-c, 2-b, 3-a, 4-d
+   B) 1-b, 2-c, 3-d, 4-a
+   C) 1-c, 2-a, 3-b, 4-d
+   D) 1-d, 2-b, 3-a, 4-c
+   Answer: A
+
+14.
+List I / பட்டியல் I (Physical Quantity / இயற்பியல் அளவு)
+   1. Work / வேலை
+   2. Power / திறன்
+   3. Energy / ஆற்றல்
+   4. Force / விசை
+
+List II / பட்டியல் II (Unit / அலகு)
+   a. Watt / வாட்
+   b. Newton / நியூட்டன்
+   c. Joule / ஜூல்
+   d. Joule / ஜூல் (also)
+
+   Codes / குறியீடுகள்:
+   A) 1-c, 2-a, 3-d, 4-b
+   B) 1-b, 2-a, 3-c, 4-d
+   C) 1-c, 2-d, 3-a, 4-b
+   D) 1-d, 2-c, 3-b, 4-a
+   Answer: A (Note: Work and Energy share the same unit, Joule)
+
+15.
+List I / பட்டியல் I (Scientist / விஞ்ஞானி)
+   1. Isaac Newton / ஐசக் நியூட்டன்
+   2. Albert Einstein / ஆல்பர்ட் ஐன்ஸ்டீன்
+   3. Johannes Kepler / ஜோகன்னஸ் கெப்லர்
+   4. Galileo Galilei / கலிலியோ கலிலி
+
+List II / பட்டியல் II (Contribution / பங்களிப்பு)
+   a. Laws of Planetary Motion / கோள் இயக்க விதிகள்
+   b. Law of Inertia, Telescope observations / நிலைம விதி, தொலைநோக்கி ஆய்வுகள்
+   c. Laws of Motion, Universal Gravitation / இயக்க விதிகள், பொது ஈர்ப்பியல்
+   d. Theory of Relativity / சார்பியல் கோட்பாடு
+
+   Codes / குறியீடுகள்:
+   A) 1-c, 2-d, 3-a, 4-b
+   B) 1-b, 2-a, 3-d, 4-c
+   C) 1-c, 2-a, 3-b, 4-d
+   D) 1-d, 2-c, 3-a, 4-b
+   Answer: A
+
+16.
+List I / பட்டியல் I (Type of Energy / ஆற்றல் வகை)
+   1. Kinetic Energy / இயக்க ஆற்றல்
+   2. Potential Energy / நிலை ஆற்றல்
+   3. Chemical Energy / வேதி ஆற்றல்
+   4. Sound Energy / ஒலி ஆற்றல்
+
+List II / பட்டியல் II (Example / உதாரணம்)
+   a. Stored in a stretched bow / இழுக்கப்பட்ட வில்லில் சேமிக்கப்பட்டது
+   b. Produced by a vibrating drum / அதிர்வுறும் மேளத்தால் உற்பத்தி செய்யப்படுகிறது
+   c. Energy of a moving car / நகரும் காரின் ஆற்றல்
+   d. Stored in a battery / மின்கலத்தில் சேமிக்கப்பட்டது
+
+   Codes / குறியீடுகள்:
+   A) 1-c, 2-a, 3-d, 4-b
+   B) 1-a, 2-c, 3-b, 4-d
+   C) 1-c, 2-d, 3-a, 4-b
+   D) 1-b, 2-a, 3-d, 4-c
+   Answer: A
+
+17.
+List I / பட்டியல் I (Motion Type / இயக்க வகை)
+   1. Linear Motion / நேர்கோட்டு இயக்கம்
+   2. Circular Motion / வட்ட இயக்கம்
+   3. Oscillatory Motion / அலைவு இயக்கம்
+   4. Random Motion / ஒழுங்கற்ற இயக்கம்
+
+List II / பட்டியல் II (Example / உதாரணம்)
+   a. Motion of a simple pendulum / தனி ஊசலின் இயக்கம்
+   b. A car moving on a straight road / நேரான சாலையில் செல்லும் கார்
+   c. Motion of a butterfly / வண்ணத்துப்பூச்சியின் இயக்கம்
+   d. An athlete running on a circular track / வட்டப் பாதையில் ஓடும் தடகள வீரர்
+
+   Codes / குறியீடுகள்:
+   A) 1-b, 2-d, 3-a, 4-c
+   B) 1-d, 2-b, 3-c, 4-a
+   C) 1-b, 2-a, 3-d, 4-c
+   D) 1-c, 2-d, 3-a, 4-b
+   Answer: A
+
+18.
+List I / பட்டியல் I (Lever Class / நெம்புகோல் வகை)
+   1. Class 1 Lever / முதல் வகை நெம்புகோல்
+   2. Class 2 Lever / இரண்டாம் வகை நெம்புகோல்
+   3. Class 3 Lever / மூன்றாம் வகை நெம்புகோல்
+   4. Inclined Plane / சாய்தளம்
+
+List II / பட்டியல் II (Example / உதாரணம்)
+   a. Forceps / இடுக்கி
+   b. Seesaw / சீசா (ஊஞ்சல் பலகை)
+   c. Ramp / சரிவுப்பாதை
+   d. Nutcracker / பாக்குவெட்டி
+
+   Codes / குறியீடுகள்:
+   A) 1-b, 2-d, 3-a, 4-c
+   B) 1-a, 2-b, 3-d, 4-c
+   C) 1-b, 2-a, 3-c, 4-d
+   D) 1-d, 2-c, 3-b, 4-a
+   Answer: A
+
+**Multiple Choice Questions (Questions 19-50)**
+
+19. The S.I. unit of force is __________.
+    விசையின் S.I அலகு __________.
+    A. Joule / ஜூல்
+    B. Watt / வாட்
+    C. Newton / நியூட்டன்
+    D. Pascal / பாஸ்கல்
+    Answer: C
+
+20. "For every action, there is an equal and opposite reaction." This is Newton's __________.
+    "ஒவ்வொரு வினைக்கும் சமமான மற்றும் எதிர் வினை உண்டு." இது நியூட்டனின் __________.
+    A. First Law / முதல் விதி
+    B. Second Law / இரண்டாம் விதி
+    C. Third Law / மூன்றாம் விதி
+    D. Law of Gravitation / ஈர்ப்பு விதி
+    Answer: C
+
+21. The tendency of a body to resist any change in its state of rest or uniform motion is called __________.
+    ஒரு பொருள் தனது ஓய்வு நிலை அல்லது சீரான இயக்க நிலையில் ஏற்படும் எந்த மாற்றத்தையும் எதிர்க்கும் பண்பு __________ எனப்படும்.
+    A. Momentum / உந்தம்
+    B. Force / விசை
+    C. Inertia / நிலைமம்
+    D. Pressure / அழுத்தம்
+    Answer: C
+
+22. The product of mass and velocity of a body is known as __________.
+    ஒரு பொருளின் நிறை மற்றும் திசைவேகத்தின் பெருக்கற்பலன் __________ என அழைக்கப்படுகிறது.
+    A. Force / விசை
+    B. Impulse / கணத்தாக்கு
+    C. Momentum / உந்தம்
+    D. Work / வேலை
+    Answer: C
+
+23. The rate of change of momentum of a body is directly proportional to the __________.
+    ஒரு பொருளின் உந்தம் மாறுபடும் வீதம் __________ க்கு நேர்விகிதத்தில் இருக்கும்.
+    A. Applied force / செலுத்தப்பட்ட விசை
+    B. Kinetic energy / இயக்க ஆற்றல்
+    C. Potential energy / நிலை ஆற்றல்
+    D. Power / திறன்
+    Answer: A
+
+24. A cricketer pulls his hands backwards while catching a fast cricket ball. This action helps to __________.
+    ஒரு கிரிக்கெட் வீரர் வேகமாக வரும் கிரிக்கெட் பந்தைப் பிடிக்கும்போது கைகளை பின்னோக்கி இழுக்கிறார். இந்த செயல் __________ க்கு உதவுகிறது.
+    A. Increase the force exerted by the ball / பந்தினால் செலுத்தப்படும் விசையை அதிகரிக்க
+    B. Decrease the rate of change of momentum / உந்தம் மாறுபடும் வீதத்தைக் குறைக்க
+    C. Increase the rate of change of momentum / உந்தம் மாறுபடும் வீதத்தை அதிகரிக்க
+    D. Keep the momentum constant / உந்தத்தை மாறாமல் வைத்திருக்க
+    Answer: B (By increasing time, force is reduced, F = Δp/Δt)
+
+25. The energy possessed by a body due to its motion is called __________.
+    ஒரு பொருள் தனது இயக்கத்தின் காரணமாக பெற்றுள்ள ஆற்றல் __________ எனப்படும்.
+    A. Potential energy / நிலை ஆற்றல்
+    B. Kinetic energy / இயக்க ஆற்றல்
+    C. Chemical energy / வேதி ஆற்றல்
+    D. Heat energy / வெப்ப ஆற்றல்
+    Answer: B
+
+26. Which of the following is a vector quantity?
+    பின்வருவனவற்றில் எது வெக்டார் அளவு?
+    A. Speed / வேகம்
+    B. Distance / தொலைவு
+    C. Mass / நிறை
+    D. Velocity / திசைவேகம்
+    Answer: D
+
+27. The working principle of a rocket is based on __________.
+    ராக்கெட்டின் செயல்பாட்டுக் கொள்கை __________ அடிப்படையாகக் கொண்டது.
+    A. Newton's First Law / நியூட்டனின் முதல் விதி
+    B. Newton's Second Law / நியூட்டனின் இரண்டாம் விதி
+    C. Newton's Third Law and Law of Conservation of Momentum / நியூட்டனின் மூன்றாம் விதி மற்றும் உந்த அழிவின்மை விதி
+    D. Law of Conservation of Energy / ஆற்றல் அழிவின்மை விதி
+    Answer: C
+
+28. One horsepower (1 HP) is equal to approximately __________.
+    ஒரு குதிரைத்திறன் (1 HP) என்பது தோராயமாக __________ க்கு சமம்.
+    A. 746 Watts / 746 வாட்ஸ்
+    B. 1000 Watts / 1000 வாட்ஸ்
+    C. 550 Watts / 550 வாட்ஸ்
+    D. 346 Watts / 346 வாட்ஸ்
+    Answer: A
+
+29. The law that gives the definition of force is __________.
+    விசையின் வரையறையைத் தரும் விதி __________.
+    A. Newton's First Law of Motion / நியூட்டனின் முதல் இயக்க விதி
+    B. Newton's Second Law of Motion / நியூட்டனின் இரண்டாம் இயக்க விதி
+    C. Newton's Third Law of Motion / நியூட்டனின் மூன்றாம் இயக்க விதி
+    D. Newton's Law of Gravitation / நியூட்டனின் ஈர்ப்பு விதி
+    Answer: A (Defines force as that which changes or tends to change the state of rest or motion)
+
+30. If a body covers equal distances in equal intervals of time, it is said to be in __________.
+    ஒரு பொருள் சம கால இடைவெளிகளில் சம தொலைவுகளைக் கடந்தால், அது __________ இல் இருப்பதாகக் கூறப்படுகிறது.
+    A. Uniform acceleration / சீரான முடுக்கம்
+    B. Non-uniform motion / சீரற்ற இயக்கம்
+    C. Uniform motion / சீரான இயக்கம்
+    D. Rest / ஓய்வு
+    Answer: C
+
+31. The value of acceleration due to gravity (g) is maximum at __________.
+    புவியீர்ப்பு முடுக்கத்தின் (g) மதிப்பு __________ இல் பெருமமாக இருக்கும்.
+    A. The Equator / பூமத்திய ரேகை
+    B. The Poles / துருவங்கள்
+    C. The center of the Earth / பூமியின் மையம்
+    D. An altitude of 100 km / 100 கி.மீ உயரத்தில்
+    Answer: B
+
+32. When a car takes a turn on a level road, the necessary centripetal force is provided by __________.
+    ஒரு கார் சமதள சாலையில் வளையும்போது, தேவையான மையநோக்கு விசையை __________ வழங்குகிறது.
+    A. Gravitational force / ஈர்ப்பு விசை
+    B. Frictional force between tyres and road / டயர்களுக்கும் சாலைக்கும் இடையிலான உராய்வு விசை
+    C. Normal reaction / சாதாரண எதிர்வினை
+    D. Engine of the car / காரின் இயந்திரம்
+    Answer: B
+
+33. The motion of a planet around the Sun is an example of motion governed by __________.
+    சூரியனைச் சுற்றும் ஒரு கிரகத்தின் இயக்கம் __________ ஆல் நிர்வகிக்கப்படும் இயக்கத்திற்கு ஒரு எடுத்துக்காட்டு.
+    A. Electromagnetic force / மின்காந்த விசை
+    B. Nuclear force / அணுக்கரு விசை
+    C. Gravitational force / ஈர்ப்பு விசை
+    D. Frictional force / உராய்வு விசை
+    Answer: C
+
+34. The S.I. unit of momentum is __________.
+    உந்தத்தின் S.I அலகு __________.
+    A. kg m/s²
+    B. kg m/s
+    C. N m
+    D. N/s
+    Answer: B
+
+35. What type of energy is stored in the spring of a watch?
+    கடிகாரத்தின் சுருள்வில்லில் எந்த வகை ஆற்றல் சேமிக்கப்படுகிறது?
+    A. Kinetic energy / இயக்க ஆற்றல்
+    B. Potential energy / நிலை ஆற்றல்
+    C. Chemical energy / வேதி ஆற்றல்
+    D. Electrical energy / மின் ஆற்றல்
+    Answer: B (Elastic potential energy)
+
+36. "Law of Inertia" is another name for Newton's __________.
+    "நிலைம விதி" என்பது நியூட்டனின் __________ க்கான மற்றொரு பெயர்.
+    A. First Law of Motion / முதல் இயக்க விதி
+    B. Second Law of Motion / இரண்டாம் இயக்க விதி
+    C. Third Law of Motion / மூன்றாம் இயக்க விதி
+    D. Law of Cooling / குளிர்ச்சி விதி
+    Answer: A
+
+37. The path of a projectile is a __________.
+    எறியப்பட்ட பொருளின் பாதை ஒரு __________.
+    A. Straight line / நேர் கோடு
+    B. Circle / வட்டம்
+    C. Parabola / பரவளையம்
+    D. Ellipse / நீள்வட்டம்
+    Answer: C
+
+38. If the velocity of a body is doubled, its kinetic energy __________.
+    ஒரு பொருளின் திசைவேகம் இரட்டிப்பாக்கப்பட்டால், அதன் இயக்க ஆற்றல் __________.
+    A. Becomes half / பாதியாகிறது
+    B. Becomes double / இரட்டிப்பாகிறது
+    C. Becomes four times / நான்கு மடங்காகிறது
+    D. Remains unchanged / மாறாமல் இருக்கிறது
+    Answer: C (KE = 1/2 mv²)
+
+39. Which of the following physical quantities remains constant when a planet revolves around the Sun in an elliptical orbit?
+    ஒரு கிரகம் சூரியனை நீள்வட்டப் பாதையில் சுற்றும்போது பின்வரும் எந்த இயற்பியல் அளவு மாறாமல் இருக்கும்?
+    A. Linear velocity / நேர்கோட்டு திசைவேகம்
+    B. Angular velocity / கோண திசைவேகம்
+    C. Angular momentum / கோண உந்தம்
+    D. Kinetic energy / இயக்க ஆற்றல்
+    Answer: C (This is related to Kepler's Second Law)
+
+40. The force required to maintain a body in uniform circular motion is known as __________.
+    ஒரு பொருளை சீரான வட்ட இயக்கத்தில் வைத்திருக்கத் தேவையான விசை __________ என அழைக்கப்படுகிறது.
+    A. Centrifugal force / மையவிலக்கு விசை
+    B. Centripetal force / மையநோக்கு விசை
+    C. Gravitational force / ஈர்ப்பு விசை
+    D. Frictional force / உராய்வு விசை
+    Answer: B
+
+41. The unit of Work in CGS system is __________.
+    CGS அமைப்பில் வேலையின் அலகு __________.
+    A. Dyne / டைன்
+    B. Erg / எர்க்
+    C. Joule / ஜூல்
+    D. Watt / வாட்
+    Answer: B
+
+42. When milk is churned, cream separates due to __________.
+    பால் கடையப்படும்போது, வெண்ணெய் பிரிந்து வருவது __________ காரணமாகும்.
+    A. Centripetal force / மையநோக்கு விசை
+    B. Centrifugal force / மையவிலக்கு விசை
+    C. Frictional force / உராய்வு விசை
+    D. Gravitational force / ஈர்ப்பு விசை
+    Answer: B
+
+43. An object weighs most in __________.
+    ஒரு பொருள் __________ இல் அதிக எடை கொண்டது.
+    A. Air / காற்று
+    B. Water / நீர்
+    C. Vacuum / வெற்றிடம்
+    D. Hydrogen / ஹைட்ரஜன்
+    Answer: C (Due to absence of buoyant force)
+
+44. What is the S.I. unit of Power?
+    திறனின் S.I. அலகு என்ன?
+    A. Joule / ஜூல்
+    B. Newton / நியூட்டன்
+    C. Watt / வாட்
+    D. Pascal / பாஸ்கல்
+    Answer: C
+
+45. Kepler's first law states that planets move in __________.
+    கெப்லரின் முதல் விதி கிரகங்கள் __________ இல் நகர்கின்றன என்று கூறுகிறது.
+    A. Circular orbits with the Sun at the center / சூரியனை மையமாகக் கொண்ட வட்டப் பாதைகளில்
+    B. Elliptical orbits with the Sun at one of the foci / சூரியன் ஒரு குவியத்தில் இருக்கும் நீள்வட்டப் பாதைகளில்
+    C. Parabolic paths / பரவளையப் பாதைகளில்
+    D. Hyperbolic paths / அதிபரவளையப் பாதைகளில்
+    Answer: B
+
+46. If no external force acts on a system, its __________ remains constant.
+    ஒரு அமைப்பின் மீது புறவிசை எதுவும் செயல்படவில்லை என்றால், அதன் __________ மாறாமல் இருக்கும்.
+    A. Velocity / திசைவேகம்
+    B. Acceleration / முடுக்கம்
+    C. Momentum / உந்தம்
+    D. Displacement / இடப்பெயர்ச்சி
+    Answer: C (Law of conservation of momentum)
+
+47. The work done is zero if the angle between force and displacement is __________.
+    விசைக்கும் இடப்பெயர்ச்சிக்கும் இடையிலான கோணம் __________ ஆக இருந்தால் செய்யப்படும் வேலை பூஜ்ஜியமாகும்.
+    A. 0°
+    B. 45°
+    C. 90°
+    D. 180°
+    Answer: C (W = Fd cosθ, cos90° = 0)
+
+48. Which of Newton's laws explains the recoil of a gun?
+    துப்பாக்கியின் பின்னுதைவை நியூட்டனின் எந்த விதி விளக்குகிறது?
+    A. First Law / முதல் விதி
+    B. Second Law / இரண்டாம் விதி
+    C. Third Law / மூன்றாம் விதி
+    D. Law of Gravitation / ஈர்ப்பு விதி
+    Answer: C
+
+49. The theory that explains the behavior of matter and energy at extreme large scales and high speeds is __________.
+    மிகப் பெரிய அளவுகளிலும் அதிக வேகங்களிலும் பொருள் மற்றும் ஆற்றலின் நடத்தையை விளக்கும் கோட்பாடு __________.
+    A. Coulomb's Law / கூலம்பின் விதி
+    B. Newton’s Third Law / நியூட்டனின் மூன்றாம் விதி
+    C. Theory of Relativity / சார்பியல் கோட்பாடு
+    D. Theory of Evolution / பரிணாமக் கோட்பாடு
+    Answer: C
+
+50. The rate of doing work is called __________.
+    வேலை செய்யப்படும் வீதம் __________ எனப்படும்.
+    A. Energy / ஆற்றல்
+    B. Power / திறன்
+    C. Force / விசை
+    D. Momentum / உந்தம்
+    Answer: B
